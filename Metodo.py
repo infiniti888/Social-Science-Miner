@@ -1,4 +1,4 @@
-doc_count= 0
+#runfile('C:/Users/isaac/Desktop/TFG/codi Spyder/Metodo.py', wdir='C:/Users/isaac/Desktop/TFG/minicorpus') #només Spyder
 array=[]
 fnames=[]
 with open('0012_miguel_alexander_quintanilla.txt', 'rt', encoding='ISO-8859-1') as a:
@@ -51,10 +51,14 @@ while j < (len(array)):
 from spacy.matcher import PhraseMatcher
 nlp  = spacy.load('es_core_news_sm')
 matcher = PhraseMatcher(nlp.vocab)
-patterns = [nlp.make_doc(name) for name in ['Cualitativa', 'cualitativa', 'Cualitativo', 'cualitativo','Cualitativas', 'cualitativas', 'Cualitativos', 'cualitativos']]
+cuantiGaz = ['Cuantitativa', 'cuantitativa', 'Cuantitativo', 'cuantitativo','Cuantitativas', 'cuantitativas', 'Cuantitativos', 'cuantitativos', 'encuesta', 'encuestas', 'estadística', 'estadísticas', 'estadístico', 'estadísticos', 'hecho', 'hechos', 'test', 'regresión', 'cuestionario', 'cuestionarios', 'datos ' , 'númericos']
+cuanti = ['Cuantitativa', 'cuantitativa', 'Cuantitativo', 'cuantitativo','Cuantitativas', 'cuantitativas', 'Cuantitativos', 'cuantitativos']
+patterns = [nlp.make_doc(name) for name in cuantiGaz]
 matcher.add("Names", None, *patterns)
 matcher2 = PhraseMatcher(nlp.vocab)
-patterns2 = [nlp.make_doc(name) for name in ['Cuantitativa', 'cuantitativa', 'Cuantitativo', 'cuantitativo','Cuantitativas', 'cuantitativas', 'Cuantitativos', 'cuantitativos']]
+cualiGaz = ['Cualitativa', 'cualitativa', 'Cualitativo', 'cualitativo','Cualitativas', 'cualitativas', 'Cualitativos', 'cualitativos', 'entrevista', 'entrevistas', 'entrevistado', 'entrevistados', 'entrevistada', 'entrevistadas', 'sujeto', 'sujetos']
+cuali = ['Cualitativa', 'cualitativa', 'Cualitativo', 'cualitativo','Cualitativas', 'cualitativas', 'Cualitativos', 'cualitativos']
+patterns2 = [nlp.make_doc(name) for name in cualiGaz]
 matcher2.add("Names", None, *patterns2)
 
 
