@@ -1,0 +1,648 @@
+ 
+
+ 
+
+Del aula sin muros al aula virtual: una aproximación a la enseñanza mediada por tecnologías 
+en México 
+ 
+
+ 
+
+ 
+
+José Gilberto Reséndiz Romero 
+
+gilmilenio@hotmail.com con copia para jgresen@ipn.mx 
+
+Instituto Politécnico Nacional Centro de Investigaciones Económicas Administrativas y Sociales.  
+
+México. 
+
+ 
+
+Guillermina Gutiérrez Reséndiz  
+
+gilledifusionene@hotmail.com  
+
+Escuela Normal de Especializaciones. 
+
+México. 
+
+ 
+
+GT 24 Sociología de la Educación y Políticas Educativas.  
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+RESUMEN 
+
+Si  el  sentido  de  la  educación  a  distancia  es  que  el  alumno  logre  la  autogestión  del  conocimiento, 
+esto  se  está  logrando  hoy  en México  y  sino  ¿Cuáles  son  las  principales  barreras  para  lograrlo? Del 
+mismo  modo  que  la  globalización  fue  ideada  por  los  críticos  más  fuertes  del  capitalismo  y  la 
+sociedad  occidental  los  críticos  de  la  comunicación  y  de  la  educación  de  los  años  60´s  y  70´s 
+idearon  el  camino  hacia  la  educación  virtual  al  quererlo  o  no  pues  el  aula  sin  muros  sostiene 
+derribar las barreras ideológicas que se tienen para aprender, sin embargo el uso y abuso de las TIC 
+entrañan  en  sí  un  control  absoluto  que  va  en  contra  de  la  autogestión  del  conocimiento,  esto  es 
+paradójico  pero  revelador  de  la  idea  de  la  educación  virtual  que  no  se  debe  considerar  como  una 
+panacea, existen mitos y realidades que es necesario ir develando una a una. Hoy la globalización  y 
+la  virtualización  de  la  educación  son  elementos  de  la  misma  fórmula  que  tienen  el  común 
+denominador  las  TIC,  el  objetivo  del  presente  es  determinar  el  nexo  entre  dos  principios 
+antagónicos  el  del  aula  sin  muros  de  McLuchann  y  el  del  aula  virtual  para  establecer  los 
+mecanismos y estructuras que la hacen ser una alternativa a la educación.  
+ 
+
+ABSTRACT 
+
+If  the  meaning  of  distance  education  is  that  the  student  achieves  self-management  of  knowledge, 
+this  is  being  achieved  today  in Mexico  and  if  not,  what  are  the main  barriers  to  achieve  it?  In  the 
+same way  that globalization was devised by  the strongest critics of capitalism and Western  society, 
+the critics of communication and education in the 60's and 70's devised the path to virtual education, 
+whether  they  wanted  it  or  not,  since  classroom  without  walls  supports  to  demolish  the  ideological 
+barriers  that  are  had  to  learn,  nevertheless  the  use  and  abuse  of  the  TICs   involve  in  themselves  an 
+absolute  control  that  goes  against  the  self-management  of  the  knowledge,  this  is  paradoxical  but 
+revealing  of  the  idea  and  education  virtual  that  should  not  be  considered  as  a  panacea,  there  are 
+myths and realities that need to go unveiling one by one. Today, globalization and the virtualization 
+of education are  elements of  the same  formula  that have  the common denominator  ICT,  the goal of 
+the  present  is  to  determine  the  link  between  two  antagonistic  principles  of  the  classroom  without 
+walls of McLuchann and the virtual classroom to establish the mechanisms and structures that make 
+it an alternative to education. 
+
+Palabras clave: 
+
+Autogestión del conocimiento, Educación a distancia y Globalización.  
+
+ 
+Keywords: 
+
+Self-management of knowledge, distance education and globalization. 
+
+ 
+
+2 
+
+ 
+
+  
+
+I. Introducción 
+
+La educación virtual o "educación en línea", se refiere al desarrollo de programas de formación que 
+tienen  como  escenario  de  enseñanza  y  aprendizaje  el  ciberespacio.  Tiene  como  objetivo  que  el 
+alumno se haga autogestionario en la adquisición de conocimientos a través del uso de las TIC.  
+
+En otras palabras, la educación virtual hace referencia a que no es necesario que el cuerpo, tiempo y 
+espacio  se  conjuguen  para  lograr  establecer  un  encuentro  de  diálogo  o  experiencia  de  aprendizaje. 
+Sin  que  se  dé  un  encuentro  cara  a  cara  entre  el  profesor  y  el  alumno  es  posible  establecer  una 
+relación  interpersonal  de  carácter  educativo.  Según  Miller  y  Miller  (2000),  se  pueden  identificar 
+cuatro factores que juegan un papel crucial en el futuro de la educación virtual:  
+
+ 
+
+1.  la investigación sobre su efectividad,  
+
+2.  los avances tecnológicos,  
+
+3.  los costes y  
+
+4.  la competencia del mercado,  
+
+5.  y la respuesta a las influencias del mercado. Nos permitimos proponer uno más:  
+
+6.  Formación didáctica que deberá  tener quién está detrás de esos contenidos  `colgados ́ en 
+la Red.  
+
+Las preguntas de investigación que se plantean después de la problemática son: 
+
+  ¿Cuáles son las características de la Educación Virtual en México?  
+
+  ¿Importancia de tomar en cuenta las diferentes galaxias para el estudio del trayecto del 
+pensamiento de McLuhan a la era digital ?  
+
+  ¿Cuáles son las diferencias entre el aula sin muros y la Educación Virtual? 
+
+  ¿Importancia de las TIC en el desarrollo de un cambio de paradigma educativo en las 
+instituciones de Educación Superior? 
+
+  ¿Nuevo modelo o continuidad del modelo anterior con diferentes nombres, actores y 
+consecuencias? 
+
+  ¿Cuál es el papel del docente de frente a los cambios de paradigma y de utilización de 
+las TIC en apoyo y/o sustitución del aula? 
+
+  ¿Cuáles son los conflictos más importantes que se dan en relación a la Educación Virtual?  
+
+  ¿Qué puede solucionar la Educación Virtual en México? 
+
+3 
+
+ 
+
+  ¿Por qué se da en nuestras instituciones una falsa disyuntiva control o desarrollo de la 
+educación? 
+
+  ¿Por qué la Educación Virtual en América Latina se encuentra una encrucijada o da el 
+paso hacia el futuro, o bien simula y da un retroceso en el proceso educativo? 
+
+Después de estas se presentan los objetivos específicos: 
+
+1)  Determinar las características de la Educación Virtual en México.  
+
+2)  Designar  la  importancia  de  tomar  en  cuenta  las  diferentes  galaxias  para  el  estudio  del 
+trayecto del pensamiento de McLuhan a la era digital.   
+
+3)  Establecer las diferencias entre el aula sin muros y la Educación Virtual. 
+
+4)  Precisar la importancia de las TIC en el desarrollo de un cambio de paradigma educativo 
+en las instituciones de Educación Superior. 
+
+5)  Determinar  la  disyuntiva  entre  el Nuevo modelo  o  continuidad  del modelo  anterior  con 
+diferentes nombres, actores y consecuencias. Constructivismo VS Conductivismo. 
+
+6)  Delimitar  el  papel  del  docente  de  frente  a  los  cambios  de  paradigma  y  de  utilización  de 
+las TIC en apoyo y/o sustitución del aula. 
+
+7)  Determinar los conflictos más importantes que se dan en relación a la Educación Virtual. 
+
+8)  Especificar la alternativa de solución en la Educación Virtual en México. 
+
+9)  Aclarar  por  qué  se  da  en  nuestras  instituciones  una  falsa  disyuntiva  control  o  desarrollo 
+de la educación. 
+
+10) Predecir por qué  la Educación Virtual en América Latina se encuentra una encrucijada o 
+da el paso hacia el futuro, o bien simula y da un retroceso en el proceso educativo. 
+
+Objetivo  
+
+El objetivo del presente trabajo es analizar el pensamiento de McLuhan a la luz de los retos y 
+perspectivas que tiene la Educación Virtual en México para aprovechar las TIC como parte de 
+una herramienta para hacer autogestivo al alumno en la  adquisición de concocimientos. 
+
+Caracterización de la educación virtual en México 
+
+Las  instituciones donde  tienen  su  origen  esto  son: UNAM  (1972 Educación  a Distancia  y 1992 
+CUAED);  U.  de  G.  (1989  Educación  a  Distancia  1990  crece);  IPN  (1974  Sistema  Abierto  y 
+1995 Educación a distancia) y el ITESM (1989 Educación interactiva). Actualmente hay más de 
+21 universidades ofertando programas a distancia. 
+
+El  modelo  pedagógico  tradicional  privilegia  a  la  educación  bancaria,  el  profesor  brinda 
+información que el  estudiante sujeto pasivo  acumula. La  relación de  estos  actores  en  el proceso 
+de  enseñanza-aprendizaje  se  realiza  solamente  en  un  lugar  y  horario  específico.  En  cuanto  a  la 
+
+4 
+
+ 
+
+educación  virtual  teóricamente  el  esquema  cambia,  pues  su  paradigma  educativo,  también 
+conocido  como  el  paradigma  moderno  de  la  educación,  propone  que  los  educadores  deben  ser 
+facilitadores  y  coordinadores pues ellos no poseen exclusivamente el conocimiento,  sino que  se 
+puede  adquirir  también  a  través  de  otras  fuentes,  otros  educadores  y  otros  educandos.  Los 
+estudiantes se convierten en sujetos activos y constructores de su propio conocimiento. 
+
+En  México,  hasta  febrero  de  2004,  la  oferta  de  programas  de  educación  superior  que 
+incorporaron  Internet  explícitamente  para  programas  de  educación  a  distancia,  estaba 
+concentrada  en  20  organizaciones  culturales  y  educativas:  16  universidades  e  institutos 
+tecnológicos, 1 escuela y 3 centros culturales. 29 De estas organizaciones, diez estaban ubicadas 
+en  la  región metropolitana  del Distrito  Federal;  tres  en  la  región Noreste  30  del  país;  tres  en  la 
+región  Centro-Sur;  31  tres  en  la  región  Sur-Sureste,  32  y  una  en  la  región  Noroeste.  33  En  la 
+región Centro-Occidente 34 no había ninguna. El 55% de  estas organizaciones  eran de  carácter 
+público,  y  el  45%  eran  de  índole  particular.  La  oferta  de  educación  superior  en  línea  estaba 
+conformada por 312 programas, que tenían la siguiente distribución:  
+
+Especializaciones, diplomados y cursos: 90% 
+
+Maestrías: 9% 
+
+Licenciaturas: 7% 
+
+Doctorados: 3% 
+
+Esta investigación es parte de una investigación en curso 
+
+ 
+
+II. Marco teórico/marco conceptual 
+
+Marshall McLuhan  y  la  aldea  global  un  adelanto  de  lo  que  pasara  en  la  comunicación  en 
+la era de la globalizaciòn. 
+
+ 
+
+McLuhan  sostiene  que  la Aldea Global  es  cuando  la  tierra  se  convirtió  en  una  especie  de  aldea 
+de enormes dimensiones gracias a la televisión, la radio y otros medios. Los aldeanos del mundo 
+del Siglo XX se podían enterar de lo que pasaba en otra parte de la tierra (ejemplo los mundiales 
+de Futbol,  la  llegada del  hombre  a  la  Luna  etc.,). Entonces  al  humanidad  entera  funciona  como 
+una  aldea, pero  en  forma  cada vez más  amplia donde  llega  la  electricidad  y  donde  los  aldeanos 
+poseen radio y TV.  
+
+McLuhan  hablaba  de  esto  en  un  contexto  donde  la  posibilidad  de  constituir  la  Ciudad  de  la 
+Tierra, es una tarea para los artistas y los técnicos capaces de dominar aquellos caballos salvajes 
+de la cultura tecnológica. Reflexionemos que el desarrollo tecnológico en los últimos 50 años ha 
+sido  revolucionario  para  la  sociedad  y  ha  afectado  la  vida  cotidiana  de  aquellos  individuos  que 
+han tenido acceso a ella, pero la idea primero y la realidad después de la aldea global, producida 
+por  la  malla  sin  costuras  de  la  tecnología  eléctrica,  una  gran  red  globalizada  que  es  una 
+necesidad  sine  qua  non  para  la  red  de  redes:  internet  no  tiene  como  atributos  la  uniformidad  ni 
+
+5 
+
+ 
+
+la  tranquilidad.  En  su  obra  Guerra  y  paz  en  la  aldea  global,  McLuhan  la   caracteriza  como  un 
+conjunto  de  sociedades  enteras  que  se  intercomunican  por  una  especie  de  ‘gesticulación  
+macroscópica’  y  una  condición  necesaria  para  la  globalización  fue  la  interconexión  entre 
+individuos de todo el mundo, de sociedad y de mercados.  
+
+La  existencia  de  la  aldea  global  constituía  para  McLuhan  un  hecho  empírico,  gustase  o  no: 
+globalifóbicos  vs  globalifílicos,  separado  por  una  gran  brecha  digital,  el  señalo  algún  día  no 
+apruebo  la  Aldea  Global,  dijo  simplemente  que  vivimos  en  ella  McLuhan  (1967)  citado  por 
+(López-Escobar, 2000), nosotros debemos como los sociólogos iniciales que trataron de explicar 
+los efectos sociales  tanto de  la Revolución  Industrial en  lo  económico y  la Revolución Francesa 
+en  lo  Político,  hoy  debemos  estudiar  los  efectos  de  la Globalización  es  su  sentido  económico  y 
+los  efectos  del Neoliberalismo  en  lo  político que  en  ambos  llevan  a una definición  de posición, 
+que  tarde  o  temprano  nos  lleva  a  estar  de  algún  lado  de  las  contradicciones:  su  agudización  o 
+superación. 
+
+El desarrollo de esta aldea global modificó al ser humano en su esencia, aquellos que tenían esta 
+infraestructura,  ya  que  alteró  desde  su  manera  de  comunicarse  hasta  la  organización  social,  es 
+un cambio cultural.  
+
+El peso de las cuestiones simbólicas puede tener más valor que las reales. Un ejemplo de esto es 
+que  una  guerra,  que  debe  ganarse  en  los  medios  de  comunicación  para  que  la  sociedad  sepa  y 
+comprenda que se obtuvo un triunfo. 
+
+La  Aldea  Global  supone,  de  este  modo,  la  desaparición  de  las  distancias  físicas  para  generar 
+conocimientos y  las fronteras físicas e  ideológicas, supone que en medio de mucha  información 
+el medio selecciona que debe de informar. 
+
+La Aldea Global permitió que un chiste que se generó en  la cosa Este de EU pasara en 72 horas 
+a  la  costa  Oeste,  en  los  años  setenta,  esto  hoy  en  día  gracias  a  internet,  conectividad  y  la 
+popularidad  de  las  redes  sociales,  entre  otras  cosas  hacen  que  un  chiste,  noticia,  evento  sea 
+trasmitido  en  tiempo  real  a millones  de  ciudadanos  y  no  solamente  de  la  costa  Este  a  la Oeste, 
+sino mundialmente. 
+
+Por  otro  lado,  esto  es  para  la  comunicación  hegemónica  como  aquella  que  es  subalterna, 
+alternativa  y  contestataria, de  tal  suerte que para  la  estructura de poder  sucede que  se  convierte 
+esta Aldea Global en una suerte de camisa de fuerza para el poder, porque debe delimitar lo que 
+hacia  en  los  70`s  y  80`s  en  la  comunicación,  claro  esto  se  amalgama  con  el  control  social  una 
+lanza  de  doble  filo  como  herramienta  para  la  estructura  del  poder  pero  también  para  los 
+movimientos sociales, de ir atemperando y reduciendo los abusos de la estructura de poder. 
+
+La autogestión del conocimiento 
+
+La autogestión en educación atraviesa por diferentes aristas: Entre el nuevo modelo pedagógico 
+propuesto  por  nuestras  instituciones  y  la  inercia  pedagógica  de  repetir  las  formas  y  contenidos 
+que  enseñaron  nuestros  maestros,  aquí  la  idea  es  formar  un  nueva  praxis  pedagógica  que  no 
+responda a las directrices de la burocracia de nuestras instituciones ni tampoco repita lo de otras 
+
+6 
+
+ 
+
+generaciones  que  innove,  investigue  y  se  situé  en  una  dinámica  de  acción   de  las 
+transformaciones que necesita los problemas del día de hoy, 
+
+Otra  arista  por  la  que  pasa  es  evaluación  crítica  de  las  experiencias  autogestoras  que  se  han 
+suscitado  en nuestra  institución,  en nuestra  región,  en  el  país  en  el  continente  y  en  el mundo  en 
+diferentes terrenos de la vida social y en diferentes momentos históricos (UNESCO, 1981). 
+
+Otra arista es el uso de  las TIC como mediación para generar en el alumno otro  tipo de relación 
+con  el  profesor, más  igualitaria, más  horizontal,  y  donde  el  profesor  se  convierta  en  facilitador 
+del conocimiento a través del uso de las TIC, en sus diferentes manifestaciones. 
+
+El  uso  de  herramientas  diferentes  que  conlleven  una  modificación  cognitiva,  metacognitiva, 
+epistemológica y metodológica   
+
+La  autogestión  no  es  una  preocupación  generalizada  en  nuestras  instituciones  y  no  es 
+intercambiable  por  las  diferentes  etapas  de  ella  como  son:  responsabilidad,  heteronomía 
+autodeterminación, libertad, autonomía, responsabilidad, compromiso y autoformación, 
+
+Los  anteriores  son  elementos  que  se deben de  tomar  en  cuenta  en  la  educación  a distancia para 
+crear  un  sistema  operativo  que  permita  resolver  los  conflictos  que  toda  tarea  humana  se 
+presentan. 
+
+El cumulo de experiencias de  intervención en  los grupos de aprendizaje debe de ser algo que se 
+debe de tomar en cuenta, todas ellas valoradas con respecto y con una perspectiva de futuro.  
+
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+  
+
+ 
+
+III. Metodología 
+
+Este trabajo de baso en la Triangulación Metodológica. 
+
+La triangulación metodológica es el uso de múltiples métodos y técnicas para explicar el mismo 
+objeto  de  estudio,  de  tal  suerte  que  se  considera  con  (Denzin,  1989)  que  es  la  combinación  de 
+dos  o  más  teorías,  métodos  y  técnicas  de  recolección  de  datos,  la  Triangulación  Metodológica  
+tiene  su  origen  en  la  estrategia  militar  y  de  navegación  que  a  su  vez  tiene  su  base  en  la 
+geometría  que  para  obtener  la  posición  de  un  tercer  punto  conociendo  dos  los  puede  calcular, 
+para las ciencias sociales se llega a solventar el falso paradigmas entre el análisis cuantitativo vs 
+análisis cualitativo. 
+
+Si  la  realidad  social  es  múltiple  y  se  encuentra  mutuamente  conectada  pensamos  que  esta 
+Triangulación metodológica es una alternativa para las ciencias sociales, donde lo importante es 
+la resolución del objetivo. 
+
+Las técnicas de recolección de datos son: 
+
+Análisis  de  contenido  de  los  textos  McLuchan,  de  la  Gestión  del  Conocimiento  y  de  la 
+Educación a Distancia. 
+
+Entrevistas a especialistas. 
+
+Y  Cronología  de  los  hechos  más  importantes  de  la  Comunicación,  Internet  y  la  Educación  a 
+Distancia.  
+
+IV. Análisis y discusión de datos 
+
+ 
+
+En  México  un  ejemplo  de  ello  fueron  los  movimientos  #yosoy132  de  la  Universidad 
+Iberoamericana  (Estudiantes  de  la  Universidad  Iberoamericana,  2012)  y  lo  vuelven  a  reeditar 
+para  las  elecciones  (Yo  Soy  132,  2012)  que  cuestiono  fuertemente  al  entonces  candidato 
+presidencial que gozaba de los favores de las televisoras, es en sí un fenómeno comunicativo, de 
+la  misma  manera  el  movimiento  #yosoypolítecnico  con  el  primer  video  semejante  de  los 
+estudiantes de  la  ibero  titulado ¿Qué está pasando en el politécnico  (Estudiantes del  IPN, 2014) 
+que lo contestaron en menos de 48 horas con una manifestación masiva a quien los calificaba de 
+algunos infiltrados en el movimiento, ambos con un video que se hizo viral en youtube.  
+
+Esto está sucediendo también a nivel internacional por estas vías gracias al internet como fueron 
+la  primavera  árabe  que  produjo  efectos  sociales,  políticos  y  económicos  como  lo  señala  el 
+Doctor Alfredo Jalife:  
+
+La  pésimamente  bautizada  primavera  árabe  por  los  multimedia  propagandísticos 
+occidentaloides  –que  denominé  La  revolución  del  jazmín  se  han metamorfoseado  en  el 
+
+8 
+
+ 
+
+verano  islámico,  poco  más  de  un  año  después,  con  el  irresistible  ascenso  de  la  triada 
+sunnita:  1)  Hermanos  Musulmanes  (apoyados  por  Estados  Unidos,  Gran  Bretaña  y  la 
+OTAN, que incluye a Turquía), 2) salafistas –integristas coránicos, apoyados por Arabia 
+Saudita  y  Qatar,  miembros  prominentes  de  las  seis  petromonarquías  árabes  del  Golfo 
+Pérsico–,  y  3) Al Qaeda,  presuntamente  apuntalada  por  la  CIA/Al-CIA,  la  caída  de  las 
+repúblicas tiránicas, la consolidación de las petromonarquías, la eclosión del sectarismo, 
+el auge de  los Hermanos Musulmanes y el acecho de Al Qaeda/salafistas, escenario que 
+se abate con todo su furor en Egipto, Siria, Irak y Bahrein (Jalife-Rahme, 2012).  
+
+Lo anterior aclara que el movimiento de Musulmanes no  tiene un sola versión como  los medios 
+lo hacen ver en una vertiente maniquea en donde existen buenos y malos. 
+
+Otro movimiento social fue los indignados de España, que generaron a partir de una experiencia 
+autogestionaría  crearon  la  opción  política  de  Podemos,  una  nueva  generación  que  está 
+reaccionando  en  forma  de  resistencia  ante  las  contradicciones  de  la  globalización  a  nivel 
+económico, político, social, comunicativo y cultural. Como se señala en el Clarin: 
+
+Nosotros  los  desempleados,  los mal  remunerados,  los  subcontratados,  los precarios,  los 
+jóvenes queremos un cambio y un futuro digno. Estamos hartos de reformas antisociales, 
+de que nos dejen en el paro, de que los bancos que han provocado la crisis nos suban las 
+hipotecas  o  se  queden  con  nuestras  viviendas,  de  que  nos  impongan  leyes  que  limitan 
+nuestra  libertad  en  beneficio  de  los  poderosos.  Acusamos  a  los  poderes  políticos  y 
+económicos  de  nuestra  precaria  situación  y  exigimos  un  cambio  de  rumbo  (Clarin, 
+2016).  
+
+Lo anterior sugiere que al igual que la Revolución Industrial y la Revolución Francesa, al día de hoy 
+la Globalización y el Neoliberalismo han fabricado una cadena interminable de descontento social y 
+las  Instituciones  de  Educación  no  han  sido  la  excepción,  por  el  contrario  la  regla  es  que  al  ser  lo 
+más sensible de la población es donde se dan manifestaciones de este tipo. 
+
+Los  indignados de Grecia que un NO  en un  referendum  suscito  una  crisis  política  y  económica 
+muy importante, como se señala a continuación: 
+
+El  pueblo  griego  emitió  un  contundente  NO  a  la  política  de  austeridad  que  viene 
+imponiendo  la  “troika”  compuesta  por  el  FMI,  el  Banco  Central  Europeo  (BCE)  y  la 
+Comisión  Europea  (CE).  Hay  quienes  interpretan  el  NO  como  un  salto  al  vacío.  Lo 
+relacionan  con  alguna  de  estas  situaciones:  1.  Negarse  a  pagar  totalmente  la  deuda  o 
+declararla  absolutamente  impagable.  2.  Salirse  de  la  Unión  Europea  y  del  Euro.  3. 
+Derrocar  a  la  oligarquía  griega  y  “hacer”  la  revolución  socialista.  4.  Entregarse 
+totalmente a la órbita de Rusia, China y los BRICS (Dorado, 2015).   
+
+También  el  movimiento  Occupy  Wall  Street  en  Nueva  York  tiene  las  mismas  características 
+como se señala a continuación: 
+
+El 26 de abril de 2012, unos  treinta activistas de Occupy Wall Street  se congregaron  en 
+las  escalinatas  del  Federal  Hall  de  Nueva  York,  frente  al  edificio  de  la  Bolsa,  al  otro 
+lado de  la  calle. Habíamos pasado más de un mes  tratando de  restablecer  un bastión  en 
+
+9 
+
+ 
+
+el  bajo  Manhattan  para  sustituir  la  acampada  del  Zuccotti  Park,  de  donde  nos  habían 
+desalojado seis meses antes. Esperábamos al menos encontrar un espacio donde celebrar 
+asambleas  con  regularidad  e  instalar  nuestra  biblioteca  y  las  cocinas…  La  connivencia 
+entre  los  asesores  financieros  de  Wall  Street  y  los  políticos  locales  provoca  la 
+bancarrota  (o  casi)  en  unos  distritos  que,  entonces,  ordenan  a  la  policía  endurecer  la 
+aplicación  de  las  normativas  sobre  césped,  basura  o mantenimiento,  en  perjuicio  de  los 
+propietarios  de  las  casas,  de  manera  que  el  flujo  resultante  de  multas  aumente  los 
+ingresos  para  pagar  a  los  bancos.  En  todo  caso,  parte  de  los  beneficios  resultantes 
+termina  desembocando  en  los  políticos,  a  través  de  grupos  de  presión  y  comités  de 
+acción  política.  Dado  que  casi  cualquier  función  del  Gobierno  local  pasa  a  ser  un 
+mecanismo  de  extracción  financiera,  y  que  el  Gobierno  federal  ha  dejado  claro  que  su 
+prioridad  es mantener  elevados  los  precios  de  las  acciones  y  asegurar  el  flujo  de dinero 
+hacia  los propietarios de  los  instrumentos  financieros  (por no mencionar el hecho de no 
+dejar caer nunca a ninguna gran institución financiera, sea cual sea su comportamiento), 
+cada  vez  resulta  más  difícil  vislumbrar  la  diferencia  real  entre  el  poder  financiero  y  el 
+poder 
+http://www.eldiario.es/internacional/Occupy-Wall-Street-historia-
+estatal. 
+movimiento_0_317068940.html  
+
+Por otro lado la Aldea Global se escribió en 1989 ya a casi por cumplir a dos años de sus treinta 
+años de editada,  la obra  se adelantó en algunas cosas,  ya  en  estos años hemos visto  la caída del 
+muro  de  Berlín,  el  término  de  la  Guerra  Fría  con  la  disolución  de  la  Unión  Soviética  de 
+Repúblicas  Socialistas,  un  periodo  de  unipolaridad  donde  solo  los  E.U.  geopolíticamente  era  el 
+único  liderazgo,  hasta  que  apareció  China,  se  consolidaron  los  7  tigres  asiáticos  y  luego 
+aparecieron los BRIC´s que es el acrónimo de Brasil, Rusia, India, China y Sudáfrica, aparece el 
+narcotráfico  y  el  terrorismo  como  parte  de  otros  polos  de  poder  y  gana  las  elecciones  Donald 
+Trump  en  los EU.,  sin  embargo vaticino  otras  cosas pero no pudo ver  todas  las  contradicciones 
+que iban a darse a partir del proceso comunicativo. 
+
+Por  ello  es  imprescindible  tomar  en  cuenta  las  otras  grandes  obras  de McLuhan  como  son:  La 
+novia  mecánica  que  salió  en  1951,  Galaxia  Gutenberg  publicada  en  1962,  Comprender  a  los 
+medios  de  comunicación  en  1964,  Guerra  y  Paz  en  la  Aldea  Global  en  1971  y  Escritos 
+Esenciales en 1998 (Vazquez, 2008). 
+
+Existe  sin  duda  un  proceso  paralelo  en  el  pensamiento  de McLuhan  y  la  educación  a  distancia, 
+ambos se centran en el medio, mientras el primero señala que el medio es el mensaje en el caso 
+de  la  educación  a  distancia  se  menciona  que  es  una  nueva  educación  mediada  por  las 
+tecnologías. 
+
+El  pensamiento  de  la  Aldea  Global  remite  a  la  idea  según  la  cual  está  finalizada  la  era  de  la 
+cultura  basada  en  el  libro,  lo  cual  implica  que  la  TV  y  los  nuevos  sistemas  electrónicos  de 
+comunicación  han  instalado  ya  al  ser  humano  en  una  "aldea  global",  una  sociedad  audio-táctil 
+tribalizada a escala planetaria (Vazquez, 2008).  
+
+En este sentido se establece en la Aldea Global lo siguiente: El efecto de los estímulos, externos 
+o  internos,  es  perturbar  la  acción  unísona  del  cerebro  o  de  alguna  de  sus  partes.  Se  ha  hecho  la 
+
+10 
+
+ 
+
+sugerencia  especulativa  de que  la perturbación  rompe  en  cierto modo  la unidad de  la  estructura 
+previamente constituida en el cerebro. Este selecciona entonces aquellos elementos del estímulo 
+que  tienden  a  reparar  el  modelo  y  devolver  a  las  células  su  ritmo  regular  y  sincrónico.  No 
+pretendo  ser  capaz  de  desarrollar  en  detalle  esta  idea  de  los  modelos  en  nuestro  cerebro,  pero 
+tiene  grandes  posibilidades  de  mostrar  cómo  tendemos  a  ajustamos  al  mundo  y  el  mundo  a 
+nosotros. De algún modo, el cerebro  inicia secuencias de actos que  tienden a  traerlo de nuevo a 
+su  esquema  rítmico,  y  este  retorno  constituye  un  acto  de  consumación  o  cumplimiento.  Si  la 
+primera  acción  que  realiza  resulta  fallida,  es  decir,  si  no  consigue  detener  la  perturbación  de 
+origen,  ensaya  otras  secuencias.  El  cerebro  sigue  sus  normas,  una  tras  otra,  oponiendo  a  la 
+perturbación  las  fuerzas de  sus distintos esquemas, hasta que de  algún modo  recupera de nuevo 
+su  ritmo.  Esto  ocurre  quizá  solamente  después  de  una  ardua,  variada  y  prolongada  búsqueda. 
+Durante  esta  actividad  fortuita,  van  formándose  nuevas  conexiones  y  esquemas  de  actuación 
+que, a su vez, determinarán futuras secuencias (Mcluhan, 1998, pág. 5). 
+
+ 
+
+V. Conclusiones 
+
+El  tránsito  del  Aula  sin  Muros  y  la  Aldea  Global  hacia  la  Educación  a  Distancia  pasa  por  la 
+gestión de  los alumnos y  la capacidad de  los docentes de  realizar una nueva praxis docente, por 
+ello cerramos este trabajo con lo siguiente: 
+
+1.  Coincidimos con McLuhan cuando  señala que  la mecanización de  la escritura mecanizó 
+la  metáfora  visual-acústica  sobre  la  cual  descansa  toda  civilización;  creó  el  aula  y  la 
+educación  de  masas,  la  prensa  moderna  y  el  telégrafo.  Fue  la  producción  en  serie 
+original.  Esta  producción  si  la  trasladamos  al  ámbito  educativo  a  partir  de  Internet 
+tenemos  que  la  educación  presencial  como  en  línea  se  asemeja  a  una  fábrica  en  una 
+producción  en  serie,  sin  embargo  hay  un  espacio  y  un  momento  donde  una  praxis 
+docente rompe con la inercia y es cuando se suscita la autogestión del conocimiento.  
+
+2.  La  Autogestión  del  Conocimiento  en  la  Educación  a  Distancia  es  una  herramienta  en 
+contra  del  burocratismo  de  nuestras  instituciones  porque  rompe  con  dogma  de  que  el 
+docente  es  guía,  faro,  vanguardia,  luz  y  único  especialista  trasmisor  de  conocimientos, 
+rompe  porque  la  autogestión  entendida  en  la  sociedad  global  que  necesita  ciudadanos 
+globales  e  interconectados,  entonces  una  Educación  a  Distancia  que  no  reproduzca  las 
+malas  prácticas  de  la  Educación  Tradicional  presencial  por  eso  McLuhan   dice  que  no 
+hay pasajeros en la nave espacial tierra: todos somos tripulantes. 
+
+3.  McLuhan  indica  que  la  nueva  interdependencia  electrónica  reconstruye  el  mundo  en  la 
+imagen  de  una  aldea  global,  pero  para  los  globalifóbicos  ya  no  hay  aldeanos  todos 
+estamos  interconectados  económica,  política,  social  y  comunicativamente,  sin  embargo 
+existe  una  división  por  la  infraestructura  que  la  presencia  de  aldeanos  y  ciudadanos 
+globales,  nos plantea diferencias de un mundo  desarrollado  y otro  en vías  de desarrollo: 
+con un solo modelo de desarrollo. 
+
+11 
+
+ 
+
+ 
+
+4.  Para  Morin  la  educación  debe  mostrar  que  no  hay  conocimiento  que  no  esté,  en  algún 
+grado,  amenazado  por  el  error  y  por  la  ilusión.  La  teoría  de  la  información muestra  que 
+hay  un  riesgo  de  error  bajo  el  efecto  de  perturbaciones  aleatorias  o  ruidos,  en  cualquier 
+transmisión  de  información,  en  cualquier  comunicación  de mensajes.  Entonces  el  papel 
+de la Educación a Distancia es hacer explícito lo que ahora es implícito en otras palabras 
+la Educación en  línea hará que se vean contradicciones, alteraciones, perturbaciones e  la 
+incertidumbre.  Lo  que  implica  que  las  certidumbres  de  una  Educación  Tradicional  no 
+necesariamente subsisten en la Educación a Distancia. 
+
+5.  Las  realidades, mitos, fantasías y derroteros de  la Educación a Distancia son  los mismos 
+de  la  Educación  presencial  y  tradicional,  pero  está  por  escribirse  quien  defiende  con 
+dogmas  su  espacio,  son  iguales  porque  que  son  los  mismos  actores  con  las  mismas 
+inercias  los  que  desarrollan  una  y  otra,  la  diferencia  es  que  los  profesores  en  la 
+Educación a Distancia tienen que capacitarse en  la plataforma  y en algunas ocasiones en 
+la cuestión docente, donde un especialista se pregunta ¿por qué  tengo que perder tiempo 
+en  la  cuestión  docente  si  mi  especialidad  es  otra?  Entonces  nunca  se  ha  planteado  una 
+profesionalización en el área docente, aunque en su vida laboral la haya hecho sobre esta 
+actividad, lo cual es una ambigüedad que no siempre se puede resolver. 
+
+6.  El  problema  Docente  es  un    problema  de  Comunicación  de  aquí  la  necesidad  de  que 
+estemos  alertas  ante  los  desarrollo  tecnológicos  que  modifican  la  proximidad  entre  el 
+docente  y  el  alumno,  los  docentes  aunque  presenciales  van  incorporando  fácilmente  en 
+su  vida  las  TIC  y  es  más  difícil  que  incorporen  cuestiones  docentes,  pedagógicas, 
+didácticas y educativas.  
+
+VI. Bibliografía 
+
+ 
+Clarin. (14 de 05 de 2016). Hace 5 años nacía el movimiento de indignados en España: Fue en la 
+Puerta del Sol. La fragua de lo que hoy es Podemos. De ahí esa forma de demanda se 
+esparció al mundo. Clarin. Recuperado el 3 de 11 de 2017, de 
+https://www.clarin.com/mundo/hace-nacia-movimiento-indignados-
+espana_0_SJZAcsuPXe.html 
+Denzin, N. (1989). Strategies of Multiple Triangulation. New York: McGrawHill. Obtenido de 
+https://www.uv.mx/mie/files/2012/10/Triangulacionmetodologica.pdf 
+Dorado, F. (13 de 07 de 2015). America Latina en movimiento: Grecia y el movimiento global de 
+resistencia. Recuperado el 3 de 11 de 2017, de America Latina en movimiento: Grecia y el 
+movimiento global de resistencia: https://www.alainet.org/es/articulo/171034 
+Estudiantes de la Universidad Iberoamericana. (14 de 05 de 2012). 131 Alumnos de la Ibero 
+responden. Obtenido de 131 Alumnos de la Ibero responden: 
+https://www.youtube.com/watch?v=P7XbocXsFkI 
+
+12 
+
+ 
+
+Estudiantes del IPN. (23 de 09 de 2014). ¿Qué esta pasando en el Politécnico? Obtenido de ¿Qué 
+esta pasando en el Politécnico?: https://www.youtube.com/watch?v=iP7AQq5MDDU  
+Jalife-Rahme, A. (1 de 08 de 2012). De la primavera árabe al verano islámico: en medio de la 
+emergente tripolaridad global (EU, Rusia y China) en Bajo la Lupa. La Jornada. Obtenido 
+de http://www.jornada.unam.mx/2012/08/01/opinion/020o1pol 
+López-Escobar, E. (2000). Comunicación, participación ciudadana y las nuevas tecnologías: una 
+perspectiva desde la globalización. Anuario jurídico de La Rioja, 6, 287-306. Obtenido de 
+https://scholar.google.com.uy/scholar?hl=es&as_sdt=0%2C5&q=la+Aldea+Global+es+cuan
+do+la+tierra+se+convirti%C3%B3+en+una+especie+de+aldea+de+enormes+dimensiones+
+gracias+a+la+televisi%C3%B3n&btnG= 
+Mcluhan. (1998). La Galaxia Gutenberg. Galaxia Gutenberg. 
+UNESCO. (1981). La Autogestión en los Sistemas Educativos. Paris: UNESCO. Obtenido de 
+http://unesdoc.unesco.org/images/0013/001340/134075SO.pdf 
+Vazquez, S. (Junio de 2008). Vivalaradio. Obtenido de http://www.vivalaradio.org/medios-
+comunicacion/PDFs/MED_autores_09mcluhan.pdf  
+Yo Soy 132. (29 de Mayo de 2012). #Yo Soy 132. México. Obtenido de 
+https://www.youtube.com/watch?v=t6LgxA-7FiM 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+

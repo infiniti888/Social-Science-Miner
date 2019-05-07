@@ -1,0 +1,929 @@
+XXXI Congreso ALAS de Montevideo 2017: 
+
+Las encrucijadas abiertas de América Latina. La sociología en tiempos de cambios. 
+
+Título: “Caracterización de la Agricultura familiar en  Cuyo y San Juan” 
+
+Autores:Lic.  Clara  de 
+
+la  Vega 
+
+(claraisabeldelavega@gmail.com),  Lic.  Paula  Albarracín 
+
+(mariapaula3833@hotmail.com),  Lic.  Graciela  de  Cara  (gradecar@gmail.com),  DI:  Martín  Riveros 
+
+(dimartinriveros2003@yahoo.com.ar  ),  Lic.  Enzo  Aciar  (enzoaciar@yahoo.com),  Lic.  Gabriela 
+
+Tomsig  (gabrielatomsig@hotmail.com),,  Lic.  Gabriela  Carabajal  (gabycarabajal_20@hotmail.com), 
+
+TUAP Florencia Caif. (mflorenciacaif.tuap@gmail.com) 
+
+ 
+
+Adscripción  Institucional:  Instituto  de  Investigaciones  Socioeconómicas  (IISE),  Facultad  de 
+
+Ciencias Sociales (FCS), Universidad Nacional de San Juan (UNSJ), Argentina. 
+
+ 
+
+Resumen: 
+
+Actualmente,  el  sector  rural  latinoamericano  atraviesa  por  una  serie  de  debates  respecto  a  la 
+
+definición  de  lo  que  se  entiende  por  agricultura  familiar,  y  a  quiénes  comprende,  su  rol  en  la 
+
+producción  de  alimentos,  la  relación  legal  con  la  tierra  y  su  contribución  a  la  seguridad/soberanía 
+
+alimentaria.  
+
+ “La  experiencia  de  la  última  década,  tanto  en  términos  de  movilización  social  como  de  esfuerzo 
+
+productivo  e  innovaciones  institucionales,  nos  dice  que  el  segmento más  dinámico  del medio  rural 
+
+son  los  agricultores  familiares,  quienes  en  la  región  se  caracterizan  por  la  heterogeneidad  de  su 
+
+dotación  de  recursos  y  de  sus  activos,  es  decir,  de  su  capital  natural,  físico,  financiero,  humano  y 
+
+social” (Janvry y Sadoulet en Gordillo de Anda, 2000, 74).  
+
+Como  plantea Paz  (2008),  a primera vista,  el  factor que  aglutina  a  estos  actores  es  “la presencia de 
+
+estrechos  lazos  familiares  y  el  aporte de  trabajo,  tanto  al  proceso productivo  como  al  de  gestión de 
+
+la explotación, sobre todo proporcionado por la familia”.   
+
+Sostiene  Bendini  (2014),  “la  categoría  empírica  agricultura  familiar,  está  asociada  a  la  creación  de 
+
+un  espacio  de  negociación  entre  el  Estado  y  las  organizaciones  sociales  y  gremiales ,  que 
+
+representan  a  los  pequeños  productores.  En  tanto  actor  político  y  económico,  se  instaló  en  las 
+
+agendas de las políticas públicas de Argentina desde el denominado “conflicto del campo” en 2008. 
+
+En  la  esfera  de  lo  político-institucional,  la  AF  argentina  se  halla  en  un  proceso  de  visibilización, 
+
+reconocimiento  y  legitimidad  a  través  de  un  fuerte  proceso  político  y  social,  acompañado  y 
+
+fomentado fundamentalmente por la Secretaría de Agricultura, Ganadería, Pesca y Alimentos (SAG 
+
+ 
+
+1 
+
+PYA),  junto  a  distintos movimientos  sociales  y  algunos  programas  nacionales  orientados  al  apoyo 
+
+de la pequeña producción. 
+
+El  27  de  noviembre  de  2014,  la  Cámara  de  Diputados  de  la  provincia  de  San  Juan  sancionó  la  ley 
+
+Nº  8522  por  unanimidad,  adhiriendo  a  la  Ley  Nacional  N°  27118  (“Reparación  histórica  de  la 
+
+agricultura familiar para la construcción de una nueva ruralidad en la Argentina). 
+
+ 
+
+Palabras Clave: agricultura familiar,  Ley de Reparación Histórica, situación socio-productiva. 
+
+ 
+
+Introducción: 
+
+A  partir  de  la  década  del  70,  toda  América  Latina  atravesó  por  un  proceso  de  transformación  del 
+espacio rural, en el cual se produjeron la descentralización productiva y la centralización del control 
+de  las  finanzas,  implicando  también  una  modificación  del  sector  agroalimentario.  Esto  fue 
+delineando  efectos diferenciales a  lo  largo de  la  cadena de valor  agrícola,  en  la organización de  los 
+territorios,  en  las nuevas  relaciones  entre  cada  actor  social  agrario,  y  en  sus  estrategias productivas 
+y  de  vida;  en  el  marco  de  la  reproducción  social  y  de  las  formas  regionales  que  adoptan  estos 
+procesos heterogéneos de globalización.  
+En  este  contexto,  la  agricultura  familiar  (AF)  es  discutida  desde  vertientes  de  corte  polares  que  la 
+ubican en un rol secundario dentro de la globalización, o bien, desde el rechazo de las tendencias de 
+integración  en  el mercado global;  dejando de  lado  las particularidades  regionales que  adopta  la AF 
+en  la  actualidad.  En  este  estudio  se  pretendió  analizar  las  diversas  posturas  teóricas,  rescatando 
+dichas  particularidades,  relacionándolas  con  el  desarrollo  de  la  misma  a  través  de  la  historia  en 
+Argentina  y  en  San  Juan,  y  encuadrándola  en  el  marco  normativo,  de  reciente  creación    que 
+permitió su visualización en el espacio rural. Además se intentó caracterizar la actual situación de la 
+AF  regional  y  provincial,  describiendo  sus  aspectos  más  relevantes,  en  su  situación  socio-
+demográfica y socio-productiva, mediante un abordaje estadístico. 
+ 
+Objetivo de  la ponencia:  Indagar los antecedentes de la Agricultura Familiar en la provincia de San 
+
+Juan en cuanto a su marco normativo, a su historia y la descripción estadística del sector. 
+
+ 
+
+Metodología:  La  ponencia  es  parte  de  una  investigación  en  curso.  El  proyecto  de  investigación 
+
+consta  de  dos  fases:  la  primera  descriptiva  y  la  segunda  cualitativa  en  base  a  datos  primarios;  esta 
+
+ponencia  se  centra  en  la  primer  fase  con  una  estrategia  exploratorio-descriptiva  basada  en  la 
+
+recolección de datos secundarios: normativo, teórico, histórico y estadístico 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+Desarrollo: 
+
+Caracterización Teórica e Histórica: 
+
+En  el  presente  trabajo  se  aborda  el  origen  y  desarrollo  histórico  de  la  Agricultura  Familiar  en  San 
+
+Juan,  además  de  los  estudios  teóricos  alusivos  al  concepto,  presentándose  como  un  desafío  dada  la 
+
+escasez de estudios sobre la temática en nuestra región.  
+
+En  Argentina,  la  agricultura  fuera  de  la  zona  pampeana ha  sido  escasamente  estudiada  por  la 
+
+Sociología,  tal  cual  acontece  sobre  la  AF  en  Latinoamérica,  los  existentes  se  han  desarrollado  a 
+
+partir  de  los  años  60  particularmente  en  México,  con  los  intentos  de  revoluciones  agrarias  de 
+
+comunidades campesinas, que exigieron  los  títulos de  tenencia de  la  tierra, el  reconocimiento de  su 
+
+lucha  y 
+
+la  seguridad  alimentaria  proclamada  sólo  discursivamente  en 
+
+los  organismos 
+
+internacionales. 
+
+El  concepto  frecuentemente  utilizado  en  relación  a  la  AF,  ha  sido  el  de  economía  campesina, 
+
+incluido generalmente dentro de los estudios agrarios entre las décadas del 50 y el 60, para definirla 
+
+como aquella que: “encerraría al sector agropecuario donde el proceso productivo se desarrolle en 
+
+unidades del tipo familiar, teniendo por objetivo asegurar, de ciclo en ciclo, la reproducción de las 
+
+condiciones de vida y de  trabajo, es decir la reproducción de los productores y de la misma unidad 
+
+productiva”.  (Posada,  1997,  pág.  75).  Esto  significa  que la  explotación  agrícola  debería  cubrir,  al 
+
+menos,  las  necesidades  de  los  productores  y  sus  familias,  además  de  otras  necesidades,  como  la 
+
+reposición de los bienes consumidos en el proceso.  
+
+En Argentina, este  concepto no  sería  el más  apropiado ya que, existe una  industrialización de  larga 
+
+trayectoria,  a  partir  de  la  sustitución  de  importaciones,  y  un  mercado  nacional  formado 
+
+conjuntamente  con  el  Estado  Nacional.  En  este  contexto  socio-histórico,  la  importancia  de  la 
+
+economía  de  subsistencia  es  relativa,  ya  que  lo  producido  por  la  actividad  agrícola  se  comercializa 
+
+en el mercado. 
+
+Posada  supone  que  es  más  apropiado  referirse  al  conjunto  de  productores  agropecuarios  con  la 
+
+denominación  de “pequeños  productores”, teniendo  en  cuenta  que  es  sólo  un  concepto  que 
+
+pretende  acercarse  a  la  realidad  del  país,  principalmente  a  finales  de  los  70  y  principios  de  los   80, 
+
+abarcaría  a “todos  aquellos  sujetos  que  manejan  unidades  ubicadas  entre  estos  dos  extremos:  un 
+
+piso señalado por aquellas unidades productivas cuya significación es sumamente limitada, o nula, 
+
+por  ser  muy  pequeñas  o  semiproletarias;  y  un  techo  indicado  más  ambiguamente,  que  es   el  nivel 
+
+que evita basar a  la unidad en  la  renta de  la  tierra,  (…) y que  es  la capacidad de comprar  trabajo 
+
+asalariado y comenzar a acumular” (Posada, 1997, pág. 76)  
+
+ 
+
+3 
+
+Se  incluiría  en  esta  definición,  todas  las  posibles  combinaciones  de  trabajo  familiar  y  tierra, 
+
+elementos  presentes  en  cualquier  definición  de  campesinado,  por  tanto  la  utilización  del  concepto 
+
+de pequeños productores no sería más que una definición sinónima de campesinado.  
+
+Seguir  definiendo 
+
+los  pequeños  agricultores  como  campesinos,  puede  remitir  a  ciertos 
+
+inconvenientes,  según Posada,  entre  ellos:  ahistoricidad,  sesgo  económico  en  su  estudio, dualismos 
+
+inadecuados  entre  grupos  humanos,  no  considerar  otras  dimensiones  además  de  la  económica  que 
+
+presentan estas relaciones sociales. 
+
+Las definiciones que señalan qué debería entenderse por AF suelen destacar algunos de los aspectos 
+
+que  componen  el  fenómeno,  así,  Raúl  Paz,  señala  que:  “Una  de  las  principales  características 
+
+presentes en la agricultura familiar, y que la hace diferente a las explotaciones de corte capitalista, 
+
+es la conformación de una unidad económica familiar donde el trabajo de sus propios miembros no 
+
+suele  ser  asalariado  y  donde  se  conjuga  la  unidad  de  producción  con  la  unidad  doméstica”  (Paz, 
+
+Raúl: 2008,pàg. 70). 
+
+Marcelo  Carmagnani  utiliza  una  tipología  que  destaca  la  tenencia  de  la  tierra  como  categoría 
+
+primordial  al  definir  al  agricultor  familiar:  “La  forma  de  agricultura  familiar,  definida  como  la 
+
+unidad productiva “cuyas tierras son suficientes para proporcionar sustento a una familia (con una 
+
+fuerza  laboral  equivalente  a  un  número  de  dos  a  cuatro  hombres),  un  nivel  de  vida  satisfactorio, 
+
+mediante  el  trabajo  de  sus  miembros  y  la  aplicación  de  la  técnica  predominante  en  la  región”. 
+
+(Carmagnani, 2008, pág. 14). Luis Enrique Alonso y otros, señalan que “La posesión de la tierra ha 
+
+sido vivida por el campesino como una forma de subsistencia familiar independiente, de autonomía 
+
+e  identificación  social,  y  de  religación  con  la  comunidad  campesina,  antes  que  como  un 
+
+instrumento  para  la  producción  «racional»  y  planificada,  e  incluso  antes  que  como  una  fuente  de 
+
+beneficios económicos”. (Alonso, Arribas y Ortí, 1990, p 49) 
+
+Resulta  complejo  definir  apropiadamente  la  AF,  no  obstante,  hay  acuerdo  en  reconocer  la 
+
+importancia  que  la  AF  tiene  en  cuanto  a  seguridad  alimentaria,  generación  de  empleo  agrícola, 
+
+disminución de la pobreza, cuidado por la diversidad ambiental y las tradiciones socio-culturales. 
+
+En Argentina, el Foro Nacional de Agricultura Familiar (Fonaf) define que: “la agricultura familiar 
+
+es  una  “forma  de  vida”  y  “una  cuestión  cultural”,  que  tiene  como  principal  objetivo  la 
+
+“reproducción  social  de  la  familia  en  condiciones  dignas”,  donde  la  gestión  de  la  unidad 
+
+productiva y las inversiones en ella realizadas es hecha por individuos que mantienen entre sí lazos 
+
+de  familia,  la mayor parte del  trabajo es aportada por  los miembros de  la  familia,  la propiedad de 
+
+los medios  de  producción  (aunque  no  siempre  de  la  tierra)  pertenece  a  la  familia,  y  en  su  interior 
+
+se  realiza  la  transmisión  de  valores,  prácticas  y  experiencias”.  Dentro  de  esta  definición,  deben 
+
+estar  incluidos  distintos  conceptos  que  se  han  usado  o  se  usan  en  diferentes momentos,  como  son: 
+4 
+
+ 
+
+Pequeño  Productor,  Minifundista,  Campesino,  Chacarero,  Colono,  Mediero,  Productor  familiar  y 
+
+también los campesinos y productores rurales sin tierra y las comunidades de pueblos originarios.  
+
+La  AF  en  Argentina,  es  una  actividad  con  características  propias  reconocida  a  través  de  la 
+
+promulgación de la ley nacional de agricultura familiar N° 27.118. 
+
+Para  esta  investigación,  se  considera  el  concepto  de AF,  de  la  ley  provincial N°  8522,  promulgada 
+
+por  la Cámara de Diputados de San  Juan como “Ley de Desarrollo Rural  Integral de  la Agricultura 
+
+Familiar”,  sancionada  el  día  19  de  Diciembre  de  2014,  que  en  su  artículo  2°  dice:  “A  los  fines  de 
+
+esta  ley se entiende por Agricultores Familiares a quienes vivan en áreas rurales o a una distancia 
+
+que  les permita contactos  frecuentes con  la producción agropecuaria o  relacionadas; que  la mano 
+
+de obra de sus familias supere el cincuenta por ciento (50%) de la empleada en su explotación; que 
+
+no  tengan  más  de  dos  trabajadores  asalariados  en  forma  permanente;  y  que  sus  ingresos 
+
+extraprediales  no  superen  los  tres  salarios  legales  del  peón  rural,  siendo  sus  ingresos 
+
+predominantes  los  de  la  explotación  agropecuaria  (…)  Incluye  a  los  integrantes  de  comunidades 
+
+originarias que cumplan con la caracterización mencionada en los párrafos precedentes”. También 
+
+se  incluye  a  quienes  por  su  escala  de  producción,  requieren  de  sistemas  solidarios  asociativos  para 
+
+acceder  a  las  tecnologías  apropiadas  de  producción,  sistemas  de  mercadeo  y  participación  en  las 
+
+cadenas  de  agregación  de  valor  de  sus  productos,  siempre  que  los  parámetros  establecidos  en  el 
+
+primer párrafo de éste artículo se mantengan. 
+
+En  lo  que  refiere  al  desarrollo histórico de  la  agricultura  en  la  región,  las  culturas que  se  asentaron 
+
+en  la  zona  Villaserrana  (compuesta  por  el  norte  de  San  Juan,  La  Rioja,  Catamarca,  oeste  de 
+
+Tucumán, sudeste de Salta y parte de Santiago del Estero) se dedicaron a la caza, desarrollando una 
+
+agricultura  incipiente  y  el  pastoreo.  Desde  la  era  cristiana  hasta  el  650  d.  C.  aproximadamente,  se 
+
+desarrolló  una  agricultura  avanzada  y  pastoril  con  un  patrón  poblacional  basado  en  vínculos 
+
+familiares dispersos en varias habitaciones. 
+
+En  Cuyo,  el  interés  luego  del  auge  de  la  búsqueda  de  oro  y  plata,  se  concentró  en  la  tierra.  Esta 
+
+región  se  caracterizó  por  una  agricultura  con  importantes  sistemas  de  irrigación  y  una  incipiente 
+
+ganadería.  La  agricultura  en  San  Juan  a  finales  de  la  colonia  y  principios  de  1810  presentó  la 
+
+fragilidad del monocultivo de uva, destinado a  la elaboración de vino y aguardiente, alternando con 
+
+otros  cultivos  como  el  de  trigo,  frutales,  olivo,  hortalizas  y  forrajeras.  Videla  indica  que  la 
+
+elaboración de dulces constituye una industria especial en la provincia.  
+
+Uno  de  los  principales  factores  que  influyó  en  la  agricultura  a  fines  del  1800 ,  fue  la  inmigración 
+
+vinculándose  ambas  de  tal  modo  que  impulsaron  políticas,  modificaron  métodos  y  desarrollaron 
+
+nuevos modos de habitar y  trabajar la tierra. La “Ley Avellaneda”, sancionada en el año 1875,  tuvo 
+
+como  objetivo,  facilitar  el  acceso  de  la  tierra  a  los  agricultores  inmigrantes.  Las  alternativas  que 
+5 
+
+ 
+
+existían para habitar la tierra eran: los colonos atraídos por compañías privadas que tenían como fin 
+
+último  vender  sus  propiedades  subdivididas.  Los  arrendatarios,  desprovistos  de  sentimientos  de 
+
+comunidad  y  esperanzas de posesión de  la  tierra. En  caso de vender  su  fuerza de  trabajo  y  la de  su 
+
+grupo familiar, el arrendatario podía iniciarse como mediero. 
+
+En San Juan, la agricultura se caracterizó por el cultivo de la vid. Debido a la necesidad de mano de 
+
+obra  que  requería  la  vitivinicultura,  se  tomaron  políticas  inmigratorias  que  favorecieron 
+
+especialmente  la  llegada  de  europeos.  En  contraposición  a  lo  esperado,  muy  pocos  de  ellos  eran 
+
+expertos en vitivinicultura.  
+
+ 
+
+Marco Normativo 
+
+Después  de  un  largo  proceso  de  debate  y  participación  de  sectores  de  la  agricultura  familiar,  se 
+
+logró  promulgar  la  vigente  norma  ley  27.118  “Ley  de  Reparación  Histórica  de  la  Agricultura 
+
+Familiar  para  la  construcción  de  una  nueva  ruralidad  en  argentina”,   para  cerrar  el  2014,  el  Año 
+
+Internacional de  la Agricultura Familiar, con  la aprobación de una Ley que ampliará derechos en el 
+
+interior profundo de nuestro país. Según sus objetivos, la ley procura potenciar las capacidades de la 
+
+Agricultura  Familiar  para  contribuir  al  desarrollo  de  estas  familias,  sus  comunidades  y  el  conjunto 
+
+de  la sociedad nacional, preservando  los  recursos naturales. Contribuir  también al mantenimiento  y 
+
+generación  de  empleo,  y  busca    asentar  a  los  integrantes  de  la  Agricultura  Familiar  que  no  tengan 
+
+tierra suficiente, y también a las familias urbanas que deseen participar en la producción primaria.  
+
+Por  otra  parte  La  ley  8522  sanjuanina  estuvo  impregnada  en  su  espíritu  por  la  concepción  de  una 
+
+nueva  ruralidad,  de  una  nueva  forma    de  pensar  la  agricultura  de  tipo  familiar  que  venía  siendo 
+
+relegada,  y  permitió  ese  cambio  en  un  nuevo  contexto:  generar  derechos  y  obligaciones  para  el 
+
+sector.    Conocer  el  proceso  de  cómo  se  llega  a  la  sanción    de  la  ley  8522,  nos  llevó  a    entender  a 
+
+través  de  entrevistas  y  lectura  del  libro  “Ley  de  la  Agricultura  Familiar  en  San  Juan”,  los  hechos 
+
+cronológicos  de  los  sucesos  que  permitieron    la  participación  de  los  agricultores  dándole  dotes  de  
+
+legitimidad  a    la  norma  .  La  ley  pone  de  manifiesto  la  necesidad  de  reconocer  al  sector  como  un 
+
+actor  fundamental  en  el  sistema  productivo,  otorga  las  herramientas  necesarias  para  crear 
+
+condiciones  de  arraigo  en  el  campo,  vías  alternativas  de  comercialización  y,  fundamentalmente,  la 
+
+permanencia  del  productor  como  el  principal  generador  de  alimento,  para  el  pueblo  sanjuanino  y 
+
+consecuentemente  argentino.  A  su  vez,  tiene  como  objetivo  impulsar  la  producción,  ajustándose  a  
+
+normativas  y  sistemas  de  control  de  comercios  y  producción  del  sector,  desarrollar  y  fortalecer 
+
+estructuras  institucionales  participativas  en  el  orden  provincial,  municipal  y  micro  regional  e 
+6 
+
+ 
+
+implementar  un  registro  de  tierras  rurales  con  el  fin  de  promover  un  ordenamiento  territorial  y  la 
+
+regulación de las explotaciones de la agricultura familiar.  
+
+Partiendo del análisis comparativo de ambos marcos podríamos aclarar que se dan bajo un contexto 
+
+sociopolítico  distinto,  por  la  participación  de  los  actores  y  particularidades  geográficas. 
+
+Actualmente a nivel nacional se espera la reglamentación de ella para efectivizar su instrumentación 
+
+en  el  sector,  mientras  que  a  nivel  provincial  se  logró  constituir  el  mencionado  consejo  asesor,  sin 
+
+embargo el mismo no ejecuta políticas públicas en relación a los aspectos que contempla la ley para 
+
+los  agricultores  sanjuaninos.  Reconocer  también  que  tiene  un  rol  importante  en  el  desarrollo  de 
+
+agricultura  familiar,  las  organizaciones  gubernamentales  y  no  gubernamentales,  tanto  a  nivel 
+
+nacional como provincial, por citar algunas de ellas: Secretaria de agricultura familiar de San Juan( 
+
+SAF), Registro Nacional  de Agricultura  Familiar  (RENAF),  Instituto  de  Investigación  y  desarrollo 
+
+Tecnológico  para  la  Pequeña  Agricultura  Familiar  (IPAF),  Foro  Nacional  para  la  agricultura 
+
+familiar (FONAF). 
+
+ 
+
+Situación Socio-Demográfica y Socio-Productiva: 
+
+A partir del creciente auge de la agricultura familiar en Argentina, desde el año 1990 se ha descripto 
+
+la  situación  del  fenómeno  a  través  del  abordaje  estadístico.  En  octubre  de  2007,  la  Secretaría  de 
+
+Agricultura,  Ganadería,  Pesca  y  Alimentos,  a  partir  de  la  Resolución  Nº  255/07,  creó  el  Registro 
+
+Nacional  para  la  Agricultura  Familiar  (ReNAF),  instrumento  básico  de  registración  de  los 
+
+agricultores  familiares  en  el  territorio  argentino,  es  completamente  voluntario  para  los  agricultores 
+
+familiares.  
+
+Desde  2016,  y  a  partir  del  cambio  de  gobierno  sucedido  a  nivel  nacional,  la  estructura  donde  se 
+
+enmarca  el  Registro  fue  modificada.  Si  bien  los  objetivos  de  este  Registro  no  han  sufrido 
+
+transformaciones,  sí  se  han  producido  cambios  en  el  proceso  de  registración,  definiciones 
+
+metodológicas y el cruce de datos con otras instituciones.  
+
+Los  datos  que  a  continuación  se presentan  se  analizaron  en  función  del  Informe Nacional 2014 del 
+
+ReNAF, donde se trabajaron los datos según lo relevado en las planillas mencionadas y antes de las 
+
+modificaciones efectuadas en la actualidad.  
+
+El  ReNAF  procesa  la  información  económica  y  sociodemográfica  de  los  86.721  Núcleos  de 
+
+Agricultores  Familiares  registrados  en  las  cinco  regiones  argentinas  hasta  2014.  El  norte  del  país 
+
+concentra el 60% de los NAFs. 27.407 se ubican en el NOA, (32%) y 24.055 en el NEA (28%). 
+
+La  región Cuyo  implica el 14% del  total país (12.542 NAFs). En  tanto, en el sur argentino contiene 
+
+al 26% de los NAFs registrados, es decir 17.713 en la región Pampeana y 5.004 en la Patagonia.   
+7 
+
+ 
+
+ 
+F
+A
+N
+e
+R
+ 
+l
+e
+d
+ 
+s
+o
+t
+a
+d
+ 
+a
+ 
+e
+s
+a
+b
+ 
+n
+e
+ 
+a
+i
+p
+o
+r
+p
+ 
+n
+ó
+i
+c
+a
+r
+o
+b
+a
+l
+E
+ 
+:
+e
+t
+n
+e
+u
+F
+
+En el caso de  la región Cuyo,  la predominancia de NAFs se da en Mendoza con 4918 casos (39%), 
+
+le  siguen  en  importancia  la provincia de San  Juan, que  contiene  a 3686 Núcleos  (29%). La Rioja  y 
+
+San Luis finalizan la lista con 2723 (22%) y 1215 casos (10%) respectivamente.  
+
+En  cuanto  a  los  integrantes  de  cada NAF,  Cuyo  posee  41.843  personas,  el  norte  del  país,  196.711, 
+
+prevaleciendo  siempre  el  NOA.  La  región  Pampeana  presenta  58.736  integrantes  y  la  Patagonia, 
+
+15.487. Asimismo,  el  informe  del ReNAF  indica  entre  3  y  4  personas  promedio  por NAF  en  todas 
+
+las  regiones,  mientras  que  el  NOA  es  la  única  que  contiene  más  de  4  integrantes  promedio  por 
+
+Núcleo. 
+
+La  distribución  por  sexo  de  los  titulares  de  los  NAFs  muestra,  tanto  a  nivel  nacional  como  en  
+
+Cuyo,  una  preeminencia  de  varones  sobre  las mujeres. Es  decir,  los  titulares masculinos  rondan  en 
+
+todas las regiones sobre el 51 y 53%, y las mujeres del 46 al 48%. 
+
+Cabe  destacar  que  en  el  Manual  para  el  Registrador  Habilitado  se  fomenta  el  registro  de  dos 
+
+titulares,  uno  de  cada  sexo  y  si  uno  de  los  dos,  el  hombre  o  la mujer,  no  están  en  el  momento  del 
+
+registro  (y  no  proponen  otro  integrante  como  titular),  queda  uno  solo  como  titular  y  el  otro  queda 
+
+registrado  como  integrante  del  NAF.  Asimismo  no  se  permite  un  Núcleo  de  Agricultura  Familiar 
+
+que  tenga  dos  titulares  mujeres  o  dos  titulares  hombres.  En  los  casos  en  que  la  actividad  sea 
+
+conducida por dos personas de igual sexo habrá un solo titular del ReNAF 
+
+En  tanto,  las  edades  promedio  de  los  titulares  oscilan  entre  los  40  y  49  años  en  todo  el  país.  En  el 
+
+caso de las mujeres, las edades de las titulares rondan entre los 43 y 49 años en todas las regiones; y 
+
+las de los varones entre los 40 y 47 años. Cuyo, específicamente, muestra un promedio de edad para  
+
+las  mujeres  titulares  de  48,3  años,  y  para  los  varones,  44,9  años.  En  cuanto  al  Nivel  Educativo  de 
+
+los  titulares de  los NAFs, el ReNAF  relevó que  la Patagonia posee  el mayor porcentaje de  titulares 
+
+sin  instrucción  (10,8%)  y  la  Pampeana,  el  menor  (2,7%).  También  en  la  totalidad  de  las  regiones 
+
+prevalecen  los  titulares  que  han  completado  el  Nivel  Primario,  aunque  los  menores  valores  se 
+
+presentan  en  Patagonia  y  la  región  Pampeana.  En  Cuyo,  casi  el  72%  de  los  titulares  de  los  NAFs 
+
+han  transitado  por  el Nivel  Primario,  completándolo  el  45,3%  de  estos. Asimismo,  el  19,5%  cursó 
+
+el Nivel Secundario, y lo finalizó el 11,1%. Finalmente, un 3,6% declara no haber alcanzado ningún 
+
+Nivel Educativo; mientras que un 5% transitó un Nivel Superior.  
+
+De acuerdo a  los datos del ReNAF, de  las  titulares mujeres de  los NAFs de  todo el país,  la mayoría 
+
+declara  tener  pareja  (65,7%).  Esta  situación  se  da  en  más  de  la  mitad  de  los  casos  de  todas  las 
+
+regiones, destacándose mayormente los porcentajes de las titulares con pareja del NEA  (78,2%) y la 
+
+región Pampeana (63,9%).  
+
+ 
+
+8 
+
+Entre  los  integrantes,  existe,  en  todas  las  regiones  del  país,  una  mayor  cantidad  de  miembros 
+
+productores  sobre  aquellos  integrantes  que  no  lo  son.  En  Cuyo  se  observa  que,  del  total  de 
+
+integrantes (41.843), el 77% declaran ser productores. 
+
+En  el  análisis  sobre  la  vinculación  de  los  NAF  con  la  tierra,  así  como  sobre  las  superficies 
+
+involucradas, “se  incluye estimaciones sobre  la superficie  típica declarada por  los NAF. Tanto para 
+
+la superficie total como  trabajada se presenta la mediana, que  indica el valor que se encuentra en el 
+
+punto medio de la distribución de frecuencias. Para estas estimaciones se utilizó solamente los NAF 
+
+que  declaran  superficie  con  límites  definidos.  Asimismo  se  construyó  un  indicador  que  estima  la 
+
+forma  principal  de  tenencia  de  la  tierra,  en  base  a  la  superficie  declarada  para  cada  situación.  De 
+
+este  modo,  si  un  NAF  declara  2  has  en  posesión  y  8  has  en  arrendamiento,  se  considera  que  su 
+
+forma principal de tenencia es el arrendamiento” Carmagnani, 2008 
+
+La mediana de las superficies totales para el total del país se calcula en 5 hectáreas y las superficies 
+
+trabajadas,  en  3  hectáreas. En  el  caso  de Cuyo,  estos  valores  son  3  has.  de  superficie  total  y  2  has. 
+
+trabajadas.  
+
+Así, 81.459 NAFs poseen límites definidos y 8.465, no. Estos valores superan ya que “se presenta la 
+
+distribución  de  los  NAFs  según  condiciones  de  acceso  a  la  tierra,  considerando  la  frecuencia 
+
+(cantidad  de  NAFs)  con  que  se  presentan  las  distintas  condiciones  en  la  provincia.  Se  debe  tener 
+
+presente que un mismo NAF puede ubicarse en más de una situación por lo que las respuestas a esta 
+
+pregunta  son  múltiples”  (2014;  21).  En  Cuyo,  11.994  NAFs  poseen  límites  definidos  y  1.126,  no. 
+
+De  los  primeros,  5.834  (49%)  son  declarados  en  propiedad,  siguiendo  1.875  NAFs  (15%)  en 
+
+condominio hereditario, 1.314 en arrendamiento  (11%)  y 1.289  (11%) en Otra condición de  acceso 
+
+a la tierra.  
+
+A  nivel  nacional  se  observa  que  la  agricultura  y  la  producción   animal  prevalecen  entre  las 
+
+actividades principales de los NAFs (69% y 77%, respectivamente). Le continúan en importancia la 
+
+agroindustria  (16%)  y  la  artesanía  y  recolección  (9%  correspondientemente).  Menores  valores 
+
+registran  la  caza,  la  pesca  y  acuicultura  y  el  turismo  rural. Estas  últimas  tendencias  se modifican  e 
+
+las regiones del NOA y NEA, donde se  incrementan la caza y  la recolección. Esto  también se da en 
+
+la Patagonia, donde también se presenta en alza el turismo rural, la pesca y la acuicultura.   
+
+En  el  caso  de  la  región  Cuyo,  la  producción  animal  (68%),  la  agricultura  (59%)  y  la  agroindustria 
+
+(31%)  son  las  principales  actividades  productivas  registradas  en  los NAFs  analizados.  La  artesanía 
+
+es  la  fuente  de  ingresos  de  un  7%  de  los Núcleos,  y  la  recolección,  lo  es  en  un  3%  de  las  familias. 
+
+Finalmente, la caza, la pesca y la acuicultura y el turismo rural no superan el 1% en ningún caso.  
+
+ 
+
+9 
+
+Fuente: Elaboración propia en base a datos del ReNAF. 
+
+Para  Cuyo  se  registra  un  58%  de  NAFs  que  desarrollan  la  actividad  avícola;  un  48%  la  actividad 
+
+caprina  y  un  43%,  vacuna.  En  tanto,  la  porcina  (28%)  junto  a  la  equina  (23%)  superan  a  la  ovina 
+
+(13%), así como a la cría pilífera (6%) y de otro ganado (4%).  
+
+En  comparación  con otras  regiones,  el NEA  y NOA presentan valores mayores  en un 10  y 20%  en 
+
+cuanto a cantidad de NAFs dedicados a la actividad vacuna, caprina, equina y porcina.  
+
+En  el  registro de NAFs  cuyanos  y  con  cultivos  agrícolas predominan  aquellos  que  se dedican  a  los 
+
+frutales  (52%),  al  cultivo  de  hortalizas  (29%)  y  huerta  (27%).  Asimismo  se  registran  valores 
+
+menores para las forrajeras, cereales y hortalizas de hojas.  
+
+Por  otro  lado,  en  la  producción  de  artesanías  predominan  las  textiles,  las  realizadas  a  partir  del 
+
+cuero  y  la  madera.  Las  artesanías  realizadas  con  Minerales,  Arcilla,  Mimbre  y  Vegetales  son 
+
+también  producciones  de  los  NAFs,  pero  que  representan  porcentajes  mínimos  a  nivel  nacional 
+
+(entre el 1 y 8%). En Cuyo predominan las artesanías textiles y con cuero.   
+
+Las actividades agroindustriales  registran a nivel nacional una amplia gama de producciones. En  la 
+
+región  Cuyo,  predominan  jerárquicamente  las  producciones  de  conservas,  dulces,  mermeladas  y 
+
+jaleas.  
+
+Respecto  a  la  comercialización, más del  70% de  lo  producido  en  los NAFs  se  comercialice,  siendo 
+
+plausible que lo restante sea destinado a consumo familiar, trueque o bien, haya sido perdido. Cuyo, 
+
+la Patagonia  y  la  región Pampeana  superan en NAFs que comercializan  sus productos a  los valores 
+
+nacionales.  
+
+Al referirse a la contratacion de mano de obra, los datos tanto para el total de NAFs en el país como 
+
+para  Cuyo  muestranun  comportamiento  similar.  Es  decir,  más  de  la  mitad  de  los  Núcleos  sólo 
+
+recurren de 1 a 2 personas de la familia para el desarrollo de  las actividades productivas. Esto, en el 
+
+caso de la región Cuyo representa el 66% de los NAFs registrados.   
+
+En  tanto,  los  Núcleos  que  declaran  ocupar  de  3  a  4  personas,  a  nivel  nacional  y  en  Cuyo, 
+
+representan  el  24%  del  total  de  los  casos.  Porcentajes  que  rondan  el  10  y  11%  corresponden  a  los 
+
+NAFs con 5 y 6 familiares trabajando en el Núcleo.  
+
+Finalmente,  respecto  de  los  ingresos  familiares,  en  Cuyo,  el  65%  de  los  NAFs  declaran  combinar 
+
+ingresos  prediales  y  extraprediales  para  su  economía  familiar.  Asimismo,  un  13%  se  mantiene 
+
+exclusivamente de  los  ingresos extraprediales  y un 19% de  los prediales. Un 2% de  los Núcleos no 
+
+posee ingresos monetarios.  
+
+Es posible  indicar según  la Secretaría de Agricultura Familiar de  la provincia que a 2016, San  Juan 
+
+cuenta con 5.118, manteniendo el mismo peso relativo a nivel regional; es decir, el 29%.En cuanto a 
+
+las  producciones  declaradas,  3.705  se  dedican  a  la  producción  vegetal,  3.661,  a  la  producción 
+
+animal  y  2.785,  a  la  producción  agroindustrial.  A  éstas  le  sigue  la  producción  artesanal,  actividad 
+10 
+
+ 
+
+declarada por 395 NAFs;  otra  actividad destacada  es  la  recolección,  relacionada  con  al  algarroba  y 
+
+el junquillo, en 219 Núcleos.  
+
+ 
+
+Conclusiones: Reflexiones Finales 
+
+Es  evidente  que  los  estudios  sobre  Agricultura  Familiar,  actualmente,  siguen  siendo  de  gran 
+
+importancia, especialmente a partir de algunos cambios producidos en  la política nacional,  la nueva 
+
+configuración política, social y económica en Latinoamérica y el Mundo.  
+
+Las  decisiones  actuales  de  políticas  macroeconómicas  tomadas  por  el  gobierno  nacional ,  en  el 
+
+sentido de disminuir y quitar retenciones al agro sobre a la producción a gran escala, la devaluación 
+
+cambiaria y el elevado precio de  las producciones  locales, perjudicó en cierta medida a  los  sectores 
+
+concentrados del  agro,  se desprotegió al mercado  interno,  licuando además, el poder adquisitivo de 
+
+los trabajadores, imposibilitando en el corto plazo la expansión de la agricultura en pequeña escala.   
+
+En  cuanto  a  la  reconfiguración  del  sistema  agroalimentario  nacional  y  de  territorios  a  partir  de  los 
+
+noventas,  organismos  nacionales  e  internacionales  establecieron  acuerdos  de  cooperación  para  dar 
+
+cuenta de esta situación a partir del abordaje estadístico, además del sociológico e histórico.  
+
+En  2007,  con  la  creación  del  Registro  Nacional  para  la  Agricultura  Familiar  (ReNAF),  todos  los 
+
+agricultores  familiares  que  voluntariamente  hubieren  deseado  hacerlo,  quedaron  registrados  como 
+
+tales,  siendo  un  derecho  y  no  una  obligación,  accediendo  a  ciertos  beneficios  como  contar  con  el 
+
+Monotributo  Social  Agropecuario,  según  los  criterios  establecidos  por  el  Foro  Nacional  de  la  
+
+Agricultura Familiar (FoNAF). 
+
+A  partir  del  registro,  los  AF  pudieron  identificarse  como  tales,  se  les  facilitó  acceder  a  ciertas 
+
+políticas  diferenciales  y  contar  con  información  fehaciente,  confiable  y  actualizada  de  todos  los 
+
+potenciales destinatarios  de acciones  y  servicios, que el Estado disponga para este sector en  todo el 
+
+país. 
+
+En la actualidad no hay claridad respecto a las políticas públicas nacionales de AF, específicamente 
+
+en cuanto a líneas a seguir y presupuesto a asignar para su desarrollo, dificultando la sustentabilidad 
+
+del  sector  agropecuario general. Sin  embargo, no  puede negarse  la AF  como  una  realidad  existente 
+
+en el agro argentino, cuyas actividades constituyen un vital aporte  al desarrollo económico  y  social 
+
+de gran parte de la población del país. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+Bibliografía: 
+
+  Alonso,  L.;  Arribas,  J.  &  Ortí,  A.  (1990):  “Evolución  y  perspectivas  de  la  agricultura 
+
+familiar: 
+
+de 
+
+«propietarios  muy 
+
+pobres 
+
+a 
+
+agricultores 
+
+empresarios”,  
+
+revistas.ucm.es/index.php/POSO/article/viewFile/POSO9191120035A/30560 
+
+  Bendini,  M.  (2014):  “Asalarización  parcial  de  familias  rurales:  diferenciando  tipos  y 
+
+prácticas  sociales”.  Revista  Interdisciplinaria  de  Estudios  Agrarios  Nº  42  -  1er  semestre-
+
+Grupo de Estudios Sociales Agrarios-FADECS-Conicet 
+
+  Carmagnani,  M.  (2008):“La  Agricultura  Familiar  en  América  Latina”;  Problemas  del 
+
+Desarrollo.  Revista  Latinoamericana  de  economía,  ISSN:  0301-7036,  volumen  39,  Nº  153, 
+
+2008. http://www.probdes.iiec.unam.mx Chayanov, 1974 citado en Paz, Raúl: 2008. 
+
+  Cámara  de  Diputados  de  la  Provincia  de  San  Juan:  (2014)  Ley  N°  8522.  “Ley  de 
+
+Desarrollo 
+
+Rural 
+
+Integral 
+
+de 
+
+la 
+
+Agricultura 
+
+Familiar” 
+
+(AF), 
+
+www.legislaturasanjuan.gob.ar/leyes-sancionadas-2/item 5026/ley-n-8522. 
+
+  Dirección de Registro Nacional de Agricultura Familiar (DReNAF) (s/a)   “Manual para 
+
+el  Registrador  Habilitado”.  Argentina:  Editorial  Instituto  para  la  Inclusión  Social  y  el 
+
+Desarrollo  Humano  Asociación  Civil.  Registro  Nacional  de  la  Agricultura  Familiar  –
+
+Ministerio de Agricultura, Ganadería y Pesca – Presidencia de la Nación. 
+
+  Foro  Nacional  de  Agricultura  Familiar  (s/a)  “Documento  Base  para  implementar  las 
+
+políticas públicas del sector de la Agricultura Familiar”. www.FonAF.org.ar 
+
+ 
+
+INDEC.  (1997)  Síntesis  Socio  Demográfica  San  Juan  Bs.  As.,  y  (1999)  Situación 
+
+Demográfica San Juan Análisis Demográfico Nº 16. 
+
+  Gordillo  de  Anda,  G.,  Janvry,  A.  de  &  Sadoulet,  E.  (2004):  “Seguridad  Alimentaria  y 
+
+Agricultura Familiar” Revista de CEPAL, N° 83. LC/G. 2231-P 
+
+  Paz,  R.  (2008)  “Mitos  y  realidades  sobre  la  agricultura  familiar  en  Argentina:  reflexiones 
+
+para su discusión”, Problemas del Desarrollo. Revista Latinoamericana de economía, ISSN: 
+
+0301-7036, volumen 39, Nº 153, 2008. http://www.probdes.iiec.unam.mx 
+
+  Posada,  M.  (1997)  “Teoría  y  Sujetos  Sociales.  Algunas  consideraciones  acerca  de  los 
+
+estudios  sobre  el  campesinado  en  Argentina”,  Argentina:  Universidad  Nacional  de  Luján. 
+
+Facultad  Latinoamericana de  Ciencias  Sociales  (FACSO).  Departamento  de  Ciencias 
+
+Sociales. Papers 51. 
+
+  Registro  Nacional  de  la  Agricultura  Familiar  -ReNAF-  (2014):  Informe  Nacional  sobre 
+
+Agricultura  Familiar.  Ministerio  de  Agricultura,  Ganadería  y  Pesca  –  Argentina: 
+
+Presidencia de la Nación. 
+
+12 
+
+ 
+
+  Videla,  H.  (1972)  “Historia  de  San  Juan”,  San  Juan,  Argentina:  Editorial  Academia  del 
+
+Plata, Universidad Católica de Cuyo. Tomo II,  pp. 59-87. 
+
+ 
+
+13 
+
+

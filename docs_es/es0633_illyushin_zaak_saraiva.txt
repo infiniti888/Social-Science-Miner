@@ -1,0 +1,1118 @@
+ 
+
+ 
+
+JUNTAS DE ESCUELAS EN BRASIL DESPUÉS DE 2000: EXPERIENCIA INCOMPLETA DE 
+
+PARTICIPACIÓN SOCIAL EN LA GESTIÓN DE LAS POLÍTICAS EDUCATIVAS  
+
+ 
+
+ 
+
+Illyushin ZAAK SARAIVA 
+
+illyushin.saraiva@luzerna.ifc.edu.br 
+
+Instituto Federal Catarinense – Campus Luzerna 
+
+Brasil 
+
+ 
+
+ 
+
+Maurício Tavares PEREIRA 
+
+mauricio.pereira@alvorada.ifrs.edu.br 
+
+Instituto Federal Rio Grande do Sul – Campus Alvorada 
+
+Brasil 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+RESUMEN 
+
+Este  trabajo  tiene  como  finalidad  desarrollar  diagnóstico  preliminar  sobre  el  desempeño  de  los 
+
+consejos  en  las  escuelas  públicas  de  Brasil,  desde  la  perspectiva  de  la  gestión  democrática 
+
+establecida  por  la  Constitución  Federal  de  1988,  que  obligó  a  los  gobiernos  locales  y  estatales  de 
+
+Brasil  garantizar,  elección  directa  del  Jefe  Maestro  en  todas  las  escuelas,  y  participación 
+
+comunitaria en la gestión de las escuelas por elección de padres de los estudiantes y otros miembros 
+
+de  la  comunidad  para  los  consejos  escolares.  El  marco  de  análisis  se  presenta  en  una  perspectiva 
+
+histórica y crítica: después de 21 años bajo la dictadura militar había, en 1985, alrededor del 25% de 
+
+Brasileños mayores de 15 años de edad analfabetos (IBGE, 1991), especialmente concentrados en el 
+
+norte  y  al  noreste  del  país.  Fue  sólo  con  la  promulgación  de  la  nueva Constitución  democrática  de 
+
+1988,  que  establece  la  base  jurídica  y  política  para  una  nueva  educación  pública,  gratuita  y  de 
+
+calidad, orientada a las masas, con la participación obligatoria de la comunidad en su gestión, lo que 
+
+permitió  al  estado  brasileño  una  reducción  cada  vez  mayor  en  la  tasa  de  analfabetismo  al  nivel  de 
+
+8,7% en 2011 (IBGE, 2012). También han cambiado miles de estatutos de las escuelas públicas, con 
+
+el  establecimiento  de  elecciones  directas  para  el Director  de  la Escuela  y  los miembros  de  la  Junta 
+
+Escolar.  Estudios  en  profundidad  han  demostrado  que,  en  la  práctica,  gracias  a  regulaciones 
+
+implementadas durante el período neoliberal 1995-2002,  las  juntas escolares han servido más como 
+
+elemento  legitimador  de  decisiones  adoptadas  por  gobiernos  locales  y  estatales,  sin  tomar  el 
+
+carácter representativo y el papel crítico que necesariamente se había previsto en la Constitución de 
+
+1988  (Dourado  et  al,  2006; Oliveira  et  al,  2007, Haddad,  2001; Gracindo,  2004),  otro  aspecto  aquí 
+
+también  analizado.  El  análisis  de  los  resultados  es  eminentemente  cualitativo.  El  método  de 
+
+recolección  de datos  es documental,  centrado  en  libros,  artículos  e  investigaciones  realizadas  sobre 
+
+el  papel  de  los  consejos  escolares  en  el  ámbito  brasileño  de  los  últimos  25  años,  sino  también 
+
+haciendo uso de datos secundarios aportados por el Ministerio de Educación  - MEC por el  Instituto 
+
+Brasileño  de Geografía  y Estadística  -  IBGE  y  el  Instituto Nacional  de Estudios  para  la Educación 
+
+Anísio  Teixeira  -  INEP,  siempre  que  necesario.  El  trabajo  señala  de  manera  preliminar,  según  los 
+
+estudios  y  los  datos  proporcionados  por  el  MEC,  el  IBGE  y  por  INEP,  que  la  calidad  de  la 
+
+2 
+
+ 
+
+representación  es  aún  pequeña,  con  poca  participación  de  la  comunidad  en  la  selección  de  los 
+
+representantes electos en el consejo, y participación aún peor en la supervisión de los mandatos y el 
+
+ejercicio de  las acciones y decisiones de  interés para  los padres, estudiantes y otros miembros de  la 
+
+comunidad. 
+
+ 
+
+ABSTRACT 
+
+This  paper  aims  to  develop  a preliminary diagnosis  of  the performance of  boards  in  public  schools 
+
+in  Brazil,  from  the  perspective  of  democratic  management  established  by  the  Federal  Constitution 
+
+of  1988,  which  obliged  local  and  state  governments  in  Brazil  to  guarantee  direct  election  of  the 
+
+Master Chief  in all  schools, and community  involvement  in  the management of  schools by electing 
+
+parents of  students and other community members  for  school boards. The  framework of  analysis  is 
+
+presented  in a historical and critical perspective: after 21 years under  the military dictatorship  there 
+
+were,  in  1985,  around  25%  of  Brazilians  over  15  years  of  age  illiterate  (IBGE,  1991),  especially 
+
+concentrated  in  the north and  the northeast of  the  country.  It was only with  the promulgation of  the 
+
+new  democratic  Constitution  of  1988,  which  establishes  the  legal  and  political  basis  for  a  new 
+
+public  education,  free  and  oriented  to  the  masses,  with  the  obligatory  participation  of  the 
+
+community  in  its  management,  which  allowed  to  the  Brazilian  state  an  increasing  reduction  in  the 
+
+illiteracy  rate  to  8.7%  in  2011  (IBGE,  2012).  Thousands  of  public  school  statutes  have  also  been 
+
+changed,  with  the  establishment  of  direct  elections  for  the  School  Principal  and  for  School  Board 
+
+members.  In-depth  studies  have  shown  that,  thanks  to  regulations  implemented  during  the 
+
+neoliberal period 1995-2002, school boards have served more as a legitimizing element of decisions 
+
+adopted by  local  and  state governments, without  taking  the  representative  character  and  the  critical 
+
+role which  had  necessarily  been  foreseen  in  the Constitution  of  1988,  another  aspect  also  analyzed 
+
+in  this  article  (Dourado  et  al,  2006;  Oliveira  et  al,  2007,  Haddad,  2001;  Gracindo,  2004).  The 
+
+analysis  of  the  results  is  eminently  qualitative.  The  method  of  data  collection  is  documentary, 
+
+centered on books, articles and research on the role of school boards in the Brazilian  context for the 
+
+last  25  years,  but  also  using  secondary  data  provided  by  the Ministry  of  Education  - MEC,  by  the 
+
+Brazilian  Institute  of Geography  and  Statistics  -  IBGE,  and  by  the National  Institute  of  Studies  for 
+
+3 
+
+ 
+
+Education Anísio Teixeira  -  INEP, whenever necessary. According  to  the  studies  and data provided 
+
+by  MEC,  the  IBGE  and  INEP,  the  work  indicates  that  the  quality  of  representation  is  still  small, 
+
+with  little  community participation  in  the  selection of  elected  representatives  in  the  school  council, 
+
+and  even  worse  involvement  in  the  supervision  of  mandates  and  the  exercise  of  actions  and 
+
+decisions of interest to parents, students and other members of the community. 
+
+ 
+
+Palabras clave 
+
+(Gestión Democrática; Juntas de Escuelas; Redemocratización Brasileña) 
+
+ 
+
+Keywords 
+
+(Democratic Management; School Councils; Brazilian Redemocratization ) 
+
+ 
+
+4 
+
+ 
+
+  
+
+I. Introducción 
+
+ 
+
+Después  de  32  años  de  encerrada  la  página  amarga  de  la  dictadura militar  brasileña,  el  país 
+
+se ve de nuevo a las vueltas con una ruptura institucional de consecuencias profundas y aún difíciles 
+
+de medir o prever en detalles. 
+
+Con  el  ascenso  del  vicepresidente  el  17  de mayo  de  2016  tras  el  derrocamiento  de  la  titular 
+
+elegida  con 54 millones  de votos  en 2014,  en un  simulacro de  juicio  sin  ninguna prueba de  crimen 
+
+de  responsabilidad,  los  brasileños  asistieron  en  poco  más  de  un  año  a  un  verdadero  ataque 
+
+relámpago  a  los  derechos  sociales  construidos  históricamente  (Guimarães,  2017),  además  del 
+
+recrudecimiento  de  la  represión  a  los movimientos  sociales  y,  para  asombro  general,  al  ascenso  de 
+
+movimientos  pro  fascistas  al  carácter  de  partido  político  de  masas,  arregimentando  literalmente  a  
+
+millones  de  seguidores  a  partir  de  plataformas  de  internet  (Mattei,  2016),  logrando  elegir  en  las 
+
+elecciones  municipales  de  2016  concejales  en  ciudades  importantes,  incluyendo  a  São  Paulo,  la 
+
+mayor  ciudad de América del Sur,  con un discurso neoliberal apelando a  la  reducción del Estado, a 
+
+las privatizaciones ya la iniciativa privada (Libório, 2016). 
+
+Mientras 
+
+tanto  en  el  plano  educativo,  una  articulación  entre 
+
+líderes  religiosos 
+
+ultraconservadores, sectores de la derecha tradicional e integrantes de los movimientos pro fascistas 
+
+da  inicio  a  la  campaña  titulada  "Movimiento Escuela Sin Partido",  cuya principal demanda  sería  el 
+
+control  sobre  la  actuación  de  los  profesores,  en  especial  los  profesores de  las  ciencias humanas,  en 
+
+el  sentido  de  combatir  al  llamado  "adoctrinamiento  marxista"  que  supuestamente  existiría  en 
+
+escuelas públicas de la enseñanza fundamental y media (Penna, 2016). 
+
+El  movimiento,  altamente  organizado  y  contando  con  razonable  financiamiento,  logró 
+
+aprobar  a  través  de  concejales  simpáticos  a  su  causa  Leyes  Municipales  que  institucionalizan  la 
+
+llamada  "Escuela  Sin  Partido"  en  algunas  decenas  de  municipios,  aunque  el  Supremo  Tribunal 
+
+Federal  ha  declarado  tales  Leyes  inconstitucionales  (Moura,  2016).  La  disputa  política  sigue,  y  el 
+
+movimiento  que  quiere  amordazar  a  los  profesores  sigue  como  una  amenaza  a  la  Escuela  Pública, 
+
+Gratuita y de Calidad. 
+
+5 
+
+ 
+
+En  paralelo  a  la  disputa  política  y,  a  pesar  de  la  amenaza  de  reducción  del Estado, millones 
+
+de brasileños  ingresaron  en  los bancos escolares  en 2017, en  su mayoría  aún en edad  reducida para 
+
+enfrentar una larga y compleja jornada que se completará años después (INEP, 2017). La educación, 
+
+o proceso de  enseñanza  / aprendizaje,  es  la  transformación  relacionada a  la construcción de nuevos 
+
+conocimientos que ocurrirá entre esos dos puntos extremos, el de entrada y el de salida de la escuela. 
+
+Se  parte  del  supuesto  de  que  en  ese  plano  educativo,  si  el  final  del  proceso  formal  de 
+
+aprendizaje  realmente  será  alcanzado  por  el  alumno  -  con  la  aprobación  en  el  último  año  y  la 
+
+consecuente  conclusión  del  curso  -  y  en  qué  medida  o  profundidad  ocurrió  el  aprendizaje  -  la 
+
+obtención de la nota final del estudiante en las diversas materias, son los dos principales indicadores 
+
+de  calidad  de  la  educación  que  es  ofrecida  por  el  Estado  a  sus  ciudadanos,  y  deberían  ser  la 
+
+preocupación  máxima  de  la  sociedad  y  de  los  movimientos  que  realmente  se  preocupasen  por  la 
+
+educación y la calidad de vida de las futuras generaciones (Oliveira et al, 2008). 
+
+Se considera que la primera de las preguntas arriba descritas (¿el alumno alcanzó el final del 
+
+proceso  formal  de  aprendizaje?)  Fue  respondida  a  partir  de  la  evolución  de  la  educación  brasileña 
+
+de  las  últimas  décadas,  con  la  brusca  elevación  de  los  indicadores  de  frecuencia  escolar  en  el 
+
+territorio  nacional  especialmente  en  los  últimos  de  20  años,  alcanzando  índices  próximos  a  la 
+
+totalidad de niños y adolescentes en la escuela (INEP, 2013). 
+
+En  ese  sentido,  el  porcentaje  de  la  población  brasileña  en  edad  escolar  matriculada  en  la 
+
+enseñanza fundamental pasó del 70% al 95,3% entre los años de 1976, auge de la dictadura, y 2007, 
+
+auge de las políticas inclusivas del segundo gobierno de Luis Inacio Lula da Silva (INEP, 2013).  
+
+Es  preciso  resaltar  la  grandiosidad  de  este  hecho  tras  los  21  años  de  la  brutal  d ictadura 
+
+militar  que  asoló  el  país  entre  1964  y  1985,  con  miles  de  presos  y  torturados,  y  hasta  hoy  más  de 
+
+500  desaparecidos  cuyas  familias  buscan  desesperadas  por  alguna  información  sobre  el 
+
+fallecimiento,  de  enterramiento  o  cualquier  pista  sobre  los  responsables  del  asesinato  de  sus  seres 
+
+queridos (Teles, 2010). 
+
+Esta  dictadura  dejó  un  triste  legado  en  términos  sociales,  con  millones  de  brasileños  en 
+
+situación de hambre, divida externa 1.500% mayor que en 1964,  inflación de casi el 100% al año y, 
+
+6 
+
+ 
+
+en lo que se refiere a la educación, una tasa del 25% y en el caso de los niños menores de edad en la 
+
+escuela (Silva, 2014). 
+
+Sin  embargo,  hay  un  tema  de  importancia  vital  para  la  Gestión  Escolar  que,  a  pesar  de 
+
+previsto  en  la  Constitución  Federal  de  1988  y  en  la  Ley  de  Directrices  y  Bases  de  la  Educación 
+
+Nacional  de  1996,  aún  no  se  ha  implantado  de  forma  efectiva:  la  Democracia  en  las  escuelas 
+
+públicas  brasileñas,  que  es  el  principio  de  la  gestión  democrática  que  debe  regir  no  sólo  las 
+
+relaciones entre  la escuela y  los miembros de  la comunidad, sino  también el proceso de elección de 
+
+los dirigentes escolares, además de la toma de decisiones sobre la escuela (Haddad, 2001). 
+
+En  lo  que  se  refiere  a  la  Gestión Democrática  de  las  escuelas  públicas  brasileñas,  los  datos 
+
+muestran  todavía un  largo camino por  recorrer, con miles de escuelas  funcionando sin  respeto a  los 
+
+preceptos mínimos de Democracia previstos en la Constitución Federal de 1988 y en la LDB.  
+
+Este  texto,  fruto  de  las  investigaciones  de  los  autores  sobre  el  tema,  aún  en  proceso  de 
+
+recogida  de  datos,  tiene  como  objetivo  componer  un  diagnóstico  sobre  el  establecimiento  de  los 
+
+consejos  en  las  escuelas  públicas  de  Brasil  analizando  la  situación  de  la  Gestión  Democrática,  a 
+
+través  de  investigación  documental  sobre  datos  del  INEP,    del  Instituto  Brasileño  de  Geografía  y 
+
+Estadística  -  IBGE,  y del MEC,  además de  investigación  bibliográfica  sobre  el  trabajo  de  autores  e 
+
+investigadores del área. 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+II. Marco teórico/marco conceptual 
+
+El concepto moderno de democracia comporta interpretaciones múltiples y variadas lecturas, 
+
+de suerte que incluso en analizando hechos ampliamente conocidos y estudiados -como por ejemplo, 
+
+el  sistema  político  electoral  venezolano  después  de  1999-  hay  toda  una  gama  de  puntos  de  vista  a 
+
+influenciar  los analistas, de modo que  lo que para algunos es considerado una dictadura  sin sombra 
+
+de dudas, es para otros un ejemplo de Democracia. 
+
+De  esta  forma,  se  busca  delimitar  en  este  texto  no  lo  que  sea  la  Democracia,  pero  por  lo 
+
+menos  y  tanto  como  sea  posible,  lo  que  sea  la  Gestión  Democrática  en  el  ámbito  de  las  escuelas 
+
+públicas  de  educación  básica  en  Brasil,  tema  ya  discutido  y  analizado  por  buen  número  de  los 
+
+investigadores en Educación. 
+
+El presente  estudio  adopta  así  como  parámetros de  referencia de  la Gestión Democrática  en 
+
+el  ámbito  escolar  todos  aquellos  propuestos  por  educadores,  pensadores,  corrientes  académicas, 
+
+movimientos  sociales  y  luchas  colectivas  en  defensa  de  la  Educación  Pública  a  lo  largo  del  siglo 
+
+XX, pudiendo  ser  remitidas  sus orígenes  al Manifiesto de  los Pioneros de  la Educación en Defensa 
+
+de  la  Educación  Pública,  redigido  en  los  años  1930  por  Anísio  Teixeira,  Lourenço  Filho,  Cecília 
+
+Meireles  y  otros  importantes  educadores,  pasando  por  las  ricas  propuestas  de  Paulo  Freire, 
+
+Florestan  Fernandes  e  Roque  Stencer  Maciel  de  Barros  en  los  años  1960,  hasta  confluir  en  el 
+
+conjunto de miles de propuestas del Fórum Nacional  en Defensa de  la Escuela Pública,  constituido 
+
+ya  en  1987,  después  del  fin  del  reflujo  amargo  de  la  dictadura militar,  por miles  de movimientos  y 
+
+entidades.1. 
+
+En  el  siglo  XX,  la  institución  de  la  Gestión  Democrática  en  las  Escuelas  Públicas  ocurrió 
+
+finalmente  con  la promulgación  de  la Constitución de 1988  (Brasil, 1988)  y posteriormente,  con  la 
+
+aprobación  de  la  Ley  de  Directrices  y  Bases  de  la  Educación  Nacional  de  1996  (Brasil,  1996),  y 
+
+surge de esta forma como una conquista de todos, lo que al principio hace suponer que, al igual que 
+
+                                                 
+1 Acerca de este histórico brasileño de debates y luchas en favor de la Gestión Democrática en la Educación Pública, 
+aquí presentado de forma resumida, ver el vídeo del MEC titulado "La historia y los caminos de la gestión escolar" 
+(MEC, 2011). 
+
+8 
+
+ 
+
+otros  derechos  conquistados  tras  movimiento  y  lucha,  la  Gestión  Democrática  sería  de  inmediato 
+
+"tomada"  y  "usada"  por  la  población  actuando  de  forma  participativa  y  cuestionadora,  haciéndose 
+
+finalmente presente en las Escuelas Públicas de todo el país (Haddad, 2001). 
+
+En  este  sentido,  algunos  de  los  instrumentos  de  la Gestión Democrática  también  instituidos 
+
+en  1988,  como  el  Proyecto  Político  Pedagógico  -  PPP,  las  Elecciones  Directas  para  la  dirección 
+
+escolar,  el  modelo  actual  de  Consejo  Escolar  deliberativo,  parten  todos  de  los  preceptos 
+
+democratizantes  de  la  Educación  Pública  los  cuales  presuponen  una  participación  en  el  sentido  de 
+
+que  las  propias  elecciones  directas  para  el Consejo Escolar,  además  de  la  elaboración  colectiva  del 
+
+PPP,  se  constituyen  en  un  momento  privilegiado  para  la  participación  de  la  Comunidad  (Brasil, 
+
+1988). 
+
+Sin  embargo,  la  propia  naturaleza  diferenciada  de  la  Gestión  Democrática  -  ya  que  no  se 
+
+trata  de  un  "derecho  individual"  a  ser  disfrutado  por  un  único  ciudadano,  como  el  derecho  a 
+
+matricularse  en una  escuela o  el  de  ser  atendido  en un puesto  de  salud,  pero  sí  de una  construcción 
+
+colectiva  que  involucra  la  acción  de  toda  la  comunidad  escolar  y  su  entorno  -  parece  a  esa  altura 
+
+haberse presentado con obstáculo real para su correcta o efectiva implementación (Haddad, 2001). 
+
+En este sentido, el  trabajo de Azevedo (2008) revela estadísticas esclarecedoras acerca de  la 
+
+construcción  democrática  y  colectiva  del  Proyecto  Político  Pedagógico,  a  partir  de  datos 
+
+compilados por Gracindo (2004), como estadísticas que comprueban que en 
+
+. 
+[...]  cinco  estados  de  la  Federación,  más  del  30%  de  las  escuelas  no  lo  poseían  [el  proyecto 
+político-pedagógico]  y  que,  en  más  del  20%,  las  poseían,  pero  había  sido  construido  por 
+agentes  externos  a  la  unidad  escolar.  Incluso  con  un  porcentaje mucho menor,  en  diez  estados 
+los datos indicaron que el proyecto fue fruto sólo de la experiencia del director. Además de eso, 
+en  más  del  40%  de  los  municipios  pertenecientes  a  tres  estados  de  la  Región  Nordeste,  el 
+proyecto también fue elaborado por personas extrañas a la unidad escolar, lo mismo ocurrió con 
+más  del  50%  de  escuelas  de  la  Enseñanza  Media  de  nueve  estados  del  país.  (Gracindo,  2004 
+como citado en Azevedo, 2008, pág. 1). 
+ 
+
+Así,  se percibe que  la mera  formalización  de derechos, o más objetivamente,  la  creación  de 
+
+instituciones  supuestamente  democráticas  en  el  seno  de  las  escuelas  públicas,  como  las  Elecciones 
+
+directas o la Construcción Participativa del PPP, no fue capaz de "traer" a las escuelas la democracia 
+
+9 
+
+ 
+
+necesaria para que se considere los procesos que ocurren en la vida cotidiana escolar como procesos 
+
+realmente democráticos, con participación de todos los involucrados. 
+
+Como  recuerda  Haddad  (2001),  no  es  la  garantía  formal  de  un  derecho  que  viabiliza  su 
+
+ejercicio  por  parte  de  los  ciudadanos,  antes  al  contrario,  es  necesario  que  se  cobre  de  los 
+
+gobernantes y órganos públicos el cumplimiento de las leyes que lo garantizan, como en el caso del 
+
+derecho a la educación escolar, pues según Haddad, en Brasil, 
+
+ 
+
+[...] este derecho desde hace muchos años está establecido en ley, a diferencia de muchos países 
+del  tercer  mundo.  Lo  que  ocurre  es  que  la  promulgación  del  derecho  a  la  escolarización 
+tradicionalmente se adelanta a su implantación, a su efectividad. 
+Nosotros, luchadores por el Derecho a la Educación Escolar, estamos siempre presionando a los 
+gobiernos para que cumplan lo que está en ley, desde el tiempo del Imperio, cuando el Derecho 
+a  la  Enseñanza  Primaria  ya  estaba  garantizado  constitucionalmente,  hasta  hoy,  con  la  nueva 
+Ley de Directrices y Bases y el Plan Nacional de Educación. (Haddad, 2001: 8) 
+ 
+
+O  sea,  así  como  en  el  caso  de  varios  otros  derechos  conquistados  por  los  trabajadores,  las 
+
+elecciones  en  las  escuelas  públicas  también  no  garantizan  la  existencia  de  una  verdadera  Gestión 
+
+Escolar Democrática,  lo  que  solo  se  supone que  ocurra  efectivamente  con  la participación  crítica  y 
+
+activa  de  los  estudiantes,  sus  padres  y  otros  miembros  de  la  comunidad,  aún  de  los  maestros  y 
+
+trabajadores, en todos los asuntos cercanos a la escuela. 
+
+Nunca se cree demasiado, entonces, citar el Patrono de la Educación Brasileña, Paulo Freire, 
+
+para quién,  en  el  contexto  histórico de  la  superación de  la  educación  “bancaria” por una  educación 
+
+crítica  y  reflexiva,  es  necesario  suponer  la  invitación  a  prácticas  desafiadoras,  prácticas  estas  entre 
+
+las  cuales  se  defiende  aquí  en  este  trabajo  que  sean  incluidas  las  elecciones  para  los  cargos  de 
+
+dirección administrativa y pedagógica de todas las escuelas públicas:  
+
+ 
+[…]  mientras  la  práctica  bancaria,  como  enfatizamos,  implica  una  especie  de  anestesia, 
+inhibiendo  el  poder  creador  de  los  educandos,  la  educación  problematizadora,  de  carácter 
+auténticamente reflexivo, implica un constante acto de desvelamiento de la realidad. La primera 
+pretende  mantener  la  inmersión;  la  segunda,  por  el  contrario,  busca  la  emersión  de  las 
+conciencias, de que resulte su inserción crítica en la realidad. 
+Cuanto  más  se  problematizan  los  educandos,  como  seres  en  el  mundo  y  con  el  mundo,  tanto 
+más  se  sentirán  desafiados.  Tan  más  desafiados,  cuanto  más  obligados  a  responder  al  desafío. 
+Desafiados,  comprenden  el  desafío  en  la  propia  acción  de  captarlo.  Pero  precisamente  porque 
+
+10 
+
+ 
+
+captan el desafío como un problema en sus conexiones con otros, en un plano de totalidad y no 
+como  algo  petrificado,  la  comprensión  resultante  tiende  a  volverse  crecientemente  crítica,  por 
+eso, cada vez más des alienada (Freire, 1987: 40). 
+ 
+
+Se  considera  así  establecido  por  la  literatura  actual  en  gestión  escolar  que  la  Gestión 
+
+Democrática consiste en un conjunto de prácticas necesariamente en uso en la escuela, antes de una 
+
+mera formalidad apenas prevista en sus estatutos.  
+
+Además,  se  verificó  también  que  la  Gestión  Democrática  es  fruto  de  un  proceso  histórico-
+
+evolutivo,  es  una  conquista  de  la  sociedad  y  que  necesita  ser  perseguida  diariamente,  so  pena  de 
+
+transformarse nuevamente en letra muerta. 
+
+11 
+
+ 
+
+  
+
+III. Metodología 
+
+ 
+
+El análisis de los resultados es eminentemente cualitativo. Esta investigación es exploratoria 
+
+y  descriptiva,  y  se  define  como  un  análisis  con  enfoque  cualitativo-analítico.  Según  Bogdan  y 
+
+Biklen  (1994)  y  Quivy  y  Campenhoudt  (2008),  el  método  cualitativo  utiliza  básicamente  tres 
+
+formas  de  recolección  de  información:  a)  la  encuesta  en  forma  oral  o  escrita  (entrevistas  y 
+
+cuestionarios); b) la observación; y c) el análisis de documentos.  
+
+El  método  de  recolección  de  datos  utilizado  es  eminentemente  documental,  centrado  en 
+
+libros,  artículos  e  investigaciones  realizadas  sobre  el  papel  de  los  consejos  escolares  en  el  ámbito 
+
+brasileño  de  los  últimos  25  años,  sino  también  haciendo  uso  de  datos  secundarios  aportados  por  el 
+
+Ministerio  de  Educación  -  MEC  por  el  Instituto  Brasileño  de  Geografía  y  Estadística  -  IBGE  y  el 
+
+Instituto  Nacional  de  Estudios  para  la  Educación  Anísio  Teixeira  -  INEP,  siempre  que  esto  sea 
+
+necesario. 
+
+12 
+
+ 
+
+ 
+
+ 
+
+IV. Análisis y discusión de datos 
+
+Antes  del  análisis  del  escenario  propiamente  dicho,  es  necesario  puntuar  parámetros  del 
+
+cambio sobre la democracia en la gestión de las escuelas. 
+
+El  Cuadro  1  a  seguir  demuestra  las  exigencias  formales  para  la  gestión  democrática 
+
+instauradas  por  l  Constitución  de  1988  y  por  la  Ley  de  Directrices  y  Bases  de  la  Educación 
+
+Nacional – LDB, Ley 9394/1996. 
+
+ 
+
+Cuadro 1 – Características de la Gestión Democrática en la Constitución y Ley 9394 
+
+Exigencias Legales de La Gestión Democrática 
+
+Antes 
+
+Después 
+
+Participación de Maestros en la Formulación y 
+
+Aprobación del Proyecto Político Pedagógico - PPP 
+
+No Obligatoria 
+
+Obligatoria 
+
+Instalación del Consejo de Escuela 
+
+No Obligatorio 
+
+Obligatorio 
+
+Elecciones para miembros del Consejo 
+
+No Obligatorias  Obligatorias 
+
+Participación de la Comunidad en Consejo 
+
+No Obligatorias  Obligatoria 
+
+Elección Directa para el Cargo de Director 
+
+No Obligatoria 
+
+Obligatoria en 
+algunas Provincias 
+
+Fuente: elaborado por los autores 
+
+ 
+
+Como se puede observar en el Cuadro 1, la participación de la comunidad, sea la comunidad 
+
+interna de  la Escuela  formada por maestros,  trabajadores  escolares  y  estudiantes,  sea  la  comunidad 
+
+externa  formada  por  residentes  del  entorno  de  la  Escuela  y  padres  de  alumnos,  solamente  fue 
+
+garantizada  en  Brasil  a  partir  del  proceso  de  redemocratización  que  culminó  con  la  nueva 
+
+Constitución de 1988 y la LDB de 1996. 
+
+Esto  porque,  como  se  observa,  antes  de  la  aprobación  de  las  dos  normas  citadas  no  era 
+
+obligatoria  la participación de  la  comunidad  en  cualquiera de  los  procesos decisorios de  la  escuela, 
+
+incluso en los procesos de elección de los miembros de la gestión pedagógica y administrativa de la 
+
+13 
+
+ 
+
+institución escolar. Antes, dada la tradición personalista y autoritaria del Estado Brasileño (Holanda, 
+
+1973) la dinámica administrativa en la mayoría de las Escuelas tendía al autoritarismo. 
+
+Se reproduce abajo el  texto Constitucional, en  la parte que normaliza  la Democracia Escolar 
+
+a partir del año 1988. 
+
+ 
+Constitución de la República Federativa de Brasil – 1988 
+Art.  205.  La  educación,  el  derecho  de  todos  y  el  deber  del  Estado  y  de  la  familia,  será 
+promovida y fomentada con  la colaboración de  la sociedad , buscando el pleno desarrollo de 
+la persona, su preparación para el ejercicio de la ciudadanía y su cualificación para el trabajo. 
+ 
+Art. 206. La enseñanza se dictará sobre la base de los siguientes principios: 
+[...] 
+VI - gestión democrática de la enseñanza pública, en la forma de la ley ; (Brasil, 1988) 
+ 
+
+Y así normaliza la LDB de 1996 sobre la Democracia Escolar: 
+
+ 
+Art.  14.  Los  sistemas  de  enseñanza  definirán  las  normas  de  la  gestión  democrática  de  la 
+enseñanza pública en la educación básica, de acuerdo con sus peculiaridades y conforme a 
+los siguientes principios: 
+ 
+I  -  participación  de  los  profesionales  de  la  educación  en  la  elaboración  del  proyecto 
+pedagógico de la escuela; 
+ 
+II  -  participación  de  las  comunidades  escolares  y  locales  en  consejos  escolares   o 
+equivalentes. (Brasil, 1996) 
+ 
+
+O  sea,  como  se  nota,  solamente  a  partir  de  normativas  claras  y  formales  en  sentido  de 
+
+institucionalizar  la Democracia en el  seno de  las Escuelas é que  se  trato de  ir democratizándolas en 
+
+la práctica, lo que infelizmente no significa necesariamente que la gestión sea de facto democrática, 
+
+ya  que  una  exigencia  formal  de  la  Ley  no  supone  que  la  comunidad  se  va  a  cambiar  de  la  noche 
+
+para el día, sus hábitos democráticos, su manera de relacionarse con la Escuela. 
+
+Por otro lado, autores como Azevedo (2008) y Gracindo (2004), postulan que a pesar de que 
+
+le  Ley  Brasileña  instituya  la  Democracia  Escolar  de  manera  plena  y  general  en  todo  el  territorio 
+
+nacional,  en  la  práctica  cotidiana  la  mayoría  de  las  Escuelas  vivencia  una  Democracia  meramente 
+
+formal,  que  existe  solamente  en  los  documentos,  en  cuanto  que  el  la  realidad  la  comunidad 
+
+14 
+
+ 
+
+efectivamente  no  decide  nada,  tampoco  tiene  el  poder  de  decisión,  y  solamente  participa  de  los 
+
+Consejos  o  otros  fórums  cuando  convocada  por  el  Director  unas  pocas  veces  al  año,  y  solamente 
+
+para aprobar presupuestos ya listos y enteramente creados sin su opinión.  
+
+Esta  contradicción  entre  la  teoría  y  práctica  da  caudal  a  cuestionamientos  sobre  el  propio 
+
+concepto  de  Democracia.  ¿A  final,  existiría  alguna  manera  de  mensurar  la  Democracia  practicada 
+
+en una Escuela? ¿Que sería una Escuela Efectivamente Democrática? 
+
+¿Existe o existiría jamás un “democracímetro”? 
+
+ 
+
+Figura 1 – ¿Existiría un Democracímetro? 
+
+Fuente de la imagen: Diseñado con imágenes obtenidas de la internet. Los autores (2017) 
+
+ 
+
+O  sea:  hay  una  gran  subjetividad  en  la  interpretación  del  concepto  de  Democracia  frente  a 
+
+una  dada  realidad  escolar.  ¿Existiría  un  conjunto  de  criterios  mínimos  para  que  la  Escuela  fuera 
+
+considerada Democrática de facto?  
+
+15 
+
+ 
+
+Muchos  autores  tienen  se  debruzado  sobre  estas  cuestiones,  estableciendo  criterios  para 
+
+evaluación de la intensidad de la democracia escolar.  
+
+El análisis que se hará aquí es fruto de las ideas de los autores ya nombrados en la sección II 
+
+de este trabajo, el marco teórico. 
+
+En  la Figura 2 a seguir se exhibe algunos de  los más destacados  integrantes del movimiento 
+
+de Educadores por la Educación Democrática, Pública, Gratuita y de Calidad. 
+
+ 
+
+Figura 2 – Los Fundadores de la Educación Democrática en Brasil en el Siglo XX 
+
+ 
+De  la  izquierda  para  derecha:  Paulo  Freire,  Darcy  Ribeiro,  Cecília  Meireles,  Anísio  Teixeira, 
+Fernando de Azevedo y Florestan Fernandes.  
+Fuente de la imagen: Reproducido de Telefónica (2016) 
+ 
+
+El  punto  alto  del  pensamiento  progresista  que  norteó  a  las  propuestas  democratizadoras 
+
+aprobadas  en  la  Constitución  Brasileña  del  1988  y  la  LDB  de  1996  puede  ser  descrito  como  la 
+
+Democracia  Escolar    siendo  una  construcción  colectiva  de  todos:  alumnos,  sus  padres,  maestros, 
+
+funcionarios escolares y profesores, aún de representantes del gobierno municipal y estadual.  
+
+Así que, estando esta  investigación en fase de recolección de datos,  tal vez su resultado más 
+
+importante  sea  el  que  va  presentado  el  Cuadro  2  a  seguir,  o  sea,  criterios  para  determinación  de  la 
+
+intensidad de la Democracia en la Gestión de las Escuelas Públicas. 
+
+16 
+
+ 
+
+ 
+
+Cuadro 2 – Estudio Evaluativo de la Democracia Escolar – Criterios para Evaluación 
+
+Características 
+Gestión 
+Democrática 
+
+Participación de 
+los profesionales 
+de la educación 
+en elaboración 
+del proyecto 
+pedagógico  
+
+Participación de 
+las comunidades 
+escolares y 
+locales en 
+consejos 
+escolares o 
+equivalentes 
+
+Lo que debe / no debe suceder 
+
+Acciones posibles para el 
+cambio 
+
+1) El equipo escolar necesita participar no 
+sólo de cuerpo presente, pero previamente 
+informado y capacitado para ello. 
+
+2) La participación del equipo durante la 
+elaboración debe ser amplia e irrestricta, con 
+docentes y personal administrativo 
+
+1) Planificación del proceso con 
+buena antelación. 
+
+2) Inclusión, de una etapa inicial 
+de capacitación de los 
+participantes. 
+
+3) Participación de todos. 
+
+1) La participación de la comunidad no 
+puede limitarse a espacios formales de 
+participación. 
+
+2) La participación de la comunidad no 
+puede ser baja proporcionalmente al barrio. 
+
+3) La calidad de la representación debe ser 
+alta, con representantes capaces de dar 
+vuelta a los votantes de la comunidad. 
+
+4) Los docentes y personal administrativo 
+deben plantear propuestas y críticas. 
+
+1) Reuniones sólo con docentes 
+y administrativos - sin 
+participación de la dirección - 
+para elaborar cuestionamientos 
+y sugerencias. 
+
+2) Divulgación permanente de 
+los calendarios electorales. 
+
+3) Estimulo a la participación, 
+con cursos preparatorios para 
+futuros consejeros. 
+
+Garantía de 
+reuniones 
+frecuentes del 
+consejo escolar  
+
+1) Los consejeros deben acompañar la 
+realidad escolar en tiempo hábil para tomar 
+decisiones que influencien los procesos 
+vigentes. 
+
+1) Elaboración del Calendario 
+de Reuniones del Consejo 
+Escolar, con frecuencia al 
+menos mensual. 
+
+Actuación 
+autónoma, 
+crítica y 
+cuestionadora 
+por parte de 
+Consejos y 
+Colegiados 
+
+1) El consejo no puede ser poco propositivo, 
+funcionando como órgano de homologación. 
+
+2) La dirección debe recibir orientaciones, 
+propuestas y cuestionamientos. 
+
+3) Relación de transparencia del proyecto 
+político de la dirección, relación al consejo. 
+
+1) Debería haber en la pauta de 
+cada reunión un ítem inicial 
+para críticas, sugerencias y 
+cuestionamientos del Consejo, 
+antes de las prestaciones de 
+cuentas 
+
+Fuente: elaborado por los autores 
+
+ 
+
+En  las  fases posteriores de esta  investigación,  se  espera utilizar  los criterios para  evaluación 
+
+de la Democracia Escolar arriba descritos, través de investigación de campo en Escuelas Públicas. 
+
+17 
+
+ 
+
+ 
+
+V. Conclusiones 
+
+ 
+
+Este  trabajo  tenía  como  objetivo  desarrollar  diagnóstico  preliminar  sobre  el  desempeño  de 
+
+los  consejos  en  las  escuelas  públicas  de  Brasil,  desde  la  perspectiva  de  la  gestión  democrática 
+
+establecida  por  la  Constitución  Federal  de  1988,  que  obligó  a  los  gobiernos  locales  y  estatales  de 
+
+Brasil garantizar, elecciones directas para los cargos dirigentes en todas las escuelas, y participación 
+
+comunitaria en la gestión de las escuelas por elección de padres de los estudiantes y otros miembros 
+
+de la comunidad para los consejos escolares. 
+
+Los  datos  utilizados  en  los  análisis  fueran  recolectados  eminentemente  través  de 
+
+investigación  documental,  centrando-se  en  libros,  artículos  e  investigaciones  realizadas  sobre  el 
+
+papel  de  los  consejos  escolares  en  el  ámbito  brasileño  de  los  últimos  25  años,  sino  también 
+
+haciendo uso de datos secundarios aportados por el Ministerio de Educación - MEC por el  Instituto 
+
+Brasileño  de Geografía  y Estadística  -  IBGE  y  el  Instituto Nacional  de Estudios  para  la Educación 
+
+Anísio Teixeira - INEP, siempre que esto fue necesario. 
+
+El análisis de los resultados es eminentemente cualitativo. Esta investigación es exploratoria 
+
+y descriptiva, y se define como un análisis con enfoque cualitativo-analítico, utilizando básicamente 
+
+la forma de recolección de información través de análisis de documentos 
+
+Dentro los resultados parciales más importantes hasta el momento está el Estudio Evaluativo 
+
+de  la Democracia Escolar presentado  en  el Cuadro 2,  en  la  sección  2,  lo  cual  básicamente presenta 
+
+como criterios para mensuración de la Democracia Escolar cuatro ítems, siendo (a) Participación de 
+
+los  profesionales  de  la  educación  en  elaboración  del  proyecto  pedagógico;  (b)  Participación  de  las 
+
+comunidades  escolares  y  locales  en  consejos  escolares  o  equivalentes;  (c)  Garantía  de  reuniones 
+
+frecuentes  del  consejo  escolar;  (d)  Actuación  autónoma,  crítica  y  cuestionadora  por  parte  de 
+
+Consejos y Colegiados. 
+
+De  esta  manera  se  entiende  que  el  texto  cumplió  con  su  objetivo,  y  se  espera  que  la 
+
+investigación  pueda  contribuir  con  los  estudios  actuales  sobre  Gestión  Democrática  de  Escuelas 
+
+Públicas. Se recomienda a la investigación la realización de recolección de datos nacionales.  
+
+18 
+
+ 
+
+ 
+
+VI. Bibliografía 
+
+ 
+
+AZEVEDO, Janete Maria Lins de. (2008) O projeto político-pedagógico no contexto da gestão 
+
+escolar. In: Escola de Gestores da Educação Básica. Brasília: MEC. 
+
+BOGDAN, R. C.; BIKLEN, S. K. (1994). Investigação qualitativa em educação: uma introdução à 
+
+teoria e aos métodos. Porto: Porto Editora. 
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília : 1988. 
+
+Disponível em: 
+
+<http://www.senado.gov.br/atividade/const/con1988/CON1988_07.05.2015/CON1988.pdf>. 
+
+BRASIL. Lei Nº 9394, de 20 de dezembro de 1996. Estabelece as Diretrizes e Bases da Educação 
+
+Nacional. Brasília : 1996. Disponível em: <https://www.planalto.gov.br/ccivil_03/Leis/L9394.htm>  
+
+DOURADO, Luiz Fernandes; NAVARRO, Ignez Pinto; WITTMAN, Lauro Carlos; AGUIAR, 
+
+Márcia Ângela da Silva; GRACINDO, Regina Vinhaes. (2006) Conselho Escolar e o financiamento 
+
+da educação no Brasil. – Brasília: Ministério da Educação, Secr. de Educação Básica, 2006. 92 p.  
+
+FREIRE, Paulo. Pedagogia do oprimido, 17a. ed. Rio de Janeiro, Paz e Terra, 1987. 
+
+GRACINDO, Regina V. (2004). Projeto político-pedagógico: retrato da escola em movimento, In: A. 
+
+M. SILVA & M. A. AGUIAR (orgs.) Retrato da escola no Brasil . Brasília: CNTE, 2004. 
+
+GUIMARÃES, José. (2017) Reforma trabalhista de Temer atenta contra os direitos dos 
+
+trabalhadores. In: Blog do Noblat. Disponible en: <http://noblat.oglobo.globo.com/artigos/noticia/ 
+
+2017/04/reforma-trabalhista-de-temer-atenta-contra-os-direitos-dos-trabalhadores.html> 
+
+HADDAD, Sérgio. (2001) O direito à educação no Brasil. Relatoria Nacional para o Direito 
+
+Humano à Educação. São Paulo. 2001. 49 p.  
+
+19 
+
+ 
+
+IBGE – Instituto Brasileiro de Geografia e Estatística.(1991) Taxa de analfabetismo, por grupos de 
+
+idade 1970-1991. In: Séries Históricas e Estatísticas. Disponíble em: 
+
+<https://seriesestatisticas.ibge.gov.br/series.aspx?no=4&op=0&vcodigo=CD101&t=taxa-
+
+analfabetismo-pessoas-15-anos-mais>  
+
+IBGE – Instituto Brasileiro de Geografia e Estatística.(2012) Taxa de analfabetismo, por grupos de 
+
+idade 1991-2011. In: Séries Históricas e Estatísticas. Disponíble em: 
+
+<https://seriesestatisticas.ibge.gov.br/series.aspx?vcodigo=PD171 >  
+
+INEP – Instituto de Pesquisas Anísio Teixeira. (2013) Censo Escolar da Educação Básica 2013 
+
+Resumo Técnico. 2013a. Disponível em: 
+
+<http://download.inep.gov.br/educacao_basica/censo_escolar/resumos_tecnicos/resumo_tecnico_ce
+
+nso_educacao_basica_2013.pdf>. Acesso em: 20 ago. 2015. 
+
+INEP – Instituto de Pesquisas Anísio Teixeira. (2017) Censo Escolar da Educação Básica 2016 
+
+Notas Estatísticas Brasília-DF | Fevereiro de 2017 
+
+LIBÓRIO, Barbara.(02/10/2016). Movimento pró-impeachment, MBL elege um prefeito e sete 
+
+vereadores. In: UOL Eleições 2016. Disponible em: 
+
+<https://eleicoes.uol.com.br/2016/noticias/2016/10/02/desempenho-do-mbl-nas-urnas.htm> 
+
+MATTEI, Lauro. O Fascismo Vencerá? (19/03/2016). In: Textos para a Página. UFSC. Disponível 
+
+em <https://repositorio.ufsc.br/bitstream/handle/123456789/159957/LMattei-
+
+O%20FACISMO%20VENCER%C3%81-19.3.16.pdf?sequence=1> 
+
+MEC – Ministério da Educação. (2011) A história e os caminhos da gestão escolar. Vídeo. 
+
+Disponível em: < https://www.youtube.com/watch?v=IcTVOtoCH-4>. 
+
+MOURA, Fernanda Pereira de. (2006)“Escola Sem Partido”: Relações entre Estado, Educação e 
+
+Religião e os Impactos no Ensino de História. Dissertação (mestrado) - Universidade Federal do 
+
+20 
+
+ 
+
+Rio de Janeiro, Instituto de História, Programa de Pós-Graduação em Ensino de História. Rio de 
+
+Janeiro, UFRJ. 2016. 188 f.: il. 
+
+OLIVEIRA, João Ferreira de Oliveira; MORAES, Karine Nunes de Moraes; DOURADO, Luiz 
+
+Fernandes. (2007) Gestão Escolar Democrática: Definições, Princípios, Mecanismos de Sua 
+
+implementação. 
+
+OLIVEIRA, João Ferreira de Oliveira; MORAES, Karine Nunes de; DOURADO, Luiz Fernandes. 
+
+(2008) Organização da educação escolar no Brasil na perspectiva da gestão democrática: sistemas 
+
+de ensino, órgãos deliberativos e executivos, regime de colaboração, programas, projetos e ações. 
+
+Disponíble em:  <http://escoladegestores.mec.gov.br/site/4-
+
+sala_politica_gestao_escolar/pdf/texto2_2.pdf >  
+
+PENNA, Fernando de Araújo. (2016) Programa Escola Sem Partido: uma ameaça à educação 
+
+emancipadora. In: GABRIEL, Carmem Teresa; MONTEIRO, Ana Maria; MARTINS, Marcos 
+
+Leonardo Bonfim. (orgs.) Narrativas do Rio de Janeiro nas Aulas de História. Mauad X. 2016.  
+
+QUIVY, R.; CAMPENHOUDT, L. V. (2008). Manual de investigação em ciências sociais.  5ª ed. 
+
+Lisboa: Gradiva. 
+
+SILVA, Paulo Roberto. (2014) O legado econômico da ditadura.  In: Revista Amálgama. 28/03/2014. 
+
+Disponíble en: < https://www.revistaamalgama.com.br/03/2014/o-legado-economico-da-ditadura/> 
+
+TELEFÓNICA. Fundação Telefónica Brasil. (2016) Assista a 6 documentários que trilham a 
+
+história de grandes educadores brasileiros. 29/06/2016. Disponíble em: 
+
+<http://fundacaotelefonica.org.br/noticias/assista-a-6-documentarios-que-trilham-a-historia-de-
+
+grandes-educadores-brasileiros/ > 
+
+TELES, Janaína de Almeida. (2010) Os familiares de mortos e desaparecidos políticos e a luta por 
+
+“verdade e justiça” no Brasil. In: TELES, Edson; SAFATLE, Vladimir (Orgs.). O que resta da 
+
+ditadura: a exceção brasileira. São Paulo: Boitempo, 2010. 
+
+21 
+
+

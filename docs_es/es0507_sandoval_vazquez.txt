@@ -1,0 +1,840 @@
+EDUCACIÓN AMBIENTAL, AGENCIA SOCIAL Y CAMBIO CLIMÁTICO MUNDIAL (CCM)
+EN AM ÉRICA LATINA
+
+Francisco Rubén Sandoval Vázquez
+
+sandovaz@hotmail.com
+
+Universidad Aut ónoma d el Estado de Morelos (UAEM)
+
+México
+
+1
+
+RESUMEN
+
+La  educaci ón  ambiental,  desde  su  concepci ó
+
+n  se  defini ó  como  una  de  las  principales  e strategias a
+
+implementar con el fin de afrontar  la crisis ambiental al generar cambios comportamentales capaces
+
+de  propiciar  conductas  sustentables.  Por  su  parte,  el  Grupo  Intergubernamental  de  Expertos  sobre
+
+Cambio  Climático  reconoci ó  como  las  opciones  de  comportamiento  y  est ilos  de  vida  inciden  en  la
+
+forma de afrontar esta dimensi ón de la crisis ambiental.
+
+Con  estos  fundamentos  se  realizó  una  investigación  de  corte  descriptiva  sobre  la  forma  en  la  cual
+
+los  estudiantes  de  pregrado  han  asimilado  la  educaci ón  ambiental  a  fin  de  conocer  sus  prácticas
+
+ambientales,  se presupone a manera de conjetura, que  los estudiantes un iversitarios han modificado
+
+su comportamiento, estilo de vida, conocimientos, creencias, actitudes y percepciones sobre su rela-
+
+ci ón con el ambiente así como del  impacto de sus acciones en relaci ón con el CCM. Es por ello que
+
+se  realiza  un  estudio  paramétrico  entre  estudiantes  de  diferentes  universidades mexicanas a  fin  de
+
+determinar  si  la  educación  amb iental  que  reciben  ha  modificado  su  comportamiento  propiciando
+
+conductas  sustentable  que  tiendan  a  mitigar  el  CCM,  reducir  su  vulnerabilidad  o  insertarse  en  los
+
+retos que plantea el calentamiento global en la vida cotidiana.
+
+Con  este  prop ósito  se  emple ó  el
+
+cuestionario  sobre  Cambio  Climático  (Urbina  y  Mart ínez,  2006),
+
+donde  se  analizan  también  las  características  sociodemográficas  y  psicosociales  de  los  estudiantes
+
+encuestados.  El  cuestionario  se  adapto  a  fin  de  que  los  interesados  en  participar  lo  contesta ran  en
+
+l ínea de  forma voluntaria  sin  la presencia de  un  encuestador,  evitando en  lo posible  el  sesgo  en  sus
+
+respuestas.  El  instrumento Cuestionario  Sobre Aspectos Ambientales  se  aplic ó  de manera  aleatoria
+
+simple siendo un estudio no probabil ístico, la mues tra incluyó a más de 400 estudiantes de  licenci a-
+
+tura  a  fin  de  contar  con una muestra  representativa,  considerando  un  universo  infinito,  se busc ó  l o-
+
+grar un error muestral no mayor al 5% con un nivel de confiabilidad de 95% de conformidad con  la
+
+formula
+
+para muestras representativas. Los datos se agruparon en la plataforma Google
+
+Forms  desde  la  cual  fueron  descargados  a MS-Excel  2013  a  fin  de  realizar  su  validaci ón  as í  como
+
+2
+
+su  depuraci ón. Posteriormente  se exportan a SPSS  v.19 donde  se  realiz aron  los análisis estadísticos
+
+correspondientes.
+
+A fin de corroborar el supuesto de investigaci ón se realizará la prueba de Pearson al indagar sí exi s-
+
+te correlaci ón entre las variables que corroboren el supuesto de  investigación. Por otra parte se apl
+
+i-
+
+ca  la Prueba T  en búsqueda de  similitudes  o  diferencias entre  las poblaciones que  se  incluyen en  la
+
+muestra, se procura documentar  la importancia de  la educaci ón ambiental en  la asimilaci ón al CCM
+
+as í  como en  la consolidaci ón de una conducta  sustentable de maner a  individual y de  agencia  social
+
+a través de la educaci ón ambiental.
+
+ABSTRACT
+
+The  environmental  education,  from  his  conception  it  was  defined  as  one  of  the  principal  strategies
+
+to  helping  in  order  to  confront  the  environmental  crisis  on  having  generated changes behavioral
+
+capable of propitiating sustainable conducts. For your part,  the Intergovernmen tal Group of Experts
+
+on Climate Change  recognized as  the options of behavior and ways of  life  they affect  in  the way of
+
+confronting this dimension of the environmental crisis.
+
+With these foundations there was realized an investigation of descriptive court on the form in which
+
+the  students  of bachelor  degree have  assimilated  the  environmental  education  in  order  to  know  his
+
+environmental  practices,  there  is  presupposed  like  conjecture,  that  the  university  students  have
+
+modified his behavior, way of life, knowledge, beliefs, attitudes and perceptions on his relation with
+
+the  environment  as  well  as  of  the  impact  of  his  actions  in  relation  with  the WCC.  It  is  for  it that
+
+realizes a parametric study between students of different Mexican universities  in order  to determine
+
+if  the  environmental  education  that  they  receive  has  modified  his  behavior  propitiating  conducts
+
+sustainably  that tends to  mitigate  the WCC,  to  reduce his  vulnerability  or  to  be  inserted  in  the
+
+challenges that the global warming raises in the daily life.
+
+With  this  intention  the  questionnaire  was  used  on  Climate Change  (Urbina  and  Mart í nez,  2006),
+
+where  the  characteristics  are  analyzed  also  socio-demographics and psico-social of  the  polled
+
+students. The questionnaires adapt  so  that  the  interested  parties  in  taking  part were  answering  it  on
+
+line  of  voluntary  form  without  the  presence  of  a  pollster,  avoiding  in  possible  the  bias  in  his
+
+3
+
+answers. The instrument Questionnaire On Environmental Aspects applied itself in a random simple
+
+way  being  a  study  not  probabilistic,  the  sample  included  more  than  400  students  of bachelor in
+
+order  to  possess  a  representative  sample,  considering  an  infinite  universe,  one  sough t  to  achieve  a
+
+sample  mistake  not  bigger  than  5  %  with  a  level  of  reliability  of  95  %  of  conformity  with  the
+
+formula
+
+for representative samples. The information gathered in crowds in the platform
+
+Google  Forms  from which  they were  unloaded  to MS-Excel  2013  in  order  to  realize  his  validation
+
+as  well  as  his clean.  Later  is  exported to SPSS  v.19  where  there  were  realized  the  statistical
+
+corresponding analyses.
+
+In  order  to  corroborate  the  supposition  of  investigation  Pearson's  test  will  be  realized  on  having
+
+investigated if exist  correlation  between  the  variables  that  corroborate  the  supposition  of
+
+investigation.  On  the  other  hand  there  is  applied  the  Test  T  in  search  of  similarities  or  differences
+
+between  the  populations  who  are  included  in  the  sample,  one  tries  to  document  the  importance  of
+
+the  environmental  education  in  the  assimilation  to  the WCC as  well  as  in  the  consolidation  of  a
+
+sustainable conduct of an individual way and of social agency across the environmental education.
+
+Palabras clave
+Educaci ón am biental; Comportamiento ambiental; Actitud sustentable.
+
+Keywords
+
+Environmental education; environmental behavior; sustainable attitude.
+
+4
+
+I. Introducci ón
+
+La crisis ambiental es una crisis civilizatoria (LEEF: 2002), representa el límite entrópico al mode lo
+
+de  desarrollo  de  la  econom ía  instrumental  ([LEFF:  2004][MARTINEZ  y  ROCA:  2000]),  ya  que  el
+
+calentamiento  del  planeta  es  resultado  del  modo  de  producci ón  imperante,  desde  el  uso  de  la
+
+máquina  de  combusti ón  interna,  sus  combustibles  y  sus  contaminantes;  a simismo  por  el  sobre
+
+consumo que genera en  la medida que aumenta su productividad (LÖWY2011). La crisis ambiental
+
+hoy  asume múltiples  dimensiones,  el  Cambio  Climático Mundial  (CCM)  es  una  de  ellas,  quizá  tan
+
+visible  como  el  agotamiento  de  los  ecosistemas  o la  contaminaci ón  de  los  mismos;  siendo  uno  de
+
+los  principales  retos  que  la  humanidad  enfrenta  por  el  riesgo  que  conlleva  y  la  vulneraci ón  a  las
+
+formas de organizaci ón de las sociedades humanas.
+
+Piaget  (1991)  alguna  vez  defini ó  que  la  forma  de  adaptaci ón  d
+
+istintiva  de  la  especie  humana  es  la
+
+inteligencia,  por  lo  tanto,  la  inteligencia  humana  podría  en  un  punto  determinado  afrontar  y
+
+solucionar  el  problema  del  CCM.  Por  otra  parte  como  se  sabe,  siendo  la  educaci ón  el  medio
+
+mediante  el  cual  las  sociedades  humanas  transfieren  informaci ón,  conocimientos  y  valores  a  las
+
+siguientes generaciones; es posible preparar a las siguientes generaciones a afrontar el problema que
+
+representa  la  crisis  ambiental  como  crisis  civilizatoria. En  las  sociedades occidentales  la  educaci ón
+
+ha  sido  una  estrategia mediante  la  cual  es  posible  formar  generaciones  de  educandos,  atendiendo  a
+
+los intereses del Estado o a los llamados intereses nacionales, al menos desde el siglo XIX.
+
+As í  la educaci ón ambiental resulta ser una estrategia que
+
+desde  la reuni ón de Tbilsi (ExURSS, 1977)
+
+se  defini ó  como  una  de  las  principales  estrategias  mediante  las  cuales  se  podía  afrontar  la  crisis
+
+ambiental  al  incorporar  la  educaci ón  ambiental  a  los  programas  de  estudio.  Si  bien  es  cierto  que  el
+
+problema del CCM en  los 80 no era uno  de  los  temas centrales de  los  signos de  la crisis ambiental,
+
+en contra parte el argumento de la sustentabilidad, el agotamiento de los recursos naturales as í como
+
+la protecci ón y cuidado de la biodiversidad ya estaban en la agenda a mbiental.
+
+As í  las  Instituciones  de Educaci ón  Superior  (IES)  en México  han  retomado  la  educaci ón  ambiental
+
+como  uno  de  sus  ejes  torales  desde  los  compromisos  nacionales  asumidos  en  la  ratificaci ón  de  los
+
+5
+
+acuerdos  internacionales  en  materia  ambiental.  As í,  e n  el  2000  en  los  planes  nacionales  de
+
+desarrollo  la  educaci ón  ambiental  se  ha  fomentado  en  los  diversos  niveles  educativos,  como
+
+pol íticas  públicas  generadas  en  la  Secretaría  de  Educaci ón  Pública  (SEP),  que  las  instrumenta  a
+
+través de programas sectoriales.
+
+Es  por  ello  que  en  esta  investigaci ón  se  partió  de  preguntarse  ¿cuál  es  la  percepci ón  de  los
+
+estudiantes  de  nivel  superior  de  las  universidades  públicas  del  centro-sur  de  México  inscritas  en
+
+programas  que  reciben  fondos  sectoriales  de  la  SEP  destinados  a implementar  la  educaci ón
+
+ambiental?  Con  el  fin  de  responder  esta  pregunta  se  procedi ó  a  realizar  una  investigaci ón
+
+cuantitativa  no  experimental  a  estudiantes  de  universidades  que  han  sido  acreditadas  por  los
+
+Comités  Interinstitucionales  para  la  Evaluaci ón de  la  Educaci ón  Superior  (CIEES)  y  cuentan
+
+recursos  del  Programa  de  Fortalecimiento  de  la  Calidad  Educativa  (PFCE)  de  la  SEP,  suponiendo
+
+que  los  estudiantes  de  estas  universidades  reciben  educaci ón  ambiental  para  la  sustentabilidad,  por
+
+lo  que  el  supuesto de  investigaci ón  es  que  los  estudiantes  conocen  del  CCM  e  instrumentan
+
+acciones de adaptaci ón. La muestra incluye a 400 estudiantes de universidades públicas de la regi ón
+
+centro-sur de México a quienes se les aplic ó el Cuestionario Sobre Aspectos Ambienta les de Urbina
+
+y Mart ínez (2006) .
+
+6
+
+II. Marco te órico/marco conceptual
+
+La  reuni ón de Estocolmo de 1972  (Cumbre de Estocolmo, ONU)  convoc ó a  los  jefes de estado y/o
+
+de  gobierno  a  fin  de  discutir  el  estado mundial  del  medio  ambiente (sic),  además  de  proponer  una
+
+serie  de  acciones  tendientes  a  enfrentar  el  problema  ambiental  que  se  vislumbraba  mediante  la
+
+pérdida  de  biodiversidad,  la  contaminaci ón  además  de  sus  efectos  a  la  salud  de  las  personas  y/o  al
+
+equilibrio  de  los  ecosistemas,  incluso  sobre  el  agotamiento de  los recursos  naturales (sic)  de  los
+
+cuales depende el bienestar humano. En la Cumbre de Estocolmo se generaron estrategias de acci ón
+
+que  incluían tanto propuestas de comando y control as í como  la generaci ón además de la aplicaci ón
+
+de instrumentos económ icos, incluidos los comerciales.
+
+La  reuni ón  cumbre  de  1972  propicio  la  creaci ón del  Programa  de  las Naciones Unidas  para  el M e-
+
+dio Ambiente (PNUMA) en 1974, dejando su sede en Nairobi, Kenia. La  intenci ón del programa es
+
+la de auxiliar a  los gobiernos de  los Estados miembros de  la ONU a  la  implementaci ón de acciones
+
+que  contribuyan  a  preservar  las  condiciones  ambientales  de  los  diversos  ecosistemas  del  planeta,
+
+reconociendo  la  soberanía  de  cada  Estado  sobre  los  recursos  que  posee  en  sus  territorios.  El  PN U-
+
+MA ha  sido  también más  recientemente el encargado de  realizar el  informe GEO donde  se analizan
+
+los  indicadores  de  sustentabilidad  de  cada  Estado,  así  como  de  coordinar  esfuerzos  conjuntos  en
+
+materia de preservaci ón ambiental a escala regional y mundial (CINU : 2016).
+
+En la reuni ón de Tbilisi en 1977 auspiciada por la UNESCO la educaci ón ambiental se perfil ó como
+
+la  principal estrategia a  fin  de modificar el comportamiento  social  e  individual que propician  la de-
+
+gradaci ón  ambiental,  considerando  que  al  estudiar
+
+el  daño  ambiental  generado  por  las  personas
+
+éstas  pueden  cobrar  conciencia  de  sus  actos, modificarlos;  además  de  una  educaci ón  ecol ógica  que
+
+les ayudase a preservar los ecosistemas naturales en los que se desarrolla la vida de las personas. La
+
+educaci ón  am biental  result ó  ser  una  de  las  principales  estrategias  mediante  las  cuales  es  posible
+
+afrontar la crisis ambiental al modificar el comportamiento de las personas.
+
+En  1984,  el  secretario  general  de  la ONU,  Javier Perez  de Cuellar,  encomendó  a Gro Brundland la
+
+integraci ón  de  un informe  del  estado  mundial  del  medio  ambiente.  As í  por  espacio  de  dos  años
+
+Brundland se traslado a diversas regiones del planeta, entrevistado a agentes gubernamentales como
+
+7
+
+a  personas  de  diversos  sectores  sociales  que  pudiesen  darle  informaci ón  relevante  sobre  la  pr o-
+
+blemática  ambiental  en  sus  respectivos  pa íses. En  1986  se  presento El  Informe Mundial  del Medio
+
+Ambiente 1984,  también conocido como elInforme Brundland o Nuestro Futuro Común (1986). El
+
+reporte  señala  el  grave  deterioro  ambiental  a  nivel  mundial,  urgiendo  a  los  gobiernos  del  mundo  a
+
+instrumentar acciones a favor de  la preservaci ón ambiental   el desarrollo sustentable,  siendo  la ed u-
+
+caci ón ambiental uno de los ejes prioritarios (CMMAD: 1992).
+
+Si bien es cierto que el problema del CCM en los 80 no era uno de  los temas centrales de  los signos
+
+de  la  crisis  ambiental,  en  contra  parte  el  argumento  de  la  sustentabilidad,  el  agotamiento  de  los  re-
+
+cursos  naturales  así  como  la  protecci ón  y  cuidado  de  la  biodiversidad  ya  estaban  en  la  a genda  am-
+
+biental.  El Informe  Brundland al  introducir  el  concepto  de  sustentabilidad  pretendi ó  solucionar  la
+
+contradicci ón  entre  el  crecimiento  econ ómico  y  la  preservaci ón  ambiental,  volviendo  la  estrategia
+
+de  la sustentabilidad una de  las principales orientaciones de ambientalismo internacional auspiciado
+
+por  la ONU. El CCM  no  está  presenta  a  lo  largo  del  informe,  existen  algunos  apartados  en  los  que
+
+se  habla  de  desertificación  ligado  a  un  problema  de  disponibilidad  de  agua,  mas  no  de  variaciones
+
+climáticas.
+
+Sin  embargo,  el  Protocolo  de  Montreal  es  clave  en  la  comprensi ón  de  origen  antropogénico  de  la
+
+crisis  ambiental  en  la  que  se  incluye  los  problemas  atmosféricos  y  climáticos.  Como  se  sabe  los
+
+descubrimientos de  los efectos de  los  tetra cloruros de  carbono a  la  atmosfera  datan de 1972, cuan-
+
+do  un  equipo  de  investigaci ón  demostró  que  estos  gases  industriales  generaban  un  agujero  en  la
+
+capa de ozono. En 1986 en Montreal la ONU convoc ó a una reuni ón para discutir un
+convenio a fin
+de  tomar  las medidas  adecuadas en  la protección de  “…  la  salud  humana y  el medio ambiente con-
+tra  los  efectos  nocivos  que  se  derivan  o  pueden  derivarse  de  actividades  humanas  que modifican  o
+pueden modificar  la  capa  de  ozono”,  así  como  “…de  los  posibles  efectos  climáticos  de  las  emisi o-
+nes de esas sustancias” (PNUMA: 2000).
+El  Protocolo  de  Montreal  sufrirá  modificaciones  y  adecuaciones  hasta  llegar  a  la  COM  16;  as í  se
+
+llevaron acabó  las  reuniones de Londres, 1990; Copenhague, 1992; Viena, 1995; Montreal, 1997; y
+Beijing,  1999.  Siempre  reconociendo    “…que  la  emisión  en  todo  el  mundo  de  ciertas  sustancias
+
+8
+
+puede agotar considerablemente y modificar  la capa de ozono en una  forma que podría  tener  repe r-
+cusiones nocivas sobre la salud y el medio ambiente”.
+La Cumbre de R ío de Janeiro de 1992 volvi ó a  reunir a más de 180  jefes de Estado y/o de gobierno
+
+de  los pa íses miembros de  la ONU, al  igual que en  la  reuni ón de Estocolmo,  la cumbre se destinó a
+
+enfrentar  los  retos de  la degradaci ón ambiental,  las  contradicciones entre el  crecimiento  económico
+
+y la  preservaci ón  ambiental,  así  como  las  acciones  a  emprender  por  parte de  los  pa íses  asistentes  a
+
+la cumbre. Fue as í que  surgi ó Agenda 21 (Programa 21) en el cual  se esbozan  las principales estra-
+
+tegias  de  acci ón  a  implementarse  por  parte  de  los  Estados  sig natarios  de  la  reuni ón.  En  el  capítulo
+25  del  Programa  21  se  contempla  el  hecho  que  “…la  educación  deberá  incorporar  una  conciencia
+ambiental y conceptos de desarrollo sostenible” (ONU: 2016).
+En  2001  se  present ó  el El  Tercer  Informe  de  Evaluaci ón  (TIE)  de l  Grupo  de  trabajo  I  del  Grupo
+
+Intergubernamental  de  Expertos  sobre  el  Cambio  Climático  (IPCC),  que  present ó  las  evaluaciones
+
+anteriores e incorpora nuevos resultados procedentes de las investigaciones sobre el cambio climáti-
+co  entre  1996  y  2001.  En  el  informe  se  señala  que  “Entre  1950  y  1993,  las  temperaturas  diarias
+m ínimas del aire por  la noche sobre el suelo aumentaron un promedio de 0,2 °C por decenio,  lo cual
+
+equivale  al  doble  del  ritmo  de  aumento  de  las  temperaturas  diarias máximas  del  aire  durante  eldía
+
+(0,1°C  por  decenio).  Esto  ha  alargado  la  estaci ón  sin  heladas  en  muchas  regiones  de  latitudes  m e-
+
+dias  y  altas.  El  aumento  de  la  temperatura  en  la  superficie  del  mar  a  lo  largo  de  este  período  es
+aproximadamente  la  mitad  de  la  temperatura  media  del  aire en  la  superficie  de  la  tierra”  (IPCC:
+2001).
+
+En  2002  la ONU  reiteradamente  convoc ó  a  los  pa íses miembros  de  este  organismo  internacional  a
+
+una  nueva  reuni ón  sobre el medio ambiente, por  lo  que  en  Johannesburgo otra vez  se  reunieron  los
+
+jefes de estado y/o de gobierno a  fin de  observar avances en materia de  lo  acordado en Agenda 21,
+
+considerando  como  un  nuevo  asunto  central  del  debate  sobre  agotamiento  y  riesgo  ambiental  el
+
+CCM.  Debate  que  se  trasladará  a  la  creaci ón  de  la  COP,  que  ha  tenido  diversas  y  recu rrentes  reu-
+
+niones a fin de delimitar las acciones en materia de contenci ón del CCM.
+
+9
+
+Considerando  que  México  ha  participado  y  firmado  las  reuniones  antes  mencionadas  como  país
+
+miembro de  la ONU, y que  los acuerdos  signado por el gobierno mexicano han  sido ratificados por
+
+el  Senado;  estos  acuerdos  en  nuestro  pa ís  cobran  carácter  de  leyes  generales,  solo  por  debajo  de  la
+
+constituci ón; as í los Planes de Naciones de Desarrollo 2000, 2006 y 2012; han incluido la educaci ón
+
+ambiental en todas sus modalidades y vertientes.
+
+10
+
+III. Metodolog ía
+
+Este  reporte  se  basa  en  la  investigaci ón  realizada  en  los  meses  de  abril,  mayo  y  junio de  2017
+
+mediante  la  aplicaci ón  del Cuestionario  Sobre Aspectos Ambientales de Urbina  y Martínez  (2006);
+
+que consta de 41 preguntas relacionadas con el cambio climático y 15 preguntas sociodemográficas;
+
+a j óvenes  universitarios  de  la  Universidad  Autónoma  del  Estado  de  Guerrero  (UAGro)  y  la
+
+Universidad  Aut ónoma  del  Estado  de  Morelos  (UAEM);  que  se  llevó  a  cabo  con  el  propósito  de
+
+descubrir  y  conceptualizar los  cambios  conductuales  que  la  educaci ón  ambiental  impulsa  entre los
+
+j óvenes  universitarios  en  los  estados  del  cent ro  sur  de  la  república  Mexicana. El  cuestionario  se
+
+adapto a fin de que los estudiantes lo contestaran en l ínea de forma volunt aria sin la presencia de un
+
+encuestador, evitando en lo posible el sesgo en sus respuestas.
+
+Considerando  que  el  estado  de  Guerrero  tienen  una  poblaci ón  total  de  tres  3 millones  533  mil  251
+
+habitantes,  de  los  cuales  un  mill ón  834  mil  192  habitantes  son  muje res  y  un  mill ón  699  mil  59
+
+habitantes  son hombres  (INEGI: 2017); y que de  los más de  tres millones de guerrerenses el 10.1%
+
+son  j óvenes  entre  los  14  y  19  años  (INEGI:  2017),  es  decir  aspirantes  a  ingresar  a  al  nivel  medio
+
+superior;  al  mismo  tiempo  8.8%  son j óvenes  entre  los  20  y  los  24  años  de  edad  (INEGI:  2017),
+
+quienes  están  en  la  edadde  cursar  estudios  de  educaci ón  superior;  se  consideró  a  la  poblaci ón
+
+universitaria como una muestra pertinente del universo de la poblaci ón del estado.
+
+A  fin  de  enfrentar el  enorme  reto  de  brindar  educaci ón  superior  y media  superior  a  la  poblaci ón  de
+
+la entidad,  la UAGro se ha regionalizado en el Camus Norte con una poblaci ón estudiantil de 8,927
+
+alumnos,  Campus  Centro  con  una  poblaci ón  estudiantil  de  23,838  alumnos,  y  Camp us  Acapulco
+
+con  23,184 estudiantes; además de otras unidades académicas distribuidas en  la Costa Chica, Costa
+
+Grande,  la  Montaña  y  Tierra  Caliente.  En  los  Campus  Norte,  Centro,  Acapulco,  Zihuatanejo,  y
+
+Tierra  Caliente  coexisten  unidades  de  Educaci ón  Media Superior  con  Unidades  de  Educaci ón
+
+Superior (UAGRO: 2016).
+
+Por su parte el estado de Morelos posee una poblaci ón  total de tres 1 mill ón 921 mil 211 habitantes,
+
+de  los  cuales  el  51.9%  son mujeres  y  48.1%  son  hombre  (INEGI:  2017);  asimismo  de  los  casi  dos
+
+11
+
+millones de habitantes del estado de Morelos 289 mil 492  son  j óvenes entre  los 15 y  los 24 años de
+
+edad, es decir la poblaci ón que cursa o debería cursar la educaci ón media y superior (INEGI: 2017);
+
+es por ello que  al  igual que  el caso del estado  de Guerrero se  consideró  a  la poblaci ón universitaria
+
+como una muestra pertinente del universo de la poblaci ón morelense.
+
+Es  por  ello  que  el  tamaño  de  la  muestra  fue  de  400  personas  con  el  propósito  de  que  fuese
+
+representativa  de  un  universo  que  en  la  práctica  resulta  infinito,  como  lo  es  la  poblaci ón  total  del
+
+pa ís.  Con  estas  consideraciones,  la  muestra  ( n)  se  calcul ó  fundamentada  en  un  universo  en  donde
+N= ∞ mediante la f órmula
+encuestas  a  razón  de  >200  por  universidad;  que    incluyó  s ólo  escuelas  o  facultades  de  educaci ón
+
+para muestras infinitas. Así se calcul ó la aplicaci ón de 4
+
+00
+
+superior.  Por  razones  procedimentales,  al  tratarse  de  un  universo  grande,  es  preferible  tomar  una
+
+muestra  lo  suficientemente  representativa  de  dicho  universo,  por  ello,  al  considerar n=  400  se
+
+calcula un nivel de confiabilidad llegara al 95% con un margen de error de más menos 5%.
+
+Los  formularios  de  la  encuesta  se  colocaron  en  la  plataforma Google  Forms a  fin  de  que  los
+
+estudiantes  tuvieran oportunidad de contestar el instrumento. El procedimiento  incluyo  la invitaci ón
+
+de  manera  libre  a  los  estudiantes  a  fin  de  que  participaran  en  este  estudio,  en  los  criterios  de
+
+inclusi ón  y  exclusi ón  s ólo  se  consideró  el  ser  estudiante  matriculado  en  programas  avalados  en  el
+
+nivel 1 del CIIES y que la unidad académica a  la que pertenece haya recibido fondos del PFCE. No
+
+se  consideró  otro  elemento  de  exclusi ón,  ya  que  la  edad,  el  sexo,  el  lugar  donde  radica,  ingreso
+
+personal,  ingreso  familiar,  entre  otros  elementos  sociodemográficos  no  fueron  considerados  como
+
+criterios de exclusi ón.
+
+Las  respuestas  se  recogieron  en  la  plataforma Google  Forms de  donde  se  descargaron  a  fin  de  ser
+
+sistematizadas y analizadas por lo que la base de datos se exporto a MS-Excell 2013 para su estudio
+
+estadístico, así s e seleccionaron las variables que permitieran realizar una investigaci ón exploratoria
+
+sobre  la  percepci ón  sobre  el CCM  de  los  estudiantes universitarios quienes  cursan  un  programa  de
+
+estudios  por  lo  que  se  buscaron  las  acciones  que  los  estudiantes  realizan con  fin  de  prevenir  o
+
+mitigar  el  CCM,  considerando  el  cambio  de  la  conducta  como  el  resultado  de  la  educaci ón
+
+ambiental.  Se  realizó  un  análisis  de  frecuencias  a  las  variables  seleccionadas,  a  fin  de  demostrar  la
+
+validez de la conjetura inicial.
+
+12
+
+IV. Análisis y discusi ón de datos
+
+en el estado en el que viven, es decir Guerrero y Mo-
+La mayoría de  los encuestados consideró que
+relos,  la  degradación  ambiental  de  algunos  elementos  seleccionados  “Ha  empeorado mucho”,  sie n-
+do  los  residuos  s ólidos municipales lo  que  perciben  como  lo  másgrave.  No  obstante  hay  quienes
+consideran, una minoría, que  se “Ha mejorado  poco” en  la preservación de dichos elementos  sele c-
+cionados. Los  encuestados  en  general  consideran  que  la  degradaci ón  amb iental  va  en  aumento,
+
+siendo la basura común el elemento que perciben como factor contaminante en aumento.
+
+Cuando  la misma pregunta se plantea respecto a  la ciudad o localidad en  la que vive hay un cambio
+significativo, cerca del 50%  consideran  que  los  elementos  ya  citados  “Han  empeorado  algo”,  así  la
+percepción de que “Han empeorado mucho” que  fue  la más  recurrente a escala estatal, a nivel  local
+pasa a un segundo  término  llegando alrededor del 40%. Es  interesante que  la escala más cercana no
+
+tenga  una  percepci ón  tan  pesimista  como  a  nivel  estatal,  considerando  que  a  este  nivel  de  análisis
+
+las referencias no son tan directas ni claras, máxime cuando se trata de basura de origen domestico.
+
+Por otra parte, 3 de cada 4 encuestados consideraron que el cambio climático  tiene un origen antro-
+
+pogénico, propio de  la visi ón de  la ecología profunda u otras visiones ambientalistas que  señalan  la
+
+importancia de las actividades humanas como origen del actual CCM, sin que allá una clara relaci ón
+
+entre las emisiones de metano (CH4) proveniente de los vertederos de desechos s ólidos municip ales.
+En  tanto  1  de  cada  5  encuestados  consideró  que  el  CCM  ti ene  su  origen  tanto  en  causas  naturales
+
+como sociales; finalmente solo el 4% consideró que el origen de CCM es por ca usa naturales; as í se
+
+puede  concluir  que  entre  los  estudiantes  encuestados  permea  la  idea  del  origen  antropogénico  del
+
+CCM.
+
+As í  mismo  más  del  90%  de  los  encuestados  han  le ído,  visto  o  escuchado  del  CCM  a  través  de  los
+
+diversos  medios,  siendo  el  más  recurrente  tema  del  aumento  dela  temperatura  media  del  planeta,
+pero  también  temas  como  “El  cambio  de  temperatura”,  la  “Presencia  de  plagas  ajenas  a  la  región”
+así como la “Falta de recursos natrales” además de reuniones y congresos relacionados con el CCM.
+Esto nos indica que los estudiantes de las universidades estudiadas son especialmente sensibles a los
+
+temas  ambientales, pese a que  se  informan  en  los medios masivos pueden encontrar  la  informaci ón
+
+13
+
+que buscan; particularmente las enfermedades transmitidas por vector como  lo son el Chikungunya,
+
+el Zika y el Dengue, toda vez que ambos estados son altamente vulnerables a la transmisi ón de estos
+
+factores derivado del aumento del mosquito Aedes aegypty asociado al  incremento de  la  temperatu-
+
+ra media en cada entidad.
+
+También  es  interesante  que  3  de  cada  4  estudiantes  que  contestaron  la  encuesta  consideren  saber
+“Algo”  reconociéndose  como  no  especialistas  en  el  tema  del  CCM,  pero  al  mismo  tiempo  capaces
+de diferenciar el  tema as í como  informarse a  través de medios no especializados. Sólo 1 de cada 10
+dijo saber “mucho” sobre el CCM, en tanto que un marginal 2% di jo no saber nada sobre el tema.
+Con  relaci ón  a  acciones  que  pueden  emprender  a  fin  de  ayudar  a  combatir  el CC  sobresalen  acci o-
+nes como “ahorrar agua”, “cambiar aparatos eléctricos con menor consumo de energía”, “Consumir
+menos  carne”,  “Consumir  productos  locales”;  principalmente.  Es  de  destacar  las  elecciones  “Con-
+sumir menos carne” así  como “Consumir productos  locales” porque ambas variables  indican el  ju i-
+cio crítico de los estudiantes, as í como su capacidad de discernir como la producci ón de carne, pri
+n-
+
+cipalmente de vacuno, así como el  transporte de alimentos tiene relevancia en  la emisiones de gases
+
+de efecto invernadero, principalmente gases como el CH4, CO y CO2.
+En cuanto a  la percepci ón de  la  contribuci ón personal de  los estudiantes que  contestaron  la  encue
+
+s-
+
+ta, sus vecinos, habitantes de su colonia, estado o pa ís se observó que la mayoría dijo no saber cuá n-
+to  contribuyen  los  personajes  mencionados,  la  repuesta  con  mayor  frecuencia  fue  “No  sé”  o  “No
+Contesto”  seguido  de  “Contribuye  poco”;  la  pregunta  aunque  compleja  d evela  que  los  estudiantes
+no se asumen ellos ni a sus conciudadanos, incluso a sus paisanos, como los directamente respons a-
+
+bles  del  CCM  lo  cual  concuerda  con  la  visi ón  de  la  ecología  profunda  y  de  la  economía  ecol ógica
+
+de  la  responsabilidad  del  modo  de  producci ón  en  su  conjunto,  siendo  las  diferentes  industrias  las
+
+responsables  de  las mayores  emisiones  de CO2 o gases  de  efecto  invernadero equivalente  (LÖWY:
+2011).
+
+No  obstante,  aunque  no  se  sienten  los  directamente  responsables  del  CCM  los  estudiantes  que  re s-
+pondieron  la  encuesta  dijeron  sentirse  “Preocupados”  por  el  CCM,  así  7  de  cada  10  manifestaron
+esta  reocupación,  quienes  dijeron  sentirse  “Temerosos”  fueron  prácticamente  2  de  cada  10.  Re s-
+
+14
+
+puestas  marginales  fueron  “Confundido”  con  el  8%  así  como  “Tranquilo”  con  el  2%,  igualmente
+“Interesado” con un 2%.
+Siguiendo  con  el  análisis  de  las  variables  seleccionadas,  se  encontró  que  8  de  cada  10  estudiantes
+prefieren que “…se cuide el medio-ambiente aunque el desarrollo económico vaya más lento”, nue-
+vamente  nos  encontramos  ante  premisas  propias  de  la  ecología  profunda  as í  como  de  la  economía
+
+ecol ógica  que  entienden  que  el  desarrollo  económico  exacerbado  d
+
+el  neoliberalismo es  lo que  im-
+
+pulsa  un  incesante  consumo  y  la  expansi ón  del  comercio  en  aras  de  mayores  gana ncias (LÖWY:
+
+2001); son las razones principales de la crisis ambiental del planeta, de las cuales el CCM es una de
+
+sus manifestaciones más claras. También concuerda  con  los  reportes  anuales de  la Organización de
+
+las Naciones Unidas  a  través  del Grupo  Intergubernamental  de Expertos  sobre  el Cambio Climáti-
+
+co,  donde  se  muestra  c ómo a  mayor  producci ón  e  ingreso per  cápitaaumentan  las  emisiones  de
+
+gases de efecto invernadero (2015, 8).
+
+Sin  embargo,  la  participaci ón  activa  de  los  estudiantes  que  respondieron  el  instrumento  es  débil
+
+pues ninguna de las variables seleccionadas alcanzo el 20%, cada una de las variables seleccionadas
+en promedio alcanzó el 15% de respuestas afirmativas a la pregunta “¿Cuales hábito o elementos de
+su  estilo  de  vida  ha  cambiado  recientemente  para  ayudar  a  proteger  el  ambiente?”. Es  decir,  existe
+un conocimiento aceptable del CCM,  sus causas as í como  su origen antropog énico; empero el estu-
+
+diante  promedio  no cambia  su  comportamiento ya  que  no  percibe  el CCM  como  un  riesgo  para  su
+
+vida, concordando con lo documentado por Correa (2012).
+
+La  preocupaci ón  por  el cambio  climático  no  necesariamente  se  transforma  en  acciones  personales
+
+tendiente a minimizar el CCM, o  a preservar  las condiciones  ambientales en general.  Incluso  la va-
+
+riable con una frecuencia cercana al 17%  fue aquella que dijeron que no  realizarían nin gún cambio,
+toda  vez  que  “…siempre  han  cuidado  del  ambiente”. Prácticamente  2  de  cada  10  encuestados  no
+considera importante  su  cambio  debido  a  que  consideran  que  con  lo  que  hacen  habitualmente  es
+
+suficiente  para  contener  el  CCM. Los  j óvenes  universitarios  encuestados,  aunque  conocedores  del
+
+tema  del  cambio  climático,  sabiendo  en  su  mayor ía  que  este  fen ómeno  asociad o  al  deterioro  am-
+
+biental es en gran medida de origen antropogénico nomuestran un cambio comportamental como se
+
+hubiese esperado.
+
+15
+
+i-
+En  contraposici ón,  a  la  suposici ón  ¿Qué  tanto  estaría  usted  en  disposición  de  cambiar  sus  háb
+tos…”  el  66%  dijo  estar  dispuesto  a  modificar  sus  hábitos  a  favor  de  disminuir  los  efectos  del
+CCM, lo que significaría que en realidad los estudiantes están en  la disposici ón de cambiar su estilo
+de  vida  a  favor  del  cuidado  y  la  preservación  ambiental,  ya  que  solamente  el  2%  señaló  que  “No
+cambiaría  su  estilo  de  vida  bajo  ninguna  circunstancia”.  Esta  clara  diferencia  entre  quienes  están
+dispuestos  y  quienes  no  lo  están  a  cambiar  su  forma  de  vida  en  aras  de  disminuir  los  efectos  del
+
+CCM habla de una conciencia ambiental entre  los estudiantes consultados, conciencia que no nece-
+
+sariamente se refleja en una conducta sustentable.
+
+Resulta  revelador  que  lo  que  el  PIFI  conceptualiza como  educaci ón  ambiental  para  la  sustentabil i-
+
+dad,  que  se  imparte  en  programas  acreditados  ante  los  CIIES  en  nivel  1,  que  además  cuentan  con
+
+recursos de  la SEP en  la  implementaci ón de estos Programas de Estudio bajo el enfoque de comp e-
+
+tencias no  logre un cambio en la actitud de  los estudiantes de  la UAEM en materia de sus estilos de
+
+vida, pues pese a que identifican lo que es el CCM y que estarían dispuestos a modificar su estilo de
+
+vida a fin de disminuir los efectos del CC, en la práctica no realicen estoscambios.
+
+16
+
+V. Conclusiones
+
+Lo  anterior  nos perite  suponer,  con  certeza,  que  la  educaci ón  ambiental  que  reciben  los  estudiantes
+
+es  a  lo  que  Paulo  Freire  (2005)  llam ó  una educaci ón  bancaria ,  en  la  cual  los  estudiantes  participan
+
+refiriéndose  a  contextos  alejados  de  su  vida  y  práctica  cotidiana,  es  decir  la  educaci ó n  ambiental
+
+que  se  imparte en  ls universidades públicas en  las que  se  realiz ó  la  investigaci ón parece  ser un  for-
+
+malismo  a  fin  de  cumplir  con  los  criterios  del  PFCE  de  la  SEP, sin  que  los  estudiantes modifiquen
+
+sus hábitos. Es  posible  que  haga  falta  una  educaci ón que  conlleve  una  actitud  cr ítica  y  de  cor res-
+
+ponsabilidad que les permita emprender estrategias de acci ón y que les permita conve rtirse en agen-
+
+tes sociales capaces de asimilar (FREIRE: 2005) el CCM.
+
+En general los participantes de la muestra manifiestan una clara conciencia ecol ógica que les permi-
+
+te  discernir  el  riesgo  que  con  lleva  el  CCM  as í  co mo  el  origen  de  las  emisiones  de  gases  de  efecto
+
+invernadero, desde el transporte, la industria de la transformaci ón, la agricultura de escala y la gen e-
+
+raci ón  de  cárnicos  para  co nsumo  humano.  Incluso  se  observa  que  los  estudiantes  entienden  que  un
+
+crecimiento económico ac elerado que se basa en el sobre consumo y la acumulaci ón de capital es el
+
+origen  estructural de  la  crisis  ambiental (LÖWY:  2011)
+
+. La  informaci ón  que han  recibido en  las
+
+aulas de clase les permite  identificar  factores asociados con  las emisiones  de gases efectos  inverna-
+
+dero, más no les lleva a tener una actitud militante que involucre en cambio comportamental.
+
+Lo  que  queda  como  un  gran  ausente  es  su  capacidad  de  asimilar  estos  conceptos  en  su  realidad  y
+
+generar  prácticas  autogestivas  en  lo  local  que  les  permita disminuir los  efectos  del  CC,  además  de
+
+una  práctica  capaz  de  modificar  sus  hábitos  de  consumo  y  su  estilo  de  vida  en  general.  Al  revisar
+
+los objetivos de enseñanza de  los programas de  estudio  se observa que hay confusiones conceptua-
+
+les  entre  sustentabilidad  y  sostenibilidad,  preservaci ón  y  conservaci ón  ambiental,  entre  bienestar
+
+humano y desarrollo económico; entre otros, por  lo que  los estudiantes  tienden a formarse asumie n-
+
+do como sinónimos conceptos que en algu nos casos resultan contradictorios.
+
+Los estudiantes que participaron en este estudio nacieron en la década de los 90, desde que iniciaron
+
+su  educaci ón  formal  escolarizada  han  recibido  de  múltiples  formas educaci ón  ambiental o educa-
+
+ci ón  ecol ógica
+
+o  simplemente ecología ,  pues  como  se  dijo  desde  el  principio  de  este  documento  el
+
+17
+
+pensamiento ambiental  internacional desde  1977  señal ó  la  importancia de  la  educaci ón ambiental a
+
+fin  de  que  la  humanidad  tuviese  mayores  elementos  al  enfrentar  la  crisis  ambiental.  El estudio  ex-
+
+ploratorio  que  aqu í  se  presenta  encontró  elementos  que  auguran  posibilidades  de  cambio  real  en  el
+
+comportamiento  de  las  personas,  toda  vez  que  la mayoría  de  los  estudiantes  concuerdan  con post u-
+
+ras  ambientales  radicales  como  la  ecología  profunda  o la  econom ía  ecol ógica,  hace  falta  una
+
+peda-
+
+gogía de la liberaci ón
+
+(FREIRE: 2005) en materia de educaci ón ambiental a fin de que los estudia n-
+
+tes se transformen en agentes de cambio social.
+
+18
+
+VI. Bibliografía
+
+COMISIÓN MUNDIAL DEL MEDIO AMBIENTE Y DEL DESARROLLO (1992): Nuestro futuro
+común.Alianza Editorial. Madrid, España.
+CORREA, Ma. Isabel. (2012) Cambio climático y representaciones sociales entre estudiantes de
+educaci ón  superior. En ORTIZ, B. y VELASCO, C. Coordinadores. (2012) La Percepci ón
+social  del  Cambo  Climático.  Estudios  y  Orientaciones  para  la  Educación  Ambiental  en
+México.UNAM, Cd. de México.
+IPCC  [Grupo  Intergubernamental  de  Expertos  sobre  el  Cambio  Climático]  (2015) Cambio
+Climático 2014. Mitigación del cambio climático . ONU, Suiza.
+LEFF,  Enrique.  (2002) Saber  Ambiental.  Sustentabilidad,  racionalidad,  complejidad,  poder .  Ed.
+Siglo XXI, México, D.F.
+LEFF, Enrique. (2004) Racionalidad Ambiental. La reapropiaci ón social de la naturaleza . Ed. Siglo
+XXI, México, D.F.
+FREIRE, Paulo (2005) Pedagog ía del Oprimido. Ed. Siglo XXI, México, D.F.
+MARTÍNEZ  ALIER,  Joan  y  ROCA  JUSMEL,  Jordi  (2000) Econom ía  ecol ógica  y  pol ítica
+ambiental. PNUMA/FCE. México, D.F.
+LÖWY,  Michael.  (2011) Ecosocialismo.  Alternativa  radical  a  la  catástrofe  ecol ógica  capitalista.
+Ed. Herramienta, Buenos Aires, Argentina.
+PÍAGET, Jean  (1991) Seis Estudios de Psicología. Editorial Labor, Barcelona, España.
+PNUMA  (2000) Protocolo  de  Montreal  relativo  a  las  sustancias  que  agotan  la  capa de  ozono.
+Secretaría del Convenio de Viena para  la  Protección  de  la Capa de Ozono y  el  Protocolo  de
+Montreal relativo a las sustancias que agotan la capa de ozono. Nairobi, Kenia.
+URBINA  SORIA,  Javier  y  FLORES  CANO,  Olga  Beatriz  (2014) Percepci ón  y  Acci ón
+frente  al
+Cambio Climático.Proyecto PAPIIT IN307009-3 presentado en el 4º. Congreso Nacional de
+Investigaci ón  en  Cambio  Climático.  Facultad  de  Psicología,  UNAM,  México,  D.F.,  21
+octubre 2014.
+
+Organizaci ón de  las Naciones Unidas. Evaluaci ón del Grupo  Intergubernamental de Expertos  sobre
+el Cambio Climático. (2001)Cambio Climático 2001: Informe de s íntesis.
+Recuperado el 26 de Mayo de 2016 de:
+https://www.ipcc.ch/pdf/climate-changes-2001/synthesis-spm/synthesis-spm-es.pdf
+
+Organizaci ón de las Naciones Unidas. (2016) Cumbre para la Tierra. Programa 21.
+Recuperado el 26 de Mayo de 2016 de:
+http://www.un.org/spanish/esa/sustdev/agenda21
+
+PNUMA. Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono (1996).
+Recuperado el 26 de Mayo de 2016 de:
+
+19
+
+https://www.google.de/search?q=michael+lowy+pdf&trackid=sp-
+006#q=protocolo+de+montreal+pdf
+
+SEP. Programa Integral de Fortalecimiento Institucional (2012).
+Recuperado el 26 de Mayo de 2016 de:
+http://pifi.sep.gob.mx/pifi/reglas/2012/ro_pifi_2012.pdf
+
+20
+
+

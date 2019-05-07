@@ -1,0 +1,739 @@
+ 
+
+ 
+
+GUBERNABILIDADES Y TECNOLOGÍAS RELIGIOSAS DE GOBIERNO EN AMÉRICA 
+
+LATINA: UNA PROPUESTA TEÓRICO-ANALÍTICA. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Edgar Zavala Pelayo 
+
+ezpelayo@gmail.com 
+
+Stockholm University 
+
+Suecia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+RESUMEN 
+
+En  sus  últimos  trabajos  sobre  la  gubernamentalidad,  Foucault  pareció  conceder  muchas  más 
+
+importancia  explícita  a  la  religión  de  la  que  le  otorgó  en  sus  obras  iniciales.  En  estos  últimos 
+
+trabajos  la  religión  para  Foucault  tiene  un  doble  papel  en  sociedades  modernas  como  uno  de  los 
+
+arquetipos  históricos  de  la(s)  gubernamentalidad(es)  contemporánea(s).  Haciendo  un  análisis  de 
+
+textos  teológicos  del Cristianismo  de  los  siglos  III-IV  en Europa,  Foucault  concibe  al Cristianismo 
+
+Europeo,   como  fuente  de  1)   un  modelo  de  gobierno  externo  al  individuo  –  o  ‘pastoralismo’  o 
+
+‘poder  pastoral’  –  y  2)  tecnologías  de  auto-gobierno  empleadas  por  los  individuos  mismos  para 
+
+construirse  como  sujetos  y  auto-controlarse  –por  ejemplo,  a  través  de  la  auto-examinación  de  los 
+
+pensamientos  que  el  Cristianismo  instaura  en  el  enclave  monástico.   Además  de  ofrecer  estas 
+
+miradas  y  correspondientes  definiciones,  Foucault  en  ocasiones  parece  haber  hecho  a  un  lado  la 
+
+idea del Cristianismo  (pre-)medieval como mera  referencia genealógica de  la gubernamentalidad   y 
+
+sugiere  más  bien  la  actual  persistencia  de  este  tipo  de  tecnologías  de  gobierno  y  auto -gobierno  en 
+
+las gubernamentalidades de las sociedades modernas Europeas. 
+
+ 
+
+En  este  texto  se  sostendrá que  la propuesta  teórico-analítica  foucaultiana puede  aplicarse  al  estudio 
+
+de religiones como regímenes de gobierno en América Latina. Aunque con principios, o tecnologías, 
+
+que diferirían de aquellas que Foucault concibió para el contexto europeo, el catolicismo colonial en 
+
+América  Latina  sin  duda  desarrolló  tecnologías  para  gobernar  poblaciones  y  para  el  auto-gobierno 
+
+de los individuos. Y una de las preguntas claves que surgen al concebir religiones desde esta mirada 
+
+Foucaultiana  de  largo  alcance  es:  ¿En  qué  medida  y  en  qué  sentido  esas  tecnologías  de  gobierno 
+
+desarrolladas  por  el  Catolicismo  del  régimen  colonial  se  han  transformado  y  permanecen  así, 
+
+transformadas,  como  parte  de  las  gubernamentalidades  en  estas  regiones?  ¿Si  Foucault  por 
+
+momentos  concibe  territorios Europeos  en  los  que  el  pastoralismo  y  la  auto-examinación  cognitiva 
+
+de  origen  Cristiano  prevalecen  aún  hoy  día,  qué  puede  decirse   en  este  sentido  sobre  las  actuales 
+
+regiones  de  América  Latina  y  sus  otrora  técnicas  religiosas  de  gobierno  y  auto-gobierno  colonial? 
+
+Basado  en  hallazgos  de  investigación  recientes  y  notas  de  investigación  en  curso,  este  texto  dará 
+
+2 
+
+ 
+
+respuestas  muy  preliminares  a  estas  interrogantes  con  el  fin  de  evidenciar  la  relevancia  de  una 
+
+aproximación  teórico-analítica  foucaultiana para  el  estudio de  lo  religioso  y  lo político  en América 
+
+Latina  y  sus  regiones,  y  para  debatir  los  retos  que  las  relaciones  entre  estas  dos  dimensiones 
+
+representan para las sociedades globales del siglo XXI.  
+
+ 
+
+ABSTRACT 
+
+This  paper  argues  that  the  theoretical-analytical  proposal  in  Michel  Foucault’s  works  on 
+
+governmentality  and  pastoralism,  can  be  applied  to  the  study  of  politics  and  religions  in  Latin 
+
+America. Taking into account Foucault’ original pastoralism and the colonial context that he did not 
+
+observe,  it  can  be  argued  that  the  colonial  Catholic  regime  that  operated  from  the  16th  to  the  19th 
+
+centuries  in  Latin  America  developed  a  series  of  techno-logies  (techniques  and  logics)  for  the 
+
+government of individuals and populations. Questions on whether these technologies have persisted 
+
+or  not  in  the  level  of  governmentalities  in  different  regions  of  Latin  America will  be  preliminarily 
+
+answered  in  this  text.  In  doing  so,  theoretical  and  methodological  criteria  to  adopt  critically 
+
+Foucault’s  perspective  will  be  presented.  Such  a  critical  adaptation  of  the  latter  is  proposed  as  a 
+
+contribution  to  the debates on religions and government  in Latin America and  the larger debates on 
+
+religions and politics in the 21st-century global(ized) societies. 
+
+ 
+
+ 
+
+Palabras clave: Catolicismo, Pastoralismo, Tecnología de gobierno 
+
+ 
+
+Keywords: Catholicism, Pastoralism, Technology of government 
+
+ 
+
+3 
+
+ 
+
+  
+
+I. 
+
+Introducción 
+
+Más  que  presentar  un  reporte  de  hallazgos  de  investigación  este  texto  se  propone  introducir  de 
+forma  muy  sucinta  una  aproximación  teórico-analítica,  con  sus  respectivos  conceptos,  para  el 
+estudio  de  lo  religioso  y  lo  político    en  América  Latina.  Se  propondrá  que  la  perspectiva  teórico -
+analítica en la que Michel Foucault trabajó a partir de la segunda mitad de su carrera –el enfoque de 
+gubernabilidad  y  la  construcción  del  sujeto  –  constituye  una  estrategia  de  investigación  que  puede 
+contribuir  significativamente  a  la  comprensión  de  los  impactos  no  necesariamente  explícitos    de  lo 
+religioso  en  las  dimensiones  políticas  de  este  continente  y  sus  distintas  regiones.  Más 
+específicamente,  se  sostendrá que  la perspectiva de  la gubernabilidad  foucaultiana puede contribuir 
+a  la  comprensión  de  los  impactos  mencionados  al  enfocarse  en  el  papel  decisivo  que  lo  religioso 
+tuvo,  y  parece  aún  tener,  en  el  gobierno  directo  o  indirecto  de  individuos  y  poblaciones 
+latinoamericanas  –pese  a  la  instauración  de  diversas  formas  de  laicismo  de  estado  y  secularismo 
+societal  en  los  distintos  países  latinoamericanos.  Para  poder  utilizar  esta  perspectiva,  que  Foucault 
+encapsula  en  su  concepto  de  “pastoralismo”  o  “poder  pastoral”,  en  los  distintos  contextos  de 
+América  Latina  se deben de  adoptar  con  cautela  y  crítica  los  postulados originales de  Foucault. En 
+las  secciones  siguientes  se  abordaran  con  brevedad  algunos  criterios  teórico-metodológicos  para 
+esta  adopción  crítica,  así  como  algunos  resultados  de  investigación  recientes  y  notas  de 
+investigación  que  fundamentan  la  relevancia  de  la  propuesta  teórico-analítica  introducida  en  estas 
+líneas. Se comienza a continuación con un repaso breve de la propuesta original foucaultiana. 
+ 
+ 
+
+II. Gubernabilidad y pastoralismo 
+
+El  pastoralismo  concebido  por  Foucault  no  puede  explicarse  sin  las  teorizaciones  del mismo  autor 
+sobre  la  “gubernabilidad”.  La  gubernabilidad  no  es  sólo  un  concepto  sino  una  perspectiva  teórico -
+analítica para estudiar el poder y sobre  todo el poder ejercido por el “estado moderno”1. De manera 
+mínima  podemos  decir  que  Foucault  definió  la  gubernabilidad  como  el  gobierno  de  individuos  y 
+poblaciones  efectuado  a  través  tanto  de  “aparatos  gubernamentales”  como  de  “una  serie  de 
+conocimientos” que no necesariamente se sitúan dentro del terreno político o dentro del estado en sí 
+y  que  a  lo  largo  de  la  historia  experimentan  resistencias  internas  y  externas,  tensiones,  choques  y 
+transformaciones.  Es  así  como  Foucault  puede  concebir  las  contribuciones  a  la    “gubernabilidad” 
+moderna que provienen de regímenes epistémico-prácticos tales como la economía política del siglo 
+XVIII,  el  liberalismo,  el  neoliberalismo  (Foucault  2008),  así  como  el modelo militar  y  el  concepto 
+de policía en Europa post-medieval  (Foucault 2007). A partir de este abordaje, Foucault propuso en 
+sus  últimos  trabajos  que  el  “gobierno  de  las  personas”  se  concretiza  cuando  convergen  técnicas  de 
+dominio  externo,  como  las  que  pueden  inferirse  de  los  regímenes  epistémico-prácticos  arriba 
+señalados y las “técnicas del yo” o las “auto-tecnologías” (1993:203-204) que permiten al individuo 
+constituirse,  y  auto-controlarse,  como  sujeto  con  mayor  o  menor  agencia.  El  “pastoralismo”  de 
+Foucault es representante paradigmático de dicha convergencia (Petterson 2014; cf. Segato 2014:32) 
+                                                 
+1 Las citas aquí referidas de libros originalmente publicados en ingles fueron traducidas por el autor de este texto.  
+4 
+
+ 
+
+entre  tecnologías  de  gobierno  externo  (Foucault  2007)  y  tecnologías  de  auto-gobierno  (Foucault 
+2014)  y,  para  Foucault,  representa  literalmente  el  “preludio”  (2007:184)  y  una  de  las  “bases” 
+(2007:193) de la gubernabilidad moderna. 
+ 
+
+Pastoralismo 
+Partiendo  desde  las  concepciones  de  la  figura  del  pastor  en  la  Grecia  antigua  y  en   la  civilización 
+hebrea  (2007, 2011), Foucault propone que es la versión transformada del pastor y del pastoralismo 
+de  la Cristiandad  temprana  y monástica  europea,  el modelo que  se  convirtió  en una de  las bases de 
+la  gubernabilidad moderna. Este modelo de  gobierno  instituyó una  serie  de principios. El principio 
+más evidente es el despliegue de la noción de salvación espiritual, tanto en su forma colectiva como 
+individual,  como  una  teleología  gubernamental  (2007,  1982)  que  el  pastor  utiliza  estratégicamente  
+para  gobernar  a  sus  ovejas  (2007),  y  que  el  sujeto  despliega  ante  sí  para  orientar  sus  conductas 
+(1993,  2014). Además  de  este  principio,  el  pastoralismo  despliega  una  “responsabilidad  recíproca” 
+(2007:168)  constituida  por  las  responsabilidades  tanto  de  la  comunidad  para  forjarse  un  destino 
+como la del pastor para responder por el grupo y por los individuos y sus acciones dentro del grupo 
+a  su  cargo.  Este  doble  objetivo  de  gobierno,  el  gobierno  simultaneo  del  individuo  activo  y  de  la 
+colectividad  –  omnes  et  singulatim  –    implica  para  Foucault  una  de  las  transformaciones  del 
+pastoralismo  cristiano  con  respecto  de  la  versión  hebrea. Mientras  que  en  la  primera  el  pastor  sólo 
+es  responsable del  individuo  y del  grupo,  en  la versión Cristiana  el  pastor  es  responsable  “de  todas 
+las acciones [del grupo e individuos], de todo el bien y el mal que podrían causar” (2011:236). Otro 
+principio,  íntimamente  ligado  al  anterior,  es  el  de  la  “responsabilidad  analítica”,  es  decir  la 
+obligación  del  pastor  de  conocer  a  profundidad  tanto  las  acciones  como  las  intenciones  y 
+pensamientos  de  sus  ovejas  (2007:169-170).  El  principio  pastoral  de  “transferencia  exhaustiva  e 
+instantánea”  (2007:  170)  implica  que  las  faltas  y  las  buenas  obras  de  las  almas  gobernadas,  así 
+como  los  males  que  experimentan,  sean  consideradas  también  faltas,  buenas  obras  y  males  que 
+experimenta  su  pastor.  Otro  principio  es  la  “reversión  de  sacrificios”,  el  cual  dicta  que  el  pastor 
+debe  aceptar  el  morir  espiritualmente,  el  sacrificarse  por  sus  ovejas  (2007:170-1).  El  principio  de 
+“correspondencia  alternativa”  dicta  la  deseabilidad,  un  tanto  paradójica,  tanto  de  las  acciones 
+virtuosas  como  de  las  debilidades  del  pastor,  pues  es  a  través  de  las  últimas  por  las  que  el  pastor 
+puede  representar  un  “ejemplo”  (2007:172)    edificante  y  humilde  del  cual  sus  ovejas  pueden 
+aprender.  
+ 
+En  trabajos  posteriores  Foucault  enfatiza  las  contribuciones  del  pastoralismo  para  el  auto-gobierno 
+de  los  individuos;  es  decir,  el  pastoralismo  no  solo  como  principios  de  dominio  externo  sino  como  
+“procesos  por  medio  de  los  cuales  el  yo  es  construido  y  modificado  por  sí  mismo”  (1993:204). 
+Tomando  de  nuevo  como  base  aportes  griegos  antiguos  y  en  específico  sus  pautas  sobre 
+conocimiento,  verdad  y  gobierno  (2014:22-92),  Foucault  analiza  con  detenimiento  los  procesos  de 
+producción  de  verdad  por  el  propio  sujeto  de  acuerdo  a  los  preceptos  monásticos  cristianos.  Para 
+Foucault,  el  individuo  que  en  el  enclave monástico  es  obligado  a  observarse  a  sí mismo  y  rastrear, 
+distinguir  y  evaluar  sus pensamientos por medio de “exámenes de conciencia”  (2014: 93-113; 252-
+287),  para  posteriormente  verbalizar  dichos  pensamientos  ante  un  confesor,  es  un  individuo  que 
+inaugura  un  “régimen”  de  producción    de  verdad  que,  después  de  transformaciones  históricas, 
+
+5 
+
+ 
+
+puede aún observarse en el sustrato de  la “subjetividad occidental” (2014:266) y de  la necesidad de 
+producción de verdades o “conocimiento objetivo” (2014:7) de los estados modernos. 
+ 
+
+Contra-conductas, rupturas y continuidades. 
+La perspectiva teórico-analítica de la gubernabilidad asume la existencia de un campo de fuerzas en 
+donde  se  producen  conflictos,  tensiones,  resistencias  y  choques  entre  distintos  regímenes 
+epistémico-prácticos,  o  tecnologías  de  gobierno.  En  este  sentido  Foucault  también  observa  que  el 
+pastoralismo  descrito  anteriormente  fue  un  régimen  que  se  desarrolló  con  resistencias,  las  cuales 
+denominó  “contra-conductas”  (2007:  204-216).  Entre  ellas  se  encuentran  las  prácticas  medievales 
+ascéticas  (fuera  del monasterio),  las  cuales  refutan  implícitamente  la  necesidad  de  una  autoridad  o 
+maestro  guía  dado  que  el  individuo  se  convierte  en  guía  de  sí  mismo  por  medio  de  su  conexión 
+directa  con  Dios.  La  formación  de  comunidades  espirituales  –  por  ejemplo  los  hussitas  –  que  no 
+requieren  de  una  figura  sacerdotal  o  pastoral,  es  para  Foucault  otra  forma  de  contra-conducta.  El 
+misticismo  representaría  también  otra  contra-conducta  en  tanto  requiere  de  un  individuo  que 
+también  establece  un  vínculo  con  Dios  sin  mediación  de  autoridad  y  sin  requerimientos  de 
+exámenes de conciencia que deben verbalizarse frente a un confesor.  
+ 
+Estas  resistencias  y  la  formación de otros  regímenes epistémicos  –por ejemplo el  régimen  (secular) 
+de  policía  en  Europa  en  los  siglos  XVII  y  XVIII  (2007:311-332,  cf.  Zavala-Pelayo  2018:  7-8)  – 
+llevan  a  Foucault  a  aseverar  que  este  pastoralismo  gubernamental  “desapareció  […]  entre  1580  y 
+1650” al  ser  reemplazado por una  razón de  estado o  raison d’État  (2007:236-8). Pero el  cambio no 
+fue una simple “transferencia” de un tipo de tecnología de gobierno a otra. Para Foucault el proceso 
+fue  más  complejo.  Aquí  cabe  señalar  que  en  términos  de  análisis  causal  Foucault  es  menos 
+ambicioso; él mismo apunta que  su  análisis no es  exhaustivo y únicamente advierte que  los  efectos 
+históricos “acumulados” son producidos por “múltiples y muy diversos procesos” (2007: 239, 248). 
+Con  esta  pauta  metodológica  en  realidad  corta,  Foucault  sugiere  sin  entrar  en  detalles  que  la 
+Reforma  Protestante  –  la  “más  radical”  (2007:  228)  de  las  contra  conductas  –  y  el  propio 
+catolicismo  de  la  contra-Reforma  “re-integraron”  (2007:229)  ciertas  formas  de  contra-conducta  a 
+sus  procedimientos  de  gobierno.  Estas  contra-conductas,  o  “insurrecciones  conductuales”,  (2007: 
+228)  no  buscaban  en  realidad  deshacerse  del  gobierno  pastoral,  sino  “cómo  beneficiarse  de  un 
+mejor pastorado, cómo ser guiado mejor, ser salvado con mayor certeza […]” (2007:231). 
+ 
+Además de esta especie de contra-pastoralismo asumido por el propio régimen pastoral cristiano de 
+la  contra-Reforma,  Foucault  también  sugiere  que  la  “función”  (1982:783)  o  la  pregunta  sobre 
+“cómo  gobernarse  a  sí  mismo”  (2007:230)  que  el  pastoralismo  coloca  como  prioridad 
+gubernamental,  en  realidad  no  desaparece  sino  que  comienza  a  ser  una  función  proveída,  o  una 
+pregunta  que  intenta  contestarse,  por  medio  de  otros  (sub)regímenes  epistémico-prácticos  tales 
+como  la  filosofía  cartesiana  o  los  debates  sobre  la  noción  de  “dominio  público”  (2007:230)  que 
+emerge  en  el  siglo  XVI  en  Europa.  Lo  que  sí  desaparece  de  acuerdo  a  Foucault  son  las  “causas 
+finales”  (2007:235-6),  el  antropocentrismo  y  la  cosmovisión  de  prodigios,  milagros  y  maravillas 
+que  formaban  parte  del  régimen  epistémico-practico  pastoral.    Para  Foucault  no  hay  duda  alguna 
+que  el  imperio  católico  romano  y  su  pastoralismo  “está[n]  muerto[s]”  (2007:247)  pero  el 
+
+6 
+
+ 
+
+pastoralismo  como  tecnología de  gobierno ha permanecido  de una u otra  forma  activo  en  el  campo 
+de  la  política  y  el  estado  moderno.  En  otras  palabras,  el  régimen  pastoral  no  sólo  representa  “el 
+punto  embriónico  de  la  gubernabilidad”  (2007:165),  este  régimen  “jamás  ha  sido  verdaderamente 
+abolido” (2007:148).  
+ 
+Si  lo  anterior  lo  concibió  y  propuso  Foucault  en  relación  a  una  región  (Francia  sobre  todo,  pero 
+también  Italia,  Alemania  y  Europa  del  Norte  en  general)  donde  los  discursos  y  prácticas  de 
+secularismo  han  sido  piezas  centrales  en  las  dimensiones  políticas,  legales,  culturales  y  educativas 
+de  los  últimos  siglos,  ¿qué  puede  decirse  de  una  macro  región  como  América  Latina?  Más 
+específicamente,  que  puede  decirse  de    una  región  que  durante  aproximadamente  trecientos  años 
+experimentó,  con  variaciones  regionales,  un  férreo  régimen  colonial  acompañado  de  un  aparato 
+“evangelizador-civilizatorio”  católico;    una  macro  región  que  apenas  hasta  los  inicios  de  1800s 
+comenzaba, también con variaciones subregionales, procesos complejos de independencia (política) 
+del  régimen  colonial  español  y,  con  algunas  salvedades,  de  su  aparato  católico? Estas  preguntas  se 
+consideran  clave  porque  mientras  que  por  un  lado  la  obra  de  Foucault  ha  tenido  un  impacto 
+considerable entre los científicos sociales en América Latina,  por otro lado sus teorizaciones  sobre 
+pastoralismo  suelen  ser  abordadas  más  bien  con  brevedad  (v.gr.  Segato  2014),  utilizadas  sólo  en 
+forma  adjetival (v.gr. Martinis, 2014; Veiga-Neto 2013) o mencionadas únicamente como elemento 
+coetáneo  de  otros  regímenes  discursivos  o  de  gobierno  no  religiosos  que  sí  son  abordados  a 
+profundidad (v.gr. Castro-Gómez 2005, 2011). 
+ 
+  
+
+III. ¿Pastoralismos en América Latina? 
+
+Para  analizar  pastoralismos,  o  religiones  como  tecnologías  de  gobierno  en  América  Latina, 
+primeramente  es  preciso  adoptar  la  propuesta  original  de  Foucault  de  forma  crítica.  Las 
+teorizaciones  de  Foucault  sobre  gubernabilidad  tienen  como  horizonte  el  último  milenio  y  medio 
+del contexto europeo. El contenido teórico del concepto de pastoralismo, es decir sus principios y la 
+trayectoria  que  de  acuerdo  a  Foucault  tomó  con  el  paso  de  los  siglos,  difícilmente  pueden  ser 
+aplicados  a  un  contexto  latinoamericano  cuya  formación  histórica  es  colonial.  Esta  diferencia  de 
+carácter  histórico  tiene  implicaciones  teórico-conceptuales.  El  pastoralismo  de  Foucault  es 
+apriorísticamente  monástico.  Y  el  monje  cristiano  pudo  haber  sido  una  figura  presente  en  la 
+colonización  de  las  regiones  de  América  Latina,  pero  era  acompañado  de  otra  serie  de  figuras  o 
+instituciones  con  un  rol  “civilizatorio”  muchísimo  más  decisivo:  el  misionero  en  su  reducción,  el 
+fraile  mendicante  en  su  misión,  el  párroco  en  su  pueblo  de  indios  o  pueblo  de  españoles,  el 
+arzobispo que era simultáneamente virrey. Esta diferencia que puede catalogarse como la diferencia 
+colonial  con  respecto  del  pastoralismo  original  de  Foucault,  trae  consigo  una  serie  de  principios  y 
+prácticas  de  gobierno,  o  “series  de  conocimientos”  y  “aparatos  de  gobierno”,  que  Foucault  no 
+teorizó,  o  teorizó  desde  un  enfoque  distinto.  Estos  principios  y  prácticas  de  gobierno  religioso-
+colonizador  deben  investigarse  empíricamente.  Y  es  la  perspectiva  teórico-analítica  de  la 
+gubernabilidad  de  Foucault,  y  no  tanto  el  contenido  conceptual  de  su  pastoralismo,  lo  que 
+justamente  puede  utilizarse  para  el  estudio  empírico  de  pastoralismos,  o  religiones  como 
+tecnologías de gobierno, en América Latina. 
+
+7 
+
+ 
+
+ 
+Adoptar  críticamente  la  perspectiva  teórico-analítica  foucaultiana  significa  también  adoptar  una 
+mirada  diacrónica  de  largo  alcance  sobre  las  religiones,  es  decir,  analizar  no  sólo  la  trayectoria  de 
+fenómenos  religiosos  en  las  últimas  décadas,  sino  la  constitución  histórica  de  larga  data,  mayor  o 
+menormente  transformada,  que  dichos  fenómenos  contienen.  Dicho  de  otra  forma  es  analizar  las 
+religiones  en  América  Latina  sin  las  presuposiciones  epistémicas  de  la  modernidad,  que  marcan  a 
+priori  líneas  necesarias  de  quiebre  entre  nuestros  pasados  “coloniales”  o  “tradicionales”  y  nuestros 
+presentes “de progreso”, en donde el pasado y mucho de lo que en él había se suponen superados de 
+alguna u otra  forma. Adoptar  esta perspectiva  teórico-analítica  también  implica  concebir  religiones 
+no  solo  como  instituciones  con  influencia  en  el  terreno  exclusivamente  religioso,  y  no  sólo  como 
+conjunto  de  individuos  cuyas  creencias  y/o  afiliaciones  religiosas  determinarían  de  alguna  u  otra 
+forma  sus  conductas  extra-religiosas,  sino  religiones  como  regímenes  de  gobierno  y  auto-gobierno 
+que  incluso  después  de  su  cese  formal  institucional  pueden  persistir  y  tener  efecto  de  largo  plazo, 
+tanto  en  la  dimensión  de  las  racionalidades  –  en  este  sentido  la  tesis  clásica  weberiana  sobre  el 
+influjo calvinista en el  contexto  ideológico que derivaría en el  capitalismo, es otro ejemplo  – como 
+en  la  dimensión  de  las  prácticas  y  las  practicas  (auto)disciplinarias  y  auto-constitutivas  del  sujeto. 
+Este  giro  de  perspectiva  requiere  también  de  un  giro  de  tipo  metodológico,  igualmente  ambicioso. 
+En  palabras  de  Foucault  la  gubernabilidad  puede  estudiarse  solo  si  se  trasciende  el  nivel 
+institucional  y  se  pone  la  mirada  en  los  “proyectos  globales”,  el  “orden”  meta-institucional,  las 
+“estrategias  y  tácticas”  externas  a  la  institución  que  han  marcado  y  marcan  pautas  de  gobierno 
+(2017:116-8; ver también Bröckling, Krasmann, Lemke 2011:12).  
+ 
+En  mis  trabajos  más  recientes  he  adoptado  esta  mirada  para  analizar  la  naturaleza,  trayectoria  y 
+persistencia  de  regímenes  pastorales  de  gobierno  en  América  Latina  (Zavala-Pelayo  2015,  2016a, 
+2016b,  2017a,  2018).  En  las  últimas  publicaciones  se  propone  que  el  estudio  de  estos  regímenes 
+religiosos  puede  realizarse  más  específicamente  por  medio  del  análisis  de  sus  tecnologías  de 
+gobierno  (Zavala-Pelayo  2018),  un  término  que  Foucault  en  ocasiones  usa  para  referirse  a 
+(auto)gobiernos  pastorales  (2007:  154;  1993)  y  en  otras  ocasiones  usa  para  referirse  a  la 
+gubernabilidad en  su  conjunto  (2007:120; ver  también Henman 2006, Withworth and Carter 2014). 
+Siguiendo  la definición  original de  gubernabilidad,  estas  tecnologías  religiosas de gobierno pueden 
+analizarse empíricamente a través del estudio de las  técnicas (prácticas, procedimientos, aparatos) y 
+lógicas  (conjunto  de  conocimientos,  racionalidades,  epistemologías)  de  gobierno 
+de 
+las 
+desarrolladas y desplegadas tanto a nivel macro o meta-institucional (Foucault 2007:116-8) como  a 
+nivel micro (Foucault 1993; 2014). 
+ 
+ 
+IV. Tecnologías religiosas de gobierno en México, Costa Rica y Uruguay 
+
+Con la perspectiva teórica-analítica y las especificaciones conceptuales mencionadas anteriormente, 
+quien suscribe ha trabajado en el análisis de las tecnologías religiosas de gobierno en México, Costa 
+Rica  y  Uruguay.  Estos  tres  países  han  sido  seleccionados  para  un  primer  estudio  porque    abarcan 
+regiones  distintas  del  norte,  centro  y  sur  de  América  Latina,  y  además  constituyen  estados  y 
+sociedades  que  tienen  en  la  actualidad  perfiles  característicos,  distintos  entre  sí  y  al mismo  tiempo 
+
+8 
+
+ 
+
+parcialmente  comparables.  Mientras  que  México  puede  describirse  en  términos  comparativos  (y 
+necesariamente generalizantes) como una región con un estado fuertemente identificado como laico 
+y  una  sociedad  o  conjunto  de  sociedades  con  niveles  significativos  –  aunque  distintos  sub-
+regionalmente – de creencias, prácticas y afiliaciones religiosas (Pew Research Center 2014; Red de 
+Investigadores…  2016),  Costa  Rica  es  de  hecho  un  estado  confesional  (católico)  dentro  de  una 
+sociedad  ,  o  conjunto  de  sociedades,  que  por  otro  lado  también  muestran  niveles  variables  pero 
+significativos de creencias, prácticas y afiliaciones religiosas2. Uruguay por otro  lado, representa en 
+la actualidad un estado laico un tanto similar al estado mexicano, pero al mismo tiempo alberga una 
+sociedad  con  porcentajes  comparativamente    bajos  de  creencias,  prácticas  y  afiliaciones  religiosas 
+(Pew Research Center 2014:14,  17-18). Para  el  caso de México  se han  seleccionado  además,  como 
+sub-casos de estudio   para el  análisis de  la persistencia de  tecnologías  religiosas  en  la actualidad, a 
+miembros  de  las  organizaciones  juveniles  de  partidos  políticos  de  centro,  izquierda  y  derecha  en 
+este  país  (Zavala-Pelayo  2015,  2018).  Este  grupo  de  edad  se  ha  seleccionado  por  tres  razones:  por 
+ser usualmente abordado como evidencia en debates sobre multiculturalidad y diversidad ideológica 
+(Harris  2013),  por  representar  un  segmento  poblacional  cuantitativamente  relevante  (OIJ  2013)  y 
+por  su  centralidad,  potencial  y  de  facto,  en  conflictos  políticos  y  movimientos  sociales  con 
+significancia nacional e internacional (v.gr. Hoffman and Jamal 2012). Para maximizar la relevancia 
+de estos sub-casos de estudio y al mismo  tiempo elevar la  factibilidad del análisis,  los miembros de 
+las organizaciones juveniles  entrevistados fueron grupos conformados por 10-12 dirigentes de nivel 
+local,  regional  y  nacional  de  cada  organización.  Se  presenta  en  seguida  un  resumen  muy  breve  de 
+los hallazgos de investigación a la fecha más significativos. 
+ 
+
+Tecnologías religiosas de gobierno en México 
+El  análisis  de  caso mexicano  comprende  un  análisis  genealógico  (Foucault  1977)  del  pastoralismo 
+que  puede  observarse  en  el  periodo  colonial  en México  (Zavala-Pelayo  2016a,  2016b),  un  análisis 
+de  los  valores  religiosos  de  auto-gobierno  de  los  dirigentes  de  organizaciones  juveniles  partidistas 
+mencionadas  anteriormente  (Zavala-Pelayo  2015),  así  como  un  primer  análisis  diacrónico  del 
+pastoralismo colonial en México y su presencia  (transformada) en  la gubernabilidad  de “bienestar”, 
+o  welfare  governmentality,  que  puede  ser  inferida  del  material  de  entrevistas  a  los  dirigentes 
+mencionados y de sus nociones de gobierno  y política en la época actual (Zavala-Pelayo 2018). 
+El  régimen  católico  en  el México  colonial  (de  principios  del  siglo XVI  a  principios  del  siglo XIX) 
+utilizó  sin  duda  la  noción  de  salvación  espiritual  teorizada  por  Foucault  como  una  teleología 
+pastoralista  clave.  Sin  embargo,  como  se  refiere  en  los  resultados  de  investigación  (2016a,  2016b) 
+el  caso  de  México  también  muestra  que  esta  teleología  salvífica  no  refería  únicamente  al  plano 
+espiritual  sino  al  plano  terrenal  también.  Este  régimen  también  desarrolló  la  humildad  caritativa 
+como  herramienta  de  gobierno.  Es  decir  el  despliegue  estratégico  de  actitudes   de  modestia  y 
+desinterés  económico  acompañado  de  un  uso  deliberado  de  la  beneficencia  basada  en  dádivas, 
+obsequios  u  otros  satisfactores  materiales  de  necesidades  básicas  como  alimentación,  vestido  y 
+                                                 
+2 El reporte del Pew Research Center (2014) indica que mientras que en México el 81% de la población es nomina l-
+mente católica, 9% protestante y 7% “no afiliada”, en Costa Rica el 62% de la población seria nominalmente católica, 
+el 25% protestante y el 9% no afiliada (2014:14). Para México véanse porcentajes similares en Red de Investigadores…, 
+2016; para Costa Rica véanse datos comparables en Araya, 2017   
+
+9 
+
+ 
+
+vivienda  (2016b:179-180).  El  régimen  católico  en  México  colonial 
+también  desarrolló 
+procedimientos  gubernamentales  específicos  tales  como  una  “rigurosidad  ceremonial  “  y  una 
+“exactitud  performativa”,  es  decir  una  exigencia  sistemática  rigurosa  en  el  cumplimiento  de  los 
+requerimientos  externos  de  los  rituales  religiosos  y  una  precisión  de  posturas,  movimientos  y 
+actividades corporales en la realización de dichos rituales y otras actividades religiosas (2016b:181-
+5).  
+ 
+Pasando  al  nivel  micro,  el  análisis  de  los  perfiles  y  valores  religiosos  de  los  dirigentes  de  las 
+organizaciones  mencionadas  arroja  como  resultados  una  muestra  de  sujetos  relativamente  diversa 
+en  la  que  sin  embargo  se  observan  sistemáticamente  creencias  en  Dios,  un  dios  o  una  fuerza 
+“superior”  (2015:179)  en  los miembros  de  los  tres  partidos.  Se  observa  también  un  escepticismo  y 
+rechazo  hacia  valores  religiosos  asociados  a  la  moral  sexual  católica  pero  se  observa  al  mismo 
+tiempo  una  cierta  coincidencia  en  la  estima de otros valores  religiosos  como  la  “ayuda  al  prójimo” 
+(2015: 178-9, 183). El estudio diacrónico de las tecnologías de gobierno mencionadas al inicio y sus 
+persistencia  transformada  en  las  lógicas  del  por  qué  y  cómo  proveer  “bienestar  público”  que  se 
+puede  inferir  del  material  cualitativo  obtenido  de  las  entrevistas  a  estos  jóvenes  dirigentes,  indica 
+que  las  nociones  de  éstos  sobre  el  rol  del  político  y  gobiernos  ideales  contienen  sistemáticamente 
+dos  versiones  de  política/gobierno  como  ‘ayuda’,  una  versión  caritativa  (asimétrica)  basada  en  la 
+idea  de  ayudar  al  necesitado  como  virtud  personal  y  una  versión  utilitarista-colectivista  (simétrica) 
+basada  en  la  idea    de  ayuda  mutua  (2018).  En  este  análisis  se  sugiere  que  dichas  versiones  están 
+conectadas  con  el  valor  de  “ayuda  al  prójimo”  encontrado  en  el  análisis micro  (2015)  y  que dichas 
+versiones  y  respectivo  valor  religioso  derivan  de  la  trasformación  histórica  y  la  persistencia 
+operativa  de  la  caridad  desplegada  como  instrumento  gubernamental  desde  el  funcionamiento  del 
+régimen católico en el periodo colonial, ello pese a que la identidad profesional de los entrevistados 
+puede describirse como genuinamente laica. 
+   
+
+Tecnologías de gobierno en Costa Rica y Uruguay coloniales 
+El caso de Costa Rica  también ha sido abordado en  términos del régimen católico que se desarrolló 
+en  esta  región  durante  el  periodo  colonial.  Como  en  el  caso  del  régimen  religioso  colonial  en 
+México, en Costa Rica  se observa el despliegue gubernamental de  las  tecnologías de  la “caridad” y 
+la  “rigurosidad  ceremonial”.  Se  observa  también  el  despliegue  de  otras  tecnologías  que  no   pueden 
+inferirse,  al  menos  no  directamente  de  la  obra  de  Foucault:  una  tecnología  de  control  bio-político, 
+una tecnología de dominio geo-político y una tecnología de eficiencia administrativa. Hay evidencia 
+documental  (2017:12-14)  de  que  la  tecnología  de  control  bio-político  en  Costa  Rica  colonial 
+contaba  con una  lógica particular  legitimadora  y  se enfocaba no  solo en el  control de  los cuerpos  y 
+los  cuerpos  sexuales  de  los  individuos  indígenas,  mestizos  y  españoles,  sino  también  en  el  control 
+de  poblaciones  productivas,  primariamente  las  poblaciones  indígenas.  Ambas  estrategias  bio-
+políticas  contaban  con  su  respectiva  técnica  para  inducir  el  auto-gobierno  de  los  individuos  en 
+dichas  áreas. Utilizando  la  lógica  geo-política  de  la  cristiandad  universal,  la  tecnología  de  dominio 
+geopolítico en Costa Rica se enfocó en  la ocupación y el control   del  territorio así como en  la “(co -
+)creación”  (2017a:15)  de  espacios,  por  medio  de  distintas  herramientas  como  la  reducción,  la 
+misión  de  frontera  y  la  administración  de  espacios  comunitarios  y  domésticos.  La  tecnología  de 
+
+10 
+
+ 
+
+eficiencia administrativa muestra por  su parte una  lógica  teológica de eficiencia  así como una  serie 
+de prácticas sistemáticas basadas en registros metódicos de objetos y sujetos. 
+ 
+El estudio  de las tecnologías religiosas de gobierno en Uruguay ha comenzado tangencialmente con 
+un  análisis  genealógico  de  las  misiones  jesuitas-guaraníes  que  operaron  en  lo  que  ahora  son  los 
+territorios  del  sur  de  Brasil,  Argentina  y  Paraguay.  Este  análisis  genealógico  sugie re  que  la 
+tecnología  de  dominio  geopolítico  arriba  mencionada  se  desarrolló  con  una  mayor  especialización 
+en  el  territorio misionero  jesuita-guaraní. Resultados preliminares de  investigación  sugieren que no 
+sólo  se  desplegó  una  lógica  geopolítica,  sino  también  una  serie  de  técnicas  “suaves”  y  “duras”,  así 
+como un auto-gobierno basado en una “espacialización inducida” que puede al menos observarse en 
+los  misioneros  jesuitas.  El  caso  de  estas  misiones  también  sugieren  que  el  (sub-)régimen  jesuita 
+también  desplego  una  tecnología  no  necesariamente  de  eficiencia  administrativa  como  en  Costa 
+Rica sino de eficiencia económica.  Los respectivos  análisis de los casos coloniales de Costa Rica y 
+Uruguay se mantienen actualmente en curso y se espera que prosigan en un  futuro con estudios más 
+detallados  de  las  tecnologías  de  gobierno  del  régimen  católico  colonial,  las  transformaciones  de 
+dichas  tecnologías  en  la  etapa  post-independencia  (siglos  XIX  principios  del  XX),  así  como  un 
+análisis de la presencia transformada o la ausencia de dichas tecnologías en la racionalidad política-
+gubernamental de agentes políticos como los analizados en el caso mexicano. 
+ 
+En  cuanto  a  este  último  análisis,  se  conjetura  de  manera  muy  tentativa  que  el  caso  de  Costa  Rica 
+pudiese  ofrecer  pistas  sobre  persistencia  de  tecnologías  de  control  bio-político  si  se  considera  una 
+serie  de  eventos  recientes.  Primero,  la  designación  del  pastor  evangélico  Gonzalo  Ramírez  como 
+presidente del congreso costarricense –una figura política que de acuerdo a fuentes periodísticas “se 
+ha  opuesto  a  la  legalización  de  la  fecundación  in  vitro,  al  reconocimiento  de  derechos  civiles  para 
+las parejas homosexuales y al aborto terapéutico” (El Nuevo Diario, 2017). Y segundo, las recientes 
+pugnas,  tensiones  y  conflictos  entre  los  defensores  y  los  opositores  de  la  implementación  de 
+derechos  sexuales  y  reproductivos    en  este  país  (Madrigal  2017, Mata  y  Quiros  2017, Vega  2017). 
+Para  el  caso  de  Uruguay  y  las  tecnologías  religiosas  que  pudieron  haber  sido  desplegadas  en  esta 
+región  y  pudieran  acaso  persistir  en  la  actualidad,  las  conjeturas,  igualmente  de  carácter  muy 
+tentativo, más bien  apuntan  a una presencia histórica mínima de  tecnologías  religiosas de  gobierno 
+y una persistencia  ínfima, acaso muy  focalizada, de  las mismas en  la actualidad. En cualquier caso, 
+los  estudios  genealógico  (Foucault  1977)  y  empírico  sistemáticos  de  las  trayectorias  históricas  y 
+persistencia/ausencia  de  las  tecnologías  religiosas  arriba  discutidas  en  Costa  Rica  y  Uruguay  se 
+mantienen como tareas pendientes. 
+ 
+
+ 
+V. Conclusiones 
+
+Los  resultados  de  investigación  resumidos  en  la  sección  anterior  constituyen  apenas  el  primer 
+acercamiento  sistemático  a  las  religiones  como  tecnologías  de  gobierno  en  distintas  regiones  de 
+América  Latina.  Se  considera  necesario  continuar  con  dichos  estudios  para  analizar 
+comparativamente  las  transformaciones,  rupturas  y  continuidades  –  de  carácter  local  y/o  trans-
+regional  –  entre  aquellas  tecnologías  religiosas  de  gobierno  instituidas  durante  la  época  colonial  y 
+
+11 
+
+ 
+
+tanto  las  tecnologías  de  gobierno  de  los  estados  modernos  en  América  Latina  así  como  las 
+tecnologías  de  auto-gobierno  que  los  individuos  en  el  nivel  micro  utilizan,  sobre  todo  aquellos 
+individuos  que  serían  centrales  en  las  arenas  políticas  de  las  sociedades  latinoamericanas  del  siglo 
+XXI.  Para  realizar  lo  anterior  no  se  proponen  necesariamente  en  este  texto  los  principios  de 
+gobierno  pastoralistas  originalmente  propuestos  por  Foucault,  sino  su  perspectiva  teórico-analítica, 
+es  decir,  la  concepción  de  religiones  como  regímenes  de  gobierno  cuyos  componentes  diversos 
+tienen  la capacidad de persistir por siglos en el nivel de  las gubernabilidades, pese a  la  instauración 
+de regímenes y leyes de gobierno seculares. Y, como fue anotado anteriormente, esta concepción de 
+las religiones no podría  llevarse a cabo sin  la adopción de una postura escéptica sobre  los discursos 
+sobre  modernidad  y  sus  postulados  epistémicos  dicotomistas  acerca  del  pasado  y  el  presente,  la 
+“tradición” y el “progreso”. Adoptar esta mirada también implica el análisis simultáneo de prácticas 
+de  gobierno  a  nivel  macro  o  meta-institucional,  así  como  el  análisis  de  las  prácticas  de  auto-
+gobierno  constitutivas  del  sujeto  a  nivel  micro  (Bröckling,  et  al.  2011).  A  estas  pautas  pueden 
+añadirse  los conceptos  introducidos anteriormente  sobre  religiones como  serie o conjunto de  tecno-
+logías  de  gobierno  y  auto-gobierno  compuestas  tanto  por  lógicas  legitimadoras  (implícitas  o 
+explicitas)  como  por  técnicas  específicas.  Estudios  genealógicos  y  empíricos  con  este  tipo  de 
+aproximación  podrían  complementar,  al  menos  en  principio,  la  cantidad  significativa  de  trabajos 
+excepcionales sobre religiones desde un punto de vista institucional que a la fecha se han producido. 
+Este  tipo  de  aproximaciones  sobre  religiones  como  tecnologías  de  gobierno  y  auto-gobierno  puede 
+sin  duda  contribuir  a  los  estudios  comparados  y  debates  académicos  sobre  religión  y  política  en 
+América  Latina  y  sus  distintas  regiones,  así  como    los  debates    sobre  religión  y  política  en  otras 
+regiones  más  allá  de  América  Latina,  y  los  retos  que  las  relaciones  entre  estas  dos  dimensiones 
+representan en los planos educativo,  de políticas públicas, de las relaciones internacionales y de las 
+dinámicas socio-políticas globales del siglo XXI. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+ 
+
+VI. Bibliografía 
+
+Araya,  J.  (2017)  “Conservadurismo  y  actitudes  autoritarias  prevalecen  entre  costarricenses”, 
+Semanario 
+Universidad, 
+Enero 
+18, 
+2017. 
+Acceso 
+Diciembre 
+1, 
+2017, 
+https://semanariouniversidad.com/pais/conservadurismo-actitudes-autoritarias-prevalecen-
+costarricenses/ 
+ 
+Bröckling, Q., Krasmann  S.,  Lemke T.  (2011)  ”From  Foucault’s  Lectures  at  the College  de  France 
+to  Studies  of  Governmentality:  An  Introduction”,  en  Bröckling,  Krasman,  Lemke  (cords) 
+Governmentality. Current Issues and Future Challenges, London: Routledge, 1-33. 
+ 
+Castro-Gomez, S. (2005) La hybris del punto cero ciencia, raza e  ilustración en  la Nueva Granada 
+(1750-1816), Bogota: Pontificia Universidad Catolica. 
+ 
+Castro-Gomez,  S.  (2011)  Crítica  de  la  razón  latinoamericana,  Bogota:  Pontificia  Universidad 
+Javeriana. 
+ 
+El  Nuevo  Diario  (sin  autor)  (2017)  “Congreso  de  Costa  Rica  elige  a  un  pastor  fundamentalista 
+como  presidente”,  El  Nuevo  Diario 
+(sin 
+fecha).  Acceso 
+  Octubre  12,  2017. 
+http://www.elnuevodiario.com.ni/internacionales/centroamerica/426381-congreso-costa-rica-elige-
+pastor-fundamentalista-p/ 
+ 
+Foucault,  M.  (1977),  “Nietzsche,  genealogy,  history”,  in  Bouchard  D.F.  (coord)  Language, 
+countermemory, practice: selected essays and  interviews, Cornell University Press,  Ithaca, pp. 139-
+164. 
+ 
+Foucault, M. (1982), “The subject and power”, Critical Inquiry, Vol. 8, No. 4, pp. 777-795. 
+ 
+Foucault, M. (1993), “About the Beginning of the Hermeneutics of the Self: Two Lectures at  
+Darthmouth”, Political Theory, Vol. 21, No. 2, pp. 198–227. 
+ 
+Foucault,  M.  (2007)  Security,  territory,  population.  Lectures  at  the  College  de  France,  1977–78, 
+Basingstoke: Palgrave Macmillan 
+ 
+Foucault, M. (2008), The Birth of Biopolitics. Lectures at the Collège De France, 1978–79, 
+Palgrave Macmillan, Basingstoke, Hampshire. 
+ 
+Foucault,  M.  (2011)  “Omnes  et  Singulatim:  Towards  a  Criticism  of  Political  Reason”,  en  
+McMurrin  Sterling  (coord),  The  Tanner  Lectures  on  Human  Values,  Vol.  2,  1981,  Salt  Lake  City: 
+University of Utah Press, 224-254. 
+ 
+Foucault, M. (2014) On the government of the living, lectures at the Collège De France, 1979–1980, 
+Palgrave Macmillan, Basingstoke, Hampshire 
+
+13 
+
+ 
+
+ 
+Harris, A. (2013) Young people and everyday multiculturalism, New York: Routledge 
+ 
+Henman, P. (2006), “Welfare reform as governance reform: the prospects of a governmentality 
+perspective”, en Henman, P., Fenger M., (cords) Administering Welfare Reform. International 
+Transformations in Welfare Governance, Bristol: The Policy Press, 19-41. 
+ 
+Hoffman,  M.,  Jamal,  A.  (2012)  “The  Youth  and  the  Arab  Spring:  Cohort  Differences  and 
+Similarities”, Middle East Law and Governance, 4: 168–188 
+ 
+Madrigal, L. (2017) “Siete candidatos presidenciales asistieron a “Marcha por la Vida y la Familia”, 
+Elmundo.cr,  Diciembre  3,  2017.  Acceso  Diciembre  4,  2017  https://www.elmundo.cr/seis-
+candidatos-presidenciales-asistieron-marcha-la-vida-la-familia/ 
+ 
+Martinis,  P.  (2014)  “Sujetos  populares  y  gobierno  de  la  pobreza  en  la  consolidación  del  sistema 
+educativo  moderno  en  Uruguay”,  en  Ruvitoso,  M.  (coord.)  Cuadernos  de  pensamiento  biopolitico 
+latinomaericano 2, Buenos Aires: Universidad Pedagogica, 25-32.  
+ 
+Mata,  E.,  Quiros,  J.  (2017)  “Leonardo  Garnier  destroza  argumentos  de  Fabricio  Alvarado  sobre 
+supuesta  “ideología  de  género”,  Elmundo.cr,  Octubre  3.  Acceso  Diciembre  1,  2017 
+https://www.elmundo.cr/leonardo-garnier-destroza-argumentos-fabricio-alvarado-supuesta-
+ideologia-genero/ 
+ 
+OIJ,  Organización  Iberoamericana  de  Juventud    (2013)  El  futuro  ya  llego.  1a  Encuesta 
+Iberoamericana  de  Juventudes.  Informe  ejecutivo.(sin  lugar  de  publicación):  Organizacion 
+Iberoamericana de Juventud. 
+ 
+Petterson,  C.  (2014)  The  missionary,  the  Catechist  and  the  Hunter:  Foucault,  Protestantism  and 
+Colonialism, Leiden: Brill. 
+ 
+Pew  Research  Center  (2014)  “Religion  in  Latin  America:  Widespread  Change  in  a  Historically 
+Catholic Region”, Reporte de Investigación, Noviembre 13, 2014. 
+ 
+Red  de  Investigadores  del  Fenómeno  Religioso  en  México  (RIFREM),  (2016)  Encuesta  Nacional 
+sobre Creencias y Prácticas Religiosas en México ENCREER/RIFREM 2016. Acceso Diciembre 1, 
+2017 
+http://www.rifrem.mx/?publicacion=encuesta-nacional-en-mexico-sobre-creencias-y-
+practicas-religiosas 
+ 
+Segato, R. (2014) Las nuevas formas de la guerra y el cuerpo de la mujeres, Puebla: Pez en el árbol. 
+ 
+
+14 
+
+ 
+
+Vega E. (2017) “La vida y la familia levantan la mano”, La Nacion, sin fecha. Acceso Diciembre 4, 
+2017. http://www.nacion.com/nacional/la-vida-y-la-familia-levantan-la 
+mano/B4O6Q2II2RGI5JPSRYUDIJXWJA/story/  
+ 
+Veiga-Neto,  A.  (2013)  “Biopolítica,  normalización  y  educación”,  en  Ruvitoso  M  (coord.) 
+Cuadernos  de  pensamiento  biopolitico  latinomaericano  1,  Buenos Aires: Universidad  Pedagogica,  
+10-19. 
+ 
+Withworth A., Carter E. (2014), “Welfare-to-Work Reform, Power and Inequality: From 
+Governance to Governmentalities”, Journal of Contemporary European Studies, (22): 2: 104-117. 
+ 
+Zavala-Pelayo,  E.  (2015)  “Creencias  y  valores  religiosos  en  los  criterios  de  auto-gobierno  de 
+jóvenes políticos en México”, Siwô' Revista de Teología, 9(1):167-189.   
+ 
+Zavala-Pelayo, E.  (2016a)  “Another pastoral power: spiritual  salvation  through worldly  integralism 
+in  colonial  Latin  America“.    Documento  de  trabajo,  Center  for  Area  Studies,  Freie  Universität 
+Berlin 
+ 
+Zavala-Pelayo,  E.  (2016b)  “Colonial  Pastoralism  in  Latin  America:  New  Spain’s  Bio-political 
+Religious Regime”, Politics, Religion & Ideology, 17(2-3), pp. 172-190. 
+ 
+Zavala-Pelayo, E. (2017a) “Colonial Pastoralism in Latin America: preliminary findings from Costa 
+Rica”,  ponencia  presentada  en  el  taller‘Religion  and  Society  in  Latin  America’,  Universität  Bern, 
+Universität St. Gallen, Suiza, Marzo 2017. 
+ 
+Zavala-Pelayo,  E.  (2018)  “Welfare  governmentalities:  pastoralism  and  parties’  youth  wings  in 
+Mexico”, International Journal of Sociology and Social Policy, 38(1/2). 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 
+
+

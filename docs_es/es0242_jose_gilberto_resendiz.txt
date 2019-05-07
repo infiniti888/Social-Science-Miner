@@ -1,0 +1,618 @@
+ 
+
+ 
+
+Radiografía de los Residuos Sólidos Urbanos en la Central de 
+
+Abasto de la Ciudad de México: Hacia la construcción social del 
+
+desarrollo sustentable  
+
+ 
+
+ 
+
+José Gilberto Reséndiz Romero 
+
+gilmilenio@hotmail.com con copia para jgresen@ipn.mx 
+
+Instituto Politécnico Nacional Centro de Investigaciones Económicas Administrativas y Sociales 
+
+México 
+
+ 
+
+ 
+
+Mesa GT 14. Medio Ambiente, Sociedad y Desarrollo Sustentable 
+ 
+
+ 
+
+RESUMEN 
+
+¿Cuál es  la  importancia de convertir  la basura en energía eléctrica? La política gubernamental tiene 
+una disyuntiva muy  clara o bien permite que  el problema de  la Ciudad  de México  (CDMX)  crezca 
+de  una manera que no  se  le pueda  controlar y da paliativos o  bien  toma medidas  a corto plazo  para 
+convertir  la  basura  en  energía  eléctrica.  Tomando  una  u  otra  decisión  sin  duda  va  a  tener  una 
+repercusión económica, política, social y ambiental que se va a ver en el bienestar del ciudadano de 
+la  capital  y  de  la  Zona  Metropolitana  del  Valle  de  México  (ZMVM),  si  se  opta  por  la  segunda, 
+entonces  es  un  problema  metropolitano  que  hizo  explosión  al  cierre  del  Bordo  Poniente  donde  se 
+depositaba  la  basura  de  la  CDMX  en  2011  que  implica  la  búsqueda  de  otros  derroteros,  a  nivel 
+importante  la Central  de Abasto  (CEDA)  produce  los  365  días  del  año  780  toneladas  de  las  cuales 
+se estima que el 75%  es  de  fracción  orgánica, pero ya  técnicamente es  posible  convertir  la  fracción 
+orgánica  de  la  basura  en  energía  como  gas  y  como  electricidad  esta  es  pues  una  alternativa  viable 
+porque  con  una  inversión  económica  rápidamente  se  recupera,  es  factible  porque  la  técnica  y  las 
+condiciones son propicias para hacerlo en un corto plazo y deseable porque es una salida racional al 
+problema de la basura. 
+ 
+ABSTRACT 
+
+1 
+
+ 
+
+What  is  the  importance  of  chance  the  garbage  in  electrical  energy?  Government  policy  has  a  very 
+clear  dilemma  or  it  allows  the  Mexico  City  problem  (CDMX)  to  grow  in  a  way  that  can ´t  be 
+controlled and palliative or takes short-term measures to convert garbage into electricity. Taking one 
+or  another  decision will undoubtedly have  an  economic, political,  social  and  environmental  impact 
+that  will  be  seen  in  the  well-being  of  the  citizen  of  the  capital  and  the  Metropolitan  Zone  of  the 
+Valley of Mexico  (ZMVM),  if  selection  the  second option,  then  it  is  a metropolitan problem which 
+exploded  at  the  end  of  the  Bordo  Poniente  where  the  CDMX  waste  was  deposited  in  2011,  which 
+involves  the  search  for other  routes,  at  an  important  level,  the Central de Abasto  (CEDA) produces 
+365  days  a  year  of  which  780  tons  are  estimated  75%  is  of  organic  fraction,  but  it  is  already 
+technically possible to convert the organic fraction of the waste into energy as gas and as electricity 
+this  is  therefore  a  viable  alternative  because with  an  economic  investment  it  quickly  recovers,  it  is 
+feasible  because  the  technique  and  the  conditions  are  conducive  to  doing  so  in  the  short  term  and 
+desirable because it is a rational solution to the problem of garbage.  
+ 
+
+Palabras clave 
+
+Basura, Biodigestor y Energía.  
+ 
+
+Keywords 
+
+Garbage, Biodigestor and Energy.  
+ 
+I. Introducción 
+
+Buscando mediante un biodigestor producir biogás  y  energía  eléctrica de  acuerdo a  la Constitución 
+Política de la Ciudad de México que señala: se establecerán las medidas necesarias y los calendarios 
+para  la  transición  energética   acelerada  del  uso  de  combustibles  fósiles  al  de  energías  limpias, 
+(artículo 16 ordenamiento territorial en su subdivisión de Medio Ambiente en el numeral 4), aunque 
+en  el  2017  la  participación  de  obtención  de  energía  vía  los  biodigestores  es  marginal,  va 
+aumentando  paulatinamente  su  participación  como  una  energía  limpia  que  recupera  biogás  por  un 
+lado  y  por  otro  el  digestato  para  abono  de  la  tierra  y  reducir  la  huella  de  carbono ,  recuperar  el 
+biogás  y  utilizar  el  digestato  es  una  necesidad  prioritaria  para   que  sea  una  solución  ambiental  que 
+tiene  mucho  que  ver  con  la  sociedad,   que  se  crearan  políticas  públicas  para  reducir  la  huella 
+ecológica  para  reducir  las  causas  y  mitigar  los  efectos  de  la  contaminación,  entre  ellos  los  de  los 
+RSU  para  poder  estar  en  condiciones  donde  las  autoridades  garanticen  el  derecho  a  un  medio 
+ambiente sano.  
+
+Se  trata  de  compensar  económicamente  y  con  bienes  ambientales  a  los  grupos  que  han  sido 
+afectados  por  la  contaminación  de  los  RSU,  la  mitigación  de  la  contaminación  debe  de  se r 
+ponderada  por  una  guía  de  indicadores  medibles  para  monitorear  la  reducción  de  los  mismos  y  la 
+producción  de  kw/hr  en  la  Central  de  Abasto  (CEDA),  darle  un  seguimiento  de  las  acciones 
+tendientes a planear, programar, organizar, controlar y evaluar al PMA para la CEDA.  
+
+2 
+
+ 
+
+El  Plan  de  Manejo  Ambiental  (PMA)  tiene  el  propósito  de  mitigar  el  impacto  económico  y 
+ambiental que  tiene el actual manejo de  la basura para sustituirlo por uno de gestión  integral de  los 
+Residuos Sólidos Urbanos (RSU). 
+
+Con  un  proyecto  de  protección  civil  integral  para  evitar  las  contingencias  tanto  físicas  y  químicas 
+por  accidentes y  contingencias que puedan perjudicar  a  la población de  la CEDA,  este  seguimiento 
+se debe de agrupar en una auditoria a  la CEDA  en forma permanente que redunde en acciones para 
+una rentabilidad sostenibles y sustentable, esto es tanto económica como ambientalmente, esto llego 
+en el momento que es necesario, factible, posible y deseable el plan, de tal suerte que el PMA de  la 
+CEDA  se  inscribe  legalmente  en  lo  que  la  Constitución  Política  de  la  Ciudad  de México  señala  y 
+por  las  necesidades  económicas  y  ambientales  de  la  Ciudad,  dado  que  el  actual  sistema  de 
+recolección  de  basura  depende  del  transporte  y  su  disposición  final  en  tiraderos  a  cielo  abierto,  en 
+Cuatitlán Edo de Mex y Cuernavaca en el estado de Morelos donde la tendencia debe de ser revertir 
+esto y tener incentivos positivos para que se modifique a un sistema donde se utilicen los RSU para 
+generar  energía:  disminución  en  el  costo  de  la  energía  eléctrica  y  producción  del  digestato.  Esto 
+significa  que  la  ciudad  de  México  no  sólo  tendrá  que  invertir  en  nuevas  infraestructuras  para 
+cumplir  los  objetivos,  sino  que  también  tendrá  que  aumentar  la  conciencia  pública  tanto  de  la 
+población  de  la  CEDA  como  de  los  visi tantes,  llegando  a  un  acuerdo  político  explicitó  que  quizá 
+por  la experiencia  tenida en  anteriores proyectos  como  fue  el Metrobus en  la Ciudad de México,  el 
+acuerdo político va a ser el trabajo donde se disponga de más recursos, para cambiar la lógica actu al 
+del manejo de  los residuos. La solución para  la nueva gestión de residuos será una forma de aplicar 
+el  enfoque  de  economía  circular  a  la  actual  práctica  de  administración  de  residuos  en  la  CEDA, 
+donde se  inviertan los  incentivos y se genere energía que  produzca ahorros económicos y bienestar. 
+El  escenario  propuesto  para  la  CEDA  en  el  documento  es  una  actualización  innovadora  de  la 
+gestión  de  residuos  municipales  basada  en  la  jerarquía  de  gestión  de  residuos  y  el  enfoque  de 
+economía circular. 
+Preguntas de investigación 
+1.  ¿Cuánto se genera de Residuos Sólidos Urbanos en la central de abasto?   
+
+2.  ¿A dónde van a dar los RSU de la CEDA y cuáles son los efectos que producen?   
+
+3.  ¿Por qué  es  importante el  conocimiento  interdisciplinario  para  el diagnóstico, planeación, 
+implementación y supervisión de una futura planta de tratamiento de basura que la convierta 
+en energía? 
+
+4.  ¿Cuáles  son  las  condiciones  que  hacen  factible,  posible,  deseable  y  pertinente  la  puesta 
+en marcha de una planta que produzca energía a partir de la basura? 
+
+5.  ¿Cuáles es el procedimiento más  conveniente de utiliz ar en la Central y en la Ciudad para 
+convertir los residuos en energía? 
+
+6.  ¿Cuál es el aspecto político que interviene en la transformación de RSU en energía?  
+
+3 
+
+ 
+
+7.  ¿Cuáles son los rasgos particulares de la Central de Abastos? 
+
+8.  ¿Por qué el Desarrollo Sustentable se construye en colectivos? 
+
+9.  ¿Cuál es  la importancia  de  la economía  circular para  la aplicación de sus postulados en  la 
+ciudad de México? 
+
+10. ¿Cuál  es  la  importancia de hacer un  Plan  de Manejo  integral  para  la ciudad y para  la CE-
+DA? 
+
+Objetivos específicos 
+1.  Determinar cuánto se genera de Residuos en la Ciudad.  
+2.  Clasificar  y  ubicar  a  donde  van  a  dar  los  residuos  de  la Central  de Abasto  y  cuáles  son  los 
+efectos que producen.  
+3.  Analizar  la  importancia del conocimiento interdisciplinario en la construcción de un Plan de 
+Manejo Ambiental. 
+4.  Analizar  la  factibilidad  y  la  prospectiva  de  hacer  una  planta  que  convierta  los  residuos  en 
+energía. 
+5.  Establecer los procedimientos más convenientes de utilizar en la Central y en la  Ciudad para 
+convertir los residuos en energía. 
+6.  Analizar el aspecto político que interviene en la transformación de RSU en energía  
+7.  Determinar los rasgos particulares de la Central de Abasto.  
+8.  Explicar la fuerza de un colectivo en la construcción de desarrollo sustentable. 
+9.  Analizar  la  importancia de  la economía circular para el caso de  la Central de Abasto y de   la 
+Ciudad. 
+10. Determinar  la  estrategia  de  un  Plan  de Manejo  Ambiental  para  la  Ciudad  y  para  la  Central 
+de Abasto. 
+
+Objetivo General 
+
+El objetivo del presente  trabajo es determinar  las características de  la Central de Abasto para  llevar 
+a  cabo un Plan  de Manejo  Ambiental  que  construya  la  sustentabilidad  en  la  ciudad. Para que  a 
+partir  de  aplicar  los  postulados  de  la  economía  circular  se  produzca  energía  y  sustrato  que 
+disminuya la huella de carbono e incremente el ciclo natural del carbono.  
+
+Se  formula  el  PMA  en  la  CEDA  para  disminuir  y  mitigar  la  contaminación  producida  por  los 
+residuos  sólidos  y  para  la  producción  de  energía  a  través  del  biodigestor,  esto  tien e  como 
+prerrequisito cambiar  el  actual estado de cosas de un manejo de  la basura  a una gestión  integral de 
+los residuos sólidos urbanos. 
+
+En  la  CEDA  se  realiza  el  manejo  de  la  basura  inorgánica  y  orgánica  con  los  siguientes  pasos:  1) 
+Generación de los Residuos de las bodegas, accesorias y comercios de la CEDA; 2) Recolección de 
+los  residuos  a  través  del  vacío  de  los  contenedores  a  transporte;  3)  Pepena  preclasificación  y 
+valoración  hecha  por  personas;  4)  Transporte  en  camiones;  5)  Compactación,  identificació n  y 
+calificación  en  la  estación  de  transferencia;  6)  Pesado  de  los  RSU;  7)  Transportación  en  camiones 
+
+4 
+
+ 
+
+grandes  y  8)  Acumulación  en  el  Centro  de  disposición  final:  tiradero  a  cielo  abierto  o  relleno 
+sanitario. 
+
+El mayor costo económico  lo encontramos en el  transporte de  la fuente a  los  tiraderos de basura en 
+Cuautitlán  estado  de México  y  Cuernavaca Morelos  y  el  pago  de  esta  basura  en  tiraderos  de  cielo 
+abierto. 
+
+El mayor costo ambiental  lo  tenemos en  la producción de CO 2 a  la atmosfera,  la contaminación del 
+suelo y la contaminación a los Recursos Hídricos en los mantos acuíferos subterráneos.  
+
+Por  ello  lo  que  perseguimos  en  el  presente  trabajo  es  crear  indicadores  que  midan  que  el  Plan  de 
+Manejo  Ambiental  en  la  CEDA  logre  mitigar  la  contaminación  ambiental  y  redu cir  el  costo 
+económico  de  recolectar,  transportar  y  depositar  en  un  tiradero  a  cielo  abierto  los  residuos,  para 
+interconectar  lo  predicho  a  nivel  económico  con  las  medidas  de  manejo  ambiental  para  lograr  la 
+operacionalización  del  Plan  que  consiga  transformar  el  problema  de  la  basura  en  una  oportunidad 
+para  la producción de energía, alcanzando  la sinergia entre  los diferentes programas y proyectos de 
+la  CEDA,  respondiendo  a  los  retos  económicos  y  ambientales  de  la  Ciudad  de  México  en  l a 
+distribución de los alimentos.  
+
+Ya  en  el  2017  se  cuenta  con  varios  programas  de  la  Central  de  Abasto  (CEDA)  de  la  Ciudad  de 
+México (CdMx) como son: 
+
+ 
+
+1.- PLANTA COMPACTADORA DE RESIDUOS SÓLIDOS URBANOS  
+
+Tiene  el  propósito  de  manejar  800  tnl/día  en  un  proceso  de  separación  de  res iduos,  limpieza, 
+compactación y línea de emplayado para su posterior traslado y transportación.   
+
+2.- PROGRAMA SISTEMA DE CONTENEDORES  
+
+Tiene  como  propósito  mejorar  las  condiciones  de  limpieza  en  áreas  comunes  de  los  sectores  de  la 
+CEDA  y  ofrecer  una  imagen  de  limpieza  a  clientes  y  usuarios  que  diariamente  visitan  este  centro 
+mayorista,  para  ello  hasta  ahora  se  han  destinado  32  contenedores  metálicos  que  dividen  en  dos  a 
+los  RSU  en  orgánica  e  inorgánica,  tiene  una  capacidad  de  12  metros  cúbicos  cada  uno  y,  pa ra 
+movilizarlos a la estación de transferencia, se cuenta con 3 grúas.  
+
+3.- GAS NATURAL 
+
+Tiene  como  propósito  que  los  participantes  obtienen  una  reducción  significativa  en  su  gasto,  se 
+elimina la concentración actual de gas LP en tanques estacionarios de diversas capacidades, que van 
+de  los 300 a  los 4 mil litros, se persigue eliminar el uso de 480  tanques estacionarios que operan en 
+la actualidad para  la elaboración de alimentos y  la operación de cámaras de refrigeración  instaladas 
+en sótanos de bodegas y  locales. Abarca un  total de 35 mil 101.57 metros  lineales de red y se va en 
+desarrollar en dos etapas. 
+
+4.- ILUMINACIÓN 
+
+5 
+
+ 
+
+La  nueva  iluminación  con  plasma  tiene  el  propósito  de  rehabilita  el  100%  de  luminarias  de  la 
+CEDA, esta cuenta con además de sustituir  las  instalaciones eléctricas de las vialidades principales, 
+lo  que  se  traduce  en  una mejor  imagen  y  mayor  seguridad. Asimismo,  se  generará un  ahorro  hasta 
+del 85% de energía eléctrica, pues se hacen más eficientes  la toma de energía al evitar fugas. 
+
+5.- PROYECTO CEDA SOLAR 
+
+Tiene  el  propósito  de  ahorrar  un  15%  en  el  gasto  anual  por  el  uso  de  energía  eléctrica,  para  los 
+usuarios  y  la  Administración  del  Fideicomiso  de  la  Central  de  Abasto  (FICEDA).  Se  generará 
+energía 100% renovable. Se utilizaran los techos para colocar las celdas. 
+
+A continuación se explica el desarrollo. 
+ 
+
+6 
+
+ 
+
+ 
+
+II. Marco teórico/marco conceptual  
+
+Ecodesarrollo de Igancy Sach  
+
+Debe  lograrse  un  a  nueva  articulación  entre  las  ciencias  del  hombre  y  las  ciencias  naturales  para 
+captar mejor  la  interacción de  los procesos naturales y  los  sociales,  en  los cuales  el hombre  es,  a  la 
+vez, sujeto y objeto. Cabe añadir que es un sujeto consciente de su pertenencia, a  la naturaleza y de 
+su futuro. Más allá de una geografía humana demasiado posibilista y de una ecologí a excesivamente 
+determinista, queda por realizar una nueva síntesis en la cual, por una parte, se anulen las oposición 
+es entre la antropología y la historia y, por otra, se vinculen los modelos de circulación de la energía 
+con  los de  la producción y circulación de la materia o de  los valores mercantiles. Mientras  tanto,  la 
+perspectiva pasa por la práctica de la historia operante, en el sentido braudeliano de la palabra. Para 
+aprender  a  despejar  los  futuros  posibles  es  necesario  comenzar  desarmando  los  múlt iples  modelos 
+del  pasado  en  los  cuales  la  población,  los  recursos,  la  energía,  las  técnicas,  el  ambiente  y  las 
+organizaciones sociales se ajustan en diversas formas.   
+
+Antecedentes 
+
+En 1986  en  la Universidad Autónoma Metropolitana  se  realizó una  tesis de  ingeniería  en  torno del 
+uso de la basura para hacer un biodigestor en la Central de Abasto de la ciudad de México.  
+
+Para esto en 1982 se inaugura la Central de Abasto de la ciudad de México y terminando un trayecto 
+conflictivo  del  centro  de  la  ciudad  a  la  peri feria  porque  los  bodegueros  no  querían  cambiarse  de 
+lugar de hecho  el mercado de  la Merced sigue  funcionando pero  el pulmón de  abasto de  alimentos 
+es la Central de Abasto. 
+
+Junto con los programas antes mencionados se tiene que: 
+Hoy  tenemos  la  planta  de  Aragón,  tenemos  Iztapalapa  1  y  tenemos  Iztapalapa  2 
+de  la Central  de Abasto  en  la  ruta  de  basura  cero,  ¿qué  significa?,  significa  400 
+toneladas  de  Aragón,  400  toneladas  de  Iztapalapa  1  y  400  toneladas  de 
+Iztapalapa 2 que llegarán a 800 toneladas, esta será una planta de 800 toneladas, 
+pues  llegaremos  a  mil  600  toneladas  de  basura  diariamente  en  la  ciudad  de 
+México,  explicó  Mancera  Espinosa  (CEDA,  Planta  de  compactación  de  los 
+Residuos Sólidos Urbanos, 2017).  
+
+Economía Circular 
+
+La  economía  circular  sostiene  que   se  debe  de  ampliar  la  vida  útil  de  los  bienes,  componentes  y 
+materiales  a  través de  la  reutilización,  recomercialización,  reparación,  refabricación  y  actualización 
+tecnológica de los bienes. 
+
+El rehusó, reciclaje, reutilización ha estado presente en la economía. 
+
+La aplicación para el caso que nos ocupa es centrarse en la producción de energía gas o electricidad 
+y en el digestato que va a reintegrarse en la naturaleza para producir más bienes.  
+
+7 
+
+ 
+
+Actores 
+
+De  los  principales  actores  como  son:  FIDEICOMISO  de  la  CEDA,  la  CEDA,  Secretaría  de  Obras 
+del gobierno de  la CDMX, gobierno de  la CDMX, Secretaría de desarrollo económico del gobierno 
+de  la  CDMX,  Secretaría  de  Energía  y  la  Comisión  Federal  de  Electricidad  y  empresa  privada 
+constructora y operadora del biodigestor. 
+
+Marco legal 
+
+En  la Constitución  Política  de  la Ciudad de México  se  estipula  en  su  artículo  16  en  su  apartado A 
+Ordenamiento territorial en su numeral 5 lo siguiente: 
+Las  autoridades,  en  el  marco  de  su  competencia,  adoptarán  medidas  de 
+prevención y reducción de la generación de residuos sólidos, de manejo especial y 
+de materiales peligrosos, así como su gestión integral de manera concurrente con 
+los  sectores  social  y  privado,  para  evitar  riesgos  a  la  salud  y  contaminación  al 
+medio  ambiente.  Quienes  generen  residuos  son  corresponsables  de  su  gestión 
+integral y de la remediación de los sitios contaminados.  (México A. l., 2016) 
+
+Las  autoridades  prestarán  de  manera  exclusiva  y  gratuita  los  servicios  de  barrido,  recolección, 
+transportación y destino final.  
+
+El  tratamiento, aprovechamiento y manejo de  los  residuos  sólidos,  se desarrollarán  con base  en  los 
+mecanismos que las leyes permitan.  
+
+Queda prohibida  la privatización y concesión de los servicios públicos de recolección y  tratamiento 
+de residuos sólidos.  
+
+Se  abandonará  de  forma  progresiva  el  uso  de  productos  no  biodegradables,  no  reciclables  y  de 
+elevado  impacto  ambiental.  El  Gobierno  de  la  Ciudad  contará  con  una  política  educativa  e 
+informativa  dirigida  a  sus  habitantes  sobre  el  manejo  de  los  residuos  y  su  imp acto  al  medio 
+ambiente.  
+
+La prestación de  los servicios de gestión integral de  los residuos sólidos es responsabilidad pública, 
+para lo cual se desarrollarán los mecanismos que las leyes permitan.   
+
+El Gobierno de  la Ciudad deberá  adoptar  las  tecnologías que permitan  el manejo  sustentable de  los 
+residuos sólidos (México A. l., 2016). 
+
+Por  otro  lado  se  establece  en  el  capítulo  23  Deberes  de  las  personas  en  la  Ciudad  en  el  numeral  2 
+inciso d) que: 
+
+Proteger,  preservar  y  generar  un  medio  ambiente  sano  y  utilizar  los  recursos  naturales  de  modo 
+racional y sustentable; 
+
+En  el  capítulo  23 Alcaldías  en  la  sección de  a)  de manera  exclusiva  en  la  subsección  protección  al 
+medio ambiente en el numeral XXIII se señala lo siguiente: 
+
+8 
+
+ 
+
+Diseñar  e  implementar,  en  coordinación  con  el  Gobierno  de  la  Ciudad  de  México,  acciones  que 
+promuevan  la  innovación  científica  y  tecnológica  en  materia  de  preservación  y  mejoramiento  del 
+medio ambiente. 
+
+En cuanto a la alineación legar con el Plan de Manejo Ambiental con el PND 2013-2018. 
+
+En  la  etapa  del  IV.  MÉXICO  PRÓSPERO  Debemos  impulsar,  sin  ataduras  ni  temores,  todos  los 
+motores del crecimiento. IV.1. Diagnóstico: existe la oportunidad para que seamos más productivos . 
+Desarrollo sustentable. Durante la última década, los efectos del cambio climá tico y  la degradación 
+ambiental  se  han  intensificado.  Las  sequías,  inundaciones  y  ciclones  entre  2000  y  2010  han 
+ocasionado  alrededor  de  5,000  muertes,  13  millones  de  afectados  y  pérdidas  económicas  por 
+250,000 millones de pesos (mmp) (Diputados, 2018). 
+
+El crecimiento del país ha estado lejos de ser ambientalmente sustentable. Paralelamente al aumento 
+del producto  interno bruto  (PIB)  crecieron  las  emisiones de bióxido de  carbono  (CO 2)  -el principal 
+gas responsable del efecto invernadero-, la generación de residuos de distintos tipos y la descarga de 
+aguas residuales, a la vez que la cubierta de bosques y selvas se redujo. Esta pérdida y deterioro del 
+capital  natural  viene  acompañada  de  importantes  costos  económicos.  Según  cálculos  del  Instituto 
+Nacional  de  Estadística,  Geografía  e  Informática  (INEGI),  el  costo  total  del  agotamiento  y  la 
+degradación ambiental (CTADA) representó 6.5% del PIB en 20117  (SEMARNAT, 2016, pág. 21). 
+
+En  2012,  la  generación  diaria  de  residuos  sólidos  urbanos  (RSU)  se  estimó  en  cerca  de  103  mil 
+toneladas  (aproximadamente  37.6 millones  de  toneladas  al  año).  Esto  significa  que  cada mexicano 
+produce cerca de 311 kilogramos al año, un valor  inferior al promedio per cápita de  los países de la 
+OCDE  (540 kilogramos por habitante). A pesar de que  el volumen nacional de generación de RSU 
+es  relativamente  bajo  en  comparación  con  otras  economías,  el  país  no  es  capaz  de  recolectarlos 
+completamente  ni  posee  la  infraestructura  para  disponerlos  adecuadamente.  Se  estima  que  en  2010 
+se  recolectaron  84%  de  los  RSU  generados.  A  nivel  de  entidad  federativa  resaltan  Baja  California 
+Sur,  Guerrero  y  Puebla,  que  no  logran  colectar  ni  la  mitad  de  los  RSU  que  generan.  En  cuanto  al 
+tipo de recolección, sólo 13 de  las 32  entidades realizan recolección selectiva de RSU,  las restantes 
+efectúan la recolección mixta, lo que dificulta su aprovechamiento (SEMARNAT, 2016, pág. 31). 
+
+Indicador  15.  Índice  de manejo  integral  de  residuos  cuyo Objetivo  sectorial: Objetivo  5. Detener  y  
+revertir  la pérdida de capital natural y  la contaminación del agua, aire y suelo. Descripción general: 
+Este  indicador  mide  el  manejo  integral  de  residuos  relacionando  los  cambios  anuales  en  la 
+capacidad instalada de la infraestructura destinada al manejo  y aprovechamiento de residuos sólidos 
+urbanos  (RSU)  y  de manejo  especial  (RME).  El  indicador  expresado  en  toneladas  de  residuos  que 
+maneja  o  aprovecha  la  infraestructura  creada  por  las  acciones  de  la  implementación  del:  a) 
+programa presupuestal U012 (PPU012); b) Programa Nacional de Prevención y Gestión Integral de 
+Residuos (PNPGIR).  
+
+ 
+
+Energía 
+
+El  uso  y  suministro  de  energía  son  esenciales  para  las  actividades  productivas  de  la  sociedad.  Su 
+escasez derivaría  en un obstáculo para  el desarrollo de  cualquier  ec onomía. Por  ello,  es  imperativo 
+
+9 
+
+ 
+
+satisfacer 
+los 
+identificando  de  manera  anticipada 
+las  necesidades  energéticas  del  país, 
+requerimientos  asociados  al  crecimiento  económico  y  extendiéndolos  a  todos  los  mexicanos, 
+además de los beneficios que derivan del acceso y consumo de la energía. 
+
+En  México,  la  producción  de  energía  primaria  registró  una  disminución  promedio  anual  de  0.3% 
+entre  2000  y  2011, mientras  que  el  consumo  de  energía  creció  a  un  promedio  anual  de  2.1%  en  el 
+mismo periodo. Por tanto, se deben redoblar los esfuerzos para que el país siga siendo superavitario 
+en su balanza de energía primaria más allá del año 2020. 
+
+En  materia  de  hidrocarburos,  desde  hace  más  de  tres  décadas  la  producción  en  México  ha  sido 
+superior a la incorporación de reservas probadas más probables (que se denominan 2P). Aun cuando 
+la actividad exploratoria fue el doble de lo observado en años recientes, los niveles de incorporación 
+de  reservas  no  se  han  reflejado  en  volúmenes  que  permitan  tener  una  reposición  de  los  barriles 
+producidos.  El  nivel  de  producción  (2.54  millones  de  barriles  diarios)  y  el  volumen  de 
+exportaciones de petróleo crudo observados al cierre de 2012 fueron los menores desde 1990.  
+ 
+
+III. Metodología  
+
+Las etapas que debe de tener este proyecto para su implementación son:  
+
+  Diseño del digestor (trabajo interdisciplinario) 
+
+  Estudio  de  respiración  anaeróbica  (de  la  química  ambiental  a  la  ingeniería  y  de  ahí  a  la 
+CEDA) 
+
+  Organización  (Vinculación  del  gobierno  de   la  CdMX  con  el  IPN  y  de  ahí  con  la  empresa 
+privada) 
+
+ 
+
+ 
+
+Implementación en  la CEDA  (Construcción y operación del Digestor que produzca biogás  y 
+electricidad) 
+
+Instrumentación para una política para mercados y sus desechos  (Política pública en apego a 
+la Ley de Residuos Sólidos y la Cogestión de energía con la CFE ) 
+
+  Producción de energía (Generación de biogás y energía eléctrica). 
+
+Se  desarrollara  un  estudio  de  caso  donde  se  contengan  los  elementos  claves  para  resolver  el 
+problema de investigación.  
+ 
+
+Técnicas de recolección de datos 
+
+  Se  hizo  entrevistas  a  especialistas  que  brindaron  datos,  análisis  y  elementos  para  el  estudio 
+de la biodigestión, de la CEDA, de la basura y de la generación de energía.  
+
+  Se  hizo  una  pirámide  de  Kensler  para  ver  jerarquización  jurídica  de   los  Residuos  Sólidos 
+Urbanos, el Medio Ambiente y la Energía Eléctrica. 
+
+10 
+
+ 
+
+  Se  hizo  un  análisis  de  contenido  de  los  documentos  jurídicos  de  los  Residuos  Sólidos 
+Urbanos, el Medio Ambiente y la Energía Eléctrica. 
+
+  Se hizo un sociograma de los actores de la CEDA para ver cómo interactúan entre ello. 
+
+  Se  hizo  una  cronología  de  los  estudios  acerca  de  los  biodigestores  en  México  y  de  los 
+actores de la CEDA y de  las acciones y reacciones en  la  implementación de política pública 
+en relación a los Residuos Sólidos Munic ipales. 
+
+Ubicación geográfica del caso de estudio. En la Ciudad de México 
+
+Periodo de estudio. De 2014 a 2017 periodo en el que sufre más deterioro del manejo de  los RSU y 
+es obligado pasar a una gestión integral de los RSU.   
+ 
+
+IV. Análisis y discusión de datos 
+
+En México  la  fuente menos  utilizada  es  la  biomasa  pero  paradójicamente  es  la  de mayor  potencial 
+para la producción de energía, este hecho es común en los países en vías de desarrollo.  
+
+ 
+
+ 
+
+11 
+
+ 
+
+Uno  de  los  usos  no  el  único  es  en  los  biodigestores,  se  está  creando  energía  en México  ya  en  las 
+granjas  porcícolas  en  Sonora  y  en  otros  estados  con  el  programa  de  la  SAGARPA,  se  está 
+empezando en  las granjas avícolas en Morelos y  se está produciendo energía en Saltillo, de estas  la 
+menos  explorada  para  su  potencial  explotación  es  la  Fracción  Orgánica  de  la  basura  de  las  60 
+centrales  de  abasto  de  la  República  Mexicana  y  un  número  muy  importante  de  los  mercados 
+mayores,  de  los  mercados  menores,  los  sobre  ruedas  y  los  tianguis,  todos  ellos  pudieran  aportar 
+energía  bajo  el  mismo  procedimiento  aquí  descrito  y  se  pueden  aportar  beneficios  ambientales 
+porque  el  CO2  que  actualmente  se  produce  en  rellenos  sanitarios  y  tiraderos  a  cielo  abierto 
+disminuiría,  se  produciría  energía  limpia  y  se  vuelve  a  la  tierra  el  digestato  subprduct o  de  la 
+biodigestión  y  con  ello  se  fortalece  el  ciclo  del  carbono,  se  disminuye  la  huella  de  carbón  y  el 
+calentamiento  de  la  atmósfera  por  que  disminuyen  los  Gases  de  Efecto  Invernadero  (GEI).  con 
+aproximadamente 25 veces el potencial de calentamiento global del CO2. 
+ 
+
+V. Conclusiones 
+
+1.  Con  Gandhi  “todo  lo  que  se  come  sin  necesidad,  se  roba  al  estómago  de  los  pobres”.  La 
+CENTRAL  es  un  ejemplo  de  la  acumulación  de  capital  con  la  distribución  capitalista  del 
+modelo de alimentación, la crisis del campo y la crisis alimentaria. 
+
+2.  La  transición  energética  acelerada  que  demanda  la  CDMx  no  será  posible  sino  se  utiliza  la 
+Digestión Anaeróbica de los mercados de la ciudad más grande del mundo, es materia prima 
+para que con el uso de la razón se produzca energía. 
+
+3.  La economía circular se verá cuantificada si y solo si se producen kilowatts a partir de la ba-
+sura y se regrese el digestato a la siembra como abono. 
+
+4.  La  Zona  Metropolitana  de  la  Ciudad  de México  tiene  una  respuesta  a  la  problemática  am-
+biental que presenta el pasivo ambiental más grande que  tiene, con un conocimiento  técnico 
+–  científico  –  social  y  político  que  logra  la  comunicación  entre  disciplinas,  es  decir  la  inte-
+ridsciplina. 
+
+5.  Se  constituye  la  radiografía  de  lo  que  es  la  ciudad  en  un mesocosmos  que  es  la CENTRAL 
+estamos viendo  sus vías,  sectores, grupos, programas  y  encontramos un bloqueo  con  los  to-
+madores de decisiones que son a corto plazo, esperamos una altura de miras para los tiempos 
+que corren el día de hoy y se transforme la basura en electricidad como ya  se hace en Europa 
+hace 30 años, y aquí en México ya se tenía la técnica para el desarrollo de está.  
+
+ 
+
+ 
+
+12 
+
+ 
+
+ 
+
+VI. Bibliografía 
+
+CEDA. (15 de 02 de 2017). Planta de compactación de los Residuos Solidos Urbanos.  Obtenido de 
+http://ficeda.com.mx/ficeda/app/webroot/_pdfs/PLANTA%20COMPACTADORA.pdf 
+Diputados, C. d. (1 de septiembre de 2018). Plan Nacional de Desarrollo 2013 - 2018. Recuperado 
+el 2 de octubre de 2017, de Plan Nacional de Desarrollo 2013 - 2018: 
+http://www.dof.gob.mx/nota_detalle_popup.php?codigo=5299465  
+México, A. l. (15 de septiembre de 2016). Constitución Política de la Ciudad de México.  
+Recuperado el 2 de octubre de 2017, de Constitución Política de la Ciudad de México: 
+https://books.google.com.mx/books?id=f3YSDgAAQBAJ&pg=PA78&lpg=PA78&dq=Las+
+autoridades,+en+el+marco+de+su+competencia,+adoptar%C3%A1n+medidas+de+prevenci
+%C3%B3n+y+reducci%C3%B3n+de+la+generaci%C3%B3n+de+residuos+s%C3%B3lidos
+&source=bl&ots=X1PtpfABMT&sig=Jp 
+Norma Ambiental para el Distrito Federal NADF-024-AMBT-2013 que establece los criterios y 
+especificaciones técnicas bajo las cuales se deberá realizar la separación, clasificación, 
+recolección selectiva y almacenamiento de los residuos del Distrito Federal. Gaceta Oficial 
+del D.F. 8 de julio de 2015, pp. 22-43. 
+Norma Mexicana NMX-AA-15-1985. Protección al ambiente-Contaminación del suelo-Residuos 
+sólidos municipales-Muestreo-Método de cuarteo. http://www.diputados.gob.mx/ 
+Consultado en mayo 2016  
+NORMA Oficial Mexicana NOM-083-SEMARNAT-2003, Especificaciones de protección 
+ambiental para la selección del sitio, diseño, construcción, operación, monitoreo, clausura y 
+obras complementarias de un sitio de disposición final de residuos sólidos urbanos y de 
+manejo especial. Diario Oficial de la Federación,  20 octubre 2004. 
+Núñez Espinoza J.F., Tisselli Eugenio y Robles M. F. (2013). Red de Residuos Sólidos del Valle de 
+México. Mapa Interactivo sobre Sitios de Disposición Final en el Estado de México. 
+http://www.evalplandesru.colpos.mx/ Consultado en julio de 2014. 
+Programa de Acción Climática de la Ciudad de México 2014-2020. Secretaría del Medio Ambiente. 
+1ª Ed. 2014. 
+Programa de Gestión Integral de los Residuos Sólidos para el Distrito Federal. Gaceta Oficial del 
+Distrito Federal del 13 de septiembre de 2010, pp 3-68. 
+Programa de Gestión Integral de los Residuos Sólidos para la Ciudad de México 2016 -2020. Gaceta 
+Oficial de la Ciudad de México del 19 de octubre de 2016, pp 3 -62. 
+PROYECTO de Modificación de la Norma Oficial Mexicana NOM-083-SEMARNAT-2003, 
+Especificaciones de protección ambiental para la selección del sitio, diseño, construcción, 
+operación, monitoreo, clausura y obras complementarias de un sitio de disposición final de 
+residuos sólidos urbanos y de manejo especial. Diario Oficial de la Federación, 4 de agosto 
+de 2015. 
+Reglamento de la Ley de Residuos Sólidos del Distrito Federal. Gaceta Oficial del Distrito Federal, 
+7 de octubre de 2008; última reforma publicada en la Gaceta Oficial del Distrito Federal, el 
+23 de diciembre de 2008. 
+
+13 
+
+ 
+
+Reinhold, F. and Noak, W. (1956): Laboratoriumsversucheuber die Gasgewinnung aus 
+landwirtschaftlichen Stoffen. In: Liebmann H (ed) Gewinnung und Verwertung von 
+Methanaus Klärschlamm und Mist., R. Oldenbourg, Munchen, Germany.  
+SEMARNAT. (1 de marzo de 2016). Programa Sectorial de Medio Ambiente y Recursos Naturales 
+2013-2018. (SEMARNAT, Ed.) Recuperado el 3 de octubre de 2017, de SEMARNAT: 
+http://www.semarnat.gob.mx/archivosanteriores/Documents/PROMARNAT%202013 -
+2018.pdf 
+
+14 
+
+

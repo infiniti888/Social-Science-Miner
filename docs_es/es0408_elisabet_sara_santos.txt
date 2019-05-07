@@ -1,0 +1,799 @@
+ 
+
+ 
+ 
+
+ 
+RELACIÓN ENTRE LAS CARACTERÍSTICAS SOCIODEMOGRÁFICAS LABORALES 
+CON LAS DIMENSIONES DE LA FELICIDAD EN LOS PROFESIONALES DE LA 
+PROVINCIA DE TARMA-2015 
+ 
+ 
+ 
+
+Elisabet Sara Santos López 
+
+elisanlo2323@gmail.com 
+
+Nelly Marleni Hinostroza Robles 
+
+nmhinostroza@outlook.com 
+
+Rosa Clara Orihuela Espinoza 
+
+orihuelarc@gmail.com 
+
+Giovanna Betzabe Enriquez Gonzáles  
+
+giovannaeg.undac@hotmail.com 
+
+Marlene Deysi Gora Atencio 
+
+marlenedgora@hotmail.com 
+
+Isaac Sicilio Córdova Baldeón 
+
+Isaac-cordova@hotmail.com   
+
+ 
+ 
+ 
+ 
+Institución: Universidad Nacional Daniel Alcides Carrión – Filial Tarma 
+ 
+País: Perú 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RESUMEN 
+
+Objetivo.  Determinar  la  relación  entre  las  características  sociodemográficas  laborales 
+
+con  las  dimensiones  de  la  felicidad,  en  los  profesionales  de  la  provincia  de  Tarma. 
+
+Materiales  y  métodos.  Estudio  descriptivo  correlacional.  Para  el  desarrollo  de  la 
+
+investigación,  se  aplicó  un  cuestionario  dividido  en  dos  partes,  a  una  muestra  de  190 
+
+profesionales  de  las  carreras  de  salud,  educación,  derecho  e  ingeniería.  Resultados. En 
+
+cuanto  a  la  relación  entre  la  edad  y  el  género,  con  los  factores  de  la  felicidad,  es 
+
+despreciable;    la  relación  entre  el  estado  civil  y  la  actividad  laboral,  con  los  mismos 
+
+factores,  es  muy  baja.  Conclusiones.  Existe  correlación  entre  los  indicadores 
+
+sociodemográficos  y  los  factores  de  la  felicidad  (felicidad  social,  felicidad  interna  y 
+
+felicidad  económica);  sin  embargo,  esta  correlación  en  algunos  casos  es  despreciable  y 
+
+en  otras,  muy  baja,  esto  permite  concluir  que  interviniendo  en  los  factores  de  la 
+
+felicidad; es decir con mejores políticas públicas, es posible ser más o menos felices.  
+
+Palabras clave: Felicidad interna, felicidad social y felicidad económica.  
+
+ 
+
+ESTRUCTURA 
+
+Introducción 
+
+    La  presente  investigación  sobre  felicidad  se  enmarca  en  el  tema  de  la  salud  mental, 
+
+componente  fundamental  en  el  ser  humano  para  el  desarrollo  de  las  naciones. 
+
+Actualmente  ya  se  reconoce  la  importancia  y  la  necesidad  de  que  los  Estados  tomen 
+
+mayor  interés  en  este  tema.  Cueto  y  Zamora  (2006),  señalan  que  la  sociedad  civil  ya 
+
+entiende  que  la  salud  forma  parte  de  los  derechos  económicos,  sociales  y  culturales,  y 
+
+no  sólo  es  un  factor  para  mejorar  la  productividad  económica  o  mantener  la  seguridad 
+
+nacional.  Por  ello,  dice  Velásquez  (2007),  en  sociedades  como  la  nuestra,  hablar  de 
+
+salud  integral  –por  tanto,  de  salud  mental-  es  también  hablar  de  las  condiciones 
+
+socioeconómicas como la pobreza y la desigualdad. 
+
+     Por  otro  lado,  el  concepto  felicidad  involucra  aspectos  tanto  subjetivos  y  objetivos, 
+
+por lo que la investigación se enmarca en una perspectiva transdisciplinar, involucrando 
+
+tres  disciplinas  del  saber:  psicológico,  económico  y  sociológico.  Desde  el  campo  de  la 
+
+psicología  positiva,  tomando  las  palabras  de Alarcón  (2007),  se  reconoce  que  los  seres 
+
+humanos,  así  como  tienen  conductas  negativas  como  la  depresión,  la  tristeza,  el  estrés, 
+
+la  angustia,  la  ansiedad,  la  frustración,    también  están  llenos  de  comportamientos 
+
+positivos  como  la  alegría,  el  entusiasmo,  el  optimismo,  el  amor,  la  simpatía,  la 
+
+solidaridad,  la  amistad,  la  risa  la  felicidad  y  otros  que  no  han  sido  reparados  con  el 
+
+mismo interés.  
+
+Desde  la  perspectiva  sociológica,  se  ha  considerado  el  trabajo  de  Ruut  Veenhoven 
+
+(2006),  quien  hace  una  diferencia  entre  la  felicidad  individual  y  la  felicidad  colectiva. 
+
+Desde esta última,  se aborda el  tema de  las políticas públicas,  pues cuánto más eficaces 
+
+son  estas,  la  felicidad  en  las  naciones  puede  aumentar. Es  en  esta  perspectiva  que  nace 
+
+la necesidad de medir la felicidad.  
+
+Desde la perspectiva económica,  la presente  investigación se centra en el énfasis que 
+
+se  hace  a  las  variables  subjetivas  que  tradicionalmente  no  se  habían  tomado  en  cuenta, 
+
+es  decir  al  estudio  de  lo  intangible.  En  esta  línea  Días  (2013),  mencionando  a  
+
+Nussbaum  and  Sen  considera  que  la  Economía  de  la  Felicidad  adopta  una  concepción 
+
+subjetiva  del  bienestar  individual  que  se  aparta  radicalmente  de  la  tradición  objetivista 
+
+reinante en Economía. 
+
+La  presente  investigación  es  importante,  porque  busca  entender  qué  es  la  felicidad 
+
+desde diversos enfoques, es decir, desde una perspectiva transdisciplinar y determinar si 
+
+existe  o  no  correspondencia  con  los  indicadores  sociodemográficos.  Este  diagnóstico 
+
+puede  llevar  posteriormente  a  proponer  políticas  públicas  y  programas  sociales  que 
+
+promuevan  las  fortalezas  que  poseen  todos  los  seres  humanos  y  que  según  Seligman  y 
+
+Christopher,  mencionado  por  Contreras  (2006),  provocan  emociones  positivas  que 
+
+actúan  como  barreras  contra  la  enfermedad.  Además,  se  podrán  proponer  instrumentos 
+
+que permitan  analizar  el  tema de  la  felicidad de  forma  racional. La hipótesis  fue probar 
+
+la  correspondencia  entre  los  indicadores  sociodemográficos  con  los  factores  de  la 
+
+felicidad. 
+
+Es  una  investigación  concluida  pero  está  dando  pie  a  un  programa  de  tutoría  para 
+
+estudiantes universitarios. 
+
+ 
+
+Desarrollo 
+
+Capítulo I: Indicadores Socio Demográficos 
+
+     De  acuerdo  al  Instituto  Nacional  de  Estadística  de  España  (2015),  los  Indicadores 
+
+Demográficos  Básicos  constituyen  una  operación  estadística  conformada  por  una 
+
+colección  de  indicadores  que  permiten  analizar  cómo  inciden  los  fenómenos 
+
+demográficos básicos.  
+
+      
+
+     El  objetivo  de  estos  indicadores  es  proporcionar  la  intensidad,  las  principales 
+
+características,  la  dinámica  y  evolución  de  los  fenómenos  demográficos  sobre  la 
+
+población,  Con  ellos  se  puede  obtener    información  del  comportamiento  de  los 
+
+fenómenos demográficos, como es  la natalidad, la fecundidad, mortalidad, el empleo,  la 
+
+edad,  la  actividad  económica,  el  movimiento  migratorio,  etc.  Para  la  presente 
+
+investigación se trabajó con la edad, el género, el estado civil y la actividad laboral.  
+
+ 
+
+Capítulo II: La felicidad 
+
+2.1 La felicidad desde una perspectiva filosófica.  
+
+Desde  la  perspectiva  filosófica,  se  ha  tomado  en  cuanta  los  escritos  de  filosofía 
+
+política  que  Aristóteles  desarrolla  desde  el  ámbito  de  la  felicidad  y  la  felicidad  en  sí 
+
+misma. A  partir  del  trabajo  de Godoy  (1995)  se  infiere  que,  para Aristóteles  la  política 
+
+está  relacionada  con  la  felicidad,  pues  muchas  veces  el  poder  ha  decidido  a  quienes 
+
+hacer felices. Por esta razón la felicidad ha sido una meta de muchos proyectos políticos 
+
+y  la  propuesta  de  un  importante  contingente  de  filósofos  e  intelectuales  que  han 
+
+reflexionado acerca de la sociedad civil y el Estado 
+
+ 
+
+2.2 La felicidad desde la perspectiva psicológica 
+
+    La psicología positiva nace producto del reto al estudio de los aspectos positivos de la 
+
+experiencia  humana.  Fue  propuesto  por  Martin  Seligman,  pionero  en  estudiar  las 
+
+fortalezas  y  virtudes  humanas.  En  el  año  2012,  el  psicólogo  propone  un  marco 
+
+estructural  para  señalar  diversas  vías  que  parecen  conducir  al  bienestar  y  la  felicidad. 
+
+Según  sus  investigaciones  hay  al  menos  tres  vías  fundamentales  por  las  cuales  las 
+
+personas se pueden acercar a la felicidad;  la vida placentera, este tipo de felicidad es de 
+
+corta  duración  y  se  logra  maximizando  las  emociones  positivas  y  minimizando  las 
+
+negativas  respecto  al  pasado,  presente  y  futuro.  La  vida  comprometida,  se  refiere  a  la 
+
+puesta en práctica cotidiana de las fortalezas personales con el objetivo de desarrollar un 
+
+mayor  número  de  experiencias  óptimas.  Y  por  último,  la  vida  significativa,  es  la  más 
+
+duradera  de  las  tres,  e  incluiría  el  desarrollo  de  objetivos  que  van  más  allá  de  uno 
+
+mismo  y  la  pertenencia  a  las  llamadas  instituciones  positivas  (democracia,  familia, 
+
+educación, etc.). Redes. Aprendiendo a ser felices. 
+
+ 
+
+ 
+
+ 
+
+2.3. La felicidad desde una perspectiva económica 
+
+    En  esta  perspectiva  se  hace  un  especial  énfasis  en  las  variables  subjetivas  que  las 
+
+teorías  y  el  análisis  económico  tradicional  no  lo  habían  hecho.  Con  el  concepto, 
+
+Economía  de  la  Felicidad,  se  incorpora  un  tipo  de  información  que  la  Ciencia 
+
+Económica  no  utilizaba. La  teoría  económica  puede  ser  sustentada mediante  el  análisis 
+
+cuantitativo  y  cualitativo  de  variables,  dicen Ovalle  y Martínez  (2006). Estas  variables, 
+
+tanto  endógenas  como  exógenas,  pueden  clasificarse  a  su  vez  como  objetivas  y 
+
+subjetivas.  Concretamente,  el  análisis  de  variables  objetivas  se  refiere  al  análisis  de 
+
+bienes  tangibles  tales  como  el  acceso  a  los  servicios  de  salud  y  educación,  el  producto 
+
+interno  bruto  per  cápita  o  bien  el  acceso  a  la  vivienda  en  metros  cuadrados.  Por  otro 
+
+lado,  el  análisis  de  variables  subjetivas  se  refiere  al  estudio  de  lo  intangible.  En  esta 
+
+línea  Joaquín  Días  (2013),  mencionando  a    Nussbaum  and  Sen  considera  que  la 
+
+Economía  de  la  Felicidad  adopta  una  concepción  subjetiva  del  bienestar  individual  que 
+
+se  aparta  radicalmente  de  la  tradición  objetivista  reinante  en  Economía,  tanto  en  la 
+
+vertiente  utilitarista  neoclásica  como  en  el  enfoque  de  capacidades.  Martínez  (2006) 
+
+añade,  la satisfacción de  las personas con determinado nivel de  ingreso o  la seguridad y 
+
+satisfacción que da habitar con la familia dentro de cierta cantidad de metros cuadrados, 
+
+son  buenos  ejemplos  de  indicadores  subjetivos  válidos.  Ovalle  añade,  el  análisis  y  la 
+
+interpretación  de  las  variables  subjetivas  se  han  quedado  a  la  zaga;  sin  embargo  estos 
+
+indicadores  subjetivos  pueden  resultar  esenciales  tanto  para  evaluar  el  éxito  como  para 
+
+determinar los objetivos de políticas públicas. Sin el apoyo de la población, las políticas 
+
+públicas  en  materia  social  están  condenadas  al  fracaso  en  el  largo  plazo,  ya  que  la 
+
+población  difícilmente  apoyaría  los  programas  que  el  gobierno  implemente,  puesto  que 
+
+se  encuentra  en  menor  y  mayor  grado  insatisfecha.  Se  puede  asumir  entonces  que  la 
+
+satisfacción  plena  o  la  felicidad  de  la  población  son  factores  fundamentales  que 
+
+determinan la calidad de vida entre la población, dicen los autores. 
+
+    Por  otro  lado  añaden,  que  el  estudio  de  la  felicidad  está  presente  en  casi  todos  los 
+
+informes sobre calidad de vida, trabajos que pretenden guiar la política social. Dicen: se 
+
+evalúa  periódicamente  niveles  de  felicidad  para  verificar  categorías  sociales  que 
+
+necesitan  ser  tomados  en  cuenta,  esperando  encontrar  pistas  para mejorar  la  calidad  de 
+
+vida.    Ideológicamente,  esta  tentativa  se  inspira  en  el  credo  utilitarista  de  que  el  fin 
+
+último de  la política debería ser promover “la mayor felicidad para el mayor número de 
+
+personas”,  siendo  los  beneficios  de  la  felicidad  el  criterio  de  la  “utilidad  de  todas  las 
+
+acciones”.  
+
+ 
+
+2.4 La felicidad desde una perspectiva sociológica 
+
+    En esta perspectiva, el  investigador más notable que ha venido  trabajando el  tema de 
+
+la felicidad ha sido Ruut Veenhoven. Sin embargo, existe una crítica muy fundamentada 
+
+a su trabajo. A continuación se describirán dos propuestas. 
+
+ 
+
+La  propuesta  de  Ruut  Veenhoven.  En  el  año  2001  publica  Calidad  de  Vida  y 
+
+Felicidad:  no  es  exactamente  lo mismo.  En  este  trabajo  hace  una  distinción  entre  estos 
+
+dos  conceptos:  felicidad  y  calidad de vida,  considerando  tres  significados de  calidad de 
+
+vida:  calidad  de  entorno,  calidad  de  acción  y  calidad  del  resultado.  Las  dos  primeras, 
+
+para  el  autor,  son  condiciones para  lograr una buena vida, más que  la buena vida  en  sí. 
+
+Por lo tanto, la tercera acepción se centra en el producto de la vida y como “disfrute” de 
+
+esta  última,  y  por  lo  tanto,  es  una  experiencia  personal,  por  ello  Veenhoven  lo  llama 
+
+“calidad de vida subjetiva”, en otras palabras felicidad propiamente dicha. 
+
+ 
+
+    La  felicidad  según  Veenhoven  (2006),  es  definida  como  “…  el  grado  en  el  que  una 
+
+persona  evalúa  positivamente  la  calidad  de  vida  actual  en  su  conjunto”.  En  otras 
+
+palabras, cuánto le gusta a una persona la vida que lleva. 
+
+ 
+
+    En  el  2006  publica  las  Medidas  de  la  Felicidad  Nacional  Bruta.  En  este  trabajo 
+
+Veenhoven  hace  una  diferencia  entre  la  felicidad  individual  y  la  felicidad  colectiva.  Su 
+
+interés  por  la  felicidad  colectiva,  se  asocia  con  la  efectividad  de  las  políticas  públicas, 
+
+dentro  de  un  enfoque  utilitarista,  pues  la  efectividad  de  estas  en  el  campo  de  la 
+
+educación, de la salud, del nivel de vida y de un clima de confianza, puede  aumentar la 
+
+felicidad en las naciones. 
+
+Es  en  este  sentido  que  nace  la  necesidad  de  medir  la  felicidad,  pues  solo  así  se 
+
+puede elegir mediante qué políticas sociales aumentar y  evaluar la felicidad. Manifiesta 
+
+que  “Estas  medidas  informan  a  los  responsables  públicos  acerca  de  la  felicidad  de  la 
+
+mayoría”  (Veenhoven, 2006). Estas medidas  sirven para mejorar  la  felicidad en un país 
+
+y  compararla  entre  países    a  lo  largo  del  tiempo.  Como  se  mide  el  Producto  Bruto 
+
+Interno (PBI), igualmente se puede medir la Felicidad Nacional Bruta. 
+
+A  menudo  se  intercambia  el  término  felicidad  con  el  “bienestar”  o  “calidad  de 
+
+vida”. Veenhoven  identifica en un cuadrante cuatro dimensiones de  la calidad de vida o 
+
+cuatro calidades de vida: la habitabilidad del entorno, la habitabilidad de la persona para 
+
+vivir,  la  utilidad  de  la  vida  y  por  último,  el  disfrute  subjetivo  de  la  vida;  este  último 
+
+“…representa  los  resultados  internos de  la vida, es decir  la calidad  según  la perspectiva 
+
+del propio  sujeto”.   En otras palabras, el “bienestar subjetivo”, “satisfacción en  la vida” 
+
+o “felicidad”, y es esta cuarta dimensión o calidad de vida la que pretende medir. 
+
+ 
+
+La propuesta de Eddier Martínez. Para este antropólogo, La felicidad ha sido un foco 
+
+de  atención  para  los  pensadores  fundadores  de  la  Sociología  evolucionista  del  siglo 
+
+XIX,  y que  sus  estudios  demuestran que  la vida  en  la modernidad  es más  aceptable,  tal 
+
+como lo plantea Veenhoven (2006).  
+
+Martínez  (2008)  considera  que  la  disputa  entre  el  evolucionismo  y  el 
+
+culturalismo  podría  encontrar  un  lugar  de  negociación  si  se  tratara  de  construir  el 
+
+concepto de felicidad desde una perspectiva colaborativa entre estas dos tendencias y no 
+
+solamente  desde  la  idea  neovolucionista  sobre  la  cual  está  construido  el  discurso  del 
+
+progreso  y  el  desarrollo  unilineal  que  además  oculta  básicas  inequidades  sociales. 
+
+Además,  considera  que  en  la  sociología  el  concepto  social  de  felicidad  es  producto  de 
+
+una  construcción  histórica  que  corresponde  con  el  espíritu  de  los  tiempos  y  el  sentido 
+
+común  imperante  en  una  sociedad  y  época.  Además,  los  métodos  estandarizados, 
+
+validados y confiables pueden ocultar las problemáticas de las minorías sociales, ya que 
+
+invita  a  las  macro  políticas  a  concentrarse  en  los  aspectos  positivos  de  la  sociedad, 
+
+sugiriéndoles  que  si  la  mayoría  de  personas  de  una  comunidad  están  “bien”,  se 
+
+justifican  las políticas  sociales. En  tal  sentido, dice,  es necesario que  los  investigadores 
+
+traten  de  encontrar  todos  los  posibles  significados  que  dan  las  personas  al  término 
+
+felicidad,  pero  no  para  llegar  a  construir  un  concepto  transcultural  de  la  felicidad,  sino 
+
+más  bien  para  entender  cuáles  son  los  elementos  que  configuran  este  sentimiento  de 
+
+diferentes culturas. 
+
+     Valores  sociales  y  felicidad.  El  interés  por  las  emociones  humanas  desde  las 
+
+ciencias  sociales  se  ha  desarrollado  con  Crapanzano  en  1994,  según  Martínez  (2008), 
+
+respondiendo  a  la  necesidad  académica  de  explicar,  a  partir  de  las  experiencias  propias 
+
+de 
+
+los 
+
+individuos, 
+
+la 
+
+influencia  de 
+
+la  vida  emocional  sobre 
+
+los  fenómenos 
+
+socioculturales. Es  así que plantea  algunas definiciones sociológicas de  algunos valores 
+
+sociales  que  son  tenidos  en  cuenta  dentro  de  las  investigaciones  sobre  felicidad: 
+
+tolerancia,  confianza,  solidaridad,  nacionalismo,  religiosidad, 
+
+libertad, 
+
+igualdad, 
+
+justicia, seguridad, 
+
+ 
+
+Métodos y Materiales 
+
+De  acuerdo  al  tratamiento  que  se  hizo  a  las  variables,  la  investigación  fue  descriptiva 
+
+correlacional,  pues  se  evaluó  la  relación  entre  la  variable  1  características  socio-
+
+demográficas,  con  la  variable  2  felicidad.  La  población  estuvo  constituida  por  los 
+
+profesionales  de  las  siguientes  carreras:  profesionales  de  salud,  abogados,  ingenieros  y 
+
+profesores que trabajan en la provincia de Tarma, siendo un total de 2 942. Aplicando la 
+
+fórmula  de  la  n  se  tuvo  una  muestra  estratificada  de  190  profesionales.  Estos 
+
+profesionales compartieron las siguientes características: trabajan en la provincia, hayan 
+
+o no nacido en ella, cumplen un promedio de  tres años de radicar en  la provincia, han o 
+
+no  estudiado  en Tarma, y  finalmente,  son profesionales que  ejercen  la profesión  al  cual 
+
+fueron formados. 
+
+El  instrumento  que  se  aplicó  fue  un  cuestionario  dividido  en  dos  partes,  el  primero 
+
+estuvo  relacionado  a  la  variable  características  sociodemográficas  que  fueron:  edad, 
+
+género, estado civil y profesión. Para la variable felicidad se consideraron 30 ítems, diez 
+
+para  cada  uno  de  los  siguientes  factores:  psicológico,  social  y  material.  El  ítem  31  de 
+
+deseabilidad  social,  sirvió  para  controlar  la  disposición  del  encuestado  ante  el 
+
+desarrollo  del  cuestionario.  La  validez  del  instrumento  estuvo  a  cargo  de  dos 
+
+psicólogos, quienes hicieron sugerencias con  relación a  la precisión de  las preguntas,  lo 
+
+que  llevó  a  rehacerlo  dos  veces.  La  confiabilidad  fue  alta  porque  aplicando  la  fórmula 
+
+Alfa de Cronbach se obtuvo 0,8. 
+
+Para  el  procesamiento  y  análisis  de  datos,  se  trabajó  con  el  SPSS  y  se  aplicó  las 
+
+siguientes  medidas:  Regresión 
+
+lineal  simple,  desviación 
+
+típica,  coeficiente  de 
+
+correlación  lineal,  la  r  de  Pearson  y  rho  de  Sperman  para medir  el  grado  de  covarianza 
+
+entre las variable. 
+
+ 
+
+Análisis y discusión de datos. 
+
+    La  presente 
+
+investigación  ha  buscado 
+
+la  correlación  entre 
+
+las  variables 
+
+sociodemográficas  y  el  constructo  felicidad  a  partir  del  enfoque  social,  económico  e 
+
+interno. Estos enfoques terminaron siendo los factores de la felicidad. Luego de analizar 
+
+los  resultados  se  puede  concluir  diciendo  que  existe  correlación  entre  estas  variables 
+
+pero que es despreciable y baja.  
+
+     De  forma  más  detallada  encontramos  que,  la  correlación  entre  la  edad  y  el  género 
+
+con  la  felicidad,  es  despreciable  (0,008  y  0,093  respectivamente)  y  la  correlación  entre 
+
+el  estado  civil  y  la  actividad  laboral,  es muy  baja  (0,244  y  0,272  respectivamente).  Los 
+
+investigadores  Scorsolini-Comin,  F;  Dos  Santos,  M  (2010)  encuentran  que  existen 
+
+investigaciones  que  correlacionan  felicidad  con  el  contexto  cultural,  con  la  edad  y  la 
+
+profesión,  por  tanto  la  presente  investigación  se  enmarca  entre  ellas,  pues  es  posible 
+
+correlacionarlas. 
+
+     Teniendo  en  cuenta  los  enfoques  desarrollados  en  las  bases  teóricas,  la  correlación 
+
+entre  la  edad  y  el  género  con  la  felicidad  interna,  social  y  material  es  despreciable,  es 
+
+decir,  que  uno  puede  ser  feliz  a  cualquier  edad,  sin  importar  el  aspecto  económico, 
+
+social  e  interno.  Sin  embargo,  existen  investigaciones  como  el  de  Undurraga  (2007)  y 
+
+de  Mikkelsen  (2009)  que  demuestran  que  los  hombres  tienen  más  probabilidad  de  ser 
+
+felices  que  las  mujeres,  pero  que  la  edad  no  muestra  efectos  significativos  en  la 
+
+felicidad,  coincidiendo  con  la  presente  investigación;  es  decir,  uno  puede  ser  feliz  a 
+
+cualquier  edad.  Además,  en  la  investigación  de  Arias, W;  Yepez,  L;  Núñez  A;  Oblitas 
+
+A; Pinedo S; Masías M; Hurtado J. (2013) la  edad no es determinante pues los ancianos 
+
+que viven con  su  familia  son  felices a diferencia de  los que no viven con ellas. Por otro 
+
+lado, no por ser jóvenes se puede ser más feliz, pues en esta etapa de la vida la felicidad 
+
+está  en  función  a  lo  familiar  y  al  área  amical,  pero  tampoco  es  determinante,  según 
+
+Mikkelsen  es  un  nivel  promedio,  puede  influir más  en  la  felicidad,  el  estilo  de  resolver 
+
+los problemas (2009).  
+
+     Por  otro  lado,  la  correlación  entre  el  estado  civil  y  la  actividad  laboral  con  la 
+
+felicidad interna, social y material es muy baja. En la presente investigación la actividad 
+
+laboral  de  la muestra  encuestada  toma  en  cuenta  el  nivel  superior  de  la  educación,  por 
+
+tanto existe una coincidencia con la investigación de Undurraga (2007) quien manifiesta 
+
+que los años de escolaridad no muestra efectos significativos sobre la felicidad. 
+
+     Sin  embargo,  existe  un  pequeño  pero  interesante  puntaje  en  la  correlación  de  las 
+
+variables,  la  actividad  laboral  y  la  felicidad  (0,272),  y  más  específicamente  entre  la 
+
+actividad  laboral  y  la  felicidad  social  (0,274).  En  esta  investigación,  la  felicidad  social 
+
+es vista desde la perspectiva sociológica. Esta perspectiva, según Martínez (2008), toma 
+
+en  cuenta  valores  sociales  como  la  tolerancia,  la  confianza,  la  solidaridad,  el 
+
+nacionalismo, la religiosidad, la libertad, la igualdad, la justicia y la seguridad. 
+
+     Además,  es  importante  resaltar  que  no  se  aprecia  en  ningún  resultado  que  la 
+
+correlación entre estas variables sea nula, con  esto  se quiere decir que  los  factores de  la 
+
+felicidad  (felicidad  interna,  social  y  económica)  pueden  determinar,  aunque  no  de 
+
+manera  duradera  y  significativa  la  felicidad  en  los  profesionales  de  la  provincia  de 
+
+Tarma. 
+
+     Por otro  lado, analizando  las perspectivas desarrolladas en  la  investigación, se puede 
+
+decir  que  la  felicidad  interna  depende  más  del  temperamento  o  de  las  fortalezas  del 
+
+carácter que son propias de cada persona, que según Seligman, son  los predictores de  la 
+
+felicidad. La  felicidad  económica  está  en  función  a  la  riqueza,  la  libertad  y  la  igualdad, 
+
+por  tanto  se  puede  decir  que  en  nuestro  país  existen  esas  bases,  quizá  no  plenamente 
+
+garantizadas,  pero  existen.  Por  último,  la  felicidad  social  de  acuerdo  a Martínez,  es  un 
+
+asunto  cultural  cuyos  elementos  deben  ser  entendidos  de  forma  muy  particular,  no  así 
+
+de forma transcultural (2014). 
+
+ 
+
+Conclusiones 
+
+Respecto  al  objetivo  de  determinar  la  relación  entre  el  estado  civil  y  las 
+
+dimensiones  de  la  felicidad  en  los  profesionales  de  la  provincia  de  Tarma,  se  ha 
+
+encontrado  que  existe  relación  pero  esta  relación  es  muy  baja  (0,244).  Es  decir  que  no 
+
+influye  el  ser  casado,  soltero o divorciado para  ser más o menos  felices. En  cuanto  a  la 
+
+relación  entre  la  actividad  laboral  y  la  felicidad,  la  relación  es  muy  baja  (0,272).  Es 
+
+decir,  no  son  más  ni  menos  felices  los  profesionales  de  salud,  los  profesores,  los 
+
+abogados o los ingenieros. Respecto a la relación entre género y felicidad, la relación es 
+
+despreciables  (0,093),  pues  para  ser  feliz  no  es  necesario  ser  varón  o  mujer,  en  la 
+
+provincia de Tarma. La relación entre edad y felicidad, es también despreciable (0,008); 
+
+es decir, uno puede ser feliz a cualquier edad. 
+
+ 
+REFERENCIAS BIBLIOGRÁFICAS 
+Alarcón  R.  (2007).  Investigaciones  sobre  Psicología  de  la  Felicidad.  Congreso 
+Latinoamericano  de  Estudiantes  de  Psicología.  COLAEPSI  Lima.  [Fecha  de  acceso  25 
+de 
+julio 
+del 
+2014] 
+URL 
+disponible 
+en  
+http://www.colaepsi.psicologico.cl/tematicayponentes/REYNALDOALARCON.pdf 
+ 
+Arias W, Yepez L, Núñez A, (2003). Felicidad, depresión y creencia en la benevolencia 
+humana en adultos mayores  institucionalizados y no  institucionalizados.   En Revista de 
+Educación  y  Psicología  de  la  USIL.  Vol.  1,  N°2.  Segundo  semestre  2013.pp.83-103. 
+ISSN  2307-7999  (versión  impresa)  ISSN  2310-4635  (versión  electrónica).  [Fecha  de 
+acceso  25  de  julio  del  2014]  URL  disponible  en  http://repositorio.usil.edu.pe/wp-
+content/uploads/2014/08/2014_Arias_Felicidad-depresi%C3%B3n-y-creencia-en-la-
+benevolencia-humana-en-adultos-mayores-institucionalizados-y-no-
+institucionalizados.pdf 
+ 
+
+Contreras  F  (2006).  Psicología  positiva:  una  perspectiva  en  psicología.  Revistas 
+divertidas  –  Perspectivas  en  Psicología.  Vik  2.  [Fecha  de  acceso  25  de  julio  del  2014] 
+URL disponible en 
+http://www.usta.edu.co/otraspaginas/diversitas/doc_pdf/diversitas_4/vol.2no.2/articulo_
+10.pdf 
+ 
+Cueto  M.  Zamora  V.  (2006).  Historia,  Salud  y  Globalización  Primera  Edición,  Lima, 
+p14-15. 
+ 
+Días, J. (2013). La Economía de  la Felicidad en América Latina.  Instituto de Economía 
+IECON.  Serie Documentos  de Trabajo  14/2013.  ISSN  1688-2090.  [Fecha de  acceso  25 
+de julio del 2014] URL disponible en  http://media.cervantesvirtual.com/jdiaz/rf371.pdf 
+ 
+Godoy  Arcaya  O.  (1995).  La  felicidad  aristotélica:  pasado  y  presente.  Conferencia 
+pronunciada  en  el  ciclo  “De  la  felicidad”,  organizado  por  el  Centro  de  Estudios 
+Públicos. 
+Pontifica 
+Universidad 
+Católica 
+de 
+Chile. 
+http://www.cepchile.cl/dms/archivo_1791_3085/rev57_OGodoy.pdf 
+ 
+Martínez E. (2008) Una mirada sociológica en el estudio de la felicidad: en respuesta a 
+Ruut  Veenhoven.  [Fecha  de  acceso  25  de  julio  del  2014]  URL  disponible  en  
+http://avalon.utadeo.edu.co/programas/pregrados/economia/grupo_economia/document
+o_anexo_4.pdf 
+ 
+Mikkelsen  F.  (2009).    Satisfacción  con  la  vida  y  estrategias  de  afrontamiento  en  un 
+grupo de adolescentes universitarios de Lima. Pontificia Universidad Católica del Perú. 
+[Fecha 
+de 
+acceso 
+25 
+de 
+julio 
+del 
+2014]  URL 
+disponible 
+en 
+http://tesis.pucp.edu.pe/repositorio/bitstream/handle/123456789/416/MIKKELSEN_RA
+MELLA_FLOR_SATISFACCION_CON_LA_VIDA.pdf?sequence=1 
+ 
+Ovalle  O,  y  Martínez  J.  (2006)  La  Felicidad  como  medida  de  bienestar  y  calidad  de 
+vida:  una  perspectiva  económica.  Rev.  Punto  de  Vista  de  la  Escuela  de  Economía 
+internacional.  Universidad  Autónoma  de  Chihuahua.  [Fecha  de  acceso  25  de  julio  del 
+2014] 
+URL 
+disponible 
+en 
+http://www.uach.mx/extension_y_difusion/synthesis/2008/11/10/felicidad.pdf  
+ 
+Redes. Aprendiendo a ser felices. https://www.youtube.com/watch?v=2kDfJRrRRw8 
+ 
+Scorsolini-Comin  F,  Dos  Santos  M.  (2010).  El  estudio  científico  de  la  felicidad  y  la 
+promoción  de  la  salud:  revisión  integradora  de  la  literatura.  Rev.  Latino-Am. 
+Enfermagem.  18(3),  mayo-junio.  [Fecha  de  acceso  25  de  julio  del  2014]  URL 
+disponible en http://www.scielo.br/pdf/rlae/v18n3/es_25.pdf 
+ 
+Undurraga  R.  (2007).  La  felicidad  en  Chile:  Una  aproximación  a  sus  determinantes. 
+Seminario  de  título  para  optar    el  título  de  ingeniero  comercial,  mención  economía. 
+
+Facultad  de  Economía  y  Negocios.  Universidad  de  Chile  [Fecha  de  acceso  25  de  julio 
+del 2014] URL disponible en 
+http://www.tesis.uchile.cl/tesis/uchile/2007/undurraga_r/sources/undurraga_r.pdf 
+ 
+Veenhoven  R.  (2006).  Medidas  de  la  Felicidad  Nacional  Bruta.  Publicado  en: 
+Intervención Psicosocial, Revista  sobre  Igualdad  y Calidad de Vida. 18n.  3, 2009, 279-
+299.  ISSN 1132-0559, 2006. [Fecha de acceso 25 de  julio del 2014] URL disponible en   
+http://www2.eur.nl/fsw/research/veenhoven/Pub2000s/2009j-fulls.pdf 
+ 
+Velásquez.  (2007)  La  salud  mental  como  parte  de  la  salud  integral  de  los  individuos. 
+Ministerio  de  Salud.  [Fecha  de  acceso  25  de  julio  del  2014]  URL  disponible  en: 
+http://bvs.minsa.gob.pe/local/MINSA/1057_CIES-IB28.pdf  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

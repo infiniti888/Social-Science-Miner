@@ -1,0 +1,1404 @@
+ 
+
+ 
+
+EL ROL DE LA INNOVACIONES TECNOLÓGICAS SECTORIALES EN LA EXPANSIÓN DE 
+
+LA FRONTERA AGROPECUARIA EN EL MERCOSUR 
+
+ 
+
+ 
+
+Germán Andrés Orsini  
+
+gorsini@fceco.uner.edu.com.ar 
+
+Universidad Nacional de Entre Ríos  
+
+Argentina 
+
+ 
+
+ 
+
+Néstor Alfredo Domínguez  
+
+nestoralfredodominguez@yshoo.com.ar 
+
+Universidad Nacional de Entre Ríos 
+
+Argentina 
+
+ 
+
+Néstor José Serfaty  
+
+nestorparana@gmail.com 
+
+Universidad Nacional de Entre Ríos 
+
+Argentina 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+RESUMEN 
+
+La  investigación  pretende  dar  cuenta  de  la  evolución  e  impactos  de  los  cambios  tecnológicos  en  el 
+
+sector agropecuario en  el Mercosur  en  las últimas cuatro décadas, para ello  se utiliza un  análisis de 
+
+los  cambios  de  paradigma  que  fueron  aconteciendo  en  la  faz  productiva  y  sus  principales 
+
+implicancias  económicas  y  sociales,  adicionalmente  se  realiza un  análisis de  los  diferentes  tipos de 
+
+tecnologías  empleadas  en  el  agro,  sus  características  e  implicancias.  Particularmente  se  intenta 
+
+contribuir a la caracterización del nuevo paradigma del desarrollo tecnológico agrícola y del tipo de 
+
+agricultura  que  se  está  configurando  y  como  se  ha  desplegado,  adoptado,  arraigado  y  adaptado  el 
+
+mismo en  los diferentes países que conforman el Mercosur  (miembros originales) comprendido por 
+
+los  siguientes  países:  Argentina,  Brasil,  Paraguay  y  Uruguay.  Se  plantea  que  estas  innovaciones 
+
+radicales  han  reorientado  la  producción  agrícola  tradicional  hacia  el  cultivo  de  soja,  y  esta 
+
+oleaginosa  surge  como  “icono”  de  esta  nueva  configuración  productiva.  Consecuentemente  se 
+
+realiza  el  estudio  de  los  orígenes  del  cultivo  de  soja,  su  expansión  en  el  territorio  así  como  sus 
+
+implicancias  en  la  estructura  agraria,  en  los  mecanismos  de  apropiación  de  los  excedentes 
+
+económicos  y  sobre  los  agentes  sociales. En  cuanto  a  la metodología  empleada  podemos  enmarcar 
+
+el  estudio  dentro  del  tipo  explicativo  con  tramos  descriptivos,  para  su  realización  se  utilizaron 
+
+producciones  teóricas  existentes  e  información  cuantitativa.  Las  fuentes  bibliográficas  y  de 
+
+información a  las que  se  accedió  son  los  repositorios  institucionales de  las universidades miembros 
+
+del  Comité  Académico  de  Desarrollo  Regional  de  la  Asociación  de  Universidades  del  Grupo 
+
+Montevideo  e  informes  y  tablas  cuantitativos  de  los  organismos  estadísticos  nacionales, 
+
+provinciales y/o estaduales de los distintos países, y de entidades empresariales del sector. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ABSTRACT 
+
+The  research  aims  to  give  an  account  of  the  evolution  and  impacts  of  the  technological  changes  in 
+
+the  agricultural  sector  in  MERCOSUR  in  the  last  four  decades.  To  do  this,  an  analysis  of  the 
+
+paradigm changes that were happening in the productive field is used. In addition, an analysis of the 
+
+different  types of  technologies used  in  the  agriculture,  its characteristics  and  implications  is carried 
+
+out.  In  particular,  it  is  intended  to  contribute  to  the  characterization  of  the  new  paradigm  of 
+
+agricultural  technological  development  and,  consequently,  the  type  of  agriculture  that  is  being 
+
+shaped  and  how  it  has  been  deployed,  adopted,  rooted  and  adapted  in  the  original members  of  the 
+
+MERCOSUR (Argentina, Brazil, Paraguay and Uruguay). It is argued that  these radical innovations 
+
+have  reoriented  traditional  agricultural  production  towards  soybean  cultivation,  appearing  this 
+
+oilseed  as  an  "icon"  of  the  new  productive  configuration.  The  origins  of  soybean  cultivation,  its 
+
+expansion  in  the  territory  as well  as  its  implications  in  the  agrarian  structure  are  described,  as well 
+
+the mechanisms of appropriation of the economic surpluses and the social agents.   
+
+The methodology used  in  the study  is of  the explanatory  type with descriptive  sections. As  sources 
+
+existing  theoretical  productions  and  quantitative  information  was  used.  The  bibliographic  and 
+
+information sources that were accessed are the institutional repositories of the universities members 
+
+of  the  Academic  Committee  of  Regional  Development  of  the  Association  of  Universities  of  the 
+
+Montevideo  Group  and  quantitative  reports  and  tables  of  the  national,  provincial  and  regional 
+
+statistical agencies of the different countries, and business sector entities.  
+
+ 
+
+Palabras clave 
+
+Innovaciones agrícolas, MERCOSUR, sojización 
+
+ 
+
+ 
+
+Keywords 
+
+Agricultural innovations, MERCOSUR, soybean 
+
+3 
+
+ 
+
+  
+
+I. Introducción 
+
+La  consolidación  del  modelo  de  agronegocios  en  el  MERCOSUR,  reflejado  por  el  
+
+crecimiento  de  la  producción,  productividad  y  exportaciones  de  oleaginosos  y  sus 
+
+derivados  en  los  países  integrantes  del  grupo  en  los  últimos  años,  estuvo  ligado 
+
+principalmente al  importante aumento de  los precios  internacionales de  los  commodities, 
+
+de  la  oferta  e  incorporación  acelerada  de  innovaciones  (maquinarias,  biotecnología  y 
+
+gestión),  a  las  estrategias  de  las  empresas  transnacionales  que  históricamente  participan 
+
+en  el  comercio  internacional  de  granos  y  a  las  políticas  públicas  domesticas  que  por 
+
+acción  u  omisión  estimularon  el  proceso  de  especialización  agrícola,  que  transformo  al 
+
+MERCOSUR  en  el  principal  productor  del  mundo  de  oleaginosas  particularmente  soja, 
+
+aceite de soja y subproductos.  
+
+Este  trabajo  tiene  como  objetivo  comparar  la  expansión  del modelo  de  agronegocios  en 
+
+base  al  cultivo  de  soja  en  el  MERCOSUR 1 (Argentina,  Uruguay,  Brasil  y  Paraguay), 
+
+describiendo  las  generalidades  que  hacen  a  los  agronegocios  y  papel  que  ocuparon  los 
+
+Estados  en  ese proceso  a partir de políticas públicas  en  torno  a  las  regulaciones  sobre  el 
+
+uso y comercialización de semillas de organismos genéticamente modificados (OMG).   
+
+Este  proceso  ha  significado  una  reprimarización  de  las  estructuras  económicas  de  los 
+
+países, una  especie  de  continuidad de  la  inserción  en  el  comercio  internacional  típica de 
+
+los  países  periféricos.  Este  modelo  expandió  la  agricultura  capitalista  de  base 
+
+biotecnológica, en base a  la organización en  red de  la producción agrícola  (fundamentos 
+
+del  agronegocio),  generado  un  importante  proceso  de  agriculturización  basado 
+
+principalmente  en  la  producción  de  soja.  En  35  años  (1976-2011)  la  ampliación  de  la 
+
+frontera sojera de  la región fue de 44.88 millones de hectáreas pasando  el área sembrada 
+
+de 9,97 millones en 1977/78, a 56.85 millones de hectáreas en 2016/17 (USDA).  
+
+                                                 
+1 Se considera solamente la composición original del MERCOSUR, no considerándose a Bolivia y Venezuela.   
+
+4 
+
+ 
+
+La  hipótesis  central  del  trabajo  versa  en  que  esta  expansión  es  principalmente  producto 
+
+de la generalización del uso del paquete integral que componen la semilla transgénica, la 
+
+aplicación  de  glifosato  y  la  siembra directa,  lo  que  constituye una  innovación  disruptiva 
+
+en  el  agro,  aumentando  la  rentabilidad  y  fronteras  de  siembra  de  soja.  La 
+
+implementación a gran escala de esta  tecnología no es  independiente del  accionar de  los 
+
+Estados,  estos  intervienen  aprobando  o  regulando  marcos  legales  que  posibilitaron  su 
+
+empleo,  ya  que  se  trata  de  innovaciones  tecnológicas  que  tienen  un  impacto  directo  con 
+
+el  ser  humano  al  tratarse  de  alimentos  de  consumo  masivo,  directa  o  indirectamente. 
+
+Precisamente  se  pretende  describir  y  comparar  el  rol  del  Estado  en  esta  temática  en  los 
+
+diferentes  países  del  MERCOSUR,  resaltando  similitudes  y  diferencias  y  sus  impactos 
+
+en la faz productiva.  
+
+Se obtiene del estudio comparativo que el impacto del uso del paquete tecnológico altera 
+
+significativamente 
+
+la  productividad  a  partir  de 
+
+la 
+
+liberalización  del  uso  y 
+
+comercialización  de  las  semillas OGM  y  que  si  bien  en  algunos  países  no  se  aprueba  el 
+
+marco  regulatorio  pertinente,  el  capital  privado  se  encargó  de  saltar  los  obstáculos 
+
+legales  y  por  medio  de  contrabando  de  semillas  (caso  Brasil)  y  otros  mecanismos,  fue 
+
+capaz de propagar el modelo a toda la región.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+II. Marco teórico/marco conceptual 
+
+Los  distintos  paquetes  tecnológicos  que  se  utilizan  en  actualmente  en  el  sector  agrícola 
+
+que  pueden  ser  asimilados  al  concepto  de  paradigma  tecnológico  conforman  la  idea, 
+
+acertada, de un  corte  temporal  económico notorio, marcado por  la difusión  y  el  empleo, 
+
+totalmente  abarcativo, de una nueva  concepción  de hacer  las  cosas.  “Por  su  lógica,  cada 
+
+nuevo  paradigma  sustituye  de  manera  más  eficiente  a  las  anteriores  concepciones 
+
+productivas,  pudiendo  generar  utilizaciones  distintas  de  los  recursos  naturales  y  alterar 
+
+las ventajas competitivas preexistentes, reduciéndolas y, con seguridad, gestando nuevas. 
+
+Por eso, su presencia desagrega criterios de negocios diferentes” (Vitelli, 2012, p. 81). 
+
+¿Cuándo cambia un paradigma? “En particular,  la discusión anterior ha  indicado que  las 
+
+revoluciones  científicas  se  consideran  aquí  como  aquellos  episodios  de  desarrollo  no 
+
+acumulativo  en  que  un  antiguo  paradigma  es  reemplazado,  completamente  o  en  parte, 
+
+por  otro  nuevo  e  incompatible”  Kuhn  (2004,  p.  149).  Ciencia  extraordinaria  o 
+
+revoluciones científicas es el nombre que da Kuhn (2004) a aquellos momentos de crisis 
+
+donde  se  genera  la  alternativa  de  cambio  de  un  paradigma.  En  los  períodos  de  ciencia 
+
+normal  las anomalías que  se descubren  se dejan de  lado,  los conceptos  y  las  teorías, a  lo 
+
+sumo,  se  reajustan,  pero  los  paradigmas  se  mantienen.  Pero  cuanto  tales  anomalías  se 
+
+multiplican,  al  punto  que  ya  no  es  posible  darles  explicación  en  los  términos  teóricos 
+
+normales, o bien, ignorarlas, se produce una crisis del paradigma establecido. Al cambiar 
+
+un  paradigma  emerge  un  nuevo  paradigma  donde  se  establece  nuevamente  una  ciencia 
+
+normal, al cambiar el paradigma cambian o surgen nuevas ramas de la las ciencias.   
+
+Dentro  de  la  agricultura  podemos  decir  que  han  sido  preponderante  cinco  paradigmas 
+
+productivos,  1)  la  difusión  del  vapor  en  el  siglo  XVIII;  2)  sistemas  de  transporte  de 
+
+grandes  volúmenes  (ferrocarriles)  de  mercancías  y  en  la  gestación  del  frío  (barcos 
+
+frigoríficos), las telecomunicaciones (telégrafo) a mediados del siglo XIX; 3) La química 
+
+y  la  genética  vegetal  (tractores,  semillas  hibridas,  agroquímicos,  etc.)  desde  1920;  4)  la 
+
+revolución  verde  (semillas  mejoradas,  trigos  con  germoplasmas,  etc.)  se  inicia  en  la 
+
+6 
+
+ 
+
+década  del  60;  5)  Actual  paradigma  biotecnológico,  informático  y  nanotecnológico  que 
+
+desarrollaremos en el próximo apartado.  
+
+Lo  destacable  de  Kuhn  es  la  ruptura  con  “la  concepción  heredada”  entendida  como 
+
+epistemología  positivista,  esta  disrupción  se  basa  en  reconfigurar  el  rol  asignado  a  la 
+
+historia  de  la  ciencia,  el  cuestionamiento  de  la  propia  ciencia  (como  conjunto   de  teorías 
+
+objetivas, neutrales y verdaderas) abordándola en cambio como producto de  la actividad 
+
+humana en una cultura determinada y el cuestionamiento de  la concepción positivista de 
+
+progreso  tecnológico.  Por  otro  lado  los  postulados  de Kuhn  han  sido  también  criticados 
+
+por muchos autores, en cuanto a su posición de poder de un grupo de agentes sobre otros 
+
+que  impone  un  paradigma,  el  rol  de  las  instituciones,  etc.,  sin  embargo  su  herramental 
+
+creemos que nos permite ampliar el rango de comprensión de lo que se quiere comunicar 
+
+a un campo multidisciplinar.  
+
+El  paradigma  de  la  revolución  verde  generó  una  forma  de  concebir  y  hacer  agricultura, 
+
+de  entender  la  modernización  agrícola,  de  medir  el  desempeño  sectorial  y  una 
+
+determinada  institucionalidad sectorial. El paradigma tecnológico de  la revolución verde 
+
+es  hijo  de  la  sociedad  industrial  y  del  Fordismo  Alimentario.  El  núcleo  del  desafío 
+
+tecnológico  de  la  revolución  verde  fue  el  aumento  de  los  rendimientos  por  hectárea 
+
+(principalmente  del  trigo,  arroz  y  maíz)  para  combatir  de  esa  forma  el  hambre, 
+
+especialmente  en  los  países  de  Asia.  La  revolución  verde  gestó  el  desarrollo  de  una 
+
+agricultura  con  un  fuerte  contenido  tecnológico  consistente  en  variedades  de  alto 
+
+rendimiento,  obtenidas  a  través  del  mejoramiento  genético  convencional,  el  uso 
+
+intensivo  de  insumos  tecnológicos  como  fertilizantes  y  agroquímicos  que  permitieran 
+
+aprovechar  el  potencial  genético  de  las  nuevas  variedades,  y  una  más  plena 
+
+incorporación  de  la  racionalidad  económica  moderna  a  través  del  concepto  costo-
+
+beneficio, mediante el uso ampliado de las tecnologías de gestión. Esta fue, en definitiva, 
+
+su concepción de modernización agrícola. 
+
+Junto a  la mecanización de  la producción  y  la difusión de  técnicas de cultivo  y prácticas 
+
+agronómicas  de  manejo,  el  incremento  significativo  de  la  producción  agrícola  estuvo 
+
+7 
+
+ 
+
+fuertemente  ligado  al  mejoramiento  genético  incorporado  a  las  semillas.  Las  nuevas 
+
+variedades  de  alto  rendimiento  de  trigo  y  los  híbridos  de  maíz  (también  de  sorgo  y 
+
+girasol)  constituyeron  el  eje  de  las  semillas  mejoradas  obtenidas  (Gárgano  y  Souza, 
+
+2013).  En  este  período  también  se  produjo  la  introducción  de  lo  que  décadas más  tarde 
+
+se  revelaría  como  un  cultivo  clave:  la  soja,  que  gracias  al  ciclo  corto  de  los  trigos 
+
+Mexicanos  introducidos  en  el  cono  sur  pudo  comenzar  a  sembrarse  inmediatamente 
+
+después  de  la  cosecha  de  estos,  fomentándose  de  esta  manera  el  denominado  doble 
+
+cultivo,  en  esta  etapa  fue  importante  el  rol  del  Estado,  por  medio  de  políticas  públicas 
+
+activas a  través de  la extensión agropecuaria, por  ejemplo el  rol que cumplió el  Instituto 
+
+Nacional Tecnológico Argentino (INTA) en Argentina.  
+
+Los  cuestionamientos  o  preguntas  que  el  paradigma  de  la  revolución  verde  no  pudo 
+
+resolver  se  orientaban  a  los  debates  ambientales  y  sociales  sobre  todo  la  degradación 
+
+ambiental,  la  erosión  genética,  la  exclusión  de  la  mujer  y  el  aumento  de  las 
+
+desigualdades, estas  fracturas  se manifestaron  en  la conferencia sobre medio ambiente  y 
+
+desarrollo de  las Naciones Unidas de 1992, donde  se  comienza  a hablar de una  segunda 
+
+revolución  verde,  sin  embargo  este  paradigma  estaba  agotado,  las  revoluciones 
+
+biotecnológicas y la digital se encargarían de acrecentar las grietas y ponerle fin.  
+
+El  nuevo  paradigma  productivo  conjuga  los  desarrollos  biotecnológicos,  informáticos 
+
+(TICs) y nanotecnológicos, algunas de sus aplicaciones en las prácticas agronómicas son 
+
+la  agricultura  de  precisión  en  reemplazo  del  manejo  uniforme  de  predios,  el  uso  de  las 
+
+semillas  transgénicas  desarrolladas  por  multinacionales  Genéticamente  Modificadas 
+
+(GM),  entre  ellas  la  más  difundida  la  de  soja  RR  (Round  up  Ready)  que  significa 
+
+preparada  para  la  aplicación  de  Glifosato  (agroquímico),  la  siembra  directa  y  la 
+
+producción en red. En este nuevo paradigma ganan terreno los enfoques sistémicos.  
+
+Una  característica  distintiva  entre  uno  y  otro  paradigma  es  el  rol  de  la  difusión  de  las 
+
+innovaciones  tecnológicas,  en  el  caso  de  la  revolución  verde  es  el Estado  quien  difunde 
+
+los  cambios  e  innovaciones  tecnológicas  (bienes  públicos)  y  en  el  caso  del  nuevo 
+
+paradigma  es  el  sector  privado,  sobre  todo  empresas  multinacionales  y  asociaciones 
+
+8 
+
+ 
+
+empresarias  (bienes  privados  y  bienes  club)  que  son  las  encargadas  de  difundir  las 
+
+nuevas modalidades productivas (AAPRESSID, ACREA, MONSANTO, etc.), hoy día el 
+
+debate todavía sigue vigente sobre quién debe/debería pagar los desarrollos tecnológico.  
+
+Las  innovaciones  pueden  ser  clasificadas  como  la  transformación  de  una  idea  en  un 
+
+producto  nuevo  o mejorado  que  se  introduce  en  el mercado,  y  comprende  el  proceso  de 
+
+modernización  (Cap  y  Obschatko,  1993).  Puede  visualizarse  como  una  sucesión  de 
+
+etapas  definidas,  con  períodos  en  los  cuales  se  da  una  configuración  estructural  de  la 
+
+economía  agropecuaria  caracterizada  por  la  difusión  masiva  de  una  tecnología 
+
+dominante  y  resultado  de  una  innovación  (o  grupo  homogéneo  de  innovaciones) 
+
+tecnológica.  
+
+La  incorporación de nuevas  tecnologías produce, desde  la óptica económica, el aumento 
+
+de  la  productividad  del  suelo,  de  la  renta  del  mismo  y  rentabilidad  del  negocio 
+
+agropecuario, dinamiza el crecimiento económico de  la actividad y de otras relacionadas 
+
+a  la  red  de  actividades  que  componen  el  modelo  productivo,  pero  además  ocasiona  un 
+
+conjunto de impactos en otras variables deseados e indeseados. 
+
+El  aumento  de  la  productividad  y  del  excedente  económico  a  partir  del  progreso 
+
+tecnológico,  trae  aparejada  la  diferente  capacidad  de  los  distintos  agentes  sociales  de 
+
+apropiarse de  la  renta del  suelo  y  la  capacidad de  acumulación  y  ampliación  del  capital. 
+
+La  apropiación  depende,  entre  otras  cuestiones,  de  la  propiedad  de  los  factores  de  la 
+
+producción,  las  características de  los mercados de  los  insumos  y de  los  sesgos  en  el  uso 
+
+de  factores  que  generan  las  innovaciones  incorporadas  en  la  producción  generalmente 
+
+ahorradoras de mano de obra. 
+
+Los  países  del  MERCOSUR,  históricamente  han  sido  un  importador  de  cierto  tipo  de 
+
+innovaciones  agropecuarias,  sin  embargo  en  las  últimas  décadas  han  realizado 
+
+innovaciones  en  la  fase  de  fitomejoramiento  biotecnológico  (adaptaciones  de  cultivos), 
+
+que  es  de  menor  calidad  o  no  óptimo  desde  el  punto  de  vista  de  la  dependencia 
+
+tecnológica,  que  la  generación  propiamente  dicha  de  productos  biotecnológicos,  lo  que 
+
+los ubica como países periféricos en relación a los centros de innovación internacionales.  
+
+9 
+
+ 
+
+En  cuanto  a  la  naturaleza  de  las  innovaciones  agropecuarias,  podemos  distinguirlas 
+
+según  los  tipos  principales  de  tecnologías:  las  que  crean  insumos  o  mejoran  los 
+
+existentes,  las  de  procesos  y  las  que  crean  productos  o  mejoran  los  existentes.  Por  lo 
+
+tanto,  la  investigación  aplicada  está  dirigida  a  mejorar  los  insumos,  los  procesos  o  los 
+
+productos (Piñeiro, 2003). 
+
+En  el  sector  agropecuario  la  innovación  está  basada,  fundamentalmente,  en  el 
+
+mejoramiento  de  los  insumos  y  bienes  de  capital  (como  las  semillas,  genética  animal, 
+
+maquinarias,  agroquímicos,  equipos  -innovaciones mecánicas,  genéticas, químicas-  y  en 
+
+los  procesos  productivos,  es  decir  la  agronomía  -innovaciones  agronómicas)  y  las 
+
+mejoras en la administración y gerenciamiento de las empresas agropecuarias. 
+
+El  primer  tipo  de  tecnologías  son  “bienes  privados”  (principio  de  la  exclusión),  ya  que 
+
+son  desarrolladas  por  las  empresas  que  producen  y  comercializan  los  productos 
+
+resultantes  (fertilizantes,  herbicidas,  semillas,  maquinarias  agrícolas,  equipos  agrícolas, 
+
+etc.).  En  cambio,  el  segundo  tipo  de  tecnología  son,  en  general,  “bienes  públicos”  y, 
+
+consecuentemente,  son  desarrolladas  principalmente  por  instituciones  públicas,  ya  que 
+
+está  relacionada  con  la posibilidad de no  apropiación  del  aumento de  la productividad  y 
+
+del  excedente  que  ésta  genera.  La  consecuencia  organizativa  de  la  propiedad  de  estos 
+
+tipos  de  tecnologías  es  que  la  mayor  parte  de  la  misma  está  desarrollada  fuera  de  la 
+
+empresa agropecuaria. 
+
+10 
+
+ 
+
+  
+
+III. Metodología 
+
+En cuanto a la metodología se realiza un estudio comparado, entendiendo que esta es una 
+
+herramienta fundamental en el análisis que agudiza nuestro poder descriptivo y  juega un 
+
+papel  fundamental  en  la  formulación  de  conceptos,  enfocando  similitudes  sugestivas  y 
+
+contrastante entre casos (Collier, 1993). Nos focalizaremos en el “proceso” que ocasiona 
+
+la  ampliación  de  la  frontera  agropecuaria  en  el MERCOSUR,  este proceso determinante 
+
+está  centrado  en  la  aplicación  de  innovaciones  tecnológicas  disruptivas  (semilla 
+
+transgénica, glifosato  y  siembra directa) con un hecho puntual  en  relación directa  con  la 
+
+política  del  Estado  en  materia  de  regulación,  el  uso  de  organismos  genéticamente 
+
+modificados (OGM), lo que posibilita políticamente su uso y comercialización.  
+
+El caso más notorio de OGM es el de la semilla transgénica de soja RR Round Up Ready, 
+
+estos  cambios  regulatorios  y  tecnológicos  posibilitaron  la  expansión  territorial  del 
+
+cultivo  de  soja  transgénica  ampliándose de  esta manera  la  frontera  agropecuaria  en  todo 
+
+el Cono Sur. 
+
+ El  objetivo  de  la  comparación  es  el  examen  de  un  número  reducido  de  casos  con  la 
+
+finalidad  de  demostrar  que  tan  diferentes  son,  estableciendo  así  un  marco  para  la 
+
+interpretación  de  como  los  procesos  paralelos  de  cambio  (en  nuestro  caso  la 
+
+desregulación  del  uso  y  comercialización  de OGM  y  el  impacto  del  cambio  tecnológico 
+
+en  la  frontera  agropecuaria)  se  juegan  de  diferentes  maneras  dentro  de  cada  contexto 
+
+político y social.  
+
+El  ámbito  espacial  lo  constituyen  los  espacios  nacionales  (países)  pero  en  ocasiones  se 
+
+misturará  con  análisis  subnacionales  de  regiones  de  los  países  analizados  donde  el 
+
+fenómeno es más marcado. Respeto a  la temporalidad el estudio es de  tipo sincrónico ya 
+
+que  nos  interesa  comparar  en  el  tiempo  como  fue  dándose  el  proceso. Al  ser  un  estudio 
+
+comparativo se utilizan variables para operacionalizar conceptos en pos de construir una 
+
+matriz  de  datos  con  la  finalidad  de  pasar  a  una  instancia  superadora  de  construcción  de 
+
+un set de indicadores que visualicen el proceso antes mencionado. Dentro de la matriz de 
+
+11 
+
+ 
+
+datos de  incluirán variables  tales  como: comparación  temporal de  los años en  los que  se 
+
+aprobaron  los  OGM  en  cada  uno  de  los  países,  la  evolución  de  la  participación  de  las 
+
+hectáreas  sembradas  con OGM  en  cada país,  la  evolución de  las producción de  soja por 
+
+país,  la  evolución  de  las  hectáreas  cultivadas  con  soja,  el  total  de  hectáreas  cultivadas  y 
+
+producción  de  soja  para  el  Mercosur  y  la  evolución  comparativa  de  los  rendimientos 
+
+promedio del cultivo de soja. 
+
+En  cuanto  a  las  fuentes  de  información  en  primer  término  se  analizó  la  producción 
+
+teórica  existente  en  los  repositorios  institucionales  de  las  instituciones  miembros  del 
+
+Comité  Académico  de  Desarrollo  Regional  de  la  AUGM  y  de  varios  números  de  la 
+
+Revista  Pampa 
+
+interuniversitaria  de  Estudios  Territoriales  coproducida  por 
+
+la 
+
+Universidad  Nacional  del  Litoral  de  Argentina  y  de  la  Universidad  de  la  República  del 
+
+Uruguay,  en  segundo  término  se  consultó  la  información  de  los  organismos  estadísticos 
+
+nacionales,  provinciales  y/o  estaduales  de  los  distintos  países,  INDEC,  y  del Ministerio 
+
+de Agricultura, Ganadería y Pesca de la Nación de la Argentina (SIIA), del IBGE, Brasil, 
+
+DIEA  del  Ministerio  de  Ganadería,  Agricultura  y  Pesca  del  Uruguay,  además  de  
+
+entidades  empresariales  tales  como  la  Bolsa  de  Comercio  (BCR)  y  Cereales  y  de 
+
+organismos  internacionales  como  USDA  (Departamento  de  Agricultura  de  Estados 
+
+Unidos),  FAO  (Organización  de  las  Naciones  Unidas  para  la  Alimentación),  y  anales 
+
+estadísticos de la CEPAL (Comisión Económica para Latinoamérica) y Banco Mundial.   
+
+ 
+
+12 
+
+ 
+
+ 
+
+IV. Análisis y discusión de datos 
+
+ 
+
+La  historia  del  cultivo  de  soja  no  está  clara.  La  literatura  reporta  que  en  China  era 
+
+bastante cultivada y utilizada como alimento, cientos de años antes de que se hicieran los 
+
+primeros registros estadísticos. En América, la primera fecha de referencia data de 1804, 
+
+cuando  se  informó  de  su  desempeño  en  el  Estado  de  Pennsylvania,  Estados  Unidos  de 
+
+América  (EE.  UU.).  El  interés  de  los  productores  norteamericanos,  sin  embargo,  sólo 
+
+empezó a surgir después de 1880. 
+
+En  Europa,  el  profesor  Friedrich  Hamberlandt  de  la  Universidad  de  Viena,  fue  un  gran 
+
+difusor  y  alentador  para  el  cultivo  de  soja.  En  1873  obtuvo,  en  la  exhibición  en  Viena, 
+
+Diecinueve  variedades  procedentes  de  Japón  y  China.  En  1876  fueron  distribuidas  
+
+semillas  de  soja  a  varios  países  europeos: Austria,  Alemania,  Polonia, Hungría,  Suiza  y 
+
+los Países Bajos. 
+
+En  Brasil,  fue  presentado  su  cultivo  en  1882  en  el  estado  de  Bahía  por  Gustavo  D'utra. 
+
+En  Argentina,  las  primeras  pruebas  se  llevaron  a  cabo  en  1990  en  la  Estación 
+
+Experimental  INTA  Córdoba.  En  1921,  se  introdujo  en  Paraguay  (Bonato  &  Bonato, 
+
+1987).  
+
+Durante la primera mitad del siglo XX, la producción de soja en el continente americano 
+
+estuvo  concentrada  en  los  Estados Unidos  de  América  (EEUU).  La  concentración  de  la 
+
+producción de soja en  los EEUU se dio después de  la Segunda Guerra Mundial a raíz de 
+
+los  derechos  casi  exclusivos  de  la  producción  global  y  exportación  de  soja  –  entre  otros 
+
+cultivos  oleaginosos  –  que  los  EEUU  adquirió  a  través  del  Plan Marshall  y  el  Acuerdo 
+
+General  Sobre  Aranceles  Aduaneros  y  Comercio  (GATT,  por  su  sigla  en  inglés) 
+
+(Schlesinger, 2008). 
+
+Sobre  la  producción  de  soja  en  el  MERCOSUR,  podemos  establecer  tres  etapas  bien 
+
+marcadas y diversas características como se aprecia. (Tabla 1).   
+
+ 
+
+13 
+
+ 
+
+ 
+
+La gran expansión del cultivo de soja en  los últimos 30 años, no hubiera sido posible (al 
+
+menos  a  las  tasas  que  se  registraron)  sin  una  coyuntura  que  lo  permitiera,  esta 
+
+principalmente se dio por la difusión de nuevos conocimientos técnicos esencialmente la 
+
+innovación biotecnológica. El elemento más novedoso de la moderna biotecnología es el 
+
+desarrollo  de  la  ingeniería  genética,  esto  es,  un  conjunto  de  técnicas  que  permiten  la 
+
+modificación dirigida y controlada de un genoma, agregando, eliminando o modificando 
+
+alguno  de  sus  genes  (Sztulwark,  2005).  Esto  se  dio  con  la  semillas  transgénica  de  soja 
+
+RR desarrollada por la internacional Monsanto que junto con la aplicación de glifosato y 
+
+el  cultivo  bajo  el  método  de  siembra  directa  (tecnología  ahorradora  de  costos), 
+
+14 
+
+Tabla I: Etapas de Introducción y Consolidación de la producción de soja en el MERCOSUR ETAPA PERIODO DESCRIPCIÓN ROL DEL ESTADO Introducción I Desde finales de siglo XIX hasta fines de los 60´ Fines experimentales, adaptación de cultivos y autoabastecimiento Nulo.  Revolución Verde II Desde la década de los 70´ hasta mediados de los 90´ Consolidación y expansión del cultivo, producción para comercialización , semillas hibridas y mecanización Fuerte a través de instituciones y políticas públicas directas. Hegemonía III Desde mediados de los 90´ en adelante Innovaciones radicales (paquete: Siembra Directa, Semilla transgénica, Glifosato), expansión de frontera agrícola,  sustitución de cultivos y relocalización de actividades Débil, se limita a dirimir marcos regulatorios para la comercialización de semillas OGM.  Predomina una visión neo-extractivista, congruente con una reprimarización del sector agropecuario. Fuente: Elaboración Propia.    
+
+conformaron  un  nuevo  paquete  tecnológico  integral  que  afectó  la  manera  en  que  se 
+
+utilizó  y  gestionó  el  suelo  y  produjo  la  separación  de  la  propiedad  de  la  tierra  de  quien 
+
+desarrolla  las  actividades  lo  que  se  tradujo  en  una  fuerte  contratación  de  servicios 
+
+agropecuarios.  
+
+Otros  factores  que  cooperaron  para  la  gran  diseminación  de  la  soja  en  el  Mercosur 
+
+fueron:  el  surgimiento  de  oportunidades  de  mercado  para  la  producción  de  soja  y 
+
+derivados  a  altos  precios  en  el  mercado  internacional,  inclusión  de  la  producción  y 
+
+consumo  de  soja  en  diferentes  programas  agrícolas  y  de  desarrollo,  fuertes  incentivos 
+
+económicos  que  beneficiaron  al  sector  oleaginoso,  por  ejemplo:  Exención  de  impuestos 
+
+a  la  industrialización  y el comercio de  la soja, apoyo  financiero para el  sector privado, y 
+
+facilidades de  crédito,  la  construcción  de  infraestructura para  facilitar  el  transporte de  la 
+
+soja cosechada y sus productos derivados.  
+
+Toda  esta  evolución  se  materializo  gracias  a  una  coyuntura  determinada  por  la 
+
+configuración  de  un  nuevo  modelo  de  organización  de  la  producción  muy  relacionado 
+
+con  la  conformación  de  un  paquete  tecnológico,  la  existencia  de  programas  de 
+
+mejoramiento  genético  establecidos  en  el  sector  privado  (y  estatal)  que  ayudaron  a 
+
+adaptar  rápidamente  las  nuevas  variedades,  la  rápida  respuesta  del  sector  oficial  en 
+
+materia  regulatoria  y  de  control  y  el  desarrollo  desde  los  años  ochenta  de  una  industria 
+
+de  crushing  altamente  competitiva  a  nivel  internacional,  que  demanda  de  manera 
+
+creciente la producción de semillas oleaginosas. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 
+
+ 
+
+ 
+
+Sin embargo la introducción de la semilla genéticamente modificada no fue pareja en los 
+
+países  que  conforman  el  bloque  sino  que  se  dieron  situaciones  disímiles,  en  la  tabla  se 
+
+detallan los años de aprobación del uso y comercialización de las semillas OMG. 
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+ 00,10,20,30,40,50,60,0010,0020,0030,0040,0050,0060,0070,0080,0090,00100,00Grafico 1. Corrimiento de la Frontera Agropecuaria y la de la superficie destinada a la producción de soja en el MERCOSUR SojaFrontera AgrícolaParticipaciónLiberalizaciónde la Soja Transgénica en ArgentinaFUENTE:Elaboración propia en basea datos de la USDA En el eje izquierdo  se  observa n los cambios en la participación del cultivo de soja Se incluyeen Frontera agropecuaria a los cultivos  oleaginosos, cereales e industrialesETAPA IETAPA IIETAPA IIITabla II: Año de aprobación de la semilla genéticamente modificada en el MERCOSUR PAÍS Año de aprobación de la semilla Round up Ready (MONSANTO) Argentina  1996 Brasil  1998 (provisoriamente/revocado por fallo judicial en 1999), 2005 definitivo  Paraguay  2004 Fuente: Elaboración en base a ISAAA (INTERNATIONAL SERVICE FOR ACQUISITION OF AGRI-BIOTECH APPLICATIONS)   
+
+ 
+
+La  difusión  de  la  soja  transgénica  en  un  marco  de  economía  abierta  redundó  en  una 
+
+estructura  de  producción  agrícola  altamente  competitiva  a  nivel  internacional.  Sin 
+
+embargo,  ese  nivel  de  eficiencia  se  alcanza  en  una  actividad  (fase  de  fitomejoramiento) 
+
+de  menor  “calidad”  que  la  biotecnológica,  determinando  un  patrón  de  especialización 
+
+productivo “periférico”, (Sztulwark, 2005) 
+
+ 
+
+ 
+
+Como  se  aprecia  en  el  grafico  1,  la  participación  de  la  soja  en  la  superficie  destinada  a 
+
+agricultura (Cultivos Oleaginosos, cereales e Industriales), en la primera etapa previa a la 
+
+revolución  verde,  no  registra  participación,  en  la  segunda  etapa  surge  fuertemente 
+
+principalmente  en  Brasil  y  Argentina  alcanzando  una  participación  del  orden  de 
+
+aproximadamente  entre  el  30%  y  35%,  en  la  tercera  etapa  definida,  no  solo  aumenta 
+
+marcadamente  la  participación  del  cultivo  de  soja  hasta  alcanzar  en  el  año  2012  el  58% 
+
+del  área  total  cosechada,  a  su  vez  se  aprecia  un  aumento  marcado  de  la  frontera 
+
+agropecuaria,  esto  implica  la  incorporación  de  nuevas  tierras  por  desmonte,  ociosas  y/o 
+
+el desplazamiento de otras actividades que antes se desarrollaban en esas tierras, proceso 
+
+agotado en Argentina pero que aún continua en Brasil.  
+
+17 
+
+TABLA III: Porcentajes de utilización de semillas de Soja Genéticamente Modificadas en el Mercosur País/Año 1997 1998 1999 2000 2001 2002 2003 Argentina  24% 57% 76% 87% 95% 95% 91% Uruguay  s/d s/d s/d s/d s/d 100% 99% Brasil  s/d s/d s/d s/d s/d 16% 18% Paraguay  s/d s/d s/d s/d s/d s/d s/d País/Año 2004 2005 2006 2007 2008 2009 2010 Argentina  98% 99% 98% 100% 94% 99% 98% Uruguay  s/d 100% 100% 100% 100% 100% 100% Brasil  23% 24% 42% 56% 59% 65% 71% Paraguay  s/d s/d s/d s/d 99% s/d 97% Fuente: Elaboración propia en base a ISAAA, ArgenBio, Minagri   
+
+El  cultivo  de  oleaginosas,  mayormente  el  de  soja  dentro  de  este  grupo,  presenta  una 
+
+tendencia clara, aumentando  su participación de manera creciente a  fines de  los 70 en el 
+
+MERCOSUR,  en  cambio  los  cultivos  industriales  y  el  de  cereales  pierden  peso  relativo 
+
+representando  el  4,7%  y  el  34.2%  respectivamente  en  2012,  mostrando  claramente  el 
+
+cambio en la matriz. 
+
+ 
+
+ 
+
+ 
+
+Los cambios en la productividad de cada uno de los países analizados muestran una clara 
+
+tendencia producto de la propagación de las innovaciones tecnológicas. 
+
+ 
+
+ 
+
+18 
+
+ 0,0%10,0%20,0%30,0%40,0%50,0%60,0%70,0%80,0%90,0%1960/19611961/19621962/19631963/19641964/19651965/19661966/19671967/19681968/19691969/19701970/19711971/19721972/19731973/19741974/19751975/19761976/19771977/19781978/19791979/19801980/19811981/19821982/19831983/19841984/19851985/19861986/19871987/19881988/19891989/19901990/19911991/19921992/19931993/19941994/19951995/19961996/19971997/19981998/19991999/20002000/20012001/20022002/20032003/20042004/20052005/20062006/20072007/20082008/20092009/20102010/20112011/20122012/20132013/2014Grafico 2. Participación de los diferentes cultivos en lasuperficie agrícola cosechada total en el MERCOSUR OleaginosasCerealesCultivos IndustrialesFUENTE: En base a datos de la USDA Liberalizaciónde la Soja Transgénica en Argentina 
+
+ 
+
+Al  analizar  el  comportamiento  de  cada  uno  de  los  países  que  conforman  el  bloque 
+
+regional, sin lugar a dudas en volúmenes de producción Brasil y Argentina constituyen el 
+
+49% (año 2012) a nivel mundial y si bien su evolución histórica fue creciente, se observa 
+
+una  clara  aceleración  del  proceso  a  partir  de  la  liberalización  de  la  soja  transgénica,  o 
+
+etapa  III  antes  definida.  El  caso  de  Uruguay  representa  el  1%  a  nivel  mundial  y  su 
+
+evolución  muestra  una  tendencia  exponencial  a  partir  de  mediados  de  principios  de  los 
+
+2000, esto se relaciona con la aprobación de del uso de soja GM. 
+
+A modo  de  resumen  se muestran  en  la  siguiente  imagen  las principales diferencias  en  la 
+
+evolución histórica en la temática entre los países miembros de MERCOSUR. 
+
+ 
+
+19 
+
+TABLA IV: Comparación de la Productividad del cultivo de soja en Toneladas/año comparadas entre cultivos de variedades convencionales y Organismos Genéticamente Modificados.  Argentina  Brasil  Paraguay  Uruguay  Años   1995-1995 1991-2004 1991-2003 1991-1995 Productividad Media Variedades Tradicionales  2.17 2.30 2.08 1.61 Años  1996-2009 2005-2010 2004-2010 1996-2010 Productividad Media Variedades OMG 2.52 2.64 2.18 1.87 Fuente: GenØk   
+
+ 
+
+Si  analizamos  la  evolución  de  lo  acontecido  en  cada  país  a  partir  de  la  hipótesis 
+
+planteada  observamos  que  se  verifica  el  impacto  de  los  cambios  tecnológicos  reflejados 
+
+en el aumento de la producción de soja en cada uno de los países estudiados con algunas 
+
+ 
+
+singularidades.  
+
+ 
+
+20 
+
+Ilustración 1: Superficie de soja cultivada en Argentina, Brasil, Paraguay, Uruguay y Bolivia (1980/81, 1990/91, 2000/01 y 2010/11) Fuente: En base a Valdemar Joao Wesz Junior, 2016  
+
+ 
+
+ 
+
+21 
+
+ 
+
+ 
+
+22 
+
+ 
+
+ 
+
+ 
+
+V. Conclusiones 
+
+El  modelo  de  los  agronegocios  se  ha  expandido  velozmente  en  los  cuatro  países  del 
+
+MERCOSUR con ciertas diferencias cualitativas y cuantitativas en cuanto a la dinámica, 
+
+sus  orígenes,  condicionantes  agroecológicos  y  políticas  pero  con  fuertes  similitudes  en 
+
+cuanto  sus  impactos  económicos, medioambientales,  y  sociales.  El modelo  hegemónico 
+
+“agrobusiness”  con  sus  fortalezas  y  “grietas”  han  posicionado  al MERCOSUR  como  el 
+
+productor  y  exportador  más  importante  a  escala  mundial.  Como  principales  resultados 
+
+encontramos  al Mercosur  como  big  player,  formador  de  precios  en  el mercado mundial 
+
+de  soja,  las  estimaciones  recientes  de  la  producción  de  soja  de  Argentina,  Brasil, 
+
+Paraguay  y Uruguay  (2016/2017) asciende  a 185,8 millones de  toneladas que  representa 
+
+aproximadamente  el  52%  de  la  producción  mundial  (351.77  millones  de  toneladas) 
+
+(USDA). 
+
+Esta elevada y creciente participación en la producción mundial de soja es producto de la 
+
+expansión de  la  frontera agrícola a partir de  la aplicación del paquete  tecnológico  lo que 
+
+ha  consolidado  la  integración  de  la  trama  sojera  regional  al  mercado  internacional 
+
+profundizando la histórica inserción de la región como proveedor de bienes primarios de 
+
+acuerdo  al  pretérito  esquema  de  división  internacional  del  trabajo  basado  en  el 
+
+aprovechamiento  de  ventajas  comparativas  naturales  derivadas  de  la  fertilidad  de  los 
+
+suelos  hoy,  denominado  por  algunos  autores  como  el  neo-extractivismo,  aunque  con  un 
+
+uso  más  intensivo  del  mismo  pero  que  a  pesar  del  aumento  de  las  inversión  en 
+
+maquinarias y equipos en el agro continua siendo de tipo extensivo. 
+
+Desde el punto de vista macroeconómico, el modelo de acumulación de los cuatro países 
+
+del  MERCOSUR  ha  producido  o  reforzado  la  primarización  de  sus  estructuras 
+
+económicas  aumentando  las  brechas  de  desarrollo  en  la  matriz  productiva.  Además  se 
+
+observa  un  aumento  de  la  vulnerabilidad  de  sus  economías  debido  a  la  pobre 
+
+diversificación  de  los  destinos  de  sus  exportaciones,  lo  que  ha  generado  una  fuerte 
+
+dependencia en el flujo de divisas y stock de las mismas, producto además de una visible 
+
+23 
+
+ 
+
+concentración  en  la  etapa  de  comercialización  internacional,  constituido  por  un  número 
+
+reducido  de  operadores  transnacionales.  Por  lo  tanto,  el  equilibrio  del  sector  externo 
+
+presenta una  fuerte dependencia de  la política  cambiaria, de  los  aciertos o  errores  en  las 
+
+políticas  económicas  domésticas,  en  un  contexto  condicionado  por  la  concentración  del 
+
+sector exportador. 
+
+Este  gran  avance  desde  el  punto  de  vista  económico,  propiciado  por  los  avances  de  la 
+
+biotecnología  (biopoder)  llevado  a  la  práctica  por  medio  de  una  la  biopolítica  por  una 
+
+red  de  actores:  principalmente  empresas  transnacionales  y  agentes  de  la  sociedad  civil, 
+
+en  conveniencia  con  un  Estado  laxo,  han  impuesto  un  modelo  de  agronegocios  con 
+
+múltiples fisuras, ocasionado una expansión de la frontera agraria sin parangón, procesos 
+
+de  expulsión  de  mano  de  obra  por  sustitución,  concentración  de  la  propiedad  y  uso  del 
+
+suelo, auge de negocios financieros, reconversión y expulsión de actividades productivas, 
+
+especialización  agrícola  y  consecuentemente  pérdida  de  diversidad,  cambios  en  los 
+
+hábitos  de  trabajo  familiar,  migraciones  rurales-  urbanas,  reconfiguración  de  paisajes  y 
+
+contaminación  ambiental.  En  este  último  aspecto,  la  visibilidad  del  riesgo  es  creciente, 
+
+ya  no  solo  para  las  poblaciones  afectadas,  sino  también  para  la  sociedad  en  su  conjunto 
+
+quien  comienza  a  demandar  -siempre  en  forma  tardía  porque  no  se  visualizaban  los 
+
+riesgos-  información  sobre  los  alcances  de  los  posibles  efectos  en  la  salud,  el  ambiente, 
+
+el paisaje, los actores sociales, etc. 
+
+ 
+
+24 
+
+ 
+
+ 
+
+VI. Bibliografía 
+
+Anlló  G.,  Bisang,  R.  y  Salvatierra,  G.  (ed.)  (2010).  Cambios  estructurales  en  las  actividades 
+
+agropecuarias. De  lo  primario  a  las  cadenas  globales  de  valor.  Documentos  de  proyectos 
+
+50, 
+
+Santiago 
+
+de 
+
+Chile: 
+
+CEPAL. 
+
+Recuperado 
+
+de 
+
+http://www.iadb.org/intal/intalcdi/PE/2010/07301.pdf  
+
+Arbeletche, P., Carballo, C. (Noviembre de 2008). La expansión agrícola en Uruguay: algunas de 
+
+sus  principales  consecuencias.  Trabajo  presentado  en  XXXIX  Reunión  Anual  de  la 
+
+AAEA y Tercer Congreso Rioplatense de Economía Agraria, Montevideo , Uruguay.  
+
+Aretio-Aurtena, B. (2012). El MST en el marco de la cuestión agraria brasileña (Tesis doctoral). 
+
+Universidad de Castilla – La Mancha. Ciudad Real. 
+
+Arias,  S.,  Moya,  M.  y  Souza  Casadinho,  J.  (2006).  Estructura  agraria  y  cultivos  transgénicos. 
+
+Revista Enlace, 73, 10-15.  
+
+Barrera, A. (2011). Nuevas realidades, nuevos paradigmas:  la nueva revolución agrícola. Revista 
+
+ComunICCA, 7, 10-21. Recuperado de http://repiica.iica.int/docs/b2150e/b2150E.pdf  
+
+Bonato,  E.  R.  &  Bonato,  A.  L.  (1987).  A  soja  no  Brasil:  História  y  Estatistica  (Documento  de 
+
+Trabajo 21), Londrina: EMBRAPA-CNPSo. 
+
+Bravo, E. (2005). Derechos de propiedad intelectual y los OGM. Revista Biodiversidad, sustento 
+
+y culturas, 44, 8-12.  
+
+Cap,  E.  J.,  Obschatko,  E.  S.  de,  Castronovo,  A.  J.  P.,  Miranda,  O.,  Serignese,  A.  (1993).  Perfil 
+
+tecnológico  de  la  producción  agropecuaria  argentina  (Informe).  Buenos  Aires:  Instituto 
+
+Nacional de Tecnología Agropecuaria.  
+
+Caruso, E. (2005). Los caminos de  la deforestación en Brasil: cómo la soja y  la ganadería están 
+
+destruyendo 
+
+la  Amazonía 
+
+con 
+
+la 
+
+ayuda 
+
+de 
+
+la  CFI, 
+
+recuperado 
+
+de 
+
+http://www.ecoportal.net/Eco-
+
+Noticias/Los_caminos_de_la_deforestacion_en_Brasil_como_la_soja_y_la_ganaderia_es
+
+tan_destruyendo_la_Amazonia_con_la_ayuda_de_la_CFI  
+
+25 
+
+ 
+
+Castro,  E.  (2004).  El  vocabulario  de  Michel  Foucault:  Un  recorrido  alfabético  por  sus  temas, 
+
+conceptos y autores. Universidad Nacional de Quilmes: Argentina.  
+
+CEPAL  (Comisión  Económica  para  América  Latina  y  el  Caribe)  (2008).  La  transformación 
+
+productiva 20 años después. Viejos problemas, nuevas oportunidades. Santiago de Chile.  
+
+Recuperado 
+
+de 
+
+http://www.eclac.cl/publicaciones/xml/7/33277/2008-117-SES.32-
+
+Latransformacion-WEB_OK.pdf . 
+
+CEPAL,  FAO,  IICA  (2011).  Perspectivas  de  la  agricultura  y  del  desarrollo  rural  en  las 
+
+Américas:  una  mirada  hacia  América  Latina  y  el  Caribe.  Volatilidad  de  precios  en  los 
+
+mercados  agrícolas  (2000-2010):  implicaciones  para  América  Latina  y  opciones  de 
+
+políticas. 
+
+Recuperado 
+
+de 
+
+http://www.eclac.org/publicaciones/xml/1/43301/Boletin1CepalFao03_11.pdf. 
+
+Collier, D. (1993). Método Comparativo. Revista Uruguaya de Ciencia Política, 6.  
+
+Coriat,  B.,  Orsland,  F.  &  Weinstein,  O.  (2003).  Does  Biotech  Reflect  a  New  Science-based 
+
+innovation Regime? Industry and Innovation, 10(3). 
+
+Dall’agnol,  A.  (Junio,  2006).  La  soja  en  Brasil.  Evolución,  Causas,  Impactos  y  Perspectivas.  
+
+Recuperado de http://www.acsoja.org.ar/images/cms/contenidos/410_b.pdf  
+
+Digilio,  P.  (2008).  La  biotecnología  en  los  límites  de  la  biopolítica.  En  Bartleby:  preferiría  no. 
+
+Lo biopolítico, lo post-humano, Buenos Aires: La Cebra.  
+
+Fassi, M.  (2006). Paraguay, un  territorio en disputa. Periferias,  Revista de Ciencias Sociales, 13. 
+
+Recuperado 
+
+de 
+
+http://www.herramienta.com.ar/revista-herramienta-n-40/agricultura-
+
+empresarial-y-globalizaciones-los-efectos-de-la-soja-transgenic . 
+
+Fassi, M. (2008). Agricultura empresarial y globalizaciones. Los efectos de la soja transgénica en 
+
+Paraguay.  Presentado  en  Seminario-taller:  Impactos  y  consecuencias  de  la  expansión  del 
+
+monocultivo de soja transgénica, IGG-UBA, Buenos Aires. 
+
+Foucault, M. (2002). Defender la sociedad. Curso en el Collége de France (1975-1976). Buenos 
+
+Aires: Fondo de Cultura Económica. 
+
+Foucault, M. (2007a). La vida: la experiencia y la ciencia. En Rodríguez, F. y Giorgi, G. (comps.). 
+
+Ensayos sobre biopolítica. Excesos de vida. Buenos Aires: Paidós. 
+
+26 
+
+ 
+
+Foucault, M. (2007b). Nacimiento de la biopolítica. Curso en el Collége de France (1978-1979). 
+
+Buenos Aires: Fondo de Cultura Económica. 
+
+Gárgano,  C.  y  Souza,  P.  (2013).  Investigación  pública  orientada  al  agro  en  la  Argentina: 
+
+apropiación,  trayectorias  y  disputas. Revista Voces del Fénix, 4, 127-133. Recuperado de 
+
+http://www.vocesenelfenix.com/category/ediciones/n%C2%BA-4  
+
+GenØk - Centre for Biosafety. (2017). Recuperado de  http://genok.com/research/publications/  
+
+Gudynas,  E.  y  Pardo,  M.  (Marzo,  2006).  “Los  claroscuros  de  la  soja  en  el  Cono  Sur”.  El  país 
+
+agropecuario. 
+
+Recuperado 
+
+de 
+
+http://www.agropecuaria.org/polemicasoja/GudynasPardoDebatePolAgrop.pdf . 
+
+Hendel, V. (Agosto, 2010). La expansión del monocultivo de soja transgénica en el MERCOSUR. 
+
+¿Un  proyecto  regional?  (1990-2000).  Trabajo  presentado  en  III  Bienal  del  Coloquio  de 
+
+transformaciones territoriales, AUGM, Buenos Aires.  
+
+ISAAA  (International  Service  for  the  Acquisition  of  Agri-biotech  Applications).  (2017). 
+
+Recuperado de http://www.isaaa.org/gmapprovaldatabase/ 
+
+Kuhn,  T.  (2004).  La  estructura  de  las  revoluciones  científicas.  México:  Fondo  de  Cultura 
+
+Económica. 
+
+Lakatos, I. (1983). La metodología de los programas de investigación científica. México: Madrid 
+
+Alianza.  
+
+Miller,  P.  Y  Rose,  N.  (2009).  Governing  the  present.  Governing  the  Present:  Administering 
+
+Social and Personal Life. Cambridge: Polity Press.  
+
+ONG Reporter Brasil  (2008). El Brasil  de  los  Agrocombustibles:  Impactos  de  los  cultivos  sobre 
+
+la  tierra,  el  medio  ambiente  y  la  sociedad  -  Soja  y  Ricino.  Recuperado  de 
+
+http://reporterbrasil.org.br/documentos/brasil_de_los_agrocombustibles_v1.pdf  
+
+Palau  Viladesa,  T.,  Cabello,  D.,  Naeyens,  A,  Rulli,  J.  y  Segovia,  D.  (2007).  Los  refugiados  del 
+
+modelo agroexportador. Asunción: BASE-IS. 
+
+Piñeiro,  M.  (2003).  Reflexiones  sobre  la  Política  Tecnológica  para  el  Sector  Agropecuario. 
+
+Taller  de  Políticas  Hemisférica  de  Ciencia  y  Tecnología  e  Innovación  para  mejorar  la 
+
+27 
+
+ 
+
+competitividad  del  sector  productivo,  Buenos  Aires:  SECYT-OEA.  Recuperado  de 
+
+http://www.grupoceo.com.ar/Papers/PapersCEO_009.pdf  
+
+Piñeiro,  M.  (Noviembre,  2003).  Reflexiones  sobre  la  Política  Tecnológica  para  el  Sector 
+
+Agropecuario.  Presentado  en  Taller  de  Políticas  Hemisférica  de  Ciencia  y  Tecnología  e 
+
+Innovación  para  mejorar  la  competitividad  del  sector  productivo,  SECYT-OEA,  Buenos 
+
+Aires. Recuperado de http://www.grupoceo.com.ar/Papers/PapersCEO_009.pdf  
+
+Rivera, G. y Soto, R. (2014). La Gubernamentalidad: un enfoque para entender cómo se gobierna 
+
+el 
+
+presente. 
+
+Presentado 
+
+en  Congreso 
+
+Prealas 
+
+2014.  Recuperado 
+
+de 
+
+http://prealas2014.unpa.edu.ar/sites/prealas2014.unpa.edu.ar/files/ckeditor/46/La%20Gub
+
+ernamentalidad%20un%20enfoque%20para%20entender.pdf  
+
+Rodríguez,  P.  (2010).  El  renacimiento  de  la  biopolítica. Notas  para  un  balance.  Revista  Tramas, 
+
+32. 
+
+Rose,  N.,  O’malley,  P.  &  Valverde,  M.  (2006).  Governmentality.  Annual  Review  of  Law  and 
+
+Social Science, 6.  
+
+Rose,  N.  (2012).  Políticas  de  la  vida:  Biomedicina,  poder  y  subjetividad.  La  Plata:  Editorial 
+
+Unipe. 
+
+Schlesinger,  S.  (Julio,  2008).  Soja:  o  grão  que  segue  crescendo  (Documento  de  Discusión 
+
+Número 21). Grupo de Trabalho sobre Desenvolvimento e Meio Ambiente nas Américas. 
+
+Recuperado de http://ase.tufts.edu/gdae/Pubs/rp/DP21SchlesingerJuly08.pdf  
+
+Sloterdijk, P. (2003), Temblores de aire: en las fuentes del terror, Valencia: Pretextos. 
+
+Sonnet,  F.  &  Recalde,  M.  L.  (1997).  The  Structural  Changes  in  the  Argentinean  and  Brazilian 
+
+Agriculture.  Presentado  en  XXXII  Reunión  Anual  de  la  Asociación  Argentina  de 
+
+Economía Política, Bahía Blanca.  
+
+Sztulwark, S y Lavarello, P. (2009). Tecnologías desincorporadas e inserción internacional de las 
+
+empresas biotecnológicas argentinas. Comercio Exterior, 59(6).   
+
+Sztulwark, S. (2005). Especialización Productiva y Subdesarrollo en el Paradigma  Informacional. 
+
+Una  aproximación  a  Partir  del  Caso  de  las  Semillas  Transgénicas  y  su  Difusión  en  la 
+
+28 
+
+ 
+
+Argentina.  Trabajo  presentado  en  Seminario  Latinoamericano  de  Gestión  Tecnológica. 
+
+ALTEC, Brasil. 
+
+Teubal, M., Domínguez, D. y Sabatino, P.  (2005). Transformaciones  agrarias en  la Argentina. El 
+
+campo argentino en la encrucijada, 13-52. Buenos Aires: Alianza.  
+
+Trigo,  E.,  Chudnovsky,  D.,  Cap,  E.  y  López  A.  (2002).  Los  Transgénicos  en  la  Agricultura 
+
+Argentina. Una historia con final abierto. Buenos Aires: Libros del Zorzal. 
+
+Ugarte,  J.  (2006). Biopolítica. Un  análisis de  la  cuestión.  Claves de  razón práctica, 166, pp. 76-
+
+82. Recuperado de http://www.biopolitica.cl/docs/Biopolitica_un_analisis.pdf  
+
+USDA  (Department  of  Agriculture,  US).  (2017).  Economic  Research  Service.  Recuperado  de 
+
+https://www.ers.usda.gov/ 
+
+Vitelli,  G.  (2012).  Las  incidencias  de  los  paradigmas  tecnológicos  mundiales  sobre  la  pampa 
+
+húmeda  argentina  desde  el  siglo  XIX,  Voces  en  el  Fénix,  12.  Recuperado  de 
+
+http://www.vocesenelfenix.com/category/ediciones/n%C2%BA-12. 
+
+Wesz, V. J. (2014). O mercado da soja e as relações de  troca entre produtores rurais e empresas 
+
+no Sudeste de Mato Grosso (Brasil). (Tesis de Doctorado). Universidade Federal Rural do 
+
+Rio de Janeiro. Rio de Janeiro. 
+
+ 
+
+29 
+
+

@@ -1,0 +1,1343 @@
+ 
+ 
+
+Legado familiar y formaci ón de disposiciones pol íti cas en jóvenes de distintas clases sociales: 
+un estudio emp írico en Ciudad de Buenos Aires y área metropolitana. 
+
+ 
+
+Miriam Kriger 
+
+mkriger@gmail.com 
+
+CIS-CONICET/IDES  
+
+Argentina 
+
+ 
+
+Juan Dukuen 
+
+juanduk2002@yahoo.com.ar 
+
+CIS-CONICET/IDES  
+
+Argentina 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+ 
+
+RESUMEN 
+
+En  esta  ponencia  se  presentan  hallazgos  parciales  de  una  investigaci ón  sobre  significaciones, 
+
+disposiciones  y  experiencias  de  j óvenes  argentinos  en  torno  a  la  pol ítica,  llevada  a  cabo  entre  los 
+
+años  2014-16  entre  estudiantes  de  ambos  sexos  provenientes  de escuelas  de  diverso  nivel 
+
+socioecon ómico  de  la  Ciudad  de  Buenos  Aires  y  área  metropolitana.  Tomando  como  objeto  las 
+
+entrevistas  y  el  trabajo  de  campo  realizado  en  estas  escuelas,  nos  centramos  en  cómo  la  dimensi ón 
+
+familiar  interviene en  la  formaci ón de disposicione s pol íticas de  los  j óvenes, poniendo énfasis en  la 
+
+condici ón  de  clase  social.  Se  interrogan  las  trayec torias  familiares  y  su  v ínculo  con  la  escuela,  en 
+
+tanto  dimensiones  de  la  socializaci ón  pol ítica,  con   el  fin  de  comprender  los  procesos  de 
+
+subjetivaci ón  y  formaci ón  de  disposiciones  política
+
+s  entre  los  j óvenes  estudiantes.  Se  utilizan 
+
+categorías de análisis  inspiradas conceptualmente en Bourdieu, que permiten establecer  tres  formas 
+
+específicas de configuraci ón de  tal  intervenci ón: a
+
+)  los que heredan, b)los que contrarrestan  y c)  los 
+
+que  contrarían  el  legado  familiar.  Finalmente,  se  p onen  en  relaci ón  de  modo  comprensivo  las 
+
+singulares  vinculaciones  halladas  entre  trayectorias  familiares  y  escolares  de  j óvenes  de  diversas 
+
+clases sociales, y el modo en que inciden en la formaci ón de sus disposiciones pol íticas. 
+
+ 
+
+ABSTRACT 
+
+This  paper  presents  partial  findings  of  a  research  on  meanings,  dispositions  and  experiences  of 
+
+young  Argentines  around  politics,  conducted  between  2014-16  on  students  of  both  sexes  from 
+
+schools of different socioeconomic  level of  the City of Buenos Aires and metropolitan area. Taking 
+
+as an object of analysis  the  interviews and field work carried out  in  these schools, we focus on how 
+
+the  family  dimension  intervenes  in  the  formation  of  political  dispositions  of  young  people,  with 
+
+emphasis  on  the  condition  of  social  class. The  family  trajectories  and  their  link with  the  school  are 
+
+questioned,  as  dimensions  of  political  socialization,  in  order  to  understand  the  processes  of 
+
+subjectivation  and  formation  of  political  dispositions  among  young  students. We  interrogate  family 
+
+trajectories  and  their  link  with  the  school,  as  dimensions  of  political  socialization,  in  order  to 
+
+understand  the  processes  of  subjectivation  and  formation  of  political  dispositions  among  young 
+
+2 
+
+ 
+students. We  use  categories  of  analysis  inspired  conceptually  in  the  sociology  of  Bourdieu,  which 
+
+allow to establish three specific forms of configuration of such intervention: a) those who inherit, b) 
+
+those  who  counter  and  c)  those  who  contradict  the  family  legacy.  Finally,  we  connect  in  a 
+
+comprehensive way  the  unique  links  found between  family and  school  trajectories of  young people 
+
+of  different  social  classes,  and  the  way  in  which  they  affect  the  formation  of  their  political 
+
+dispositions. 
+
+ 
+
+Palabras clave 
+
+JOVENES - DISPOSICIONES POLITICAS - DIMENSION FAMILIAR 
+
+Keywords 
+
+YOUNG PEOPLE -  POLITICAL DISPOSITIONS - FAMILY DIMENSION 
+
+3 
+
+ 
+  
+
+I. Introducci ón. 
+
+En este trabajo abordamos la intervenci ón de la dim ensi ón familiar en la formaci ón de disposiciones 
+
+pol íticas  en  j óvenes  estudiantes  argentinos  de  dife rentes  clases  sociales  con  el  objeto  de  analizar 
+
+formas  variadas  de  heredar  el  legado  familiar  dentro  y  entre  generaciones  y  clases  sociales. 
+
+Esperamos  as í  contribuir  al  campo  de  estudios  sobre   juventudes  y  pol ítica  en  Argentina  (cfr. 
+
+Chaves, 2010; Vommaro, 2015; Kriger; 2016) con foco en  la comprensi ón de  la mayor politizaci ón 
+
+de  los  j óvenes a partir de  la crisis del 2001  -dent ro de un proceso más amplio de  “rearticulaci ón de 
+
+la  institucionalidad  estatal ”  (Aguil ó  y  Wahren,  201 3)  a  partir  del  gobierno  de  Néstor  Kirchner 
+
+(2003-7),  y  de  recuperaci ón  del  proyecto  en  clave  n acional  y  popular  en  los  dos  subsiguientes  de 
+
+Cristina  Kirchner  (2007-11,  2011-15)-  donde  “la  juv entud ”  adquiri ó  protagonismo  como  sujeto 
+
+pol ítico, tanto desde la reactivaci ón por parte de 
+
+los j óvenes de sus movimientos, como por parte de 
+
+los adultos que  “consagran a la juventud como causa  militante” (Vázquez, 2013).   
+
+A  finales  de  la  primera  década  del  siglo  XXI  en  Argentina  es  posible  decir  que  se  estaba 
+
+produciendo  una  “nueva  invenci ón  de  la  juventud ”  (K riger,  2014),  promovida  desde  arriba  por  el 
+Estado  mediante  pol íticas  públicas 1 y  discursividades,  pero  también  por  los  j óvenes  desde  abajo 
+mediante la apropiaci ón creciente de la pol ítica y  del Estado. Su clave era la institucionalizaci ón de l 
+
+v ínculo entre los j óvenes y la pol ítica,  proceso a
+
+l que llamamos politizaci ón  (Kriger, 2016).   
+
+En  este  escenario,  los  estudios  sobre  juventudes  y  pol ítica  dieron  lugar  a  una  vasta  producci ón,  en 
+
+su  mayor  parte  centrada  en  j óvenes  militantes  de  pa rtidos  pol íticos  y  movimientos  sociales  y 
+
+estudiantiles, en especial en sectores populares y medios (Bonvillani, 2015; Nuñez, 2012; Vázquez, 
+et  al  2017).  A  diferencia  de  ellos,  desarrollamos  una  l ínea  de  investigaci ón 2  sobre  j óvenes 
+escolarizados, no necesariamente militantes,  y  que pod ían o no participar directamente en prácticas 
+
+pol íticas  (Kriger  y  Dukuen,  2012,  2014,  2017  a  y  b;   Dukuen,  2015;  Dukuen  y  Kriger,  2016).  En 
+
+primer  lugar,  nos  interesamos  en  la  construcci ón  de l  “pensamiento  pol ítico ”  (Carretero  y  Kriger, 
+                                                 
+1 Se destacan las leyes de  “voto joven” (N ° 26.774/2
+012), que adelantó la opción del voto a los 16 años
+creación de Centros de Estudiantes (Nº 26.877/2013) . 
+2  En  el  marco  de  proyectos  dirigidos  por  la  Dra.  Kriger,  subsidiados  por  organismos  científicos  naciona les:  PIP-
+CONICET 11220100100307 (2011-2013), UBACyT 2002009020037 (2010-2012) y UBACyT 20020110200204 (2012-
+2014), y PICT-ANPCyT 2012-2751 (2014-2017). 
+
+ de edad y la de 
+
+4 
+
+ 
+2011; Kriger,  2010),  y  cada  vez más  en  los  procesos  de  subjetivaci ón  (Ruiz Silva  y Prada,  2012)  y 
+
+socializaci ón  pol ítica  (Filleule,  2012),  con  énfasi s  en  la  educaci ón  de  las  clases  altas  y  elites  (cfr . 
+
+Tiramonti  y  Ziegler,  2008;  Ziegler  y  Gessaghi,  2012,  Méndez,  2013;  Gessaghi,  2016)  y 
+
+estableciendo  v ínculos  con  estudios  recientes  sobre   reclutamiento  pol ítico  de  partidos  de  “centro 
+
+derecha” como PRO (Vommaro & Morresi, 2015; Grandin etti, 2015 a y b).  
+
+ 
+
+5 
+
+ 
+ 
+
+II. Marco teórico/marco conceptual 
+
+Entendemos  aqu í  por  socializaci ón  pol ítica   un  “proceso  relacional  y  continuo  de  interiorizaci ón  de 
+
+esquemas de percepci ón y de acci ón relativos al mun
+
+do pol ítico o que forman parte de una relaci ón 
+
+pol ítica  con  el  mundo  social ”  (Fillieule,  2012:  349 -350)  que,  en  congruencia  con  la  perspectiva 
+
+bourdeana  adoptada  por  nosotros,  refiere  a  los  procesos  de  interiorizaci ón  de  disposiciones 
+
+pol íticas  (Bourdieu,  1979):  modos  in-corporados  de  pensamiento,  percepci ón  y  acci ón,  que  actúan 
+
+como  resortes  “subjetivos ”  de  prácticas  pol íticas, 
+
+los  cuales  han  sido  formados  en  experiencias  de 
+
+socializaci ón de clase, como las familiares y las e scolares (Dukuen, 2017).  
+
+En  un  estudio  realizado  entre  el  2011  y  2013  encontramos  entre  los  estudiantes  de  clases  altas 
+
+mayor  disposici ón  a  la  participaci ón  pol ítica  futur
+
+a,  en  comparaci ón  con  otras  clases  sociales 
+
+(Kriger  y  Dukuen,  2012  y  2014);  ampliando  un  horizonte  de  acci ón  fundamentado  en:  a)  un 
+
+discurso  de  integraci ón  moral  de  clase  (Bourdieu,  1 977)  donde  se  identifican  como  ciudadanos 
+
+diferentes,  honestos  y  conscientes  de  su  deber  público  con  “el  bien  común ”,  anclado  en  una 
+
+trayectoria  educativa  a  largo  plazo  en  costosas  universidades  privadas;  b)  las  vivencias  junto  a  sus 
+
+padres de los cortes de ruta contra el gobierno kirchnerista en el marco del  “conflicto del campo ” en 
+20083 que  en  tanto  hallazgo  novedoso  de  nuestra  investigaci ón  contribuye  a  comprender  la  génesis 
+de una nueva  juventud de derecha en Argentina (Vommaro y Morresi 2015), se nos revel ó como un 
+
+hito generacional de clase alta en contraposici ón a  otros, como  el del   “argentinazo ”, que reivindica
+
+ 
+
+la  recuperaci ón  popular  del  “proyecto  común ”  tras  l
+
+a  crisis  integral  del  2001;  y  el  de  “la  década 
+
+ganada ” enmarcado en el relato kirchnerista del Bic entenario (Kriger, 2016); c)  la propuesta de una 
+
+reforma moral de los  “otros ”,  “los pobres ” (“hay qu
+
+e educarlos ”), que aparecen como  “necesitados ” 
+
+(Tiramonti  y  Ziegler,  2008)  objeto  de  proyectos  solidarios  centrales  en  las  escuelas  de  clases  altas, 
+
+que  analizamos  en  nuestra  investigaci ón  actual  (201 4-2016)  mostrando  su  rol  fundamental  para 
+
+viabilizar  la  “conversi ón  de  esquemas morales  en  di
+
+sposiciones  pol íticas ”  (Dukuen,  2015; Dukuen 
+
+                                                 
+3 Nos referimos al conflicto entre el gobierno nacional y los productores rurales en 2008 en torno a las retenciones de la 
+producción agraria. Este episodio tuvo un impacto p olítico que dividió a la opinión pública y contó co
+n amplia difusión 
+mediática, logrando resonancias de otros momentos históricos.   
+6 
+
+ 
+y  Kriger,  2016)  que  caracteriza  los  procesos  más  recientes  de  politizaci ón  juvenil  en  partidos  de 
+
+derecha (Grandinetti, 2015b)  
+
+Al  mismo  tiempo,  en  estrecha  relaci ón  con  esta  dime nsi ón  moral,  veíamos  crecer  el  protagonismo 
+
+de la dimensi ón familiar, que de modo espontáneo ap arecía una y otra vez en las argumentaciones y 
+
+relatos de los j óvenes como un factor crucial para  la incorporaci ón v ívida de disposiciones pol íticas,
+
+ 
+
+conformando un genuino hallazgo de la investigaci ón  (Kriger y Dukuen, 2017a y b). En ese sentido, 
+
+“la  familia/lo  familiar”  es  “objeto ”  recurrente  de 
+
+las  ciencias  sociales,  tanto  de  trabajos  clásicos 
+
+(Radcliffe-Brown,  1974;  Lévi-Strauss,  1969)  como  recientes  (Fonseca,  2007;  Segalem,  2013; 
+
+Neufeld,  Santillan  y  Cerletti,  2015)  entre  los  que  nos  interesan  los  antropol ógicos  (Cerletti,  2014) 
+
+ya que en nuestro estudio fueron las categorizaciones producidas desde el punto de vista nativo (por 
+
+los  propios  j óvenes  entrevistados)  las  que  introduj eron  ciertos  “v ínculos  familiares ”  como  rasgos 
+
+claves  de  sus  relaciones  con  “la  pol ítica”.  As í,  lo
+
+s  procesos  de  socializaci ón  pol ítica  se  juegan  de 
+
+diferente  manera  en  las  trayectorias  sociales  de  las  familias,  ascendentes,  descendentes  o 
+
+reproductoras  de  la  condici ón  de  clase:  “las  famili
+
+as  son  el  principal  canal  de  transmisi ón  de 
+
+recursos  como  el  lenguaje,  redes  sociales,  bienes  materiales,  saberes,  laborales,  valores,  actitudes 
+
+frente  al  cuerpo,  disposiciones,  aspiraciones  y  formas  de  ver  el  mundo  a  partir  de  los  cuales  se 
+
+cimentan procesos de movilidad social o herencia de clase ” (Dalle, 2013: 376).  
+
+En  relaci ón  con  ello,  utilizamos  categorías  inspira das  en  desarrollos  de Bourdieu  ([1993]2007)  que 
+
+nos  permitieron  establecer  tres  configuraciones  para  la  relaci ón  entre  legado  familiar  y 
+
+disposiciones pol íticas en  la nueva generaci ón: a) 
+
+los que heredan, b)  los que contrarrestan y c)  los 
+
+que  contrar ían   el  legado  familiar  (Kriger  y Dukuen,  2016  a  y  b;  2017  a  y  b). Mientras  que  los  que 
+
+heredan  son  quienes  reasumen  el  legado  familiar  (que  al  ser  aceptado  se  vuelve  herencia),  los  que 
+
+contrarrestan  son  los que componen un sutil equilibrio entre reasumir ciertos  legados  y  “contestar” 
+
+a  otros  con  experiencias  provenientes  de  espacios  no  familiares  de  socializaci ón;  y 
+
+los  que 
+
+contrar ían ,  son  aquellos  que  rechazan  el  legado  familiar  a  favor  de  experiencias  provenientes  de 
+
+esas otras socializaciones.  
+
+Desde  esta  perspectiva,  en  nuestra  investigaci ón  so bre  estudiantes  de  un  colegio  de  clases  altas, 
+
+encontramos que el legado familiar de interés en  la pol ítica tiende a ser asumido como  herencia por 
+
+7 
+
+ 
+quienes se  identifican fuertemente con  la figura paterna  y su profesi ón  ligada a  la pol ítica, mientras
+
+ 
+
+que por otros es contrarrestado con experiencias otras (sociabilidad de pares, participaci ón pol ítica) 
+
+generando  alternativas  que  trastocan,  sin  rechazar,  la  trayectoria  familiar  y  de  clase.  La  excepci ón 
+
+estuvo  dada  por  una  becaria  que  proviniendo  de  una  familia  de  inmigrantes  paraguayos  de  clase 
+
+media  baja,  constituye  su  interés  por  la  pol ítica  contrariando  el  legado  familiar  a  partir  de 
+
+socializaciones  ajenas  (escuela,  partido  pol ítico)  donde  se  construyen  disposiciones  heterogéneas, 
+
+habitus  escindidos  (Bourdieu  [1993]  2007;  [1997]2003)  que  la  diferencian  de  sus  compañeros  de 
+
+clases altas (Dukuen y Kriger 2017 a y b). 
+
+En  continuidad  con  estas  indagaciones,  en  el  presente  trabajo  pretendemos  complejizar  tales 
+
+categorías  y  transformarlas  en  herramientas  teórico -metodol ógicas  aptas  para  abordar  la  formaci ón 
+
+de  disposiciones  pol íticas  en  todas  las  clases  soci ales  (y  no  solo  en  las  altas).  Contra  una  deriva 
+dominocentrista  (Grignon  y  Passeron,  1991)  de  las  categorías  bourd eanas 4 ,  esto  permite 
+esis  de  Bourdieu  (1979)  sobre  la  relaci ón 
+problematizar  en  una  investigaci ón  situada  la  hip ót
+
+estrecha  entre  el  capital  cultural  heredado  y  la  formaci ón  de  disposiciones  pol íticas.  En  nuestro 
+
+contexto de estudio, caracterizado por un singular dinamismo en los procesos de ascenso y descenso 
+
+de  las  clases  sociales  –no  ligados  precisamente  a  p rocesos  virtuosos  de movilidad,  sino  de  crisis  e  
+
+inestabilidad  estructural  agravados  en  el último  tercio  del  siglo XX  a  nivel  regional  y  nacional  por 
+
+pol íticas  neoliberales  que  profundizaron  y  fragment aron  la  desigualdad  (Sarav í,  2015)-  esto  nos 
+
+permite  indagar  modos  específicos  de  socializaci ón 
+
+pol ítica  en  distintas  clases  sociales 
+
+(internamente heterogéneas), que incluyen además relaciones con otros tipos de herencias, relativas 
+
+al capital social y el militante, entre otros (Dukuen, 2013, 2017).  
+
+ 
+
+                                                 
+4 Grignon  y  Passeron  (1991) muestran  con malicia  c óm o  el  abordaje  de  las  clases  populares  realizado  por Bourdieu  es 
+dominocéntrico porque analiza las relaciones de dominación a part ir de categor ías que dan cuenta de la cultura legít ima 
+(el capital cultural legítimo) evaluando las cultur as populares como no culturas.  
+8 
+
+ 
+  
+
+III. Metodolog ía 
+
+En  este  trabajo  presentamos  hallazgos  parciales  de  una  investigaci ón  más  amplia  sobre 
+
+significaciones,  disposiciones  y  experiencias  de  los  j óvenes  en  torno  a  la  pol ítica,  realizada  en  el 
+
+2014-16 en la Ciudad de Buenos Aires, La Plata y Conurbano bonaerense, entre estudiantes (N=321) 
+
+de  ambos  sexos  de  cinco  escuelas  de  distinto  nivel  socioecon ómico:  dos  de  clases  altas,  una  de 
+
+clases medias  y dos de clases bajas. La  investigaci ón const ó de  instancias cuantitativa y cualitativa,
+
+ 
+
+siendo  la primera un estudio descriptivo con diseño  transversal, donde  se  aplicó a  la  totalidad de  la 
+
+muestra  un  cuestionario  escrito  individual  autoadministrable  de  30  ítems.  La  segunda  profundiz ó 
+
+hallazgos  de  la  anterior  mediante  un  abordaje  etnográfico  (Guber,  2005),  análisis  de  documentos 
+
+institucionales, entrevistas individuales (26) y grupales (5). 
+
+Por cuestiones de espacio, nos detendremos en hallazgos de  la etapa cualitativa, presentando  y ana-
+
+lizando extractos significativos de entrevistas realizadas a 2  j óvenes estudiantes de 17 años de dife-
+
+rentes clases sociales:  
+
+-Una  joven  de  clases  altas  que  asiste  a  uno  de  colegios  de  la muestra,  caracterizado  por  una  pobla-
+
+ci ón  de  clases  altas. Es  de  gesti ón  privada,  laico,
+
+  bilingüe  y  de  tradici ón  inglesa,  ubicado  en  la  co-
+
+muna  13  de  CABA,  caracterizada  por  una  poblaci ón  de   clase  media  alta  y  alta  (cfr.  Vommaro  y 
+Morressi, 2015: 57) y cuya cuota mensual en 2017 es de $14.0005.  
+-Un  joven de clases bajas, que asiste a uno de  los colegios de  la muestra,  caracterizado por una po-
+
+blaci ón  de  clases  bajas.  Es  de  gesti ón  privada,  con
+
+fesional,  con  subvenci ón  estatal,  de  un  barrio 
+
+humilde del conurbano bonaerense (Villa Jard ín, Lan ús) y cuya cuota mensual es de $400. 
+
+Las  entrevistas  fueron  semi-estructuradas,  orales  y  en  profundidad,  realizadas  el  método  cl ínico-
+
+crítico  piagetiano  (Delval,  2006). Cabe  señalar  la  informaci ón  socio-profesional  familiar  de  los  es-
+
+tudiantes  encuentra  respaldo  también  en  el  trabajo de  campo  y  se  consigna  en  el  cuestionario  apli-
+
+cado. En  cuanto a  la  selecci ón del material para el  presente  trabajo,  tras un análisis del conjunto de 
+
+las  entrevistas  de  la muestra  concluimos  que  las  configuraciones más  recurrentes  refieren  a los  que 
+
+                                                 
+5 Para que el  lector pueda comprender  la diferencia en  las cuotas de  los colegios,  le  informamos que el  salario mínimo, 
+vital y móvil en Argentina en 2017 es de $8860.  
+
+9 
+
+ 
+heredan y a los que contrarrestan el legado familiar, siendo los que contrar ían  casos excepcionales. 
+
+Por  cuestiones  de  espacio  analizamos  aqu í  a modo  il ustrativo  solo  las  entrevistas  a  dos  j óvenes  de 
+
+diferente  clase  social  (altas  y  bajas)  que muestran  formas  variadas  de  heredar  el  legado  familiar  y 
+
+su  incidencia en  la  formaci ón de disposiciones pol í
+
+ticas  -hemos  trabajado  también  las otras  catego-
+
+ría  ( contrarrestar  y  contrariar) en otros  trabajos  (Kriger  y Dukuen, 2017ayb). Para  salvaguardar  la 
+
+identidad de los entrevistados hemos cambiado sus nombres). 
+
+ 
+
+10 
+
+ 
+ 
+
+IV. Análisis y discusi ón de datos 
+
+ 
+2.a. Camila (Colegio de clase altas)   
+
+ 
+
+Comenzamos la entrevista conversando sobre su interés por la pol ítica, sobre el cual expresa un real 
+
+entusiasmo  que  no  proviene  de  una  experiencia  de  pertenencia  a  partidos  ni  agrupaciones  pol íticas 
+
+y/o sociales, sino  de vivencias familiares cotidianas:    
+
+ 
+
+ 
+
+Entrevistador -¿Te interesa la pol ítica?  
+
+Camila  -A  m í  lo  que  me  pasa  es  que  desde  muy  chiquita  esc ucho  temas  de  pol ítica, 
+
+entonces es como que vos viv ís escuchando algo y  te  interesa (...) Todo el  tiempo se habla y 
+
+es un tema (…). En toda mi familia desde siempre se
+
+ habl ó mucho de pol ítica, de la justicia, 
+
+y a m í me despertaron un sentido de pol ítica (…) La
+
+ pol ítica es algo que la familia despierta, 
+
+anima,  es  el  motor;  a  mi  me  gusta  la  justicia,  me  gusta  y  la  justicia  es  pol ítica.  Yo  quiero 
+
+estudiar  derecho  pero, más  allá  de  que mi  papa  sea abogado, me  gusta  porque  yo  en  base  a 
+
+lo que voy escuchando, voy diciendo:  “¡que ganas de  hacer algo!”. Me surgen esas ganas de 
+
+participar.  “¡Qué  ganas  de  defender,  qué  ganas  de  acabar  un  poco  con  esto!”  ¿Entendés?... 
+
+¡Me gusta!. 
+
+Para  Camila  la  relaci ón  entre  familia  y  pol ítica  se   plantea  como  dada:  la  primera  la  “despierta ”,  la 
+
+“anima” en relaci ón con la segunda, estableciendo u
+
+na serie de relaciones que van de la familia a la 
+
+pol ítica ,  luego  de  la  pol ítica  a  la  justicia ,  y  en  seguida  de  la  justicia  como  ideal  al  derecho  y  a  la 
+
+profesi ón  del  padre   (abogado),  que  ella  “elige”.  Este  encadenamiento  p uede  pensarse  de  acuerdo 
+
+con  la  figura  de  la  contigüidad  meton ímica  (Jakobso n,  1975):  planteando  una  relaci ón  existencial 
+
+entre  ellas,  que  hace  que  esa  relaci ón  aparezca  com o  necesaria  y    natural.  A  su  vez,  hay  un 
+
+crescendo  en  su  enunciado,  que  va  escalando  a  través  de  instituciones  tradicionales  (familia, 
+
+11 
+
+ 
+derecho, justicia), clivando crecientemente el interés de la joven por la pol ítica pero sin hacerla salir 
+
+de los l ímites familiares.  
+
+Asimismo,  notamos    la  asimilaci ón  de  la  “pol ítica ” 
+
+a  la  profesi ón    (el  derecho)  a  través  del  legado 
+
+familiar,  de modo  que  el  acceso  a  ella    se  produce  desde  el  padre. Todo  indica  que  esas  “ganas  de 
+
+hacer  algo ”  que  declama Camila  están  fundadas  en  la  familia  como motor  del  deseo,  y  expresan  la 
+
+illusio  -la  creencia  y  el  interés  específicos  que  cada  campo  o  “juego  social ”  propone  (Bourdieu 
+
+[1997]2003)-  familiar.  Pero  lo  singular  es  que  tales  “ganas ”  pueden  prescindir  de  su  inmersi ón  en 
+
+“los  juegos  sociales ”  mundanos  (op.  cit),  que  para  Bourdieu  son  las  apuestas  que  se  juegan  en  el 
+
+mundo social excediendo (precisamente) el mundo familiar (como el  “juego ” pol ítico).  
+
+En suma: no es preciso trasponer el umbral familiar para encontrar a la pol ítica, sino que es parte de  
+
+la  identidad  y  el  prestigio  endogámico.  Aqu í  el  v ín culo  entre  familia,  profesi ón  y  pol ítica  opera  a 
+
+favor del proyecto familiar -impl ícito pero imperat ivo- de perpetuar la posici ón social y asegurar un 
+
+porvenir de clase. Esto se explicita en el reconocimiento de la profesi ón del padre como identidad y 
+
+en  la  reasunci ón  del 
+
+legado,  que  –como  señala  Bourdieu  ([1993]2007)-  al  ser  ac eptado  se  vuelve 
+
+herencia.  Porque  aunque  Camila  aclara  que  su  elecci ón  va  “m ás  allá ”  del  padre,  el  efecto  que 
+
+produce  su  énfasis  en  la  familia  como  motor  afirma –por  el  contrario-  el  “más  acá”  del  padre.  La 
+,  su  conatus 6 ,  depende  precisamente  de  esta 
+aceptaci ón  de  la  herencia,  que  alude  finalmente  a  l a  incorporaci ón  de  disposiciones  especificas 
+
+posibilidad  de  que  la  familia  “persevere  en  su  ser”
+
+(Bourdieu  [1993]2007),    de  modo  que    encarnar  vividamente  el  legado  es  asumir  la  herencia 
+
+representada  por  el  padre.  Vale  destacar  el  carácter  masculino  de  la  misma,  ya  que  la  entrevistada 
+
+no menciona a la madre, sino al padre y al t ío:  
+
+ 
+
+E -¿En tu familia han participado en pol ítica? 
+C  -Mi  papá  está  bastante  relacionado  con  la  pol ítica porque  es  abogado,  fue  juez.  Pero 
+
+cuando él  me enseña a m í, me presenta toda la realidad y yo a partir de eso puedo opinar de 
+
+una  forma  libre.  Yo  noto  que  inconscientemente  la  gente  cuando  te  habla  te  intenta 
+
+                                                 
+6 Bourdieu  ([1993]2007)  retoma  la  noción  de  conatus  de  la  Ética   de  Spinoza  ([1677]  2011)  y  la  reelabora  en  términos 
+socio-antropológicos  como  tendencia  del  mundo  socia l,  de  los  juegos  sociales  y  de  los  agentes  e  instituciones  allí 
+comprometidos, a  “perseverar en su ser ”. 
+
+12 
+
+ 
+
+ 
+
+manipular  hacia  su  punto  de  vista;  pero  en  mi  familia  no  (…)  Mi  papá  y  mi  t ío  son 
+
+abogados;  mi  papá  era  juez  antes  (...)  Pero  eso  solo,  y  no  particip ó  de  ningún  partido 
+
+pol ítico. En la época de Menem iba a participar para ser diputado pero al final no se postul ó. 
+
+Fue abogado de un diputado … 
+
+Camila considera a  la  familia no  solo el motor de  su  interés  sino un ámbito donde  se  siente a  salvo 
+
+de ser  “manipulada”, otorgándole  al padre un rol p reponderante: el  de  “presentar  toda la realidad ”, 
+
+abriendo  horizontes  que  ella  cree  que  la  habilitan  para  elegir  con  libertad  de  pensamiento. Este    es 
+
+un  valor  estructurante  –también  central  en  el  idear io  liberal  de  la  escuela  elegida  por  su  familia-  
+
+que  ella  percibe  como  amenazado  más  allá  del  ámbito  primario  (en  el  mundo  social).    D e   es t e  
+
+modo ,   aqu e l lo   q ue   s e   h e r ed a   es   v i v ido   como   l ib rem en t e   e leg ido   y  no   como   un a  
+
+impo s ic i ón ,   gen e r ando   un   juego   espe cu l a r   do nde   e l   a gen te   e l i ge   l a   i n s t i tuc i ón   - la   h e r enc i a  
+
+fam i l ia r ,   e l   legado   p ro fes io na l   y  po l í t ico -   que   a   s u   vez   lo   e l i ge   y  lo  legítima  (Bourdieu 
+
+[1997]2003).    
+
+Finalmente,  esa  libertad  que  es  condici ón  indispens able  para  su  au ton om ía ,   s e   ha ce   po s ib l e  
+
+med ian t e   l a   l eg i t ima c i ón   (d e l   p ad re )   y  l a   au t o leg i t ima c i ón   sub je t iv a   (de   s i ) ;   pe rm i t iéndo l e  
+
+a  Cam i l a    v iv i r  como  u na  d ec i s i ón  p rop i a   la  a sunc i ó
+
+n   – s in   des ga r ro s  n i  con t r ad ic c ion es -  d e  
+
+las  d i spo s i c ion es  qu e   fundam en tan   su   in t e rés   en   la  po l í t ic a ;   es  de c i r :   se r   una  he red e r a .    
+
+ 
+
+ 
+
+2.b Brian (Colegio de clases bajas) 
+
+ 
+
+En  la  extensa  entrevista  que  realizamos  con Brian  la  educaci ón  se  plantea  como  la  v ía  de  progreso 
+
+por excelencia, y su madre cuida que no se desv íe d e ella:   
+
+ 
+
+Brian -Mis padres quieren que estudie. De chico era, o sea, estaba en el futbol, no? Y estuve 
+
+hasta  los  14,  15,  jugando. Yo  tengo  17,  estaba  en  el  Club  Lanús,  he  jugado  en Huracán,  en 
+
+cancha de 11, y mi mamá nunca quiso que sea futbolista, y me sacaron.  
+
+13 
+
+ 
+ 
+
+Los  padres  de  Brian  no  terminaron  el  secundario.  El  padre  es  empleado  en  una  empresa  de 
+
+medicamentos  en  Capital,  la  madre  es  ama  de  casa  y  vendedora  de  ropa  por  catálogo.  Tiene  dos 
+
+hermanos:  una  mujer  de  11  y  un  varón  de  15  que  va  a   una  escuela  pública  porque  ten ía  una 
+
+conducta  “un poco rebelde” y la madre  “se cans ó de 
+
+pagarle la escuela y lo envi ó ah í
+”; de modo que 
+
+las expectativas de progreso social a través del estudio están depositadas en Brian.  
+
+Al preguntarle si le interesa la pol ítica, responde :  
+B  -S í,  s í,  me  interesa,  me  gusta…  No  es  que  me  gusta,
+
+  pero  s í  siento  algo  social,  que 
+
+necesita  la gente, que a veces quizás estaría bueno cambiar. Me gusta más que nada por eso, 
+
+porque  vos  caminás  por  el  barrio  y  se  ve  mucha  gente  que  lamentablemente  no  tiene  las 
+
+mismas  oportunidades  que  otras  personas,  y  te  duele  un  poco,  o  sea  uno  lo  siente,  ¿no?  Si 
+
+tiene  coraz ón  lo  va  a  sentir  (…)    O  sea,  vivo  acá, 
+
+para  el  fondo,  para  el  tema  de  la  ribera, 
+
+todo eso …Y la verdad que se ve, se ve bastante, te 
+
+duele. 
+
+ 
+
+Brian  muestra  una  relaci ón  ética  con  la  pol ítica,  v inculada  con  una  demanda  de  justicia  en  su 
+
+territorio, que él  “siente ”  –tal como expresa  reite
+
+radamente-  como efecto del  reconocimiento de  las 
+
+“necesidades ”  de  “la  gente”:  al  “caminar  por  el  bar
+
+rio ”,  y  especialmente  por    “lo  que  se  ve”  en  sus 
+
+zonas más vulnerables (“la ribera”). Su interés por  la pol ítica no aparece ligado a un disfrute (aclar a 
+
+“no es que me guste ”), sino al compromiso (“algo so
+
+cial ”) ante el dolor que le produce la inequidad: 
+
+que  “la  gente”  del  barrio  no  tenga  las mismas  oport unidades  que  “otras  personas ”.  Lo  singular  del 
+
+caso es que frente a la injusticia no reacciona con indignaci ón moral sino con un sentimiento (dolor) 
+
+en que funda un ethos solidario en la inserci ón del caso como problemáti ca común de clase o grupo 
+
+en una  “dialéctica de lo general y lo particular ” q ue  “está en el centro de la pol ítica y en especial  de 
+
+la  acci ón  de  politizaci ón ”  (Bourdieu,  1979:  509).  D esde  otra  perspectiva,  estamos  ante  lo  que 
+
+Levinas caracteriza como el primer gesto ético ante  la presencia de  “el  rostro ”  (del  “otro ”), que  “se 
+
+me  impone    sin que  yo pueda permanecer  sordo  a  su  llamado u olvidarlo, quiero decir,  sin dejar de 
+
+ser responsable de su miseria” (Levinas, 1972:49).  Aqu í la pol ítica se vuelve virtuosa  –es ética ante 
+
+14 
+
+ 
+que  bélica-  porque  nace  de  la  respuesta  al  llamado humano  universal:  el  que  –como  dice  Brian-  es 
+
+escuchado por quien  “tenga coraz ón ”.   
+
+En  la misma  l ínea, es  interesante notar que  el entr evistado evita calificar a  las personas  y no utiliza 
+
+palabras  como  “pobre/s ”    ni  “pobreza”,  quizá  por  ev
+
+itar  términos  que  a  los  propios  sujetos  pueden 
+
+resultar  estigmatizantes,  o  también  por  lo  que  Levinas  caracteriza  como  la  “vergüenza”  ética  que 
+
+surge  cuando  no  hay  una  “mirada  cosificante  del  otr o ”  sino  que  se  encuentra  con  “su  soledad  y 
+
+desamparo,  su  desnudez  sin  defensa”  (Finkielkraut,  1984:  58).  De  este  modo,  Brian  describe  las 
+
+“necesidades ”  de  sus  vecinos mediante  la  alusi ón  a 
+
+su  propio  dolor    (“ver”,  “sentir”  y  “lamentar ”), 
+
+sin objetivarlas en el lenguaje, sino haciendo referencias imprecisas:  “la gente” para hablar de los d e 
+
+su  barrio  y  “otras  personas ”  para  los  de  afuera;  “a
+
+cá,  para  el  fondo,  el  tema  de  la  ribera,  todo  eso ” 
+
+para señalar  la pobreza más aguda, que no nombra pero que  “la verdad que se ve, se ve bastante” y 
+
+“te duele ”.   
+
+Esto  en  cuanto  a  la  concepci ón  más  amplia  de  la  pol ítica;  y  cuando  le  preguntamos  por  la 
+participaci ón,  relata  que  “más  o  menos  estuve  en  la s  unidades  básicas  de  La  Cámpora7 ”,    para 
+terminar  aclarando  que  se  trataba  “más  que  nada  a  dialogar,  a  hablar  un  poco  ah í,  lo  que  piensa  la 
+
+gente”. Avanzando en la indagaci ón le preguntamos: 
+
+ 
+
+ 
+
+ 
+
+E: -¿Fuiste alguna vez a una manifestaci ón o movilizac i ón?   
+
+B:-  As í,  tipo  marcha,  como  las  que  hacen  en  la  Plaza  de   Mayo,  no.  Iba  a  charlar  y  listo, 
+
+nunca  tuve  la…  no  la  valent ía,  sino  la  decisi ón  de 
+
+tomar  y  decir  “bueno,  vamos  a  pedir  por 
+
+los derechos, o vamos a pedir por las cosas ”
+… No, n
+
+unca. Siempre de mi lado nomás.   
+
+Como  vemos,  la  relaci ón  con  la  pol ítica  se muestra  para Brian  circunscripta  a  su  gente  y  su  barrio, 
+
+como  práctica  de  encuentro  con  los  cercanos  (“siempre  de mi  lado  nomás ”),  y  no  de  lucha  con  los 
+
+de  afuera,  lo  cual  demandaría  “no  la  valent ía,  sino
+
+  la  decisi ón ”  de  “pedir  por  los  derechos ”,  de 
+
+reclamar contra otro/s lado/s. Esto se reafirma luego:  
+
+ 
+
+                                                 
+7  “La Cámpora ” es una organización política juvenil 
+
+ligada al kirchnerismo y fundada en el 2006.  
+15 
+
+ 
+
+ 
+
+E  - ¿Y te gustaría hacer pol ítica en el futuro? 
+D  -¿A  estar  ah í  con  la  gente?  Y,  me  gustaría,  me  gusta ría…  Más  allá  de  que  no  es  lo  que 
+
+planearon  mis  padres  para  la  vida  m ía,  pero  yo  teng o  decisi ón  propia  y  ya  ah í  empieza  a 
+recaer más en m í que en mis papás.  
+
+“Hacer  pol ítica”  se  traduce  para  Brian  como  “estar 
+
+ah í  con  la  gente”;  es  decir:  responder  a  un 
+
+llamado  ético ah í ,  tal  vez  porque  para  que  sea  aqu í   (ahora)  faltaría  que  transgreda  el  horizonte 
+
+trazado por  los planes de  los padres para él, que  “ tenga decisi ón propia” (recordemos que antes ella 
+
+aparecía  asociada  a  la valent ía de  luchar por  los d erechos). Y acá  comienza a aparecer  la particular 
+
+historia familiar de Brian dentro del barrio:  
+
+ 
+
+ 
+
+D  -  Soy de acá, me conocen por  todos  lados, paso por ahí me saluda uno, me saluda el otro. 
+
+Por mis  padres más  que  nada, mi  papá  es muy  conocido  acá, mi  abuelo  también,  todos me 
+
+conocen por ellos. Y por el apellido que llevo, la verdad es que la gente te tiene respeto … 
+
+El  se  siente  parte  del  barrio  y  esgrime  su  capital  social  familiar  (Bourdieu,  2011)  siendo  “acá ” 
+
+conocido y reconocido: respetado. Pero fuera del territorio, hay un antecedente trágico en la familia 
+
+en  relaci ón  con  la  lucha  armada  y  la  última  dictadu ra  militar  (1976-1983),  que  explicaría  su 
+
+concepci ón restringida de la pol ítica:   
+E - ¿Tus viejos participaron en pol ítica alguna vez?  
+
+B- No, mi mamá… Mi papá no … Digamos, mi papá nunca pud o porque ten ía familiares que 
+
+estuvieron …  eh …  Por  ejemplo  mi  abuela  tiene  a  su  pa
+
+pá  que  hab ía  sido  montonero.  Y, 
+
+bueno, después una cosa  llev ó a  la otra, y mi abuel a nunca pudo, digamos … Estar. Mi papá, 
+
+por ejemplo,  los hermanos de él, no participan  ( ….)
+
+   Porque quedaron …digamos,  fue  como 
+
+que quedaron …quedaron, o sea: no pueden, no partici
+E -¿No pueden?... 
+
+pan. 
+
+B-  No,  no,  no,  no  pueden,  no  les  da,  no  quieren,  digamos.  No,  no  es  que  no  pueden;  no 
+
+quieren directamente, no …. 
+
+16 
+
+ 
+
+ 
+
+E- ¿Por qué? 
+B  -  Eso …  El  papá  de mi  abuela  era montonero  y  quedaron  marcados … No  lo  conozco  yo, 
+
+viv ía enfrente de mi casa pero no lo conozco, nunca  tuve contacto con él. Digamos, él qued ó 
+ 
+
+en silla de ruedas, y qued ó medio … medio loco.
+
+Mediante sugerentes y reiteradas vacilaciones, Brian confirma la proscripci ón pol ítica de su familia, 
+
+que  se  revela  también  en  la  incompletud  de  las  frases  y  en  la  imposibilidad  de  decir  palabras 
+
+directamente ligadas a la violencia de los hechos, a los que alude sin narrar. Asimismo, es notable la 
+
+reiteraci ón  negativa  -“nunca”  y  “no,  no,  no ”-  que  t
+
+ermina  en  un  particular  deslizamiento  desde  lo 
+
+que los familiares no  “pueden ” a lo que ya  “directa mente no quieren ”. Entonces, lo que al comienzo 
+
+es apenas   menci ón al bisabuelo  “montonero ” en un r
+
+elato librado a la comprensi ón del interlocutor 
+
+(“una  cosa  llev ó  a  la  otra”),  finalmente  termina  si
+
+endo  plena  exposici ón    cuando  Brian  dice  que 
+
+“quedaron marcados ”  por  la  tragedia  del  bisabuelo.  La  pol ítica  dej ó  una marca  en  su  familia  desde 
+
+la generaci ón de su bisabuelo hasta la de su padre,
+
+ pero que Brian ya no porta -porque no lo conoce 
+
+ni  “nunca”  tuvo  contacto  con  él.  Como  antecedente, 
+
+la  abuela  parece  haber  despejado  el  camino, 
+
+contradiciendo el  “nunca puede” previo:  
+
+ 
+
+ 
+
+B  -Mi abuela, mi abuela por ejemplo fue una de las que particip ó en la creaci ón de lo que es 
+
+el  barrio,  de  lo  que  es Villa  Jard ín. Te  lo  cuento  porque  es  verdad. Mi  abuela,  por  ejemplo, 
+
+está  el  centro  piloto.  Bueno,  mi  abuela  es  la  que  trabaj ó  ah í,  la  que  hizo  que  vengan  a 
+
+construir  el  centro  piloto.  Y  ayud ó  a  construir    to das  las  casas,  o  sea  ella  fue  una  de  las 
+
+creadoras del barrio, digamos.  
+
+A  diferencia  del  bisabuelo  montonero,  la  abuela  parece  en  el  relato  “participando ”  de  un  modo 
+
+constructivo  y  no  conflictivo  en  un  cruce  entre  capital  social  (Bourdieu,  2011)  y  capital  militante 
+
+(Poupeau, 2007). Ella  tiene un protagonismo hist óri co como  “creadora del barrio ”, donde  realiza el 
+
+ideal virtuoso de  la pol ítica que Brian hereda bajo   la  forma de disposiciones pol íticas:  “estar con  la  
+
+17 
+
+ 
+gente”.  Brian  se  identifica  con  ella  y  recupera  su  figura  para  superar  el  interdicto  pol ítico  que 
+
+“marcó
+
+” a la generaci ón de su padre y sus t íos.  
+
+ 
+
+18 
+
+ 
+
+ 
+
+V. Conclusiones 
+
+En  este  art ículo  hemos  analizado  la  intervenci ón  de   la  dimensi ón  familiar  en  la  formaci ón  de 
+
+disposiciones pol íticas entre j óvenes de diferentes
+
+ trayectorias,  haciendo énfasis en  su relaci ón co n 
+
+variadas formas de heredar el legado familiar dentro y entre las generaciones y las clases sociales.   
+
+Aunque heredar disposiciones pol íticas  puede aparecer desde una  lectura dominocentrista como un 
+
+derecho  privativo  de  las  clases  altas  (ligado  a  la  asociaci ón  entre  capital  cultural  y  disposiciones 
+
+pol íticas),  nos  propusimos  ampliar  la  aplicabilidad   de  estas  categorías  de  comprensi ón  de  la 
+
+herencia  para  el  análisis  de  otras  clases  sociales.  Este  interés  encuentra  además  fundamento  en  el 
+
+contexto  de  estudio,  ya  que 
+
+la  movilidad  social  (ascendente  y  descendente)  ha  sido 
+
+extraordinariamente  dinámica  a  lo  largo  de  la  historia  argentina,  especialmente  en  las  últimas 
+
+décadas. De modo  que  un  estudio  con énfasis  en  la  condici ón  de  clase  debe  considerar  la  creciente  
+
+heterogeneidad    en  la  composici ón  de    sus  capitales ,  tal  como    se  manifiesta    en  las  narrativas 
+
+presentadas.   
+
+En tal sentido, nuestro principal hallazgo es que las categorías que describen formas de asunci ón del 
+
+legado familiar no son exclusivas de una clase sino que operan en diferentes clases sociales, aunque 
+
+con  rasgos  propios  que  es  posible  caracterizar.  As í ,  en  los  casos  presentados  (Camila,  Brian), 
+
+provenientes  de  escuelas  de  dos  clases  sociales  distintas,  se  dan modalidades  diferentes  de  heredar 
+
+el legado pol ítico familiar.   
+
+Vimos  que  en  Camila  la  herencia  se  transmite  a  través  figuras  masculinas  de  la  rama  familiar 
+
+paterna,  y la pol ítica se vincula con su  profesi ó n prestigiosa (abogado/juez),  cercana al poder real. 
+
+Su  interés  en  la  pol ítica  coagula  v ívidamente  en  el   conatus  de  una  identidad  familiar  y  posici ón  de 
+
+clase  con  relevo  intergeneracional,  siendo  ella  la    heredera  que  se  reconoce  entre  quienes    “están 
+
+socialmente  designadas  como  competentes,  como  quienes  tienen  el  derecho  a  la  pol ítica,  que  es  al 
+
+mismo  tiempo un deber”  (Bourdieu  [1980] 1990:256-25 7.   En Brian en cambio  –igual que en otros 
+
+casos provenientes de clases bajas que hemos analizado (Kriger y Dukuen, 2017b), donde la pol ítica 
+
+se  asocia más  a  la  falta  y  a  lo  que  hay  que  conseguir  o  conquistar,  que  a  lo  que  se  tiene  y  hay  que 
+
+conservar  o  aumentar-  la  identificaci ón  se  produce  con  una  figura  femenina:  la  abuela.  El  la 
+
+19 
+
+ 
+recupera  para  superar  el  interdicto  pol ítico  que  “m arcó
+
+”  a  la  generaci ón  de  su  padre  y  sus  t íos, 
+
+encontrando  en  ella  la  posibilidad  de  un  hacer  pol í tico  no  conflictivo:  que  no  “lucha  afuera”,  sino  
+
+que construye con  y para  su barrio  y    “la  gente”. P or otra parte,  si a Camila  la pol ítica  la  retiene e n 
+
+el  mundo  familiar,  a  Brian  lo  hace  salir  al  mundo  social,  aunque  encarnando  una  inscripci ón 
+
+territorial  “de  las clases populares  a  través del barrio y una forma de  la pol ítica popular” (Merklen, 
+
+2010:14). 
+
+Finalmente, creemos importante destacar la importancia de la dimensi ón familiar en la socializaci ón 
+
+pol ítica de los j óvenes: sus historias intergenerac ionales, su filiaciones, sus valores y mandatos, y el 
+
+modo en que  todo ello converge en una    illusio familiar  –es decir:  la creencia  y el  interés en  “j uego 
+
+social ” específicos  (Bourdieu  [1997]2003)-    restrin giendo  y/o habilitando distintos  sentidos, modos 
+
+y grados de participaci ón activa en la construcci ón
+ 
+
+danos plenos y nueva generaci ón. 
+
+ 
+
+ social del mundo al que se integran como ciuda-
+
+20 
+
+ 
+ 
+
+VI. Bibliografía 
+
+Aguil ó,  Victoria  y  Wahren,  Juan  (2013)  “Educaci ón  P
+
+opular  y  Movimientos  Sociales:  Los 
+
+Bachilleratos  Populares  como  ‘Campos  de  Experimenta ci ón  Social ’
+”,  Ponencia  en 
+
+X  Jornadas  de 
+
+Sociolog ía , Bs. As., UBA. 
+
+Bonvillani, Andrea  (2015) Callejenado  la  alegr ía …  y  también  el  baj ón.  Etnogra
+
+f ía  colectiva  de  la 
+
+Marcha de la Gorra. C órdoba, Encuentro Grupo Editor. 
+
+ 
+
+Bourdieu Pierre (1977).  “Sur le pouvoir symbolique”
+
+, Annales, 32, 3 
+
+-(1979) La distinction. Critique sociale du Jugement. Paris, Minuit. 
+
+- ([1993] 2007)  “Las contradicciones de la herencia ”. En  La miseria del mundo. Bs As: FCE. 
+
+- ([1997] 2003) Méditations pascaliennes, París, Seuil. 
+
+- (1998) La domination masculine, París, Seuil. 
+
+-  (2011)  “El capital  social. Notas provisorias ” En  Las estrategias de  la  reproducci ón  social . Bs As, 
+
+Siglo XXI. 
+
+Carretero, Mario y Kriger Miriam. (2011)“Historical  representations and conflicts about  indigenous 
+
+people as nacional Identities ”.  Culture and Psychology: 17 (2): 177-195. 
+
+Chaves Mariana (coord.) (2009) Estudios sobre Juventudes en Argentina. La Plata. Ed. Edulp, Reija. 
+
+Dalle, Pablo. (2013)   “Movilidad social ascendente  de familias migrantes de origen de clase popular 
+
+en el Gran Buenos Aires ”.  Trabajo y Sociedad 21: 373-401. 
+
+Delval, Juan (2006) Hacia una escuela ciudadana. Madrid: Morata. 
+
+Dukuen,  Juan  (2013).  “Otros  territorios:  una  discus i ón  sobre  la  relaci ón  entre  cultura  y  pol ítica 
+
+desde Bourdieu aplicable al estudio de j óvenes esco larizados ”. En  Revista Argentina de Estudios de 
+
+Juventud, 7: 105-125 
+
+-  (2015)  “Indagaciones  sobre  el  v ínculo  entre  pol ít
+
+ica,  moral  y  escolaridad  en  la  perspectiva  de 
+
+Bourdieu ”. En  Revista Folios, 41, 117-128 
+
+-(2017)  “Entre  el  decir  y  lo  dicho:  una  discusi ón  s obre  los  aportes  de Bourdieu  para  comprender  la 
+
+formaci ón  de  disposiciones  pol íticas  en  j óvenes  de 
+
+clases  populares ”.  En Kriger M  (dir)  El mundo 
+
+21 
+
+ 
+entre  las  manos:  Juventud  y  pol ítica  en  la  Argentin a  del  Bicentenario,  241-279,  La  Plata;  
+
+FPyCS-UNLP. 
+
+-y  Kriger  Miriam  (2016)  “Solidaridad,  esquemas  mora les  y  disposiciones  pol íticas  en  j óvenes  de 
+
+clases  altas:  hallazgos  de  una  investigaci ón  en  una   escuela  del  conurbano  bonaerense  (2014-
+
+2015)”  Revista Astrolabio. Nueva  Época , 15: 311-339. 
+
+Cerletti, Laura (2014) Familias y Escuelas. Tramas de una relaci ón complej a, Bs As, Biblos 
+
+Elizalde, Silvia (2015) Tiempo de Chicas, Bs As, GEU. 
+
+Fillieule, Olivier (2012).  “Travail, famille, polit isation ”. En Sainsaulieu,  I. y Surdez, M. (eds.)  Sens 
+
+politiques du travail, 345-357, Paris: Armand Colin. 
+
+Finkielkraut, Alain. (1984) La sabidur ía del amor . Barcelona: Gedisa, 2009. 
+
+Fonseca  Claudia  (2007) 
+
+“Apresentação.  De  fam ília,  r
+
+eprodu ção  e  parentesco:  algumas 
+
+considera ções ”.  Cadernos Pagu, 29, 9-35. 
+
+Gessaghi, Victoria (2016) La educaci ón de la clase alta argentina , Bs As, Siglo XXI. 
+
+Grandinetti,  Juan  (2015a)  “Los  centros  de  estudiant es  de  la  UCA  como  ámbitos  de  socializaci ón 
+
+pol ítica  y  reclutamiento  partidario  en  los  ‘J óvenes
+
+  PRO’  de  la  Ciudad  de  Bs  As ”  en  Ziegler  S. 
+
+(comp.) 2da Reuni ón Internacional sobre Formaci ón de las El
+
+ites, Bs As: Flacso. 
+
+-(2015b)  “De misionar  a militar. La participaci ón  e n voluntariados  solidarios cat ólicos  como  forma 
+
+de socializaci ón pol ítica entre  los militantes de J
+
+óvenes PRO” en Dalle P (comp.)  Prácticas de Ofi-
+
+cio, 51-76, Bs As, IIGG-CLACSO. 
+
+Grignon Claude y Passeron Jean-Claude (1991) Lo culto y lo popular, Bs As, Nueva visi ón. 
+
+Guber, Rosana (2005) El salvaje metropolitano. Bs As: Paid ós. 
+
+Jakobson, Roman. (1975) Ensayos de ling ü
+
+ística general
+
+, Barcelona: Seix Barral 
+
+Kriger,  Miriam  (2010).  Jóvenes  de  escarapelas  tomar.  Escolaridad,  comprens i ón  hist órica  y 
+
+formaci ón pol ítica en la Argentina contemporánea . La Plata: Edulp.  
+
+-(2012).  “La invenci ón de la juventud, entre la mue
+
+rte de las naciones y su resurrecci ón ”. En Kriger, 
+
+M.  (comp.),  Juventudes  en  América  Latina:  abordajes  multidisciplinares  sobre  identidades, 
+
+culturas y pol íticas del siglo XX al siglo XXI . 1-31, Bs As: CAICYT-CONICET. 
+
+22 
+
+ 
+-(2013).  Reflexiones  acerca  de  la  despolitizaci ón  y   la  politizaci ón  juvenil  en  la Argentina,  entre  la 
+
+desestructuraci ón y la reestructuraci ón del Estado 
+
+nacional. En Sociales en Debate, 6, 25-32. 
+
+-(2014)  “Politizaci ón  juvenil  en  las  naciones  conte mporáneas. El  caso  argentino ”, Revista  Latinoa-
+
+mericana de Ciencias Sociales, Niñez y Juventud, 12 (2), 583-596 
+
+-(2016)  La  tercera  invenci ón  de  la  juventud.  Dinámicas  de  l a  politizaci ón  juvenil  en  tiempos  de 
+
+reconstrucci ón del Estado-Naci ón (Argentina, 2002-2
+
+015), Buenos Aires: GEU. 
+
+-y  Dukuen  Juan  (2012).  “Clases  sociales,  capital  cu ltural  y  participaci ón  pol ítica  en  j óvenes 
+
+escolarizados. Una mirada desde Bourdieu ”. En  Revista Question, 1 (35), 317-327 
+
+-(2014)  “La  pol ítica  como  deber.  Un  estudio  sobre  l as  disposiciones  pol íticas  de  estudiantes 
+
+argentinos de clases altas (Buenos Aires, 2011-2013)”. En  Persona y Sociedad, Vol. XXVIII (2), 59-
+
+84 
+
+-(2017a)  “¿En  el  nombre  del  padre?:  Dimensión  famil
+
+iar  y disposiciones  pol íticas  en  j óvenes 
+
+estudiantes  de  una  escuela  de  clases  altas  de  la  Ciudad  de  Buenos Aires ”.  Revista  Última   Década, 
+
+46, 151-168. 
+
+-(2017b)  “Haciendo de  la necesidad virtud: Socializ aci ón pol ítica y herencia familiar entre becarias 
+
+de un colegio de clases altas ”  Revista Pilquen, Vol 20 Nº 3, 67 –81.  
+
+Levinas, Emmanuel (1972). Humanisme de l´auttre homme . Paris: Fata Morgana.  
+
+Lévi-Strauss, Claude (1969) Las estructuras elementales del parentesco, Madrid: Paid ós.  
+
+Méndez, Alicia. (2013) El Colegio. Bs. As, Sudamericana.  
+
+Merklen Denis. (2010) Pobres ciudadanos, Bs As, Gorla. 
+
+Neufeld,  María  Rosa,  Santillan,  Laura  y  Cerletti  La ura  (2015)  “Escuelas,  familias  y  tramas 
+
+sociourbanas:  entrecruzamientos  en  contextos  de  diversidad  y  desigualdad  social ”,  Educa ç
+âo  e 
+
+Pesquisa, Vol. 41, 1137-1151. 
+
+Núñez,  Pedro  (2012):“Comportamientos  políticos  juve niles  desde  la  transición  democrática  hasta  la  ‘tom a’  de 
+
+escuelas”. En Kriger M. (Comp.)  Juventudes en América Latina, Bs As. CAICYT-CONICET 
+
+Poupeau,  Franck.  (2007).  “El  capital  militante.  Int ento  de  definici ón ”.  En  Dominaci ón  y  moviliza-
+
+ciones. 37-44, C órdoba: Ferreyra editor. 
+
+Radcliffe-Brown, Alfred Reginald (1974) Estructura y  funci ón de  la sociedad primitiva . Barcelona: 
+
+23 
+
+ 
+Pen ínsula.  
+
+Rodríguez Moyano,  Inés  (2012).  “Capital  cultural  y  estrategias  educativas  de  las  clases  altas  de  la 
+
+ciudad  de  Buenos  Aires ”.En  Ziegler,  S.  y  Gessaghi,  V.  (comps.),  Formaci ón  de  las  élites ,  147-
+
+164.Buenos Aires: Manantial. 
+
+Sarav í, Gonzalo. (2015)  Juventudes fragmentadas. México DF: CIESAS.  
+
+Segalem, Martine (2013) Sociolog ía de la familia.  Mar del Plata: Eudem. 
+
+Segato, Rita (2013) Las estructuras elementales de la violencia, Bs As, Prometeo. 
+
+Spinoza Baruch ([1677] 2011).  Ética . Madrid: Alianza. 
+
+Svampa, Maristella (2008) Los que ganaron, Bs As, Biblos. 
+
+Tiramonti, Guillermina y Ziegler, Sandra (2008). La educaci ón de las élites . Bs. As: Paid ós.  
+
+Vázquez, Melina.  (2013)  “En  torno  a  la  construcci ón   de  la  juventud  como causa  pública  durante  el 
+
+kirchnerismo:  principios  de  adhesi ón,  participaci ón
+
+  y  reconocimiento ”.  En  Revista  Argentina  de 
+
+Estudios de Juventud, 7. La Plata: UNLP.  
+
+ -y Vommaro,  Pablo, Núñez,  Pedro & Blanco, Rafael  (2017). Militancias  juveniles  en  la Argentina 
+
+democrática. Buenos Aires: Imago Mundi. 
+
+Vommaro, Pablo (2015) Juventudes, políticas públicas y participación.  GEU: Bs As. 
+
+Vommaro, Gabriel y Morresi Sergio (2015)  “Hagamos equipo ”. PRO y la construcci ón de la nueva
+
+ 
+
+derecha en Argentina. Los Polvorines: UNGS. 
+
+Vommaro, Pablo (2015) Juventudes y pol íticas en la Argentina y en América Latina. Bs As: GEU. 
+
+Ziegler Sandra y Gessaghi Victoria (comp.) (2012) Formaci ón de las elites , Bs. As, Manantial.  
+
+Zunino, Esteban  (2011)  “La  representaci ón mediática   del  conflicto  pol ítico:  un  estudio  sobre  la  co-
+
+bertura informativa del enfrentamiento entre  “gobie rno y campo ” en 2008 ”.  Em Questao, 17(1), 93-
+
+109. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+24 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+25 
+
+

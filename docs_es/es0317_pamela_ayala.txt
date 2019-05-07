@@ -1,0 +1,1363 @@
+PERSISTENCIA DE LAS DESIGUALDADES DE ORIGEN EN EL DESTINO LABORAL DE 
+
+PROFESORES PRINCIPIANTES EN CHILE 
+
+ 
+
+Pamela Ayala Arancibia 
+
+pbayala@uc.cl 
+
+Pontificia Universidad Católica de Chile  
+
+Chile 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+RESUMEN 
+
+La  evidencia  empírica  internacional  es  bastante  consistente  en mostrar un  alto ordenamiento de  los 
+
+profesores  en  el  sistema  educat ivo  (según  atributos  académicos  u  otros  indicadores  de  eficacia 
+
+docente). Este ordenamiento implica que  los estudiantes de contextos más vulnerables t ienen acceso 
+
+a  oportunidades  educativas  más  precarias.  Esto  es  especialmente  importante  en  el  caso  chileno, 
+
+cuyo sistema esco lar se caracteriza por una alta segregación.   
+
+La  pregunta  que  se  aborda  es  ¿de  qué  manera  el  origen  social  y  las  credenciales  académicas  se 
+
+asocian con el  t ipo de escuela en  la que el docente comienza su  trayectoria  laboral?   La hipótesis es 
+
+que  el  origen  social  t iene  un  efecto  significat ivo  sobre  el  t ipo  de  escuela  en  la  que  el  docente 
+
+comienza  su  trayectoria  laboral,  e  independiente  de  las  credenciales  académicas  portan.  En  otras 
+
+palabras, profesores principiantes que portan  credenciales  similares, o  incluso  iguales,  se  insertarán 
+
+en escuelas de dist into nivel socioeconómico en razón de su origen.  
+
+La  fuente  de  información  corresponde  a  registros  nacionales  del  MINEDUC.  Estos  permit ieron 
+
+ident ificar  a  24.810  profesores  titulados  entre  los  años  2010 -2011.  Además,  estos  registros 
+
+permit ieron  la elaboración de variables de clase social y educación del padre,  las qu e se const ituyen 
+
+como importantes indicador del origen social.   
+
+Se  han  utilizado  modelos  de  regresión  logíst ica  mult inomial,  los  que  permiten  predecir  las 
+
+probabilidades  de  lo s  diferentes  resultados  posibles  de  una  distribución  categórica  como  variable 
+
+dependiente  (grupo  socioeconomico del primer  establecimiento  en  el que  se desempeña  el profesor 
+
+principiante),  dado  un  conjunto  de  variables  independientes  (demográficas,  origen  social,  
+
+credenciales académicas). 
+
+La  evidencia  expuesta  permite  señalar  que  son  lo s  profesores  que  provienen  de  las  clases  sociales 
+
+bajas  quienes  tienen  mayores  probabilidades  de  insertarse  a  la  docencia  en  escuelas  vulnerables.  
+
+Esto apoya  las tesis de una cierta homofilia o de afinidad sociocultural en el proceso de contratación 
+
+2 
+
+ 
+
+ 
+ 
+docente:  pareciera  ser  que,  tanto  los  establecimientos  educativos  como  los  profesores,  en  lo s 
+
+procesos de búsqueda de empleo o de reclutamiento, se inclinan por sus semejantes.  
+
+Un  papel  importante,  e  independiente  del  origen  social,  juegan  las  credenciales  acad émicas: 
+
+titulados  de  bajo  rendimiento  académico  y  formados  en  las  inst ituciones  menos  select ivas  tienen 
+
+mayores probabilidades de  inserción en  los establecimientos más pobres. Retomando  la  importancia 
+
+del origen  social,  se observa que  al  controlar por  las  credenciales  académicas,  sigue persist iendo  su 
+
+importancia en  la descripción de  las trayectorias  laborales.  
+
+ 
+
+ 
+
+ABSTRACT 
+
+The  internat ional empirical evidence clearly  shows a high  level o f  teacher sorting  in  the educat iona l 
+
+system.  This  sorting  implies  that  students  coming  from  vulnerable  origins  would  only  have  access 
+
+to  less  qualified  educat ional  cho ices.  This  is  particularly  significant  in  the  chilean  educat iona l 
+
+context, whose school system  is dist inguished by  it s high segregat ion.  
+
+The  significant  question  here  is:  In  which  way  the  social  origin  and  the  academic  credent ials  are 
+
+related with  the  school where  a  teacher  starts  his  career?  The  current  thesis  sustains  that  the  socia l 
+
+origin  has  a  significant  effect on  the kind of  school where  a  teacher  starts his  career, no matter how 
+
+noteworthy  his  credent ials  are.  In  other  words,  beginning  teachers  with  similarly  qualified 
+
+credent ials would end up starting  their careers  in schools with considerably different socioeconomic 
+
+contexts, due to their own different socioeconomic origins.  
+
+The  source of  informat ion  belongs  to  the  Education  secretary  records.  These  records  allowed  us  to 
+
+ident ify  24.810  teachers  graduated  within  the  years  2010-2011.  They  also  allowed  us  to  establish 
+
+“social  class”  and  “parental  educational  level”  as  variables,  being  both  of  them,  social  background 
+
+of huge  importance. 
+
+3 
+
+ 
+
+ 
+ 
+Mult inomial  logist ic  regression  models  have  been  used   in  this  research,  which  allow  us  to  predict 
+
+the  different  possible  outcomes  of  a  categorical  distribut ion  –  in  terms  of  probability  -,  as  a 
+
+dependent variable  (socioeconomic  school  level where  a  teacher  starts his  career), given  a group of 
+
+independent variables (demography, social background, academic credent ials).  
+
+The  evidence  shown  allows  us  to  believe  that  the  teachers  from  lower  social  background  are  the 
+
+most  likely  to  end  up  starting  their  careers  in  poor  schools.  This  finding  supports  the  thesis  of  a 
+
+certain  social,  cultural,  and  economic  homophily  within  the  process  of  recruiting  teachers  to  a 
+
+certain  school:  it  seems  that,  not  only  the  schools,  but  also  the  teachers,  look  for  some  affinity,  
+
+during the process of recruiting and  job searching.  
+
+No  matter  the  social  background,  credent ials  st ill  play  an  important  role:  low  qualified  graduates, 
+
+those  who  obtained  the  lower  scores  during  their   format ion,  or  graduated  from  less  qualified  and 
+
+less  select ive  inst itutions,  will  more  likely  end  up  starting  their  career  in  schools  from  humble 
+
+contexts.  So,  when  we  talk  about  the  social  background  of  the  beginning  teachers,  its  influence  is 
+
+persistent, even when academic credentials may create some difference.   
+
+ 
+
+Palabras clave 
+
+Origen social, trayectoria  laboral temprana, profesores principiantes 
+
+ 
+
+Keywords 
+
+Social background, early-career, beginning teachers 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+I. Introducción 
+
+Este  estudio  tiene  por  objet ivo  el  analizar  el  dest ino  laboral,  es  decir,  el  tipo  de  escuela  en  la  que 
+
+comienzan  a  ejercer  su  rol  como  docentes.  Antes  de  profundizar  en  el  dest ino  laboral  de  los 
+
+profesores principiantes en Chile, es preciso destacar que el  ingreso de un docente a una  inst itución 
+
+esco lar,  es  producto  de  la  interacción  entre  la  oferta  y  la  demanda  por  profesores,  en  la  que  entran 
+
+en  juego  las preferencias de  los pro fesores a  la hora de postular a  las escuelas, y  las prefer encias de 
+
+las  escuela  al  seleccionar  su  personal  docente  (Donald  Boyd,  Lankford,  Loeb,  &  Wycko ff,  2013; 
+
+Flores, Ortuzar, Ayala, & Milesi, 2015; Lankford, Loeb, & Wycko ff, 2002). Junto con  lo anterior,  la 
+
+literatura  empírica  ha  dado  cuenta  de  una  desigual  distribución  de  los  profesores  en  el  sistema 
+
+esco lar,  lo  que  se  observa  desde  las  primeras  experiencias  laborales  (Donald  Boyd  et  al.,  2005; 
+
+Cabezas,  Paredes,  Bogolasky,  Rivero,  &  Zarhi,   2017;  Meckes  &  Bascopé,  2012) ,    y  se  va 
+
+acentuando en  la medida en que transcurre  la trayectoria  laboral  (Rivero, 2015). 
+
+La desigual distribución o el alto ordenamiento de  los profesores en el sistema esco lar significa  que 
+
+éstos no se distribuyen de  forma aleatoria entre  las escuelas. Por el contrario, su distribución parece 
+
+estar  guiada  por  ciertos  factores  adscritos  y  adquiridos,  sean  propios  de  los  profesores,  de  los 
+
+estudiantes,  o  de  los  cuerpos  direct ivos  que  forman  parte  de  las  escuelas.  Como  resultado,  se 
+
+observa cierta congruencia entre  las característ icas de los profesores y de  los estudiantes. 
+
+Respecto  a  los  factores  adscritos,  diversos  estudios  han  aportado  evidencia  de  similitudes  raciales 
+
+entre directores y profesores (E. Hanushek, Kain, & Rivkin, 2001) , así como también de semejanzas 
+
+raciales,  étnicas  o  socioeconómicas  entre  éstos  últimos  y  los  estudiantes  (Flores  et  al.,  2015;  E. A.  
+
+Hanushek et al., 2004). Adicionalmente, existe evidencia de cierta semejanza entre los barrios en  los 
+
+que crecieron y se educaron  los profesores, y  lo s barrios en  los que están situadas  las escuelas en  las 
+
+que  trabajan  (D. J. Boyd, Lankford, Loeb, & Wyckoff, 2003; Engel & Cannata, 2011; Engel,  Jacob,  
+
+& Curran, 2013);  y  también  cierta  similitud  entre  la  escuela  en  la que  se  educaron  y  la  escuela  a  la 
+
+que postulan o trabajan (Paredes, Bogolasky, Cabezas, Rivero, & Zahri, 2013) . 
+
+5 
+
+ 
+
+ 
+ 
+El  ordenamiento  según  factores  adquiridos  ha  sido  también  estudiado,  dando  cuenta  de  una 
+
+concentración  de  profesores  peor  calificados  en  las  escuelas  que  reciben  a  los  estudiantes  más 
+
+pobres,  donde  existe  una  alta  proporción  de  minorías  raciales-étnicas,  y  con  bajo  rendimiento 
+
+académico  (Akiba,  LeTendre,  &  Scribner,  2007;  Bonesrønning  et  al.,  2005;  Donald  Boyd,  
+
+Lankford,  Loeb,  Rockoff,  &  Wyckoff,  2008;  Goldhaber,  Lavery,  &  Theobald,  2015;  Meckes  & 
+
+Bascopé, 2012; Puga, Polanco, & Corvalán, 2015).  
+
+Ambos ordenamientos implican que, por una parte, los profesores tienden a trabajan en escuelas con 
+
+las  que  comparten  ciertas  característ icas  adscritas  con  el  estudiantado;  y  por  otro  lado,  las 
+
+calificaciones  del  cuerpo  docente  se  vinculan  con  las  característ icas  de  las  escuelas.  De  este modo, 
+
+su  dest ino  laboral  parece  estar  marcado  tanto  por  factores  adscritos  (origen),  como  por  factores 
+
+adquiridos  (rendimiento  y  credenciales  académicas);  situación  que  se  relaciona  con  uno  de  los 
+
+principales aportes de esta trabajo, ya que no estudia el  impacto de lo adscrito y de  lo adquirido por 
+
+separado; sino busca  indagar en su  influencia conjunta.  
+
+El  últ imo  tipo  de  ordenamiento  mencionado   parece  ser  especialmente  problemát ico,  pues  implica 
+
+que  los  estudiantes  de  escuelas  más  vulnerables  no  tienen  acceso  a  las  mismas  oportunidades 
+
+educativas.  Por  largo  tiempo,  se  ha  indicado  que  el  recurso  más  importante  con  que  cuenta  una 
+
+escuela  son  sus profesores,  cuyas  calificaciones han demostrado  ser  el mayor predictor del  nivel de 
+
+rendimiento  de  los  estudiantes1 (Clotfelter,  Ladd,  &  Vigdor,  2007;  Darling-Hammond,  2004).  Lo 
+
+anterior podría  significar que, gran parte de  la brecha  en  el  logro  académico de  estudiantes  situados 
+
+en dist intos contextos, sea explicada por este desigual acceso a profesores mejor calificados (Montt, 
+
+2011). 
+
+Esto  implica,  además,  que  el  ordenamiento  de  los  profesores  en  el  sistema  esco lar  afecta 
+
+particularmente  a  las  escuelas  más  vulnerables,  las  que  no  tienen  la  posibilidad  de  ofrecer  
+                                                
+1 Por ejemplo, una evidencia del estado de Tennessee (Estados Unidos) muestra que en promedio los estudiantes de bajo 
+rendimiento  tienen  una  ganancia  de  53  puntos  en  las  pruebas  estandarizadas ,  cuando  son  educados  por  los  profesores 
+más  efectivos;  mientras  que  tendrían  una  ganancia  de  solo  14  puntos  cuando  son  educados  por  profesores  menos 
+efectivos (Peske & Haycock, 2006). 
+
+6 
+
+ 
+
+ 
+ 
+condiciones  laborales  que  atraigan  y  retengan  a  los  mejor  calificados,  o  más  valorados  en  e l 
+
+mercado  laboral  docente  (Ballou  &  Podgursky,  1998;  Don  Boyd,  Lankford,  Ronfeldt,  & Wyckoff,  
+
+2011; Cabezas et al., 2017; Reed, Rueben, & Barbour, 2006; Rivero, 2015). 
+
+Sobre  la  base  de  esta  evidencia,  emerge  la  pregunta  por  la  influencia  que  los  factores  adscritos 
+
+(origen)  y  adquiridos  (credenciales  académicas)   tienen  sobre  el  t ipo  de  escuela  en  la  que  lo s 
+
+profesores  comienzan  su  trayectoria  laboral  en  Chile 2 .  De  este  modo,  la  pregunta  que  guía  este 
+
+trabajo  es:  ¿en  qué  medida,  y  de  qué  forma,  el  origen  social  y  las  credenciales  académicas 
+
+influyen  en  que  los  profesores  principiantes  comiencen  su  trayectoria  laboral  en  escuelas 
+
+vulnerables? 
+
+Para  responder  a  la  pregunta,  el  objet ivo  general  analizar  la  influencia  que  el  origen  social  y  las 
+
+credenciales  académicas  t ienen  sobre  el  t ipo  de  escuela,  en  la  que  los  pro fesores  principiantes 
+
+comienzan  su  trayectoria  laboral;  específicamente,  se  analiza  la  influencia  de  ambos  factores  de 
+
+forma  independiente, y  luego de forma conjunta.  
+
+Este  trabajo  consta de  tres  secciones:  primero  se describen dos perspectivas  teóricas  fundamentales 
+
+que  han  discutido  el  alcance  que  tiene  el  origen  social  y  las  credenciales  académicas  sobre  los 
+
+logros  ocupacionales  de  los  individuos ;  en  el  apartado  metodológico,  se  explicitan  las  fuentes  de 
+
+información  ut ilizada;  la  forma  en  que  han  sido  construidas  la  variable  dependiente  y  las  variables 
+
+independientes;  y  los  métodos  y  técnicas  de  análisis  empleados;  en  el  tercer  apartado,  se  exponen 
+
+los  resultados, ordenados  en  correspondencia  con  los objet ivos  específicos del  capítulo ;  finalmente, 
+
+se  presentan  las  conclusiones,  exponiendo  las  limitaciones  y  las  nuevas  preguntas  de  invest igación 
+
+que emergen tras los hallazgos de este capítulo.  
+
+ 
+
+ 
+
+ 
+
+                                                
+2 Los estudios, a la fecha, no han analizado de forma conjunta la influencia de ambos factores, sobre el destino laboral 
+de los profesores principiantes. 
+
+7 
+
+ 
+
+ 
+ 
+II. Marco teórico/marco conceptual 
+
+Desde  dist intas  perspectivas  teóricas  se  ha  discutido  el  alcance  que  tiene  el  origen  social  y  las 
+
+credenciales  académicas  sobre  los  logros  ocupacionales  de  los  individuos,  particularmente   en 
+
+contextos  de  alta  expansión  educat iva.  Estas  perspectivas  teóricas  proporcionan  un  marco  para 
+
+interpretar  la  relación  entre  origen  social  (lo  adscrito),  credenciales  académicas  (lo  adquirido),  y 
+
+trayectorias  laborales  tempranas, de  los profesores  recientemente  titulados de  la  educación  superior  
+
+chilena.  
+
+La perspect iva socio lógica  funcionalista propone que  la expansión del sistema educat ivo propicia  la 
+
+igualación de  las oportunidades,  lo que  reduce  al mínimo  el  alcance de  lo  adscrito,  sobre  los  logros 
+
+ocupacionales  de  lo s  individuos,  o  al  menos  disminuye  su  influencia  directa.  Esto  posicionaría  al 
+
+logro  educativo,  materializado  en  credenciales  académicas,  como  el  gran  mediador  de  la  relació n 
+
+entre el origen social y el  logro ocupacional (Blau & Duncan, 1967; Parsons, 1974). Así, al describir 
+
+los procesos de distribución de  los  individuos en  los puestos de trabajo,  las teorías funcionalistas de l 
+
+capital  humano  (Becker,  1962;  Schultz,  1960),  del  señalamiento  (Arrow,  1973;  Spence,  1973; 
+
+Stigler, 1962) y de  la cola de empleo (Sakamoto & Powers, 1995; Thurow, 1972, 1975), indican que 
+
+dicho  proceso  gira,  principalmente,  en  torno  a  las  credenciales  académicas.  Estas  credenciales 
+
+darían cuenta del potencial desempeño del  trabajador en  la ocupación, por  lo que, es d e esperar, que 
+
+explique  las diferentes trayectorias de  los  individuos que las portan.  
+
+Por  su  parte,  las  teorías  de  la  reproducción  han  cuest ionado  esta  premisa  que  las  trayectorias 
+
+laborales  de  los  individuos  se  expliquen  exclusivamente  por  la  credencial  que  poseen  (Boudon, 
+
+1974;  Bourdieu  &  Boltanski,  1978;  Breen  &  Goldthorpe,  1997;  Collins,  1989;  Go ldthorpe,  2007); 
+
+postulando  que,  más  bien,  en  las  trayectorias  laborales  se  reproducen  las  diferencias  de  origen 
+
+(Bourdieu  &  Passeron,  1995;  Collins,  1989).  Con  esto,  los  teóricos  de  la  reproducción  cuest ionan 
+
+que  el  valor  de  la  credencial  académica  apele  a  las  habilidades  y  al  potencial  desempeño  de  los 
+
+individuos  en  las  ocupaciones.  Por  el  contrario,  dada  la  expansión  y  diferenciación  interna  de  la 
+
+8 
+
+ 
+
+ 
+ 
+educación  superior,  las  credenciales  adquieren  un  valor,  en  razón  de  la  inst itución  que  la  emite 
+
+(Gerber  &  Cheung,  2008;  Torche,  2011;  Wise,  1965).  De  este  modo,  las  distintas  instituciones 
+
+otorgan  a  sus  titulados  credenciales  que  son  cuant itativamente  similares,  pero   cualitativamente 
+
+dist intas;  diferencia  que  está  dada  por  el  prest igio  de  la  institución.  Sin  embargo,  el  acceso  a  las 
+
+inst ituciones  más  prestigio sas  está  enormemente  limitado  para  los  individuos  que  provienen  de  un 
+
+origen más humilde (Bo liver, 2010); por  lo que es posible cuest ionar que el acceso a una credencia l 
+
+sea el so lo producto del mérito. 
+
+Bajo  este marco  interpretativo,  se  plantea  la hipótesis que  tanto  el origen  social  ( lo  adscrito),  como 
+
+las  credenciales  académicas  (lo  adquirido),  generarán  diferencias  en  los  logros  ocupacionales 
+
+tempranos de  los profesores principiantes; más precisamente,  en  su destino  laboral. Así,  contrario  a 
+
+los  postulados  de  la  perspectiva  funcionalista,  las  credenciales  no  son  suficientes  para  explicar  la 
+
+forma  que  adquiere  la  trayectoria  laboral  temprana,  pues  en  el  proceso  de  distribución  en  lo s 
+
+puestos  de  trabajo,  también  operan  características  que  están  ancladas  al  origen  social.  En  concreto, 
+
+se  esperaría  que  profesores  principiantes  con  credenciales  similares,  incluso  idént icas,  tengan 
+
+trayectorias  laborales tempranas dist intas, en razón de su origen.  
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+ 
+III. Metodología 
+
+A  cont inuación,  se  abordan  tres  aspectos  metodológicos  fundamentales :  se  exponen  qué  datos  han 
+
+sido  utilizados,  y  de  qué  fuentes  de  información  provienen;  se  presenta  la  forma  en  que  ha  sido 
+
+construida  la  variable  dependiente  y  las  independientes;  y  finalmente,  se  presentan  los  métodos  y 
+
+las técnicas de anális is.  
+
+ 
+
+III. 1. Datos y fuentes de información 
+
+En esta  invest igación,  fueron utilizadas seis bases de datos,  las que aportaban  información relevante 
+
+de  las  trayectorias  académica  y  laboral  de  los  titulados  de  carreras  de  educación.  Los  datos 
+
+corresponden  a  registros  administrativos  de  dist intas  inst ituciones  vinculadas  a  la  administración  y 
+
+gestión de  la educación esco lar y superior en Chile3.  
+
+Este  estudio  profundiza  en  el  dest ino  laboral  de  los  profesores  principiantes,  siendo  esta  la  unidad 
+
+de  análisis.  La muestra  final  de  este  estudio  corresponde  a  los 19.435  casos que  se han  insertado  al 
+
+sistema esco lar al año 2014, quienes serán denominados profesores principiantes.  
+
+ 
+III. 2. Variables 
+
+Variable dependiente: Destino laboral 
+
+Este  estudio  busca  profundizar  en  e l  dest ino 
+
+laboral  de 
+
+los  profesores  principiantes, 
+
+específicamente,  se  analiza  la  inserción  en  escuelas vulnerables. Esto  implica  identificar  la primera 
+
+experiencia  laboral  del  pro fesor  principiante,  y  luego  clasificar  a  la  escuela  según  su  nivel  de 
+
+vulnerabilidad. 
+
+Para medir  la  vulnerabilidad de  la  escuela de dest ino de  los profesores principiantes  se  ha utilizado 
+
+la  metodología  SIMCE  de  clasificación  de  escuelas,  según Grupos  Socio -Económicos  (GSE).  Esta 
+
+                                                
+3 Entre ellas se destaca el Departamento de Evaluación, Medición y Registro Educacional, el Ministerio de Educación, 
+la Agencia de Calidad de la Educación, el Sistema de Información de la Educación Superior, y el Consejo Nacional de 
+Acreditación. 
+
+10 
+
+ 
+
+ 
+ 
+clasificación  se  construye  a  partir  de  cuatro  variables,  nivel  educacional  de  la  madre,  nive l 
+
+educacional  del  padre,  ingreso  económico  total  mensual  en  el  hogar,  e  índice  de  vu lnerabilidad 
+
+esco lar.  Las  tres  primeras  variables  se  obt ienen  a  través  del  cuest ionario  aplicado  a  padres  y 
+
+apoderados  de  los  estudiantes,  que  rinden  la  prueba  SIMCE  (voluntario),  y  la  cuarta  variable  es 
+
+aportada por  la  JUNAEB. Estas  cuatro variables  son  estandarizadas  (media 0  y desviación  estándar  
+
+1),  y  se  realiza  un  análisis  de  conglomerado,  del  que  emergen  cinco  g rupos:  Bajo  (A), Medio -Bajo  
+
+(B), Medio (C), Medio -Alto (D) y Alto (E)4. 
+
+Las  escuelas del grupo A  son  aquellas que  at ienden  a  los  niños que  viven  en  condiciones de mayor  
+
+vulnerabilidad  (70% o más de vulnerabilidad  escolar),  cuyos padres  tienen bajo s niveles   educat ivos 
+
+(un  alto  porcentaje  no  ha  completado  la  educación  básica),  y  cuyos  ingresos  están  por  debajo  de l 
+
+sueldo  mínimo.  En  el  otro  extremo,  las  escuelas  del  grupo  D  y  E  son  aquellas  con  los  menores 
+
+niveles  de  vulnerabilidad  (menos  de  un  30%),  y  cuyo s  a lumnos  tienen  padres  con  educación 
+
+superior,  y  con  ingresos  que  superan  el  promedio  nacional.   Respecto  a  la  distribución  de  esta 
+
+variable,  la  mayoría  de  los  profesores  principiantes  se  insertaron  en  escuelas  del  grupo 
+
+socioeconómico  B  (32%)  y  C  (30%),  mientras  que  la  minoría  lo  hace  en  escuelas  del  grupo  A 
+
+(14%).  
+
+ 
+
+Variables independientes 
+
+Las  variables  independientes  del  estudio  se  exponen  en  la  Tabla  1,  y  se  dividen  en  tres  grupos-,  un 
+
+primer grupo  corresponde  a  indicadores de origen  social de  lo s profeso res principiantes  (educación 
+
+y  clase  ocupacional  del  padre);  el  segundo,  a  los  indicadores  de  credenciales  académicas 
+
+(rendimiento  académico  previo  al  ingreso  a  la  educación  superior,  y  las  característ icas  de  las 
+
+                                                
+4  Para  efectos  de  este  estudio,  se  va  a  entender  que  las  escuelas  del  grupo  A  son  escuelas  de  alta  vulnerabilidad,  las 
+escuelas  del  grupo  B  son  de  media  vulnerabilidad,  las  del  grupo  C  son  de  baja  vulnerabilidad,  y  las  escuelas 
+aglomeradas  en  el  grupo  D  y  E  son  escuelas  no  vulnerables.  Los  modelos  multinomial  que  serán  estimados,  utilizan 
+como grupo de referencia la inserción en escuelas no vulnerables (D y E). 
+11 
+
+ 
+
+ 
+ 
+inst ituciones de  educación  superior);  y  finalmente,  se  exponen  las  variables de  control demográfico  
+
+(región, sexo y edad).  
+
+Variable 
+Educación del padre 
+
+Clase social del 
+padre 
+
+Tabla 1. Variables independientes y sus atributos  
+Atributos 
+1. Sin estudios superiores (educación básica-media) 
+2. Educación superior (universitaria o no universitaria, completa o incompleta)  
+3. Sin información 
+1. Clase de servicios superiores (Gerente, administrativo de categoría superior, gran 
+empresario industrial/comercial/agrícola/minero,  alto ejecutivo, oficial superior de 
+fuerzas armadas y de orden, diplomático, profesional con 5 o más años de  educación 
+superior) 
+2. Clase de rutina no manual (Empleado o funcionario especializado, jefe intermedio de 
+servicios públicos y privados, oficial de fuerzas armadas o de orden, profesional o 
+técnico con menos de 5 años de estudios superiores, mediano empresario 
+industrial/comercial/agrícola/minero) 
+3. Clase pequeña burguesía (Pequeño empresario industrial, suboficial de FF.AA y 
+Carabineros, minero, comercial y agrícola) 
+4. Clase de trabajadores independientes (Oficios artesanales, talleres de joyeros, 
+mueblista, sastre, modista, peluquero, etc.) 
+5. Clase de trabajadores manuales calificados (Obrero urbano calificado, electricista, 
+mecánico, carpintero, etc.) 
+6. Clase de trabajadores manuales no calificados (obrero urbano o minero no calificado, 
+servicios menores de restaurantes, mensajero, conserje)  
+7. Clase de pequeños propietarios agrícolas (pequeño empresario agrícola)  
+8. Clase de trabajadores agrícolas (obrero agrícola, tractorista, etc.) 
+9. Sin información 
+Puntaje Z de las pruebas PAA-PSU de matemáticas 
+
+ 
+Variables de 
+origen social 
+
+ 
+o
+t
+n
+e
+i
+m
+i
+d
+n
+e
+R
+
+ 
+e
+d
+ 
+s
+a
+c
+i
+t
+s
+í
+r
+e
+t
+c
+a
+r
+a
+C
+
+ 
+o
+c
+i
+m
+é
+d
+a
+c
+a
+
+ 
+ 
+e
+d
+ 
+s
+e
+n
+o
+i
+c
+u
+t
+i
+t
+s
+n
+i
+
+ 
+o
+i
+v
+e
+r
+p
+
+ 
+r
+o
+i
+r
+e
+p
+u
+s
+ 
+n
+ó
+i
+c
+a
+c
+u
+d
+e
+
+ 
+s
+a
+c
+i
+m
+é
+d
+a
+c
+a
+ 
+ 
+s
+e
+l
+a
+i
+c
+n
+e
+d
+e
+r
+C
+
+Variables de 
+control 
+demográfico 
+
+Género 
+Edad 
+Fuente: Elaboración propia. 
+ 
+ 
+
+ 
+
+Puntaje  
+PAA-PSU de 
+Matemáticas 
+Posición relativa de 
+notas en ens. media 
+Tipo de institución 
+de educ. superior 
+
+Selectividad de 
+institución de 
+educación superior 
+
+Desarrollo de 
+investigación  
+Región de estudios 
+
+Notas de enseñanza media en puntaje Z (en referencia a los estudiantes egresados del 
+mismo establecimiento en el mismo año) 
+1. CRUCH (universidades tradicionales)      
+2. No CRUCH (universidades privadas o no tradicionales)     
+3. Instituto Profesional (IP)  
+1. No selectiva (no exige PSU) 
+2. Baja selectividad (exige entre 419 y 500) 
+3. Media selectividad (exige entre 501y 549) 
+4. Alta selectividad (exige más de 550) 
+1. Sí desarrolla investigación 
+2. No desarrolla investigación (centrado en la docencia) 
+1. Fuera de la Región Metropolitana (RM) 
+2. En la Región Metropolitana (RM) 
+1. Masculino     2. Femenino 
+Edad a la titulación, como diferencia a la media 
+
+12 
+
+ 
+ 
+III. 3. Métodos y técnicas de análisis 
+
+Para  estimar  la  probabilidad  de  que  un  profesor  principiante  comience  su  trayectoria  laboral 
+
+docente,  en  escuelas  con  algún  grado  de  vulnerabilidad  o  en  escuelas  no  vulnerables,  se  han 
+
+utilizado  modelos  de  regresión  logíst ica  mult inomial.  Este  tipo  de  modelos  se  utiliza  cuando  la 
+
+variable  dependiente  es  de  tipo  nominal  con  más  de  dos  categorías,  siendo  una  extensión  de  la 
+
+regresión  logíst ica  binaria  clásica  (Hosmer  &  Lemeshow,  2000).  En  este  caso,  la  variable 
+
+dependiente  tiene  cuatro  categorías  y  corresponde  a  la  inserción  en  escuelas  de  alta  (grupo  A), 
+
+media (grupo B), baja vulnerabilidad (grupo C), y no vulnerables (grupos D+E); siendo esta últ ima,  
+
+la  categoría de  referencia  en  todos  los modelos  estimados. En  término s generales,  se  estiman  tantos 
+
+modelos como n-1 categorías tenga  la variable dependiente; y en este caso, se estiman tres modelos,  
+
+representados en  la siguiente ecuación:  
+
+ 
+
+   (
+
+   (
+
+   (
+
+)                             
+
+       
+         
+       
+         
+       
+         
+Ecuación 1. Modelos de regresión multinomial 
+ 
+Donde   𝑘 𝑋𝑘  corresponde  a  los  parámetros  a  estimar,  particularmente    𝑋     corresponde  a  las 
+
+)                             
+
+)                             
+
+variables  de  origen  social,   𝑋   a  las  credenciales  académicas,  y   𝑋   a  las  variables  de  contro l 
+
+sociodemográfico.  Cabe  destacar  que  en  las  tablas  expuestas  en  este  capítulo  se  presentan  el  Beta; 
+
+sin  embargo,  para  interpretar  la  chances  de  ocurrenc ia  del  evento,  es  necesario  calcular  el 
+
+exponencial del Beta5, como sigue en  la siguiente ecuación:   
+
+ 
+
+                                                
+5 Las tablas con el exponencial del Beta se presentan en el Anexo.  
+13 
+
+ 
+
+ 
+ 
+
+ 
+
+    [   (
+
+    [   (
+
+    [   (
+
+)]      [  ]      [    ]      [     ]      [     ] 
+
+)]      [  ]      [    ]      [     ]      [     ] 
+
+       
+         
+       
+         
+       
+         
+Ecuación 2. Modelos de regresión multinomial (con coeficiente exponenciado)  
+ 
+Estos modelos  van  a permit ir  el  análisis de  la  probabilidad, para un pro fesor principiante de  iniciar 
+
+)]      [  ]      [    ]      [     ]      [     ] 
+
+su  trayectoria  laboral  en  escuelas  de  dist into  grado  de  vulnerabilidad,  en  relación  a  comenzar  su 
+
+trayectoria en una escuela no vulnerable (categoría de referencia).  
+
+ 
+
+14 
+
+ 
+
+ 
+
+ 
+ 
+IV. Análisis y discusión de datos 
+
+Con  el  fin  de  analizar  la  influencia  del  origen  social  y  las  credenciales  académicas,  sobre  la 
+
+probabilidad  comenzar 
+
+la  trayectoria 
+
+laboral  docente  en  escuelas  con  dist into  nivel  de  
+
+vulnerabilidad,  se  han  est imado  una  serie  de  modelos  de  regresión  mult ino mial.  En  concreto,  se 
+
+analiza  la probabilidad de  comenzar  la  trayectoria  laboral docente  en  escuelas de  alta, media  y  baja 
+
+vulnerabilidad; teniendo como categoría de referencia  la  inserción en escuelas no vulnerables.  
+
+En  la  Tabla  2,  se  espera  testear  las  hipótesis  que  los  profesores  principiantes  con  un  origen  social 
+
+más  humilde,  en  mayor  medida,  comienzan  la  trayectoria  laboral  docente  en  escuelas  de  mayor  
+
+vulnerabilidad;  a  diferencia  de  los  profesores  principiantes  que  provienen  de  u n  origen  más 
+
+acomodado.  Además,  se  busca  aportar  evidencia  que  respalde  la  hipótesis   que  los  profesores 
+
+principiantes,  portadores  de  credenciales  académicas  menos  prestigio sas  –o  peor  calificados–,  en 
+
+mayor medida, comienzan su trayectoria  laboral docente en escuelas más vulnerables.  
+
+Respecto  a  la  influencia  del  origen  social,  en  el  Modelo  1  (Tabla  2) 6 ,  se  observa  que  tanto  la 
+
+educación  del  padre,  como  algunos  atributos  de  la  clase  ocupacional,  se  asocian  posit iva  y 
+
+significat ivamente  con  la  probabilidad  de  que  un  profesor  principiante  comience  su  trayectoria  en 
+
+una  escuela  con  algún nivel de vulnerabilidad ;  en  comparación  a  comenzar  la  trayectoria  laboral  en 
+
+una escuela no vulnerable. Las mayores diferencias se observan para  la probabilidad de comenzar  la 
+
+trayectoria  en  escuelas  de  alta  vulnerabilidad,  en  comparación  a  comenzarla  en  escuelas  no 
+
+vulnerables. En  concreto, un profesor, que  es hijo  de  un padre  con  educación básica-media,  tiene  el 
+
+doble  de  probabilidades  de  comenzar  su  trayectoria  en  una  escue la  de  alta  vulnerabilidad,  en 
+
+relación  a  un  profesor  cuyo  padre  tiene  educación  superior.  La  brecha  se  acorta  para  quienes 
+
+comienzan  la  trayectoria  laboral  en  escuelas  de  baja  vulnerabilidad ;  pero  aun  así,  los  profesores 
+
+                                                
+6 En  las  tablas se expone el Beta, mientras que en el Anexo  es posible encontrar  las  tablas con el  exponencial del  Beta 
+(exp B).  Sin  embargo,  se  expresa  el  exponencial  del Beta  para  facilitar  la  comprensión  de  la  evidencia  expuesta  en  las 
+tablas. En  otras  palabras,  las  tablas  ayudan  a  comprender  si  la  relación  es  positiva  o  negativa; mientras  en  el  relato  se 
+incorpora el cambio porcentual. 
+
+15 
+
+ 
+
+ 
+ 
+principiantes,  cuyos  padres  tienen  menor  educación,  poseen  un  67%  más  de  probabilidades  de 
+
+inserción, en estos contextos, que quienes t ienen un padre más educado. 
+
+En  cuanto  a  la  clase  social,  se  observa  que  los  profesores  cuyos  padres  pertenecen  a  clases  más 
+
+humildes  (trabajador  manual  calificado  y  no  calificado,  pequeño  propietario  agríco la,  y  trabajador 
+
+agríco la)  tendrán  mayores  probabilidades  de  comenzar  su  trayectoria  laboral  en  escuelas  de  mayor  
+
+vulnerabilidad,  que  los  profesores  cuyos  padres  son  de  clases  más  acomodadas  (clase  de  servicio s 
+
+superiores).  Las  diferencias  más  notorias  se  observan  respecto  a  la  inserción  en  escuelas  de  alta 
+
+vulnerabilidad;  en  la  que  los  profesores  principiantes,  cuyos  padres  son  pequeños  propietarios 
+
+agríco las  o  trabajadores  agríco las,  tienen  más  del  doble  de  probabilidades  de  comenzar  su 
+
+trayectoria  en  este  tipo de  escuelas,  en  relación  a  los hijo s de padres que prestan  servicios. Si  bien,  
+
+la  brecha  en  la  probabilidad  de  comenzar  la  trayectoria  en  escuelas  de  media  y  baja  vulnerabilidad 
+
+se  acorta  entre  profesores  cuyos  padres  son  de  clases  sociales  más  bajas  y  de  servicios  superiores,  
+
+esta brecha sigue siendo significat iva.  
+
+Pasando  ahora  al  impacto  de  las  credenciales  académicas,  en  el  Modelo  2  se  observa  que  a  mayor 
+
+puntaje  en  las pruebas de  admis ión  a  la universidad,  existe una menor probabilidad de  comenzar  la 
+
+trayectoria  laboral  docente  en  escuelas  de  alta,  media  y  baja  vulnerabilidad ;  en  comparación  a 
+
+comenzar  la  trayectoria  en  escuelas  no  vulnerables. Así,  el  estar  una  desviación  estándar  por  sobre 
+
+de  la  media  de  puntaje  en  la  prueba  de  matemáticas,  disminuye  en  un  37%  la  probabilidad  de 
+
+comenzar  la  trayectoria  en  escuelas  de  alta  y  media  vulnerabilidad,  que  en  una  escuela  no 
+
+vulnerable. 
+
+ 
+
+ 
+
+16 
+
+ 
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+ 
+En relación a  las características de  las  inst ituciones de educación superior, se observa que quienes se 
+
+formaron  en  universidades  privadas  t ienen  una  menor  probabilidad  de  comenzar  su  carrera  en 
+
+escuelas  de  mayor  vulnerabilidad,  que  quienes  se  formaron  en  universidades  del  CRUCH.  En 
+
+concreto,  los  profesores  que  se  formaron  en  universidades  privadas  tienen  alrededor  de  un  40% 
+
+menos  probabilidades  de  comenzar  su  trayectoria  en  escuelas  de  alta  y  media  vulnerabilidad .  A  la 
+
+vez,  quienes  se  formaron  en  inst itutos profesionales  tienen menores probabilidades de  comenzar  su 
+
+trayectoria  en  escuelas  de  media  y  baja  vulnerabilidad,  respecto  a  quienes  estudiaron  en 
+
+universidades  del  CRUCH ;  sin  embargo,  no  se  presentan  diferencias  en  su  probabilidad  de 
+
+comenzar  la trayectoria  laboral en escuelas de alta vulnerabilidad.   
+
+La select ividad de  la  inst itución de educación superior juega un papel clave ; a menor selectividad se 
+
+observa  una  mayor  probabilidad  de  comenzar  la  trayectoria  laboral  en  escu elas  más  vulnerables.  
+
+Esta  tendencia  es monotónica,  es decir,  a medida que  aumenta  la  selectividad de  la  inst itución  en  la 
+
+que  el profesor principiante  se  formó, disminuye  la probabilidad de  comenzar  la  trayectoria  laboral 
+
+docente, en escuelas que atienden a  los niños más vulnerables. Así, un profesor principiante , que se 
+
+formó en una  inst itución no select iva,  tiene un 149% mayor probabilidad de comenzar su carrera en 
+
+una  escuela  de  alta  vulnerabilidad,  que  quien  se  formó  en  una  institución  altamente  select iva; 
+
+brecha que disminuye a medida que aumenta  la selectividad de  la  inst itución formadora. 
+
+Finalmente,  se  observa  que  lo s  profesores  principiantes,  que  se  formaron  en  universidades  que  no 
+
+hacen  invest igación,  tienen una mayor probabilidad de  comenzar  su  t rayectoria  en  escuelas de  alta,  
+
+media  y  baja  vulnerabilidad,  que  quienes  se  formaron  en  universidades  que  realizan  invest igación.  
+
+En  efecto,  la  probabilidad  de  comenzar  la  carrera  en  escuelas  de  alta  vulnerabilidad  es  un  70%  
+
+mayor,  para  quienes  se  formaron  en  este  tipo  de  inst ituciones,  que  para  quienes  estudiaron  en 
+
+inst ituciones en  las que se  invest iga.  
+
+Los  hallazgos  de  los  Modelos  1  y  2  confirman,  en  parte,  las  hipótesis  respecto  a  la  influencia  del 
+
+origen social y  las credenciales académicas. En cuanto al origen social,  lo resultados  indican que  lo s 
+
+17 
+
+ 
+
+ 
+ 
+profesores  de  un origen  más  humilde  tienen  mayo res  probabilidades  de  comenzar  su  trayectoria  en 
+
+escuelas  de  alta, media  o  baja  vulnerabilidad.  Por  su  parte,  respecto  a  las  credenciale s  académicas,  
+
+se  observa  que  el  perfil  de  quienes  comienzan  su  trayectoria  laboral,  en  escuelas  con  distinto  nive l 
+
+de  vulnerabilidad,  es  distinto;  particularmente,  quienes  comienzan  su  trayectoria  en  escuelas  más 
+
+vulnerables,  en mayor medida, parecen  ser profesores principiantes  con bajo puntaje  en  las pruebas 
+
+de  admisión  a  la  educación  superior,  formados  en  universidades  tradicionales,  de  menor 
+
+select ividad, y que no realizan  investigación.  
+
+Cabe  destacar  que  las  brechas  tienden  a  acortarse,  a  medida  que  disminuye  la  vulnerabilidad  de  la 
+
+escuela;  esto  es,  las  probabilidades  de  comenzar  la  trayectoria  laboral  según  los  dist intos  atributos 
+
+descritos,  tiende  a  homo logarse  a  medida  que  disminuye  la  vulnerabilidad  de  la  escuela ;  sin 
+
+embargo,  siguen  siendo  significat ivas.  Lo  anterior  reafirma  que,  tanto  el  origen  social,  como  las 
+
+credenciales  académicas  influyen  en  el  tipo  de  escuela  en  la  que  los  profesores  principiantes 
+
+comienzan  su  trayectoria  laboral;  lo  que  se  traduce  en  un  diferenciado  perfil  de  los  profesores,  que 
+
+se  insertan en escuelas con distintos niveles de vulnerabilidad.  
+
+ 
+
+18 
+
+ 
+
+ 
+
+ 
+ 
+V. Conclusiones 
+
+Preguntarse  por  cómo  el  origen  y  las  credenciales  repercuten  la  trayectoria  laboral  docente 
+
+temprana,  da  cuenta  de  la  tensión  que  existe  entre  la  influencia   de  los  factores  adscritos  y 
+
+adquiridos,  en  los  procesos  que  llevan  a  los  profesores  a  escuelas  con  dist intos  niveles  de 
+
+vulnerabilidad.  
+
+Este  trabajo   no  solo  buscó  relevar  el  papel  del  origen  social  (lo  adscrito),  dando  cuenta  de  la 
+
+persistencia  de  las  desigualdades  de  origen  en  este  hito  de  la  trayectoria  laboral  docente ;  sino  que 
+
+además,  ha  aporta  evidencia  sobre  la  forma  en  que  las  credenciales  académicas  (lo  adquirido) 
+
+moderan  el  efecto del origen  social,  en  el  inicio de  la  trayectoria  laboral,  en un determinado  tipo de 
+
+escuelas. 
+
+En  cuanto  al  origen  social,  se  reafirma  la  hipótesis  de  su  influencia  sobre  el  t ipo  escuela  en  la  que 
+
+los profesores principiantes  comienzan  su  trayectoria  laboral docente. Los profesores,  cuyos padres 
+
+tienen  educación básica-media  y que pertenecen  a  las  clases más bajas de  la  jerarquía  social,  tienen 
+
+mayores  probabilidades  de  insertarse  en  escuelas  más  vulnerables ;  en  comparación  con  los 
+
+profesores  cuyos  padres  tienen  educación  superior,  y  pertenecen  a  la  clase  de  servicios  superiores.  
+
+Se  destaca  que  existe  una  mayor  brecha  en  el  perfil  de  origen  de  profesores  que  comienzan  su 
+
+carrera en  las escuelas altamente vulnerables y no vulnerables.   
+
+Por su parte,  las credenciales académicas  tienen un  impacto significat ivo sobre el  tipo  de escuela en 
+
+la  que  los  profesores  principiantes  comienzan  su  trayectoria  laboral.  Los  hallazgos  aquí  expuestos 
+
+indican que  los profesores que tienen mayores probabilidades de comenzar su  trayectoria  laboral en 
+
+las  escuelas  más  vulnerables,  son  quienes  tuvieron  mejores  notas  relat ivas  en  la  enseñanza  media ,  
+
+pero peor puntaje en  las pruebas de admis ión a  la  educación superior ; y que además  se  formaron en 
+
+inst ituciones  tradicionales, no select ivas, y que se orientan a  la docencia (no realiza n  invest igación).  
+
+Dada esta evidencia, claramente se observa que el perfil académico de quien se  inserta en contextos 
+
+19 
+
+ 
+
+ 
+ 
+vulnerables  es distinto  al de quien  lo hace  en  escuelas no vulnerables;  y  en  cierto  sentido,  se puede 
+
+decir que portan credenciales menos valoradas 7.  
+
+El  impacto  del  origen  social  y  las  credenciales  académicas  sobre  el  tipo  de  escuela  en  la  que  los 
+
+profesores  comienzan  su  trayectoria  laboral docente, puede  ser  interpretado desde dos perspectivas ,  
+
+que darían  cuenta de  cómo podrían  haber operado  las preferencias de  lo s profesores  y  las  escuelas ; 
+
+dando  como  resultado  un  ordenamiento  por  origen  y  por  calificación.  Si  bien  este  estudio  no  es 
+
+capaz  de  observar  el  momento  de  la  postulación  a  los  cargos  docentes  y  la  posterior  selección,  ni 
+
+menos  las  preferencias  de  los  actores  invo lucrados,  la  evidencia  acumulada  permit e  co legir  que  e l 
+
+ordenamiento  observado  sería  el  resultado  de  los  procesos ,  a  partir  de  los  cuales  lo s  profesores 
+
+acceden  a  los  empleos;  y  que  tanto  sus  preferencias,  como  la  de  los  cuerpos  direct ivos  de  las 
+
+escuelas, podrían haber  jugado un rol  importante. 
+
+Interpretando  esta  evidencia  desde  una  perspect iva  economicista,  se  diría  que  el   hecho  de  que  un 
+
+profesor  porte  una  credencial  menos  valorada,  significa  que  ese  mismo  profesor  ha  sido  menos 
+
+compet it ivo  a  la  hora de  acceder  a  escuelas que ofrecen  las mejores  condiciones para  la  enseñanza ; 
+
+las  que  a  su  vez,  tienen  una  mayor  capacidad  de  selección,  dado  el  pool  amplio  de  postulaciones 
+
+que  recibe  (Beteille  &  Loeb,  2009;  Boyd  et  al.,  2005;  Goldhaber,  Lavery,  &  Theobald,  2015, 
+
+Meckes  &  Bascopé,  2012;  Ortúzar  et  al,  2010,  entre  otros) .  Lo  anterior  redundaría  en  que,  los 
+
+profesores menos calificados  tendrían más probabilidades de comenzar su carrera en  las escuelas en 
+
+las que  confluyen  cond iciones  laborales precarias,   con  contextos de  alta vulnerabilidad  social  (D.  J. 
+
+Boyd et al., 2005; Loeb, Darling-Hammond, & Luczak, 2005; Puga et al., 2015) . 
+
+Desde  una  perspect iva  culturalista,  emerge  más  bien  una  interpretación  basada  en  la  noción  de  que 
+
+en  los procesos de búsqueda de  empleo  y  selección de  las  escuelas opera  cierta  homofilia  (Engel  et 
+
+al., 2013; McPherson  et  al., 2001) o afinidad  socio-cultural  (Flores, Ortúzar,  et  al., 2015),  entre  las 
+
+característ icas adscritas del profesor y el estudiantado ;  lo que redundaría en un ordenamiento de  las 
+
+                                                
+7  Considerando  las  restricciones  ya  señaladas,  respecto  a  la  interpretación  de  las  notas  de  enseñanza  media  y  la 
+pertenencia al CRUCH de la institución de educación superior. 
+20 
+
+ 
+
+ 
+ 
+postulaciones  docentes  en  cuanto  a  su  origen  social.   Esta  inclinación  por  la  familiaridad,  es 
+
+comprendida  desde  la  teoría  de  la  reproducción  social  por  el  actuar  habitus;  es  decir  las 
+
+disposiciones  y  percepciones  que  dan  forma  a  cómo  los  individuos  dan  sentido  y  actúan  en  un 
+
+campo  particular  (Bourdieu  &  Wacquant,  2005).  Esta  situación  genera  una  distancia  social  con 
+
+quienes  no  comparten  el  mismo  habitus,  lo  que  limita  las  posibilidades  de  interacción  (Bourdieu,  
+
+1997).  Sería  posible  cuest ionarse  si,  en  parte,  en  razón  del  habitus,  los  profesores  comienzan  su 
+
+trayectoria  laboral  en  escuelas  que  le  son  próximas,  en  cuanto  a  su  posición  social;  y  las  que  a  su 
+
+vez han encontrado en el docente un igual. 
+
+En  conclusión,  esta  evidencia  en  su  conjunto  sugiere  que  tanto  el  origen  social  como  las 
+
+credenciales que  los profesores portan, al  ingresar al mercado  laboral,  influyen en el  tipo de escuela 
+
+en  la que  inician  su  trayectoria  laboral docente. Y,  aunque  la  influencia del origen  social  se  vea ,  en 
+
+parte,  moderada  por  las  credenciales  académicas;  las  diferencias  de  origen  social  persisten.  Esto 
+
+permite dar cuenta que, el estudio del dest ino  laboral de  los profesores principiantes no puede pasar 
+
+por alto la  influencia del origen.   
+
+ 
+
+21 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+VI. Bibliografía  
+
+Akiba, M., LeTendre, G. K., & Scribner, J. P. (2007). Teacher Quality, Opportunity Gap, and National 
+Achievement in 46 Countries. Educational Researcher, 36(7), 369–387. 
+http://doi.org/10.3102/0013189X07308739  
+
+Bacolod, M. (2007). Who Teaches and Where They Choose to Teach: College Graduates of the 1990s. 
+Educational Evaluation and Policy Analysis , 29(3), 155–168. http://doi.org/10.3102/0162373707305586  
+
+Béteille, T., & Loeb, S. (2009). Teacher quality and teacher labor markets. In G. Sykes, B. Schneider, & D. N. 
+Plank (Eds.), Handbook of Education Policy Research  (pp. 596–612).  
+
+Boyd, D., Lankford, H., Loeb, S., Rockoff, J., & Wyckoff, J. (2008). The narrowing gap in New York City 
+teacher qualifications and its implications for student achievement in high-poverty schools. Journal of Policy 
+Analysis and Management, 27(4), 793–818. http://doi.org/10.1002/pam.20377 
+
+Boyd, D., Lankford, H., Loeb, S., & Wyckoff, J. (2003). U nderstanding teacher labor markets: Implications for 
+equity. In D. Monk & M. Plecki (Eds.), School Finance and Teacher Quality: Exploring the Connections, AEFA 
+2003 Yearbook. 
+
+Boyd, D., Lankford, H., Loeb, S., & Wyckoff, J. (2005). The draw of home: How teachers’ preferences for 
+proximity disadvantage urban schools. Journal of Policy Analysis and Management, 24(1), 113–132. 
+http://doi.org/10.1002/pam.20072 
+
+Boyd, D., Lankford, H., Loeb, S., & Wyckoff, J. (2013). Analyzing the Determinants of the Matching of Public 
+School Teachers to Jobs: Disentangling the Preferences of Teachers and Employers. Journal of Labor 
+Economics, 31(1), 83–117. http://doi.org/10.1086/666725  
+
+Cabezas, V., Gallego, F., Santelices, V., & Zarhi, M. (2011). Factores Correlacionados con las Trayectorias 
+Laborales de Docentes en Chile, con Especial Énfasis en sus Atributos Académicos. In Proyecto FONIDE N° 
+FS511082-2010. Santiago: Ministerio de Educación.  
+
+Clotfelter, C. T., Ladd, H. F., & Vigdor, J. (2005). Who teaches whom? Race and the distribution of novice 
+teachers. Economics of Education Review, 24(4), 377–392. 
+http://doi.org/10.1016/j.econedurev.2004.06.008 
+
+Engel, M. (2009). Time-out on Timing: The Relationship between the Timing of Teacher Hires and Teacher 
+Quality. 
+
+22 
+
+ 
+
+ 
+ 
+Engel, M. (2012). The Timing of Teacher Hires and Teacher Qualifications : Is There an Association ? Teacher 
+College Record, 114(December 2012), 1–29.  
+
+Engel, M., & Finch, M. (2015). Staffing the classroom: How urban principals find teachers and make hiring 
+decisions. Leadership and Policy in Schools, 14(2), 12–41. 
+
+Engel, M., Jacob, B. a., & Curran, F. C. (2013). New evidence on teacher labor supply. American Educational 
+Research Journal, 51(1), 36–72. http://doi.org/10.3102/0002831213503031  
+
+Flores, C., Ortúzar, M. S., Ayala, P., & Milesi, C. (2015). Buscando la aguja en el pajar: Proceso de búsqueda 
+y contratación de pofesores en la Región Metropolitana. Estudios de Política Educativa, I(1), 16–63. 
+Retrieved from 
+http://centroestudios.mineduc.cl/tp_enlaces/portales/tp5996f8b7cm96/up loadImg/File/Revista/Revista_E
+studios_Politica_Educativa_PDFFINAL.pdf 
+
+Goldhaber, D., Lavery, L., & Theobald, R. (2015). Uneven Playing Field? Assessing the Teacher Quality Gap 
+Between Advantaged and Disadvantaged Students. Educational Researcher, 44(5), 293–307. 
+http://doi.org/10.3102/0013189X15592622  
+
+Horng, E. L. (2009). Teachers’ Tradeoffs: Teacher Disentangling and Conditions for Preferences Working 
+Student Demographics. American Educational Research Journal, 46(3), 690–717. 
+http://doi.org/103102/00028312083295  
+
+Kalogrides, D., Loeb, S., & Bank, W. (2013). Systematic Sorting: Teacher Characteristics and Class 
+Assignments. Sociology of Education, 86(2), 103–123.  
+
+Lankford, H., Loeb, S., & Wyckoff, J. (2002). Teacher Sorting and the Plight of Urban Schools: A Descriptive 
+Analysis. Educational Evaluation and Policy Analysis , 24(1), 37–62. Retrieved from 
+http://www.jstor.org/stable/3594146?seq=1#page_scan_tab_contents  
+
+Levin, J., & Quinn, M. (2003). Missed Opportunities : How we keep high-quality teachers out of urban 
+classrooms. The New Teacher Project. 
+
+Liu, E., & Moore Johnson, S. (2006). New Teachers’ Experiences of Hiring: Late, Rushed, and Information -
+Poor. Educational Administration Quarterly , 42(3), 324–360. http://doi.org/10.1177/0013161X05282610  
+
+Meckes, L., & Bascopé, M. (2012). Uneven distribution of novice teacher in the Chilean primary school 
+system. Education Policy Analysis Archives , 20(30). Retrieved from http://eric.ed.gov/?id=EJ990110  
+
+23 
+
+ 
+
+ 
+ 
+Ortúzar, M. S., Flores, C., Milesi, C., & Cox, C. (2010). Aspectos de la formación inicial docente y su 
+influencia en el rendimiento académico de los alumnos. Camino Al Bicentenario Propuestas Para Chile, 
+155–186.  
+
+Paredes, R., Bogolasky, F., Cabezas, V., Rivero, R., & Zahri, M. (2013). Los Determinantes del Primer Trabajo 
+para Profesores de Educación Básica en la Región Metropolitana. In Proyecto FONIDE N° F611105. Santiago: 
+Ministerio de Educación. 
+
+Peske, B. H. G., & Haycock, K. (2006). Teaching Inequality: How poor and minority students are 
+shortchanged on teacher quality. The Education Trust, (June). 
+
+Reininger, M. (2011). Hometown Disadvantage ? It Depends on Where You ’ re From : Teachers ’ Location 
+Preferences and the Implications for Staffing Schools. Educational Evaluation and Policy Analysis , XX(X). 
+http://doi.org/10.3102/0162373711420864  
+
+Rivero, R. (2012). The Distribution of Highly-Qualified Teachers in Chile. Trabajo Presentado En El Segundo 
+Congreso Interdisciplinario de Investigación En Educación (CIIE 2012) . 
+
+Toledo, G., & Valenzuela, J. P. (2012). Ordenamiento de profesores y estudiantes entre y dentro de los 
+establecimientos escolares: el caso de Chile. Santiago, Chile. Retrieved from 
+http://www.econ.uchile.cl/uploads/publicacion/b77345cb20543ea1c590a3b4985fc7fc2214dbfd.pdf  
+
+ 
+
+ 
+
+24 
+
+

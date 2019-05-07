@@ -1,0 +1,576 @@
+ALAS 2017
+
+GT 04. Estado, Legitimidad, Gobernabilidad y Democracia
+
+Título: La descentralización del Estado en América Latina: el caso uruguayo
+Autores: Alejandro Noboa – anoboa@unorte.edu.uy
+                Natalia Bisio – bisio.carvallo@gmail.com
+
+Institución: CENUR Litoral Norte - UdelaR
+Palabras claves: descentralización, mesas territoriales, gobernanza.
+
+Resumen
+Al   principio   se   recorren   las   diferentes   teorías   que   alumbran   las   experiencia   de
+descentralización   en  América   Latina,   fenómeno   que   aparece   tardíamente   en   Uruguay.  Mas
+adelante el artículo muestra elementos para la evaluación de políticas de descentralización del
+gobierno  central  del  Uruguay  en   sus  versiones  más  potentes.  Allí   se  presentan   los  esfuerzos
+del Ministerio de Ganadería, del Ministerio del Interior y del Ministerio de Desarrollo Social.
+Se   relevan  percepciones  de   los  actores  participantes  y   se  concluye  en  consecuencia   sobre   la
+marcha de estas políticas  sus aspectos  positivos  y negativos  tales  como el funcionamiento de
+la   nueva   institucionalidad,   relaciones   con   otras   instituciones,   actores   participantes,   logros
+obtenidos y obstáculos detectados. Se agrega al final un apartado de reflexiones que da pistas
+para   reformular   las   experiencias   en   clave   de   participación   social   y   democracia.   Si   se   desea
+profundizar más en este tema se puede ver “La gestión pública descentralizada: una reflexión
+sobre   las   entidades   institucionales   territoriales   en   el   litoral   norte   uruguayo”   de  Ana   Inés
+Abarno,  Alejandra  Andrioli,  Natalia  Bisio,  Guillermo  Herrmann,  Alejandro  Noboa,  Natalie
+Robaina,   Iván   Sánchez,   Mariano   Suárez.   Compiladora:   Natalia   Bisio,   editado   por   la
+Universidad de la República en 2017. 
+
+ 
+1.
+Algunas apreciaciones conceptuales
+Desde   entrado   el   siglo  XX   a   esta   parte,   en  América  Latina   existe   una   fuerte   relación   entre
+modelo   de   desarrollo   y   tipo   de   Estado.   En   el   modelo   industrial-desarrollista   (1930-1970),
+cuyo   objetivo   era   la   modernización   y   el   bienestar   mediante   la   industrialización,   la
+1
+
+estatización   y   la   nacionalización,   se   desplegó   un   tipo   de   Estado   funcional   a   un   sistema
+industrial, fuertemente centralizado y sectorializado que tomaba decisiones desde un centro y
+sin  comunicación  entre  sus  agencias  (Veneziano,  2005).  El  supuesto  era  que   el  Estado  sabe,
+sólo  cabía  aceptar  o  no   su  prestación,  cuando  ella  no  era  obligatoria.  La   toma  de  decisiones
+era   exclusividad   de   gobernantes   y   técnicos,   y   su   implementación   caía   en   cascada   hacia
+niveles   periféricos   (Franco,   1996).   La   centralización   sometía   a   los   ámbitos   territoriales
+subnacionales   a   control   sobre   competencias   y   recursos,   y   solo   se   les   asignaba   funciones
+marginales   y   subsidiarias.  Eran   vistos   como   rupturas   de   la   evolución   positiva   integral   y   de
+racionalidad   uniformizante,   resabios   de   las   sociedades   pre-modernas.   La   participación
+ciudadana quedaba  remitida a lo electoral y al mundo del trabajo-producción.
+Posteriormente   el   modelo   neoliberal   se   instala   en  América   Latina   (1980-2000)   y   tuvo   sus
+fundamentos políticos principales basados en el Consenso de Washington: 
+1.   la  privatización  de   los  servicios  públicos  para   liberar  a  gobiernos  centrales  de   los  déficits
+presupuestarios y controlar la inflación;
+2.   la  desregulación  de  mercados  para  hacer  competentes   las   economías  desde   la  promoción
+de la inversión como dínamo económico;
+3.   la  desburocratización  para   mejorar   rendimientos   impositivos   destinados   a   créditos
+empresariales (Garretón, 2004, p.96-97).
+En   cuanto   a   la   descentralización   territorial   tuvo   un   consenso   inicial   ya   que   convivían
+imperativos   de   consolidación   democrática   y  modernización   económica,   pero   con   objetivos
+diferentes.  Para   la  democracia,   la  descentralización   significaba  participación  popular,  y  para
+la   economía   significaba   desligar   a   los   gobiernos   nacionales   de   compromisos   sociales   y
+trasladarlos a  la sociedad civil (Boisier, 1990; Coraggio, 1990). 
+La   visión   economicista   predominó   y   la   descentralización   colaboraría   con   la   acumulación
+capitalista  más   que   con   la   democracia.   En   este   contexto   neoliberal   comienza   a   hablarse   de
+transversalidad y coordinación en la gestión pública, pero desde una lógica eficientista, en el
+marco   de   una   reforma   de  Estado   de   tipo   conservadora.  Ambas   se   concebirían   como  medio
+para lograr un mayor impacto de las políticas de un Estado retraído ante el mercado (Repetto
+y Fernández, 2005).
+Luego  a  finales  del  Siglo  XX  y  principios  del  XXI,  y  en  paralelo  al  ascenso  de   izquierdas  a
+los  gobiernos  del continente,  nacería  el  paradigma de  la  gobernanza  en  las  ciencias  sociales
+y   en   la  gestión  pública,  que  nace  del   reconocido   fracaso  del  paradigma   estado-céntrico  y   el
+paradigma   socio-céntrico.   Dicho   sencillamente,   los   fracasos   que   mostraron   el   Estado
+2
+
+(experiencia  socialista  y keynesianismo)  y el  mercado  (neoliberalismo),  se  concluye  que  por
+sí solos, ninguno de los dos  puede generar un cambio  social  inclusivo  (Mayntz, 2001; Licha,
+2002; Evans, 1996), naciendo el paradigma alternativo caracterizado por la gestión en redes
+y   el   gobierno   multinivel.  Aparece   lo   novedoso   de   la   gestión   transversal,   para   superar   la
+estructura   organizativa   estatal   jerárquica   y   sectorial   del   modelo   keynesiano-benefactor,   así
+como   la   autonomía  y   el   eficientismo  del  modelo  gerencialista  o  Nueva  Gestión  Pública  del
+neoliberalismo   (Zurbriggen,   Morales   y   Rak,   2010).   Estos     enfoques   de   Nueva   Gestión
+Pública   se   centran   en   atributos   de   organizaciones   sectoriales   desconociendo   casi   por
+completo  el universo de las  relaciones  inter-organizacionales, las  redes  políticas  y sociales, y
+la   interdependencia   de   acciones,   resultados   e   impactos.   Es   así   como   los   problemas   de
+coherencia   de   políticas   y   de   coordinación   quedan   fuera   de   análisis,   tanto   por   el   carácter
+cerrado  y   jerárquico  de   la  burocracia  weberiana,  como  por  el   individualismo  organizacional
+de la Nueva Gestión Pública (Martínez Nogueira, 2012, p.57). 
+En   los   últimos   años   se   afianzó   la   certeza   de   que   muchos   problemas   sociales   tienen   un
+carácter multidimensional y multicausal. Esto implica que el bienestar no se ve afectado solo
+cuando   hay   una   única   necesidad   insatisfecha,   sino   que   hay   otras   dimensiones   cuya
+insatisfacción  incide profundamente  en la calidad  de vida  de las  personas. De esta manera la
+coordinación   interinstitucional   aparece   ligada   al  paradigma   de   gobernanza,   que   lleva
+implícita   la   idea   de   transversalidad,   coordinación   intersectorial,   gobierno   multinivel,
+cooperación entre lo público, privado y público no estatal (Martínez Nogueira, 2012).
+La gobernanza puede ejercerse en diversos niveles de la acción social. El global, que exige la
+producción   de   nuevos   bienes   públicos   globales   y   ámbitos   que   permitan   una   “acción
+colectiva”  por parte  de   los  gobiernos  para  abordar   temas  como  cambio  climático,  regulación
+de  mercados   financieros,   respuestas   a   organizaciones  delictivas,   etc.  El  nacional,   que   exige
+alternativas   al   desfasaje   entre   racionalidad   acumulativa   de   las   economías   y   la   racionalidad
+redistributiva   de   la   política,   de   la   activación   social   y   de     la   participación.  A   nivel   sub-
+nacional-local se da una mayor densidad de transacciones y de demandas sociales debido a la
+proximidad,   que   chocan   con   esquemas   centralistas   y   homogeneizadores,   dando   lugar   a
+nuevos   experimentos   que   procuran   dar   mayor   incidencia   y   capacidades   decisorias   a   los
+actores   territoriales.   A   todo   ello,   deben   sumarse   las   relaciones   y   redes   gubernamentales
+“multinivel”,  con  normativas  no   siempre  convergentes,  estrategias  diferenciadas  y   tensiones
+en distintas redes de actores y campos de interacción (Nogueira, 2012:59).
+Así, transversalidad y coordinación intersectorial y multinivel, son elementos constitutivos de
+3
+
+la   gobernanza   y   claves   en   los   actuales   gobiernos   latinoamericanos   de   izquierda,   dado   que
+tanto el desarrollo como la inclusión social son fenómenos que responden a factores múltiples
+y requieren de una mayor presencia del Estado en cooperación tanto con agentes económicos
+como   de   la   sociedad   civil.   Ambas   se   constituyen   en   un   requisito   del   cómo   diseñar   e
+implementar las políticas públicas (García Delgado, 2011; Abal Medina, 2011). 
+La   coordinación   es   necesaria   no   solo   para   abordajes   integrales   a   problemáticas
+multidimensionales,   sino   también   para   minimizar   superposición   y   la   sobreposición   de
+políticas,   reducir   sus   inconsistencias,   asegurar   las   prioridades   y   apuntar   a   su   cohesión   y
+coherencia, atenuar el conflicto político y burocrático, promover una perspectiva holística de
+las políticas.
+Si  bien   trasciende  el  objetivo  de esta  comunicación  más  dedicada  al  cambio  en   las  políticas,
+merece   a   nuestro   juicio   un   mínimo   señalamiento   el   pensamiento   de   Edgar   Morin   (2007)
+quien   inició   la   justificación   epistemológica   del   conocimiento   integral   con   la   idea   de
+“pensamiento   complejo”.   Para   Morin   (2007)   la   ciencia   se   ha   concebido   desde   una
+epistemología  o  pensamiento   lineal  o   simple,  cuyo  objetivo  es  resumir   la  realidad  y  quitarle
+su   complejidad,   multidimensionalidad,   multicausalidad   y   que   en   definitiva   ha   mutilado   la
+capacidad   de   comprender   con   mayor   amplitud   los   fenómenos.   Por   tanto   propone   tomar
+partida   por   el   pensamiento   complejo,   que   implica   abordar   un   análisis   desde   múltiples
+miradas,   múltiples   conocimientos,   conectados   entre   sí   y   produciendo   abordajes   y
+concepciones   nuevas.   Este   pensamiento   implica,   haciendo   referencia   a   la   temática   en
+cuestión,   superar   la   sectorialidad   de   una   especialización   y   a   reducir   la   dicotomía
+racionalidad-realidad,   sujeto-objeto,   actor-estructura,   público-privado,   y   producir   un
+pensamiento no agotado en sí mismo.
+Pero   la   coordinación   de   las   políticas   territoriales   es   un   objeto   de   estudio   en   sí   misma   y
+merece particular análisis. La coordinación implica voluntad política y recursos, por lo que si
+bien  ofrece  múltiples  ventajas  para   la  efectividad  y  eficiencia  de   la  gestión  pública,   también
+encuentra   al  menos   dos   frenos.   Desde   la   perspectiva   técnica   e   institucional   los   obstáculos
+son: predominio de la sectorialidad, autosuficiencia y trabajo desde compartimentos estancos;
+y orientaciones cognitivas y profesionales se acotan a un campo particular de gestión pública,
+lo que Morin (2007) llamaría “pensamiento lineal”. 
+
+El   caso   uruguayo:   la   transformación   del   Estado   uruguayo   y   la   gobernanza   en
+2.
+Uruguay
+
+4
+
+En Uruguay desde el año 2005, se visualiza una nueva presencia del Estado en distintas áreas,
+así   como   también   la   generación   de   una   multiplicidad   de   ámbitos   descentralizados   y   de
+coordinación   intersectorial   y   territorial   con   un   fuerte   impulso   a   la   promoción   de   la
+participación   ciudadana   en   la   gestión   de   la   política   pública.   Esto   se   ha   denominado
+Transformación  Democrática   del   Estado   (TDE).   Esta   pretendía   diseñar   un   Estado   cercano,
+moderno,   igualitario,   productivo   y   solidario,   convertirlo   en   una   estructura   participativa,   al
+servicio del ciudadano y como escudo de los  débiles, reforma opuesta a las  del pasado (OPP
+2007,  p.5).  La  descentralización,   la   inter-institucionalidad  y   la  participación   aparecen   como
+macro-políticas rectoras en este nuevo Estado. 
+En   la   actual   división   político-territorial   del   país   las   aproximaciones   entre   el   Estado   y   la
+sociedad   civil   han   adquirido   una   relevancia   notoria   en   el   discurso   y   acciones   que   se
+desarrollan   desde   las   distintas   instancias   gubernamentales.   La   creación   de   espacios
+interinstitucionales   así   como   de   otros   convocados   por   la   propia   sociedad   civil   en   torno   a
+diversas   temáticas,   resultan  experiencias   innovadoras  en  el  Uruguay  en   las  que   se  ponen  de
+manifiesto   las   potencialidades   y   las   limitaciones   de   la   articulación   sociedad   civil   –   Estado
+materializada en la incorporación de los grupos sociales de base territorial en la identificación
+de   las   necesidades   y   en   la   implementación   de   la  política  pública  pensada   para   su   abordaje.
+Estos   procesos   de   participación   ciudadana   promocionados   por   los   Ministerios   del   Poder
+Ejecutivo  muestran   una   serie   de   fortalezas   y   obstáculos   vinculados   tanto   a   la   capacidad   de
+organización y demanda de los actores locales, así como a la ausencia o presencia de espacios
+autónomos   de   toma   de   decisión   institucionalmente   legitimados   y   promovidos   según   sea   el
+sector o la región donde se producen. Los espacios  que hemos  logrado investigar y a los que
+el   trabajo  hace   referencia,   son:  las  Mesas  de  Desarrollo  Rural   (lideradas  por   el  MGAP),   las
+Mesas   Interinstitucionales   de   Políticas   Sociales   (lideradas   por   el  MIDES)   y   las  Mesas   de
+Seguridad   Ciudadana   (conformadas   a   partir   de   intereses   y   demandas   de   la   comunidad   o
+actores de la sociedad civil).
+Sin   lugar   a   dudas,   las   nuevas   formas   de   participación   y   gestión   están   trasvasadas   por
+transformaciones   profundas   respecto   al   papel   del   Estado   y   su   manera   de   gestionar   las
+políticas,   en   donde   coexisten   nuevos   parámetros   que   indican   las   nuevas   definiciones   de
+criterios   para   el   diseño   e   implementación   de   políticas   -   desde   objetivos   centralmente
+definidos hacia criterios descentralizados y desconcentrados territorialmente.  Esto conlleva a
+la  instauración necesaria  de nuevas  formas  de "institucionalidad" que si bien pueden  resultar
+en  muchos  casos  novedosas, también  arrastran resabios  del  centralismo del Estado uruguayo
+5
+
+largamente   impregnado   tanto  en   instituciones  públicas  como  en  actores  de   la   sociedad  civil.
+Por   tanto   los   marcos   analíticos   se   complejizan   en   la   medida   que   los   nuevos   formatos
+interinstitucionales están mediados por renovaciones conceptuales que abarcan un abanico de
+aspectos   a   tener   en   cuenta:   nuevas   formas   de   relacionamiento   Estado   y   sociedad   civil;
+Desarrollo,  Descentralización  y  Democracia  ésta  última   traducida  a   través  de  nuevas  formas
+de ejercicio de gobernabilidad y gobernanza.
+
+ 3. Desafíos de la Interinstitucionalidad 
+El Poder Ejecutivo uruguayo en su nuevo rol de conductor de políticas territoriales ha promo-
+vido y promueve cada vez con mayor intensidad la fijación de políticas sectoriales, las cuales
+se   legitiman  por  nuestra  Constitución  Nacional,  procurando   la  participación  de   los  distintos
+niveles  de  gobierno,  desde   la  Presidencia  de   la  República   a   través  de   la  Oficina  de  Planea -
+miento y Presupuesto, desde el Poder Ejecutivo los distintos Ministerios hasta las administra -
+ciones   descentralizadas,   Entes  Autónomos,   Servicios  Descentralizados,  Gobiernos  Departa -
+mentales y dando también intervención en algunos casos a Personas Públicas no Estatales y a
+la   sociedad   civil.  Esta   fijación  de  políticas  ha  dado   lugar   a   la   creación  de  distintos  organis -
+mos,  con  estructuras  complejas  que motivaron  a   la  creación  de   las  distintas  Mesas  objeto  de
+esta  investigación que cumplen con  la función primordial de asesorar, analizar, definir  linea-
+mientos  y estrategias, acordar prioridades, buscar instancias  de interacción entre los  distintos
+niveles de gobierno buscando un mayor grado de descentralización política, aunque no desde
+un punto de vista técnico jurídico. Analizaremos aquí tres modelos desarrollados por a su vez
+tres   Ministerios   del   Estado   uruguayo:   Mesas   Interinstitucionales   de   Políticas   Sociales
+(MIPS),  Mesas   de   Desarrollo   Rural   (MDR)   y  Mesas   Locales   de   Convivencia   y   Seguridad
+Ciudadana (MLCSC).
+
+3.1- Las Mesas Interinstitucionales de Políticas Sociales.
+Las   MIPS   son   entidades   territoriales   que   tienen   un   rol   clave   para   promover   la
+coordinación   y   transversalidad   en   la   gestión   de   los   problemas   sociales   del   territorio.   En
+algunas   partes   del   mundo   la   transversalidad   tiene   lugar   con   el   simple   hecho   de   que   cada
+institución incorpore los temas  transversales, pero el riesgo es  que los  temas  se diluyan en el
+día a día de las  instituciones, además  las reuniones  interinstitucionales  tienen una importante
+función  de  coordinación  que  permite  optimizar  recursos,   lo  cual   tiene  un  valor  adicional    en
+un contexto de recursos escasos.
+
+6
+
+Uno   de   los   aspectos   más   destacables   en   los   participantes   es   la   creencia   de   la
+interinstitucionalidad   como  un   camino   clave  para   el   abordaje  de   las  problemáticas   sociales.
+En este sentido, se puede decir que las MIPS han contribuido a la construcción de una cultura
+de   la   transversalidad,   aunque   este   aspecto   puede   relativizarse   por   algunas   ausencias
+importantes   en   los   diferentes   departamentos   que   denotan   la   falta   de   interés   en   el   trabajo
+interinstitucional y la idea de que se trata de una pérdida de tiempo. La interinstitucionalidad
+ha   cristalizado   en   abordajes   conjuntos   para   atender   problemas   concretos   en   los   diferentes
+departamentos,  así  como  en  acuerdos   informales  que  van  más  allá  de   la  propia  agenda  de   la
+propia  mesa   y   utilizan   los   canales   de   comunicación   generados   por   el   espacio   para   acordar
+aspectos puntuales en problemáticas puntuales. Sin embargo, pese a estos aspectos favorables
+se pueden mencionar algunos aspectos que todavía se presentan como desafíos para el futuro:
+
+Se   debe   atenuar,   sobre   todo   en   épocas   lejanas   a   las   elecciones,   las   lógicas   y   los
+
+intereses   político-partidarios   en   pro   de   un   abordaje   efectivo   de   los   problemas   sociales   del
+departamento   y   del   país,   este   aspecto   se   constituye   en   un   desafío   en   los   espacios   de
+cohabitación política entre los diferentes niveles de gobierno. 
+
+Lograr  generalizar  en   todos   los  actores  presentes  y  ausentes   la   idea  de  que  el   trabajo
+
+intersectorial,   además   de   ser   una   obligación   legal,   es   una   instancia   que   ayuda   a  mejorar   la
+acción institucional y la imagen pública. Esto implica combatir la idea que todavía se advierte
+en algunas instituciones de los departamentos estudiados que ven este trabajo como una carga
+adicional   o   como   un   espacio   en   el   cual   se   pueden   evidenciar   dificultades   en   la   gestión
+institucional. Este tipo de valoración inhiben una participación activa.
+
+Potenciar   la   actividad   tendiente   a   la   consecución  de  uno  de   los  objetivos  planteados
+
+para las MIPS: fortalecer los vínculos con las organizaciones de la sociedad civil. El logro de
+este objetivo debería cristalizar en mecanismos institucionalizados  de relacionamiento con la
+ciudadanía   y   no   en   algunas   convocatorias   puntuales   de   las   MIPS   o   algunas   demandas
+esporádicas  de  algunos  actores  sociales. Los  mecanismos  de  articulación  posibles  son varios
+y   se   puede   construir   una   estructura   compleja   de   relacionamiento   entre   sociedad   civil   e
+instituciones   estatales,   pero   uno   de   los   ámbitos   posibles   que   nos   parece   interesante   como
+recomendación sería tender puentes hacia los Presupuestos Participativos (en aquellos lugares
+donde   se   implementa)   ya   que   ahí   emergen   muchas   problemáticas   sociales   (y   propuestas
+7
+
+creativas  de la ciudadanía para abordarlos) que no obtienen en todos los casos financiaciones
+por medio de esta política y que podrían ser retomada de alguna manera por las MIPS.
+
+Lograr  constituirse  en  un  espacio  de  mayor  ejecutividad  y  operatividad,  este  aspecto
+
+fue  destacado en todos   los  departamentos  como un problema. En algunos  casos  puntuales  se
+reclama   la  presencia  de   representantes   institucionales  con  capacidad  de   toma  de  decisiones,
+es decir, los jefes. 
+
+Desde   la   perspectiva   del   paradigma   de   la   gobernanza,   las  MIPS   pueden   ser   vistas
+
+como  uno  de   los  espacios  por  excelencia  para  generar   la   red  de  actores  que  participen  en   la
+elaboración   e   implementación   de   políticas   públicas,   pero   hasta   ahora   no   ha   logrado
+articularse  de  forma  virtuosa  con  el  ámbito  de   la  sociedad  civil  o  el  ámbito  empresarial.    Es
+decir, a la red todavía le falta potencia, y quizás de la mano de un fortalecimiento de la misma
+pueda   emerger,   de   esas   sinergias   locales,   una   mayor   potencia   que   permita   ampliar   la
+capacidad de generar mecanismos de desarrollo local y una mayor capacidad de ejecutividad. 
+
+  El  Estado   uruguayo   debe   avanzar   en   relación   a   la   descentralización   (sobre   todo   de
+
+recursos)    hacia   las  MIPS   propiciando   un   ámbito  para   la  participación  de   las  mismas   en   el
+diseño de las políticas sociales.
+
+Es  aconsejable una mayor participación de políticos  en las  MIPS  para de esta manera
+
+fortalecer el ámbito en cuanto al poder de decisión.
+
+En   síntesis,   las   MIPS   representan   una   nueva   forma   de   pensar   el   abordaje   de   las
+problemáticas   sociales   que   puede   pensarse   desde   la   perspectiva   de   la   gobernanza,   la   cual
+aboga   por   un   gobierno   multinivel,   por   una   articulación   y   transversalidad   en   la   gestión
+pública,   la   cual  no   solo   involucra   los   actores   tradicionales  del  gobierno   sino  que   implica   la
+construcción   y   el   fortalecimiento   de   redes   decisionales   (con   actores   públicos,   privados   y
+públicos   no   estatales).  Dentro   de   este  marco   se   observa   que   aún   tiene   desafíos   por   delante
+sobre   todo   vinculados   a   la   neutralización   de   las   lógicas   político-partidarias,   la   ejecutividad
+del espacio y una articulación con la sociedad civil, pero que ha logrado ir instalando el tema
+de   la   transversalidad   y   construyendo   una   cultura   de   interinstitucionalidad,   si   bien   en   este
+punto   todavía   tiene   margen   para   crecer,   la   motivación   predominante   es   la   creencia   de   la
+8
+
+utilidad   de   este   abordaje   y   ello   constituye   un   caldo   de   cultivo   para   ir   potenciando   la
+herramienta y “rompiendo con la lógica del pensamiento lineal”.
+
+3.2- Las Mesas de Desarrollo Rural.
+Las Mesas de Desarrollo Rural (MDR) fueron creadas en el año 2007 con el cometido de pro-
+mover   la  participación  de  los  actores  que  viven  y  trabajan  en  el  medio  rural  en   la  identifica -
+ción  de  sus  necesidades  y  la  elaboración  de  la  agenda  de  desarrollo  para  su  zona  de  influen -
+cia.    Este  artículo  pretende  dar   cuenta  de   las   fortalezas  y  debilidades  que  perciben   sus   inte -
+grantes  en  términos  de  funcionamiento, participación ciudadana  e  involucramiento  en  la ela -
+boración de la agenda y en el proceso de toma de decisión desarrollado en cada espacio.
+Estos   espacios   aunque   comparten   dificultades   comunes,   adquieren  distintas  modalidades   de
+funcionamiento así como de abordaje de las problemáticas priorizadas por sus actores. En ge -
+neral las temáticas abordadas por cada Mesa están directamente vinculadas al tipo de produc-
+ción   pero   sobre   todo   a   las   condiciones   sociales   de   su   población,   destacándose   una   fuerte
+preocupación por el acceso a servicios básicos como educación, salud y vivienda, en aquellas
+Mesas cuyas organizaciones representan a los pobladores del interior más alejado de las capi -
+tales  departamentales.  Entre   los  asuntos  mayormente  abordados  se destacan:  la  valorización,
+regulación   y   formalización   del  Trabajo   Rural,   el   desarrollo   de   servicios   y   Capacitación,   la
+ejecución y seguimiento de Propuestas  de Fortalecimiento Institucional, el abordaje de la he -
+rramienta   crédito  productivo   como  prioritaria,   el  uso  y   calidad  del   recurso   agua,   el  mejora-
+miento de la caminería rural y el acceso a la tierra, entre otros. 
+Si bien  los  discursos  rescatan  un proceso significativo de aprendizaje colectivo en relación a
+las formas en las que se piensa el desarrollo de los territorios en cuestión, se identifican fuer -
+tes  debilidades asociadas  a la trayectoria de las organizaciones sociales  y su capacidad de in-
+cidencia, al protagonismo que adquieren aquéllos  participantes  con mayor presencia en estos
+espacios,   a  la   diversidad   de   organizaciones   en   términos   organizativos,   económicos,   etc.   en
+tanto   no   es   vista   como   una   potencia   sino   como   una   dificultad   para   el   intercambio.  En   este
+sentido, teniendo en cuenta lo anteriormente mencionado, se puede decir que uno de los asun-
+tos  neurálgicos  de  estos  espacios  en  términos  de democratización de la gestión de la  política
+pública, es  la  representatividad de  los  representantes  y  la  legitimidad de sus  decisiones  ante
+las instituciones y su nivel de ejecutividad. 
+
+9
+
+Es  de común acuerdo que las  Mesas constituyen un instrumento válido en tanto espacio para
+plantear  problemáticas   de  diversa   índole   (aunque   primordialmente   referidas   al   trabajo   en   el
+medio  rural)  y  conocer   los   lineamientos  y  propuestas  de   las   instituciones  que   trabajan  en  él.
+Sin embargo, los discursos (aún en aquéllos donde la experiencia es considerada exitosa), de -
+notan una mirada cortoplacista de las decisiones y temáticas que en ellas se abordan, resultan -
+do un medio para canalizar demandas puntuales que no logran ser visualizadas en el marco de
+una estrategia global de desarrollo rural; producto entre otros, de las trabas burocráticas y po -
+líticas que presenta el proceso de descentralización en curso. 
+No obstante, tal como sostienen los entrevistados, aún persisten vestigios de un status de ciu -
+dadano que se ha alejado de la “cosa pública”, delegando en sus representantes constituciona -
+les  la  gestión  política de la  vida  social. Esta delegación  en  las   instituciones  y/o los  represen -
+tantes  políticos,  se  convierte  en  una  verdadera   traba  al  desarrollo  de   las  comunidades  (sobre
+todo de aquéllas más alejadas  del centro de poder), sino que al mismo tiempo reproduce una
+lógica  paternalista  por  parte  de   los  primeros  y  una  actitud  pasiva   (“cómoda”)  y  desconfiada
+de éstas que se acentúa con la falta de una estrategia integral y sostenible de desarrollo. 
+En   términos  generales  se  visualiza  un   camino   recorrido  de   aprendizaje  y   compromiso   en   el
+seno   de   este   ámbito   en   cuanto   a   lo   organizacional,   a   la   coordinación   de   actividades   y   a   la
+priorización de las necesidades y las alternativas para abordarlos. No obstante ello, se visuali -
+zan  debilidades  asociadas  al  nivel  de  formalización  y  antigüedad  de   las  organizaciones,  a  su
+reconocimiento e inserción en la zona y a las particularidades individuales de los representan -
+tes   organizacionales.  Las   organizaciones  nuevas   que   quedan   “relegadas”   ante   la   trayectoria
+de   las  “viejas”,   la  personalidad  de   los  participantes   tiene  mayor   influencia  que   la   trayectoria
+de  la  organización,  los  representantes  responden  más  a  intereses  personales  que organizacio -
+nales y la diversidad de organizaciones en términos organizativos, económicos, etc. no es vis -
+ta  como  una  potencia  sino  como  una  dificultad  para  el   intercambio  y/o  “pérdida  de   tiempo”
+por   parte  de   las   grandes  organizaciones.  Si   bien   lo s   casos   tratan  de   espacios  que   pretenden
+nuclear a la totalidad de organizaciones de productores del departamento, se visualiza una di -
+ficultad en la incorporación de los referentes  de organizaciones “fuertes” en términos  econó -
+micos y organizativos dado que sus necesidades no se “satisfacen” en estos ámbitos.
+En   este   sentido,   algunos   de   los   desafíos   que   se   identifican   en   términos   de   consolidación   y
+apropiación de estos espacios refieren a la necesidad de una planificación compartida por ins -
+tituciones y organizaciones del trabajo a realizar en el corto y mediano plazo, con responsabi -
+
+10
+
+lidades  y  tareas  claramente  definidas  para  su  ejecución  y seguimiento  posterior,  así  como  de
+un fortalecimiento de la capacidad organizativa y propositiva de los actores locales. 
+
+3.3- Las Mesas Locales para la Convivencia y Seguridad Ciudadana.
+Otra  de   las   iniciativas   institucionales  participativas  que  el  proyecto   se  propuso  estudiar,   son
+las   Mesas   Locales   para   la   Convivencia   y   la   Seguridad   Ciudadana   (MLCSC).   Estas
+constituyen  espacios  donde   se  detectan  problemas  de  convivencia  y   seguridad,  con  el   fin  de
+definir   prioridades,   acuerdos,   y   planificar   acciones   conjuntas,   entre   las   instituciones   y   los
+vecinos   que   den   respuesta   a   las   problemáticas   identificadas.  A   continuación   se   presentan
+algunas   consideraciones,  planteadas   fundamentalmente   en   términos  de   fortalezas  y   desafíos
+de las MLCSC. 
+Una primera cuestión a destacar por los participantes de las Mesas analizadas, se vincula a la
+nueva visión que se le intenta dar a la policía, a partir sobre todo del rol que se le asigna a la
+policía   comunitaria,   acercándose   el   Estado   a   la   ciudadanía;   en   palabras   de   los   actores:
+“saliendo  de   la  Seccional  a   los  barrios”.  Sin  duda  es  un  propósito  bien  recibido  en  principio
+por los entrevistados. 
+En el marco del funcionamiento cotidiano de las mismas, otra de las principales fortalezas de
+las   entidades   estudiadas   radica   en   el   bajo   perfil   de   la   institucionalidad   policial,   lo   que
+permitió  dejar  mayor  espacio  a   la  participación  de  la  sociedad  civil,  dándole  más  autonomía
+al   momento   de   plantear   los   temas   sentidos   como   problemas   así   como   la   definición   de
+estrategias   o   acciones   que   den   respuesta   a   los  mismos.   La   configuración   de   estos   espacios
+con este único propósito fue totalmente desbordado por las demandas de los vecinos, quienes
+exigieron   y   plantearon   otro   tipo   de   problemáticas   que   excedían   la   temática   inicialmente
+propuesta, constituyéndose el espacio como caja de resonancia de los problemas concretos de
+la población en ese sentido. 
+Aun   reconociendo   las   ventajas   de   una   baja   institucionalidad,   no   se   puede   dejar   de     señalar
+que   este   aspecto   tiene   como   contracara   la   ausencia   de   algún   actor   que   al  menos   en   alguna
+etapa   del   proceso   lidere   el   espacio.   En   este   sentido,   y   de   acuerdo   con   las   visiones   de   los
+actores involucrados en las Mesas, dado que es el Ministerio del Interior quien establece estos
+espacios, es la policía la que primero se notifica de la existencia de las mismas, por lo cual no
+se podría dar por sobreentendido que la ciudadanía conoce la figura y por tanto la reclamará.
+Así,   se   podría   pesar   que   es   el   propio  Ministerio   del   Interior   quien   al  menos   en   una   etapa
+inicial debería liderar el proceso.
+
+11
+
+Uno   de   los   principales   escollos   a   los   que   se   enfrentan   las  MLCSC,   lo   constituye   la   escasa
+participación   de   algunos   actores   esenciales,   fundamentalmente   del   Jefe   de   la   Seccional
+Policial   de   la   zona   de   influencia   de   la   mesa.   Tomando   en   cuenta   las   dificultades   de
+funcionamiento   que   presentan   las   entidades   analizadas,   se   destaca   en   este   caso,   la   “sobre  o
+múltiple   participación”   de   los   actores   que   las   conforman   (sean   institucionales   u
+organizacionales), reiterándose su presencia en otros  espacios como pueden ser las  Mesas  de
+Coordinación Zonal, Nodos Educativos, SOCAT, etc. Como alternativa para evitar el desgaste
+que esta situación puede generar, en algunos casos se plantea la posibilidad de no generar una
+Mesa   aparte   para   trabajar   los   temas   de   convivencia   y   seguridad   ciudadana,   sino   que   éstos
+sean   trabajados   en   los   espacios   que   actualmente   presentan   menos   problemas   de
+funcionamiento   considerándose   un   tema   transversal   a   toda   la   problemática   ciudadana.  Esta
+exigencia   de   simplificación   de   espacios   podría   generar   la   optimización   de   los   existentes   y
+evitar   el   agotamiento   de   los   actores.   Disparar   y   sostener   un   espacio   de   participación
+ciudadana   no   es   un   proceso   que   se   pueda   improvisar   espontáneamente,   sino   que   hay   que
+pensar todos los aspectos organizacionales, hay que planificarlo.
+Cabe   decir   que   las   MLCSC   no   tienen   ningún   tipo   de   influencia   en   las   políticas   públicas
+nacionales sobre seguridad ciudadana, aunque no constituye un propósito (al menos explícito)
+de las Mesas, tampoco lo generan colateralmente. Este hecho tiene como consecuencia que si
+bien   en   casos   los   entrevistados   ven   la   institucionalidad   como   un   canal   donde   van   a   ser
+escuchados,   luego   esto   no   produce   los   efectos   buscados.  Parece   razonable   pensar   que   para
+abordar el tema de la seguridad ciudadana y llevar adelante una buena tarea de prevención es
+importante la participación de los gobiernos locales (departamentales y municipales).
+Por   otra   parte,   como   se   ha   dicho   la   diversidad   temática   emergente   en   las   mesas   que
+funcionaron generan  dos  reflexiones  complementarias:  1. la confirmación  de la  necesidad  de
+que   existan   espacios   de   participación   ciudadana   donde   los   vecinos   puedan   expresar   sus
+necesidades   y   soluciones   a   los   problemas   cotidianos;   2.   la   debilitación   progresiva   de   las
+MLCSC confirma el hecho de que el tema si bien es sentido por los vecinos, es parte de toda
+la   problemática   que   afecta   al   vecindario,   evidenciando   un   problema   de   diseño   de   la
+participación ciudadana en los asuntos estatales que deberá reverse en el futuro, abandonando
+el criterio sectorial de algunas iniciativas y dando preeminencia a los problemas territoriales.  
+Igualmente   el   cambio   en   las   prácticas   de   gobierno   y   en   el   ambiente   de   las   ciudades,   la
+renovación   de   zonas   deterioradas   y   el   fortalecimiento   de   la   integración   de   los   ciudadanos,
+contribuye a  una mejor  sociedad,  y a una mejor convivencia.  El surgimiento de  asociaciones
+12
+
+locales  en  algunos  países  ha logrado  que la  seguridad sea vista  como  una responsabilidad  de
+la propia comunidad, donde se involucran todas las instituciones y organizaciones,  no solo la
+policía,  con una participación que se caracteriza por ser más horizontal que vertical.
+
+3.
+Algunas reflexiones
+Para terminar retomando algunas ideas desarrolladas en el recorrido que acabamos de realizar
+a  partir  de   las  vivencias  y  percepciones  de   los   actores   involucrados  en   los  procesos  de  des-
+centralización en cuestión, consideramos de suma relevancia enfatizar algunos aprendizajes y
+desafíos por ellos destacados. 
+En primer lugar, entre los aprendizajes y reivindicaciones planteadas por los actores, se des-
+taca la necesidad de profundizar los procesos de descentralización en términos de desconcen -
+tración  de  recursos  de  diversa  naturaleza,  (económicos  fundamentalmente)  y  sobre   todo,  au -
+tonomía  para   su  disposición  y  destino.  Superar   las   lógicas   centralizadas  de   las   instituciones
+territoriales, aún cuando se obtienen recursos  propios, constituye uno de los  planteos  realiza -
+dos con mayor énfasis en los encuentros. Preguntas referidas a: ¿cómo se adapta la institucio -
+nalidad a estos procesos descentralizados?, ¿cómo se instrumenta desde la interinstitucionali -
+dad la apropiación ciudadana de “lo público”? o ¿qué implica en términos sociales y políticos
+una descentralización exitosa?, son algunas  de las  interrogantes que motivan a los actores en
+su búsqueda por respuestas que trasciendan discursos y prácticas reproductoras de las lógicas
+burocráticas   y   focalizadas   de   la   centralidad.  En   este   sentido,   se   plantea   que  muchas   de   las
+propuestas que se desarrollan con una intencionalidad descentralizadora y participativa, refie -
+ren a acciones desconcentradas más que descentralizadas, limitando la autonomía de los acto -
+res   locales  y  el  alcance  pretendidamente  universal  de   las  políticas   focalizadas…  ¿qué  queda
+una vez que éstas finalizan o se retiran del territorio?
+En segundo lugar, si bien se rescata y se comparte la voluntad política de pensar un modelo
+de  política  pública  que minimice   las  inequidades  territoriales  de  nuestra  realidad,   los  actores
+de los tres espacios (aunque principalmente de las MIPS y MDR), señalan que la  “cultura de
+la   intención”  o  del  “casi,   casi”,  debe   ser   reemplazada  por  una  “cultura  de   la  acción”  que
+modifique la estructura centralizada sobre la que se erige el aparato estatal y el sistema de po -
+líticas públicas, y permita su internalización en funcionarios y demás ejecutores de la política;
+de   lo  contrario  continuaremos  reproduciendo  o   readaptando  propuestas  pensadas  y  controla -
+das centralmente en forma homogénea, para realidades cambiantes y heterogéneas.
+
+13
+
+Pensar las  problemáticas  en clave tanto regional como interinstitucionalmente parece ser una
+necesidad compartida y consensuada por todos los actores; ello requiere pasar de acciones ru -
+tinarias  y  burocratizadas   a   intervenciones  que   reflejen   la  autonomía  de   los   ciudadanos  y  de
+los  gobiernos   locales,   en   la  definición   y   gestión  de   los   recursos   implicados   en   la  puesta   en
+marcha  de   cualquier  política  de  desarrollo  pensada  en  y  desde   el   territorio.  En  este   sentido,
+eficacia y eficiencia se destacan como dos ejes  centrales   desde los que los actores  entienden
+debe ser pensada y evaluada la política pública, sea ésta ejecutada centralmente por los orga -
+nismos  competentes  o localmente con  recursos  propios  de  cada territorio.  Un aspecto que  en
+este   contexto   es   destacado   por   los   actores   pero   que   pocas   veces   es   debatido   y/o   tenido   en
+cuenta por parte de quienes diseñan las políticas, refiere al  costo de la participación (requisi-
+to  que  cada  vez  aparece  con  mayor  énfasis  en   todas   las  propuestas  de  desarrollo   territorial),
+no  sólo  en   términos  sociales  sino  también  económicos  y materiales  de  quienes  son  convoca -
+dos y deciden ser parte de su implementación, sean o no, beneficiarios directos de ellas.   
+Finalmente, profundizar los procesos de descentralización y participación ciudadana requiere
+la  construcción  de  capacidades  colectivas  que   trasciendan  posturas  centradas  en  protagonis-
+mos autorreferenciales para dar paso a nuevas formas de apropiación de la cosa pública desde
+el  manejo  e   intercambio  compartido  de   información  así  como   la  discusión  colectiva  a  partir
+de  situaciones  concretas  (comunes  o  no) procurando  captar   las   lógicas  barriales  o  comunita -
+rias  de   las   problemáticas.  Ello   nos   exige   (como  Estado  y   sociedad   civil),   superar   los  “cha-
+crismos” y personalismos tanto individuales como institucionales u organizacionales en todas
+las   instancias  (decisorias  y  ejecutivas)  que   implica   la  gestión  de   la  política  pública  desde  un
+enfoque  participativo.  Sin  duda  esta  última  reflexión  genera   la  necesidad  de  repensar  el  mo -
+delo  de  descentralización  puesto  en   funcionamiento  y   rediseñar  algunos  aspectos  del  mismo
+en pro de una mejor participación ciudadana y eficacia en el cumplimiento de sus objetivos. 
+En   Uruguay   como   en  América   Latina   vienen   tiempos   difíciles;   no   debería   eso   ser   excusa
+para inhibir estos procesos descentralizadores del Estado pues ellos son el alimento de la vida
+democrática y con ello la felicidad de nuestros pueblos. 
+
+Referencias Bibliográficas
+
+14
+
+Abal  Medina,   J.  M.   (2011).  La   reforma   del  Estado   y   el   fortalecimiento   de   las   instituciones
+públicas.   En  Amaya   Paula   y   otros   (coord.)  El   Estado   y   las   políticas   públicas   en  América
+Latina. (pp. 17 - 36). La Plata, Argentina: COPPPAL, AECID, Universitaria la Plata. 
+
+Barrera,  A.   (2009).   Innovación   política   y   participación   ciudadana.  Tendencias   democráticas
+en   los  gobiernos   locales. En  H. Poggiese  y  T.  Cohen  Egler  (comp.)  Otro  desarrollo  urbano:
+ciudad incluyente, justicia social y gestión democrática.   (1ra. Ed.). Buenos  Aires, Argentina:
+Consejo Latinoamericano de Ciencias Sociales.
+
+Coraggio,   J.   L.(1990)   La   investigación   urbana   en   América   Latina.Vol3:   Las   ideas   y   su
+contexto. Ciudad. Quito.
+
+Delamaza,   G.   (2005).  Tan   lejos,   tan   cerca:   Políticas   públicas   y   sociedad   civil   en   Chile .
+Santiago de Chile, Chile: LOM.
+
+Evans,  P.  (1996).  El  Estado  como  problema  o  solución.  En  Revista  Lua  Nova Nº  28/29.  San
+Pablo, Brasil.
+
+Franco,   Ricardo   (1996)   Los   paradigmas   de   la   Política   Social   en  América   Latina.   Revista
+CEPAL.
+  Santiago   de
+  Chile.
+  Visto  
+en  
+enero   de
+  2017  
+en
+www.fts.uner.edu.ar/catedras03/politicadocumentos/ Paradigmas.pdf 
+
+García  Delgado,  D.;   Peirano,  M.   (2011).  El  modelo   de   desarrollo   con   inclusión   social.   La
+estrategia a mediano plazo. Buenos Aires, Argentina: CICCUS-IDISA-FLACSO.
+
+Garretón,  M.  A.  (2004).  Incomplete  democracy.  Political  democratization   in  Chile  and  Latin
+America. North Caroline University. North Caroline.
+
+Licha,   I.   (2002).  El  debate  actual   sobre  desarrollo  participativo.  En  Licha,   I.(Ed.).  Gerencia
+Social   en   América   Latina.  Washington   D.C,   Estados   Unidos:   Banco   Interamericano   de
+Desarrollo (BID).
+
+Lucero,   M.   (2009).   Participación   ciudadana.   En   N.   Aquín   (comp.)  Políticas   Públicas,
+15
+
+Derechos y TS en el Mercosur. Buenos Aires, Argentina: Espacio Editorial.
+
+Martínez  Nogueira,  R.  (2012).  La   institucionalidad  y  gobernanza:  ¿nuevas  perspectivas  para
+la gestión pública? En  Aportes para el Estado y la Administración gubernamental. Nº 30   (pp
+53 – 68).
+
+Mayntz,   R.   (2001).   El   Estado   y   la   sociedad   civil   en   la   gobernancia   moderna.  Revista   del
+Centro Latinoamericano de Administración para el Desarrollo (CLAD).
+
+Ministerio   de   Desarrollo   Social   (2014).  Mesas   Interinstitucionales   de   Políticas   Sociales
+(MIPS)   Reporte   del   Sistema   de   Información.   Período   2011   –   2013.   Montevideo,  Uruguay:
+MIDES.
+
+Morin, E. (2007). Introducción al Pensamiento Complejo. Editorial Gedisa. España 
+
+OPP   (2007).  Transformación   democrática   del   Estado   y   nueva   relación   con   la   ciudadanía.
+Montevideo, Uruguay: OPP – Presidencia de la República Oriental del Uruguay. Recuperado
+de: http://www.opp.gub.uy/images/Memoria_2007.pdf
+
+Repetto,   F.   (2012).   La   dimensión   política   de   la   coordinación   de   programas   y   políticas
+sociales:   una   aproximación   teórica   y   algunas   referencias   prácticas   en  América   Latina.   En
+Repetto,  F.   (Ed.)  La  gerencia   social  ante   los  nuevos   retos  del  desarrollo   social   en  América
+Latina. Ciudad de Guatemala, Guatemala: INDES.
+
+Veneziano,  A.   (2005).  Reflexiones   sobre  una   reforma  del  Estado  orientada   al   ciudadano:   la
+descentralización participativa de Montevideo. Madrid, España: INAP.
+
+Zurbriggen.  C,  Morales.  S,  Rak.  A  (2010).  De   lo   sectorial   a   lo   transversal:  hacia  una  nueva
+forma  de  gestión  pública.  En  Mancebo  M.E.  y  Narbondo P.  (Coords.)  Reforma  del  Estado y
+políticas   públicas   en   la   Administración   Vázquez .   Montevideo,   Uruguay:   Editorial   Fin   de
+Siglo..
+
+16
+
+
