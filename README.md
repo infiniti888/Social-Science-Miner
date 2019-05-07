@@ -6,12 +6,12 @@ The documents analyzed are the Spanish ponencies from the ALAS(Latin American So
 The framework for natural language processing the programming language Python and the libraries Spacy and gensim together with other tools 
 The aim of this project is to ease the task of scientists that want to study this collection through a better access to the information contained in the ponencies from this congress.
 
-#Comments on the code itself
+Comments on the code itself
 In the Script finals directory there is the Python code, it is not fully optimized and may take some time (about 4 hours or more the part on Topic Modelling).
 In the docs_es directory there are the 1004 Spanish documents belonging to the colection and some already trained models for Topic Modelling (lda_1000p_10t, TM25_750p, TM25_1000p) along with an HTML file for displaying directly the result of the execution.
 Also, the word dictionary and the corpus in bag-of-words format are already there too.
 
-#Before running the code
+Before running the code
 The programming language used is Python (version 3.7.2)
 For the library and imports I used Anaconda (https://anaconda.org/) and I added this libraries apart from the default ones:
 dill, ujson
