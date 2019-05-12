@@ -6,12 +6,6 @@ import datetime
 st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
 print(st)
 
-array=[]
-fnames=[]
-with open('0012_miguel_alexander_quintanilla.txt', 'rt', encoding='ISO-8859-1') as a:
-    array = [a.read()]
-    fnames = [a.name]
-	
 	
 array=[]
 fnames=[]	
@@ -23,10 +17,6 @@ for file in glob.glob("*.txt"):
          array = array + [a.read()] 
          fnames = fnames + [a.name]#Comentar si no hace falta el nombre de los archivos
 
-#array = array[1:len(array)]
-#fnames = fnames[1:len(fnames)]
-
-#import os dir_path = os.path.dirname(os.path.realpath(__file__))
 
 #https://spacy.io The Spacy library for the dependency parser		 
 import spacy
@@ -55,11 +45,12 @@ j = 0
 while j < (len(array)):
     filtered_words[j] = [i for i in docs[j] if i not in stop_words]#second stop-words filter
     j += 1
+
+	
  
 #Tool for searching specific tokens in a document to determine its method of investigation
 #The document could use: qualitative method, quantitative method, both (mixt) or undefined given my system
 from spacy.matcher import PhraseMatcher
-nlp  = spacy.load('es_core_news_sm')
 matcher = PhraseMatcher(nlp.vocab)
 #The first gazeeteer lists the lemmas of words that determine a quantitative method
 cuantiGaz = ['cuantitativo', 'encuestar', 'estadística', 'test', 'regresión', 'cuestionario']
@@ -90,14 +81,14 @@ while i < len(filtered_words):
     print('Documento: ' + str(i))
     if(len(matches)>0):
         bool_cuanti = 1
-        for match_id, start, end in matches:
-            span = doc[start:end]
+        # for match_id, start, end in matches:
+            # span = doc[start:end]
     matches2 = matcher2(doc)
-    i +=1
+    
     if(len(matches2)>0):
         bool_cuali = 1
-        for match_id, start, end in matches2:
-            span = doc[start:end]
+        # for match_id, start, end in matches2:
+            # span = doc[start:end]
     if(bool_cuali==1 and bool_cuanti==1):
         docs_mixto.append(i)
     else:
@@ -107,8 +98,14 @@ while i < len(filtered_words):
             docs_cuanti.append(i)
         if(bool_cuali==0 and bool_cuanti==0):
             docs_indefinido.append(i)
+    i +=1
 
-
+print(len(docs_cuali))
+print(len(docs_cuanti))
+print(len(docs_mixto))
+print(len(docs_indefinido))
+	
+	
 #finish time			
 ts2 = time.time()
 print(ts)
