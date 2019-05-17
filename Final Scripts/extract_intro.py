@@ -22,7 +22,6 @@ matcher.add('TerminologyList', None, *patterns)
 # print(matcher(doc)
 
 
-loc=[]
 intro= [None]* (len(array))
 matches = [None]* (len(array))
 i=0
