@@ -77,22 +77,36 @@ pyLDAvis.display(lda_display)
 pyLDAvis.save_html(lda_display, 'docs_pt_25T_1000p.html')
 
 #doctop will store the probability of each document to belonging to a certain topic
-# doctop=[None] * (len(corpus))
-# th=0.2
-# import numpy as np
-# topicdocs = np.empty(25, dtype=np.object)
-# topicdocs[:] = [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25]
-# j=0
-# #in the loop we will calculate which documents have a probability higher than a threshold of belonging to a certain topic
-# while j<len(corpus):
-    # doctop[j]=[lda_model.get_document_topics(corpus[j], minimum_probability=None, minimum_phi_value=None, per_word_topics=False)]
-    # i=0
-    # while i<len(doctop[j][0]):    
-        # if doctop[j][0][i][1]>th:   
-            # topicdocs[doctop[j][0][i][0]].append(j)  
-        # i+=1
-    # j+=1
-	
+doctop=[None] * (len(corpus))
+th=0.2
+import numpy as np
+topicdocs = np.empty(25, dtype=np.object)
+topicdocs[:] = [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25]
+j=0
+#in the loop we will calculate which documents have a probability higher than a threshold of belonging to a certain topic
+while j<len(corpus):
+    doctop[j]=[lda_model.get_document_topics(corpus[j], minimum_probability=None, minimum_phi_value=None, per_word_topics=False)]
+    i=0
+    while i<len(doctop[j][0]):
+       if doctop[j][0][i][1]>th:
+            topicdocs[doctop[j][0][i][0]].append([doctop[j][0][i][1], float(j)])  
+       i+=1
+    j+=1
+    
+    
+
+for i in range (len(topicdocs)):
+    a=topicdocs[i]
+    b=[a]
+    a.remove(a[0])
+    a.sort()
+    a.reverse();
+    while len(a)>10:
+        a.pop()
+    topicdocs[i]=a
+    a=None
+    b=None
+
 #random permutations of a percentage of documents from the corpus will be used as validation for calculating the perplexity metric
 perplexity= []
 import random
