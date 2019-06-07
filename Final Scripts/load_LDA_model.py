@@ -55,7 +55,7 @@ while j<len(corpus):
     j+=1
 
 
-##Top 10 Documentos de cada topico
+##Top 10 Documents for each topic
 #for i in range (len(topicdocs)):
 #    a=topicdocs[i]
 #    b=[a]
