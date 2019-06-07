@@ -29,10 +29,11 @@ python -m spacy download en_core_web_sm
 pip install --upgrade gensim (gensim was in Anaconda but only up to version 3.4.2, and i needed to upgrade manually into version 3.7)
 
 # System description
-There are 6 Python scripts 
-extract_bibliography (Extracting bibliography of each document, each year appearing there and comparing similarity between bibliographies)
-extract_intro (Extracting the introduction of each document)
-KeywordFinder3Nouns (Extracting the keyword section of each document)
-Metodo(classifying each document by its investigation method into 4 categories: qualitative, quantitative, mixt or undefined) 
-load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model)
-load_topic (Doing the Topic Model process step by step)
+There are 7 Python scripts 
+extract_bibliography (Extracting bibliography of each document, each year appearing there and comparing similarity between bibliographies).
+extract_intro (Extracting the introduction of each document).
+KeywordFinder3Nouns (Extracting the keyword section of each document).
+Metodo(classifying each document by its investigation method into 4 categories: qualitative, quantitative, mixt or undefined).
+load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model).
+load_topic (Doing the Topic Model process step by step).
+load_csv (extracting the info about the authors of each article from a csv)
