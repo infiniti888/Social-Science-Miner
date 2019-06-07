@@ -45,8 +45,9 @@ while j<len(corpus):
     while i<25:
         a[i]=doctop[j][-1][i][0:2]
         i+=1
-    b= sorted(a,key=lambda x: x[1],reverse = True)
-    Sorted_doctop[j] = [[d for d,e in b]]
+    inverselist= sorted(a,key=lambda x: x[1],reverse = True)
+    #Sorting the topics of each document by their probability
+    Sorted_doctop[j] = [[topicnumber for topicnumber,topicprobability in inverselist]]
     i=0
     while i<len(doctop[j][0]):
        if doctop[j][0][i][1]>th:
@@ -54,19 +55,45 @@ while j<len(corpus):
        i+=1
     j+=1
 
+import csv
 
-##Top 10 Documents for each topic
-#for i in range (len(topicdocs)):
-#    a=topicdocs[i]
-#    b=[a]
-#    a.remove(a[0])
-#    a.sort()
-#    a.reverse();
-#    while len(a)>10:
-#        a.pop()
-#    topicdocs[i]=a
-#    a=None
-#    b=None
+array=[]
+fnames=[]	
+# Load all the txt files in the directory and save their filenames in another array
+import glob
+for file in glob.glob("*.txt"): 
+    print(file)
+    with open(file, 'rt', encoding='ISO-8859-1') as a:
+         array = array + [a.read()] 
+         fnames = fnames + [a.name]
+		 
+#Top 10 Documents for each topic
+for i in range (len(topicdocs)):
+    copy=topicdocs[i]
+    copy.remove(copy[0])
+    copy.sort()
+    copy.reverse();
+    while len(copy)>10:
+        copy.pop()
+    topicdocs[i]=copy
+    topicdocs[i] = [[int(topicnumber) for topicprobability,topicnumber in topicdocs[i]]]
+    copy=None
+         
+i=0
+while i<len(topicdocs):
+    print('Topic'+str(i+1))
+    j=0
+    while j<str(topicdocs[i]).count(',')+1:
+        docnum = fnames[topicdocs[i][0][j]][2:6]
+        j+=1
+        with open('GT_name.csv') as csv_file:
+            csv_reader = csv.reader(csv_file, delimiter=';')
+            for row in csv_reader:
+                if row[0] == docnum:
+                    Titulo = row[2]
+                    print(('Name of the document : '+str(Titulo)))
+        csv_file.close()
+    i+=1
 
 #random permutations of a percentage of documents from the corpus will be used as validation for calculating the perplexity metric
 #perplexity= []
