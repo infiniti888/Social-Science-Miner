@@ -60,14 +60,19 @@ while i < len(array):
     doc = nlp(str([(words) for words in filtered_words[i]]))
     matches[i] = matcher(doc)
     print('Documento: ' + str(i))
-    for match_id, start, end in matches[i]:
-        nouns = 0
-        j = start
-        j += 1
-    while nouns < 3 or j<(end+30):
-        j += 1
-        if(doc.__getitem__(j).pos_ == "NOUN" or doc.__getitem__(j).pos_ == "PROPN"):
-            nouns+=1
-        span[i] = (doc[start+6:(j)])
-    print(span[i])
+    if matches[i]:
+        for match_id, start, end in [matches[i][0]]:
+            nouns = 0
+            j = start
+            j += 1
+        while nouns < 3 or j<(end+30):
+            j += 1
+            if(doc.__getitem__(j).pos_ == "NOUN" or doc.__getitem__(j).pos_ == "PROPN"):
+                nouns+=1
+            if(doc.__getitem__(j).lemma_ == "Keywords" or doc.__getitem__(j).lemma_ == "ABSTRACT" or doc.__getitem__(j).lemma_ == "Abstract"):
+                break
+            span[i] = (doc[start+6:(j)])
+    else:
+        span[i]= 'No encontrado'
     i += 1
+

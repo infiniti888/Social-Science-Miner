@@ -67,10 +67,7 @@ matcher2.add("Names", None, *patterns2)
 bool_cuali = 0
 bool_cuanti = 0
 #4 arrays with the numbers corresponding to its documents
-docs_cuali = []
-docs_cuanti = []
-docs_mixto = []
-docs_indefinido = []
+docs_method = []
 i=0
 #This loop could be optimized, in my case it took about one hour to finish everything
 while i < len(filtered_words):
@@ -90,21 +87,16 @@ while i < len(filtered_words):
         # for match_id, start, end in matches2:
             # span = doc[start:end]
     if(bool_cuali==1 and bool_cuanti==1):
-        docs_mixto.append(i)
+        docs_method.append('Mixto')
     else:
         if(bool_cuali):    
-            docs_cuali.append(i)
+            docs_method.append('Cualitativo')
         if(bool_cuanti):    
-            docs_cuanti.append(i)
+            docs_method.append('Cuantitativo')
         if(bool_cuali==0 and bool_cuanti==0):
-            docs_indefinido.append(i)
+            docs_method.append('Indefinido')
     i +=1
 
-print(len(docs_cuali))
-print(len(docs_cuanti))
-print(len(docs_mixto))
-print(len(docs_indefinido))
-	
 	
 #finish time			
 ts2 = time.time()

@@ -15,30 +15,31 @@ nlp  = spacy.load('es_core_news_sm') #One of the two Spanish models in Spacy tra
 #Tool for searching specific tokens in a document to determine where to start extracting
 from spacy.matcher import PhraseMatcher
 matcher = PhraseMatcher(nlp.vocab)
-terminology_list = ['Bibliografía', 'BIBLIOGRAFÍA']
+terminology_list = ['Bibliografía', 'BIBLIOGRAFÍA', 'Bibliograf', 'bibliográficas']
 patterns = [nlp.make_doc(text) for text in terminology_list]
 matcher.add('TerminologyList', None, *patterns)
 
 biblio= [None]* (len(array))
 matches = [None]* (len(array))
+years = [None]* (len(array))
 i=0
 #Extract from the start of the bibliography section until the end 
-while i < len(filtered_words):
+while i < len(array):
     doc = nlp(array[i])
     matches = matcher(doc)
     print('Documento: ' + str(i))
-    for match_id, start, end in matches:
-        biblio[i] = doc[start:len(doc)]
-    year = 0
-    #also will print the tokens corresponding to years, numbers with 4 digits
-    for token in biblio[i]:
-        if token.like_num and token.shape_ == 'dddd':
-            print(token)
+    if(matches):
+        for match_id, start, end in matches:
+            biblio[i] = doc[start:len(doc)]
+        years[i] =[]
+        #also will print the tokens corresponding to years, numbers with 4 digits
+        for token in biblio[i]:
+            if token.like_num and token.shape_ == 'dddd' and int(token)<2017:
+                years[i].append(int(str(token)))
+    else: 
+        years[i]=0
+        biblio[i]='Error'
     i +=1
-
-#This tool can compare how similar are 2 given bibliography strings, in general the numbers are very small
-from difflib import SequenceMatcher
-SequenceMatcher(None, str(biblio[0]), str(biblio[1])).ratio()
 
 
 

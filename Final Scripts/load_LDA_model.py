@@ -1,10 +1,8 @@
 #Check the time at the start and at the end of the process, can be commented
 import time
 ts = time.time()
-print(ts)
 import datetime
 st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
-print(st)
 
 #https://radimrehurek.com/gensim/ Gensim a Topic Modelling library 
 import gensim
@@ -19,20 +17,21 @@ dictionary = Dictionary.load('dictionary.gensim')
 corpus=pickle.load(open('corpus.pkl', 'rb'))
 
 #Load an already trained model
-lda_model= gensim.models.LdaMulticore.load('TM25_750p')
+lda_model= gensim.models.LdaMulticore.load('ES_TM25_750p')
 
 
 #Calculate the Latent Dirichlet Allocation system for Topic Modelling, it takes about 4 hours to calculate in my case
-# lda_model = gensim.models.LdaMulticore(corpus, num_topics=25, id2word=dictionary, passes=1000, decay =0.9, gamma_threshold = 0.001, workers = 2)#workers = numero de cores -1
-# lda_model.save('PT_TM25_1000p')
-# import pyLDAvis.gensim
-# lda_display = pyLDAvis.gensim.prepare(lda_model, corpus, dictionary)
-# pyLDAvis.display(lda_display)
-# pyLDAvis.save_html(lda_display, 'PT_TM25_1000p.html')
+#lda_model = gensim.models.LdaMulticore(corpus, num_topics=25, id2word=dictionary, passes=750, decay =0.9, minimum_probability=0)#workers = numero de cores -1
+#lda_model.save('es_TM25_750p')
+#import pyLDAvis.gensim
+#lda_display = pyLDAvis.gensim.prepare(lda_model, corpus, dictionary)
+#pyLDAvis.display(lda_display)
+#pyLDAvis.save_html(lda_display, 'es_TM25_750p.html')
 
 
 #doctop will store the probability of each document to belonging to a certain topic
 doctop=[None] * (len(corpus))
+Sorted_doctop=[None] * (len(corpus))
 th=0.2
 import numpy as np
 topicdocs = np.empty(25, dtype=np.object)
@@ -42,25 +41,32 @@ j=0
 while j<len(corpus):
     doctop[j]=[lda_model.get_document_topics(corpus[j], minimum_probability=None, minimum_phi_value=None, per_word_topics=False)]
     i=0
+    a =[None] * (25)
+    while i<25:
+        a[i]=doctop[j][-1][i][0:2]
+        i+=1
+    b= sorted(a,key=lambda x: x[1],reverse = True)
+    Sorted_doctop[j] = [[d for d,e in b]]
+    i=0
     while i<len(doctop[j][0]):
        if doctop[j][0][i][1]>th:
             topicdocs[doctop[j][0][i][0]].append([doctop[j][0][i][1], float(j)])  
        i+=1
     j+=1
-    
-    
 
-for i in range (len(topicdocs)):
-    a=topicdocs[i]
-    b=[a]
-    a.remove(a[0])
-    a.sort()
-    a.reverse();
-    while len(a)>10:
-        a.pop()
-    topicdocs[i]=a
-    a=None
-    b=None
+
+##Top 10 Documentos de cada topico
+#for i in range (len(topicdocs)):
+#    a=topicdocs[i]
+#    b=[a]
+#    a.remove(a[0])
+#    a.sort()
+#    a.reverse();
+#    while len(a)>10:
+#        a.pop()
+#    topicdocs[i]=a
+#    a=None
+#    b=None
 
 #random permutations of a percentage of documents from the corpus will be used as validation for calculating the perplexity metric
 #perplexity= []
