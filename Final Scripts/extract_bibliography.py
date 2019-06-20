@@ -26,22 +26,20 @@ i=0
 #Extract from the start of the bibliography section until the end 
 while i < len(array):
     doc = nlp(array[i])
-    matches = matcher(doc)
+    matches = matcher(doc)#search using the words that indicate the start of the bibliography section
     print('Documento: ' + str(i))
     if(matches):
         for match_id, start, end in matches:
-            biblio[i] = doc[start:len(doc)]
+            biblio[i] = doc[end:len(doc)]
         years[i] =[]
         #also will print the tokens corresponding to years, numbers with 4 digits
         for token in biblio[i]:
-            if token.like_num and token.shape_ == 'dddd' and int(token)<2017:
+            if token.like_num and token.shape_ == 'dddd' and int(str(token))<2017:
                 years[i].append(int(str(token)))
     else: 
         years[i]=0
         biblio[i]='Error'
     i +=1
-
-
 
 
 

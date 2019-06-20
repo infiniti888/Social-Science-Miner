@@ -69,15 +69,15 @@ for file in glob.glob("*.txt"):
 		 
 #Top 10 Documents for each topic
 for i in range (len(topicdocs)):
-    copy=topicdocs[i]
-    copy.remove(copy[0])
+    copy=topicdocs[i]#make an auxiliary copy of the list in each iteration
+    copy.remove(copy[0])#remove the mark of the topic number
     copy.sort()
-    copy.reverse();
-    while len(copy)>10:
+    copy.reverse();#sorting in reverse orders them from most probable document to least probable document
+    while len(copy)>10:#cut documents until only the top 10 are left
         copy.pop()
     topicdocs[i]=copy
-    topicdocs[i] = [[int(topicnumber) for topicprobability,topicnumber in topicdocs[i]]]
-    copy=None
+    topicdocs[i] = [[int(topicnumber) for topicprobability,topicnumber in topicdocs[i]]]#return the numbers to integers
+    copy=Nones
          
 i=0
 while i<len(topicdocs):
@@ -96,17 +96,18 @@ while i<len(topicdocs):
     i+=1
 
 #random permutations of a percentage of documents from the corpus will be used as validation for calculating the perplexity metric
-#perplexity= []
-#import random
-#percentage = round(len(corpus)*5/100)
-#for i in range (100=:
-#    rand = random.randint(0,len(corpus)-percentage)
-#	val_corpus = corpus[rand:rand+percentage]
-#	perplexity.append(lda_model.log_perplexity(val_corpus, total_docs=None))
+perplexity= []
+import random
+percentage = round(len(corpus)*20/100)
+for i in range (100):
+    rand = random.randint(0,len(corpus)-percentage)#get random starting points for the validation corpus
+    val_corpus = corpus[rand:rand+percentage]#validation corpus goes from the random starting point until that  plus the percentage of the collection that will be used as validation 
+    perplexity.append(lda_model.log_perplexity(val_corpus, total_docs=None))#add to the array of perplexities calculated
 
-#import numpy as np 
-#meanperp = np.mean(perplexity)
-#print(meanperp)
+import numpy as np 
+meanperp = np.mean(perplexity)#return the mean of the 100 iterations performed on random validation corpus
+print(meanperp)
+
 #Finish time
 ts2 = time.time()
 print(ts)

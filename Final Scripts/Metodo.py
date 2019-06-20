@@ -67,36 +67,44 @@ matcher2.add("Names", None, *patterns2)
 bool_cuali = 0
 bool_cuanti = 0
 #4 arrays with the numbers corresponding to its documents
-docs_method = []
+docs_cuali = []
+docs_cuanti = []
+docs_mixto = []
+docs_indefinido = []
 i=0
-#This loop could be optimized, in my case it took about one hour to finish everything
 while i < len(filtered_words):
     bool_cuali = 0
     bool_cuanti = 0
-    doc = nlp(str([(words) for words in filtered_words[i]]))
-    matches = matcher(doc)
+    doc = nlp(str([(words) for words in filtered_words[i]]))#cast back to spacy document from a string
+    matches = matcher(doc)#search using the words that indicate a cuantitative method
     print('Documento: ' + str(i))
     if(len(matches)>0):
         bool_cuanti = 1
         # for match_id, start, end in matches:
             # span = doc[start:end]
-    matches2 = matcher2(doc)
+    matches2 = matcher2(doc)#search using the words that indicate a cualitative method
     
     if(len(matches2)>0):
         bool_cuali = 1
         # for match_id, start, end in matches2:
             # span = doc[start:end]
+#Depending on if both conditions were met, one or none, the document will be saved on a different array
     if(bool_cuali==1 and bool_cuanti==1):
-        docs_method.append('Mixto')
+        docs_mixto.append(i)
     else:
         if(bool_cuali):    
-            docs_method.append('Cualitativo')
+            docs_cuali.append(i)
         if(bool_cuanti):    
-            docs_method.append('Cuantitativo')
+            docs_cuanti.append(i)
         if(bool_cuali==0 and bool_cuanti==0):
-            docs_method.append('Indefinido')
+            docs_indefinido.append(i)
     i +=1
 
+print(len(docs_cuali))
+print(len(docs_cuanti))
+print(len(docs_mixto))
+print(len(docs_indefinido))
+	
 	
 #finish time			
 ts2 = time.time()
