@@ -8,10 +8,10 @@ The framework for natural language processing the programming language Python an
 The aim of this project is to ease the task of scientists that want to study this collection through a better access to the information contained in the ponencies from this congress.
 The focus of the analysis will be in generating a model for determining what does the collection talk about and information extraction.
 
-# Comments on the code itself
+# Comments on the Directories and what they contain
 In the Script finals directory there is the Python code, it is not fully optimized and may take some time (about 4 hours or more the part on Topic Modelling).
-In the docs_es directory there are the 1004 Spanish documents belonging to the colection and some already trained models for Topic Modelling (lda_1000p_10t, TM25_750p, TM25_1000p) along with an HTML file for displaying directly the result of the execution.
-Also, the word dictionary and the corpus in bag-of-words format are already there too.
+In each of the Documents directories there are the two models used for topic modeling (which also include an HTML for displaying the topics), along with the corpus(in bag-of-words format) and dictionary files produced by the Gensim code from the documents corresponding to each directory's name.
+In the Spanish document directories there is also a csv file with information about the authors of each paper.
 
 # Before running the code
 The programming language used is Python (version 3.7.2)
