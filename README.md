@@ -2,11 +2,14 @@
 This is my final project for my bachelor's degree in Audiovisual Systems Engineering at Universitat Pompeu Fabra (Barcelona, Spain)
 
 # Abstract
-In this project the trends in Latin American social sciences investigation will be analyzed through natural language processing.
-The documents analyzed are the Spanish ponencies from the ALAS1(Latin American Sociology Association)congress of 2017 in Montevideo, Uruguay.
-The framework for natural language processing the programming language Python and the libraries Spacy and Gensim together with other tools 
-The aim of this project is to ease the task of scientists that want to study this collection through a better access to the information contained in the ponencies from this congress.
-The focus of the analysis will be in generating a model for determining what does the collection talk about and information extraction.
+In this project a series of scientific articles in the social sciences domains will be
+analyzed, using natural language processing.
+The documents analyzed are from the ALAS(Latin American Sociology Association) congress of 2017 in Montevideo, Uruguay.
+The aim of this project is to ease the task of scientists that want to study this
+collection through a better access to the information contained in the papers from this congress.
+The focus of the analysis will be in generating a set of tools based on natural
+language processing for determining the main topics in the collection and for
+doing information extraction.
 
 # Comments on the Directories and what they contain
 In the Script finals directory there is the Python code, it is not fully optimized and may take some time (about 4 hours or more the part on Topic Modelling).
@@ -17,7 +20,7 @@ In the Spanish document directories there is also a csv file with information ab
 The programming language used is Python (version 3.7.2)
 For the library and imports I used Anaconda (https://anaconda.org/) and I added this libraries apart from the default ones:
 dill, ujson
-The IDEs that I used were Spyder and Jupyter Notebook.
+The IDEs that I used were Spyder and Jupyter Notebook, Spyder is highly recommended for debugging and checking the variables' values. 
 There were some imports that I could not find in Anacondo which I added directly from the system console:
 pip install spacy
 pip install stop_words
@@ -30,9 +33,9 @@ pip install --upgrade gensim (gensim was in Anaconda but only up to version 3.4.
 
 # System description
 There are 6 Python scripts 
+load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model, is very fast because it does not require loading the whole collection. Also includesthe log-perplexity measure of Gensim tested with different validation sets of documents to evaluate each model).
+load_topic (Doing the Topic Model process step by step from the documents to generate the files used in load_LDA_model).
 extract_bibliography (Extracting bibliography of each document, each year appearing there and comparing similarity between bibliographies).
 extract_intro (Extracting the introduction of each document).
 KeywordFinder3Nouns (Extracting the keyword section of each document).
 Metodo(classifying each document by its investigation method into 4 categories: qualitative, quantitative, mixt or undefined).
-load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model).
-load_topic (Doing the Topic Model process step by step).
