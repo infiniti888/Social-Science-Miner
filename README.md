@@ -12,8 +12,8 @@ language processing for determining the main topics in the collection and for
 doing information extraction.
 
 # Comments on the Directories and what they contain
-In the Script finals directory there is the Python code, it is not fully optimized and may take some time (about 4 hours or more the part on Topic Modelling).
-In each of the Documents directories there are the two models used for topic modeling (which also include an HTML for displaying the topics), along with the corpus(in bag-of-words format) and dictionary files produced by the Gensim code from the documents corresponding to each directory's name.
+In the Script finals directory there is the Python code, it is not fully optimized and may take some time.
+In each of the Documents directories there are the two models used for topic modeling (which also include an HTML for displaying the topics), along with the corpus(in bag-of-words format) and dictionary files produced by the Gensim code from the documents corresponding to each directory's name. The documents in Spanish and Portuguese as how they were separated by Spacy's language detector module are included in each directory in a zip file.
 In the Spanish document directories there is also a csv file with information about the authors of each paper.
 
 # Before running the code
@@ -34,6 +34,7 @@ pip install --upgrade gensim (gensim was in Anaconda but only up to version 3.4.
 # System description
 There are 6 Python scripts 
 load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model, is very fast because it does not require loading the whole collection. Also includesthe log-perplexity measure of Gensim tested with different validation sets of documents to evaluate each model).
+The scripts below use information extraction in a rule-based approach and have been adapted for Spanish only at the moment.
 load_topic (Doing the Topic Model process step by step from the documents to generate the files used in load_LDA_model).
 extract_bibliography (Extracting bibliography of each document, each year appearing there and comparing similarity between bibliographies).
 extract_intro (Extracting the introduction of each document).
