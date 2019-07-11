@@ -28,6 +28,9 @@ lda_model= gensim.models.LdaMulticore.load('ES_TM25_750p')
 #pyLDAvis.display(lda_display)
 #pyLDAvis.save_html(lda_display, 'es_TM25_750p.html')
 
+#to view the  list of topics
+#lda_model.show_topics(-1)
+
 #Evaluation metrics (log-perplexity and topic coherence )
 #in both cases a higher value (closer to zero as the values are negative) implies a better Topic Modeling as in the metrics (which does not always correlate with human judgement)
 
