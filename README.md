@@ -12,9 +12,9 @@ language processing for determining the main topics in the collection and for
 doing information extraction.
 
 # Comments on the Directories and what they contain
-In the Script finals directory there is the Python code, it is not fully optimized and may take some time.
+In the Script finals directory there is the Python code, it is not fully optimized and may take some time depending on the task.
 In each of the Documents directories there are the two models used for topic modeling (which also include an HTML for displaying the topics), along with the corpus(in bag-of-words format) and dictionary files produced by the Gensim code from the documents corresponding to each directory's name. The documents in Spanish and Portuguese as how they were separated by Spacy's language detector module are included in each directory in a zip file.
-In the Spanish document directories there is also a csv file with information about the authors of each paper.
+In the Spanish document directories there is also a csv file with information about the authors of each paper and their workgroup.
 
 # Before running the code
 The programming language used is Python (version 3.7.2)
@@ -30,13 +30,23 @@ pip install pyLDAvis
 pip install spacy-langdetect 
 python -m spacy download en_core_web_sm
 pip install --upgrade gensim (gensim was in Anaconda but only up to version 3.4.2, and i needed to upgrade manually into version 3.7)
+For each file different files need to be in the working directory and will be specified below.
 
 # System description
 There are 6 Python scripts 
-load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model, is very fast because it does not require loading the whole collection. Also includesthe log-perplexity measure of Gensim tested with different validation sets of documents to evaluate each model).
-The scripts below use information extraction in a rule-based approach and have been adapted for Spanish only at the moment.
-load_topic (Doing the Topic Model process step by step from the documents to generate the files used in load_LDA_model).
-extract_bibliography (Extracting bibliography of each document, each year appearing there and comparing similarity between bibliographies).
-extract_intro (Extracting the introduction of each document).
-KeywordFinder3Nouns (Extracting the keyword section of each document).
-Metodo(classifying each document by its investigation method into 4 categories: qualitative, quantitative, mixt or undefined).
+-load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model, is very fast because it does not require loading the whole collection. Also includes the log-perplexity measure of Gensim tested with different validation sets of documents to evaluate each model).
+This file only requires having in the working directory the Topic modeling model to be used(composed of a series of files with matching parameter names in the filename), the corpus and the dictonary files.
+
+-load_topic (Doing the Topic Model process step by step from the documents to generate the files used in load_LDA_model).
+This file requires having all the documens (unzipped) for either Spanish or Portuguese.
+
+The scripts below use information extraction in a rule-based approach and have been adapted for Spanish only, at the moment.
+So for executing them having all or some of the documens (unzipped) in Spanish is required.
+
+-extract_bibliography (Extracting bibliography of each document, each year appearing there and comparing similarity between bibliographies).
+
+-extract_intro (Extracting the introduction of each document).
+
+-KeywordFinder3Nouns (Extracting the keyword section of each document).
+
+-Metodo(classifying each document by its investigation method into 4 categories: qualitative, quantitative, mixt or undefined).
