@@ -34,7 +34,7 @@ For each file different files need to be in the working directory and will be sp
 
 # System description
 There are 6 Python scripts 
--load_LDA_model (Loading the corpus and dictionary already filtered and training or loading an LDA Topic Model, is very fast because it does not require loading the whole collection. Also includes the log-perplexity measure of Gensim tested with different validation sets of documents to evaluate each model).
+-load_LDA_model : Loads the corpus and dictionary and trains or loads an LDA Topic Model, the latter is very fast because it does not require loading the whole collection. Also includes the log-perplexity measure of Gensim and topic coherence metric. Then, an array of topic to document relations and document to topics is produced, with an option of filtering only the top 10 documents in each topic and prinitng their titles.
 This file only requires having in the working directory the Topic modeling model to be used(composed of a series of files with matching parameter names in the filename), the corpus and the dictonary files.
 
 -load_topic (Doing the Topic Model process step by step from the documents to generate the files used in load_LDA_model).
